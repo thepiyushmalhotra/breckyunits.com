@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 <channel>
- <title>Breck Yunits' Scroll</title>
+ <title>Breck Yunits' Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Tue, 23 Jan 2024 18:00:05 +0000</lastBuildDate>
+ <lastBuildDate>Wed, 24 Jan 2024 20:58:46 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>Focusing on Bipolar Disorder</title>
+  <link>https://breckyunits.com/bipolarDisorder.html</link>
+  <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Keto for bipolar was not talked about until very recently</title>
+  <link>https://breckyunits.com/bipolarKeto.html</link>
+  <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>Words are Worse than Weights</title>
   <link>https://breckyunits.com/wordsAreWorseThanWeights.html</link>
