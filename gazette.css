@@ -9,6 +9,13 @@
   display: block;
   float: left;
 }
+.dinkus {
+  text-align: center;
+  padding: 1em;
+}
+.dinkus span {
+  vertical-align: sub;
+}
 .scrollCaptionedFigure {
   display: block;
   text-align: center;
