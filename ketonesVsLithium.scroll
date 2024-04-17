@@ -243,7 +243,7 @@ Just like ketones, lithium is tiny. In fact, according to my calculations, a mol
 Unlike ketones, you cannot check your lithium levels at home (though some people are working on that). Instead, to measure lithium levels your blood needs to be processed in a lab using techniques with names like Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy.
  https://www.reddit.com/r/Lithium/comments/1ab7u2u/researchers_working_on_an_at_home_sweat_based/ some people are working on that
 
-I can't really find a great reason why at home lithium tests aren't available. Some people write that it wouldn't be safe, because getting accurate readings is more difficult, but I think multiple at home readings, even if off a bit, would be better than no readings at all. If I had to pick an explanation, it would be that everyone generates ketones, but it's relatively rare to take lithium so there isn't a big enough market for a company to build a convenient at home lithium test at this time.
+I can't really find a great reason why at home lithium tests aren't available. Some people write that it wouldn't be safe, because getting accurate readings is more difficult, but I think multiple at home readings, even if off a bit, would be better than no readings at all. If I had to pick an explanation, it would be that because of diabetes, there's a big market for glucose and ketone tests, but it's relatively rare to take lithium so there isn't a big enough market for a company to build a convenient at home lithium test at this time.
 
 // ? Where do lithiums go?
 After you swallow your lithium the pills land in your stomach. There, fluids dissolve them. The lithium (Li+) splits from the carbonate. The next destination in your gastrointestinal tract is your small intestines, a place which happens to allow ~100% of the lithium ions to be absorbed into your bloodstream.
@@ -426,18 +426,20 @@ katex
 # Notes
 
 ^ketoacidosis There is a dangerous condition involving ketones called ketoacidosis affecting mostly diabetics which is associated with around 200,000 cases and 600 fatalities per year in the US. 
- link https://en.wikipedia.org/wiki/Ketoacidosis ketoacidosis
- link https://www.cdc.gov/mmwr/volumes/67/wr/mm6712a3.htm 200,000 cases and 600 fatalities
+ https://en.wikipedia.org/wiki/Ketoacidosis ketoacidosis
+ https://www.cdc.gov/mmwr/volumes/67/wr/mm6712a3.htm 200,000 cases and 600 fatalities
 
 ^pioneers A good starting place to start reading about some of the keto for bipolar pioneers is Metabolic Mind.
- link https://www.metabolicmind.org/ Metabolic Mind
+ https://www.metabolicmind.org/ Metabolic Mind
 
 ^astrocytes I should note that there is recent research showing that astrocytes (a kind of brain cell) may also produce ketones. I did not dive deep down that thread yet, but thought I should mention it since it involves ketones and the brain, which is ultimately what I'm interested in.
- link https://en.wikipedia.org/wiki/Astrocyte astrocytes
+ https://en.wikipedia.org/wiki/Astrocyte astrocytes
 
 ^range I am using the one millimole number to simplify the writing a bit, but when you visualize things keep in mind we're thinking about overlapping ranges rather than a specific point.
 
+---
 
+Thanks to RGM for feedback on this post.
 
 
 // ? What about blood levels for other bipolar drugs?
