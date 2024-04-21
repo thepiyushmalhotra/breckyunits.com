@@ -967,7 +967,6 @@
 /home/runner/work/breckyunits.com/breckyunits.com/synthesizingKnowledge.scroll
  import header.scroll
  title Synthesizing Knowledge
-  style font-size: 34px;
  date 2/21/2024
  groups All Programming  
  
@@ -1100,7 +1099,6 @@
 /home/runner/work/breckyunits.com/breckyunits.com/whyDoWeSubsidizeFiction.scroll
  import header.scroll
  title Why do we subsidize fiction?
-  style font-size: 34px;
  date 2/14/2024
  groups All IntellectualFreedom Society 
  
