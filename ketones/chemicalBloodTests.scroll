@@ -1,9 +1,19 @@
-title Chemical Blood Tests
+import ../header.scroll
 
-This is a database of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
- link ../ketonesVsLithium.html Ketones vs Lithium
+homeLink ../index.html
+
+wideColumns 1
+
+title Chemical Blood Tests Dataset
+
+writeDataset chemicalBloodTests.tsv
 
 viewSource
+
+This file generates a TSV dataset of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
+ link chemicalBloodTests.tsv TSV
+ link chemicalBloodTests.scroll This file
+ link ../ketonesVsLithium.html Ketones vs Lithium
 
 It is specific to blood chemistry tests. So there are no urine tests. And it is not about blood cell tests. And it does not gain blood gas tests. Generally it is a collection of information on levels of chemicals in blood plasma.
 
@@ -12,33 +22,49 @@ This dataset was created to see how common it is for the target levels of certai
 At some point, I would like to add fields to get some measure on how popular each test is. Also, I want to add categories for each test (ie, electrolytes, Hormones, etc), and what the test method is (for example, Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy). I also want to add chemical formulas. It is likely that all the measures I would want to add are already present in HMDB.
  https://hmdb.ca/metabolites?utf8=%E2%9C%93&filter=true&quantified=1&blood=1&filter=true HMDB
 
-# Schema
+printDataset
+tableSearch
 
-schema
- id: string
- title: string
- aka: string
-  description A comma separated list of other names for this chemical, such as brand names.
- image: url
- endogenous: boolean
-  description Is this produced anywhere in the human body?
- chemicalWikipediaPage: url
- bloodTestWikipediaPage: url
-  description If there is a wikipedia page not only about the chemical, but specifically about blood tests for that chemical, include that here.
- bottom: float
-  description The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
- top: float
-  description The top of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
- testAtLab: url
-  description A URL to buy/schedule an in lab test. Multiple are okay.
- testAtHome: url
-  description A URL to buy an at home, instant test kit (NOT a kit that requires mailing in), usually involving disposable test strips. Multiple are okay.
- testByMail: url
-  description A URL to buy a kit where you can draw blood at home but then must MAIL it into a lab. Multiple are okay.
- canTestAtHome: boolean
-  description A boolean value indicating whether the whole test can be performed at home. If there is a valid url for testAtHome, then this should be true, otherwise false.
+# Schema:
 
-:::
+id: string
+
+title: string
+
+bottom: float
+The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+
+top: float
+The top of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+
+canTestAtHome: boolean
+A boolean value indicating whether the whole test can be performed at home. If there is a valid url for testAtHome, then this should be true, otherwise false.
+
+endogenous: boolean
+Is this produced anywhere in the human body?
+
+chemicalWikipediaPage: url
+
+image: url
+
+aka: string
+A comma separated list of other names for this chemical, such as brand names.
+
+bloodTestWikipediaPage: url
+If there is a wikipedia page not only about the chemical, but specifically about blood tests for that chemical, include that here.
+
+testAtLab: url
+A URL to buy/schedule an in lab test. Multiple are okay.
+
+testAtHome: url
+A URL to buy an at home, instant test kit (NOT a kit that requires mailing in), usually involving disposable test strips. Multiple are okay.
+
+testByMail: url
+A URL to buy a kit where you can draw blood at home but then must MAIL it into a lab. Multiple are okay.
+
+# Data:
+
+::
 
 id: glucose
 title: Glucose
@@ -51,7 +77,7 @@ testAtLab: https://www.questhealth.com/product/diabetes-risk-panel-94341M.html
 testAtHome: https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit
 canTestAtHome: true
 
-:::
+::
 
 id: lithium
 title: Lithium
@@ -63,7 +89,7 @@ top: 1.2
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/lithium
 canTestAtHome: false
 
-:::
+::
 
 id: ketones
 title: Ketones
@@ -76,7 +102,7 @@ testAtLab: https://www.walkinlab.com/products/view/ketone-blood-test
 testAtHome: https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit
 canTestAtHome: true
 
-:::
+::
 
 id: creatinine
 title: Creatinine
@@ -89,7 +115,7 @@ testAtLab: https://www.ondemand.labcorp.com/lab-tests/creatinine-blood-test
 testAtHome: https://www.cvs.com/shop/diathrive-kidney-function-test-strips-15ct-prodid-1170071
 canTestAtHome: true
 
-:::
+::
 
 id: calcium
 title: Calcium
@@ -102,7 +128,7 @@ testAtLab: https://www.ondemand.labcorp.com/lab-tests/calcium-test
 testAtLab: https://www.questhealth.com/product/calcium-test-303M.html
 canTestAtHome: false
 
-:::
+::
 
 id: hdl_cholesterol
 title: HDL Cholesterol
@@ -115,7 +141,7 @@ testAtLab: https://www.ondemand.labcorp.com/lab-tests/lipid-panel
 testAtHome: https://www.everlywell.com/products/cholesterol-and-lipids-test/
 canTestAtHome: false
 
-:::
+::
 
 id: sodium
 title: Sodium
@@ -127,7 +153,7 @@ top: 145
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/basic-metabolic-panel
 canTestAtHome: false
 
-:::
+::
 
 id: potassium
 title: Potassium
@@ -139,7 +165,7 @@ top: 5.1
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/potassium-test
 canTestAtHome: false
 
-:::
+::
 
 id: chloride
 title: Chloride
@@ -151,7 +177,7 @@ top: 107
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/chloride-blood-test
 canTestAtHome: false
 
-:::
+::
 
 id: urea
 title: Urea
@@ -163,7 +189,7 @@ top: 7.1
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/urea-nitrogen-bun
 canTestAtHome: false
 
-:::
+::
 
 id: phosphate
 title: Phosphate
@@ -175,7 +201,7 @@ top: 1.45
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/phosphorus-test
 canTestAtHome: false
 
-:::
+::
 
 id: magnesium
 title: Magnesium
@@ -187,7 +213,7 @@ top: 1.07
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/magnesium-test
 canTestAtHome: false
 
-:::
+::
 
 id: iron
 title: Iron
@@ -199,7 +225,7 @@ top: 0.03
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/iron-and-total-iron-binding-capacity-tibc
 canTestAtHome: false
 
-:::
+::
 
 id: triglycerides
 title: Triglycerides
@@ -211,7 +237,7 @@ top: 1.7
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/triglycerides-test
 canTestAtHome: false
 
-:::
+::
 
 id: albumin
 title: Albumin
@@ -223,7 +249,7 @@ top: 0.8
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/albumin-test
 canTestAtHome: false
 
-:::
+::
 
 id: total_protein
 title: Total Protein
@@ -235,7 +261,7 @@ top: 0.08
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/total-protein-test
 canTestAtHome: false
 
-:::
+::
 
 id: bilirubin
 title: Bilirubin
@@ -247,7 +273,7 @@ top: 0.02
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/bilirubin-total
 canTestAtHome: false
 
-:::
+::
 
 id: alkaline_phosphatase
 title: Alkaline Phosphatase
@@ -259,7 +285,7 @@ top: 1.5
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/alkaline-phosphatase-alp
 canTestAtHome: false
 
-:::
+::
 
 id: ast
 title: Aspartate Aminotransferase (AST)
@@ -271,7 +297,7 @@ top: 0.04
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/aspartate-aminotransferase-ast
 canTestAtHome: false
 
-:::
+::
 
 id: alt
 title: Alanine Aminotransferase (ALT)
@@ -283,7 +309,7 @@ top: 0.056
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/alanine-aminotransferase-alt
 canTestAtHome: false
 
-:::
+::
 
 id: ggt
 title: Gamma-Glutamyl Transferase (GGT)
@@ -295,7 +321,7 @@ top: 0.05
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/gamma-glutamyl-transferase-ggt
 canTestAtHome: false
 
-:::
+::
 
 id: tsh
 title: Thyroid Stimulating Hormone (TSH)
@@ -307,7 +333,7 @@ top: 0.005
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/thyroid-stimulating-hormone-tsh
 canTestAtHome: false
 
-:::
+::
 
 id: free_t4
 title: Free Thyroxine (Free T4)
@@ -319,7 +345,7 @@ top: 0.022
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/free-thyroxine-free-t4
 canTestAtHome: false
 
-:::
+::
 
 id: vitamin_d
 title: Vitamin D
@@ -332,7 +358,7 @@ testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-d-25-hydroxy
 testAtHome: https://www.everlywell.com/products/vitamin-d-test/
 canTestAtHome: true
 
-:::
+::
 
 id: vitamin_b12
 title: Vitamin B12
@@ -345,7 +371,7 @@ testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-b12
 testAtHome: https://www.letsgetchecked.com/us/en/home-vitamin-test/
 canTestAtHome: true
 
-:::
+::
 
 id: folic_acid
 title: Folic Acid
@@ -357,7 +383,7 @@ top: 0.047
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/folate
 canTestAtHome: false
 
-:::
+::
 
 id: crp
 title: C-Reactive Protein (CRP)
@@ -372,7 +398,7 @@ canTestAtHome: false
 # Notes
 Traditional CRP measurement only detected CRP in the range of 10 to 1,000 mg/L, whereas high sensitivity CRP (hs-CRP) detects CRP in the range of 0.5 to 10 mg/L.
 
-:::
+::
 
 id: esr
 title: Erythrocyte Sedimentation Rate (ESR)
@@ -384,7 +410,7 @@ top: 0.2
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/sedimentation-rate-esr-westergren
 canTestAtHome: false
 
-:::
+::
 
 id: ldh
 title: Lactate Dehydrogenase (LDH)
@@ -396,7 +422,7 @@ top: 3.17
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/lactate-dehydrogenase-ldh
 canTestAtHome: false
 
-:::
+::
 
 id: cortisol
 title: Cortisol
@@ -408,7 +434,7 @@ top: 0.69
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/cortisol-am
 canTestAtHome: false
 
-:::
+::
 
 id: testosterone
 title: Testosterone
@@ -420,7 +446,7 @@ top: 0.03
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/testosterone-total
 canTestAtHome: false
 
-:::
+::
 
 id: estradiol
 title: Estradiol
@@ -432,7 +458,7 @@ top: 0.000147
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/estradiol
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone
 title: Progesterone
@@ -444,7 +470,7 @@ top: 0.086
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/progesterone
 canTestAtHome: false
 
-:::
+::
 
 id: prolactin
 title: Prolactin
@@ -456,7 +482,7 @@ top: 0.00019
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/prolactin
 canTestAtHome: false
 
-:::
+::
 
 id: ferritin
 title: Ferritin
@@ -468,7 +494,7 @@ top: 0.0004
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/ferritin
 canTestAtHome: false
 
-:::
+::
 
 id: homocysteine
 title: Homocysteine
@@ -480,7 +506,7 @@ top: 0.015
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/homocysteine
 canTestAtHome: false
 
-:::
+::
 
 id: lipase
 title: Lipase
@@ -492,7 +518,7 @@ top: 0.00075
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/lipase
 canTestAtHome: false
 
-:::
+::
 
 id: amylase
 title: Amylase
@@ -504,7 +530,7 @@ top: 0.0053
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/amylase
 canTestAtHome: false
 
-:::
+::
 
 id: ceruloplasmin
 title: Ceruloplasmin
@@ -516,7 +542,7 @@ top: 0.006
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/ceruloplasmin
 canTestAtHome: false
 
-:::
+::
 
 id: ammonia
 title: Ammonia
@@ -528,7 +554,7 @@ top: 0.051
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/ammonia
 canTestAtHome: false
 
-:::
+::
 
 id: b2m
 title: Beta-2 Microglobulin (B2M)
@@ -540,7 +566,7 @@ top: 0.003
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/beta-2-microglobulin-b2m
 canTestAtHome: false
 
-:::
+::
 
 id: copper
 title: Copper
@@ -552,7 +578,7 @@ top: 0.0236
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/copper-serum
 canTestAtHome: false
 
-:::
+::
 
 id: pyruvate
 title: Pyruvate
@@ -564,7 +590,7 @@ top: 0.1
 testAtLab: https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/8663
 canTestAtHome: false
 
-:::
+::
 
 id: uric_acid
 title: Uric Acid
@@ -576,7 +602,7 @@ top: 0.42
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/uric-acid
 canTestAtHome: false
 
-:::
+::
 
 id: zinc
 title: Zinc
@@ -588,7 +614,7 @@ top: 0.0153
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/zinc
 canTestAtHome: false
 
-:::
+::
 
 id: creatine_kinase
 title: Creatine Kinase
@@ -600,7 +626,7 @@ top: 3.33
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/creatine-kinase-ck-cpk
 canTestAtHome: false
 
-:::
+::
 
 id: troponin
 title: Troponin
@@ -612,7 +638,7 @@ top: 0.0004
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/troponin-i
 canTestAtHome: false
 
-:::
+::
 
 id: folate_serum
 title: Folate (Serum)
@@ -624,7 +650,7 @@ top: 0.0470
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/folate
 canTestAtHome: false
 
-:::
+::
 
 id: vitamin_a
 title: Vitamin A
@@ -636,7 +662,7 @@ top: 0.0036
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-a
 canTestAtHome: false
 
-:::
+::
 
 id: vitamin_c
 title: Vitamin C
@@ -648,7 +674,7 @@ top: 0.085
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-c
 canTestAtHome: false
 
-:::
+::
 
 id: alpha_fetoprotein
 title: Alpha Fetoprotein
@@ -660,7 +686,7 @@ top: 0.000008
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/alpha-fetoprotein-tumor-marker
 canTestAtHome: false
 
-:::
+::
 
 id: beta_hcg
 title: Beta Human Chorionic Gonadotropin (HCG)
@@ -672,7 +698,7 @@ top: 0.005
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/hcg-quantitative-pregnancy
 canTestAtHome: true
 
-:::
+::
 
 id: ca19_9
 title: CA19.9
@@ -684,7 +710,7 @@ top: 0.000037
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/cancer-antigen-19-9
 canTestAtHome: false
 
-:::
+::
 
 id: cea
 title: Carcinoembryonic Antigen (CEA)
@@ -696,7 +722,7 @@ top: 0.0000025
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/carcinoembryonic-antigen-cea
 canTestAtHome: false
 
-:::
+::
 
 id: pap
 title: Prostatic Acid Phosphatase (PAP)
@@ -708,7 +734,7 @@ top: 0.002
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/prostatic-acid-phosphatase-pap
 canTestAtHome: false
 
-:::
+::
 
 id: psa
 title: Prostate-Specific Antigen (PSA)
@@ -720,7 +746,7 @@ top: 0.004
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/prostate-specific-antigen-psa-total
 canTestAtHome: false
 
-:::
+::
 
 id: alpha_1_antitrypsin
 title: Alpha 1-Antitrypsin
@@ -732,7 +758,7 @@ top: 0.048
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/alpha-1-antitrypsin
 canTestAtHome: false
 
-:::
+::
 
 id: angiotensin_converting_enzyme
 title: Angiotensin-Converting Enzyme
@@ -744,7 +770,7 @@ top: 0.085
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/angiotensin-converting-enzyme-ace
 canTestAtHome: false
 
-:::
+::
 
 id: d_dimer
 title: D-Dimer
@@ -756,7 +782,7 @@ top: 0.0005
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/d-dimer-quantitative
 canTestAtHome: false
 
-:::
+::
 
 id: lead
 title: Lead
@@ -768,7 +794,7 @@ top: 0.00024
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/lead
 canTestAtHome: false
 
-:::
+::
 
 id: rheumatoid_factor
 title: Rheumatoid Factor
@@ -780,7 +806,7 @@ top: 0.015
 testAtLab: https://www.ondemand.labcorp.com/lab-tests/rheumatoid-factor
 canTestAtHome: false
 
-:::
+::
 
 id: triiodothyronine
 title: Triiodothyronine (T3)
@@ -802,7 +828,7 @@ top: 0.043
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: acetone
 title: Acetone
@@ -813,7 +839,7 @@ top: 0.02
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: acetylcholine
 title: Acetylcholine
@@ -824,7 +850,7 @@ top: 0.0000082
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: adrenocorticotropic_hormone
 title: Adrenocorticotropic Hormone
@@ -835,7 +861,7 @@ top: 0.00000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: alanine
 title: Alanine
@@ -846,7 +872,7 @@ top: 0.000076
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: aluminum
 title: Aluminum
@@ -857,7 +883,7 @@ top: 0.00000088
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: aldosterone
 title: Aldosterone
@@ -868,7 +894,7 @@ top: 0.00000003
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: alpha_aminobutyric_acid
 title: alpha-Aminobutyric acid
@@ -879,7 +905,7 @@ top: 0.000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: delta_aminolevulinic_acid
 title: δ-Aminolevulinic acid
@@ -890,7 +916,7 @@ top: 0.00000023
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: ammonia
 title: Ammonia
@@ -901,7 +927,7 @@ top: 0.00000049
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: androstenedione
 title: Androstenedione 
@@ -912,7 +938,7 @@ top: 0.0000000030
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: androsterone
 title: Androsterone
@@ -923,7 +949,7 @@ top: 0.00000015
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: angiotensin_i
 title: Angiotensin I
@@ -934,7 +960,7 @@ top: 0.000000000088
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: angiotensin_ii
 title: Angiotensin II
@@ -945,7 +971,7 @@ top: 0.0000000000036
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: arginine
 title: Arginine
@@ -956,7 +982,7 @@ top: 0.000036
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: arsenic
 title: Arsenic
@@ -967,7 +993,7 @@ top: 0.000009300
 testAtLab:
 canTestAtHome: false
 
-::: 
+::
 
 id: aspartic_acid
 title: Aspartic acid
@@ -978,7 +1004,7 @@ top: 0.000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: bile_acids
 title: Bile acids
@@ -989,7 +1015,7 @@ top: 0.00003
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: biotin
 title: Biotin
@@ -1000,7 +1026,7 @@ top: 0.000000016
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: bradykinin
 title: Bradykinin
@@ -1011,7 +1037,7 @@ top: 0.00000000007
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: bromide
 title: Bromide
@@ -1022,7 +1048,7 @@ top: 0.00000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: cadmium
 title: Cadmium
@@ -1033,7 +1059,7 @@ top: 0.000003
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: calcitonin
 title: Calcitonin
@@ -1044,7 +1070,7 @@ top: 0.0000000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: carcinoembryonic_antigen
 title: Carcinoembryonic antigen
@@ -1055,7 +1081,7 @@ top: 0.0000000025
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: beta_carotene
 title: beta-Carotene
@@ -1066,7 +1092,7 @@ top: 0.0000025
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: ceruloplasmin
 title: Ceruloplasmin
@@ -1077,7 +1103,7 @@ top: 0.0006
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: cholecystokinin
 title: Cholecystokinin
@@ -1088,7 +1114,7 @@ top: 0.0000000000604
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: citric_acid
 title: Citric acid  
@@ -1099,7 +1125,7 @@ top: 0.000032
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: citrulline
 title: Citrulline
@@ -1110,7 +1136,7 @@ top: 0.00001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: compound_s
 title: Compound S
@@ -1121,7 +1147,7 @@ top: 0.000000003
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: corticosterone
 title: Corticosterone
@@ -1132,7 +1158,7 @@ top: 0.00000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: c_peptide
 title: C-peptide
@@ -1143,7 +1169,7 @@ top: 0.000000004
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: cyanide
 title: Cyanide
@@ -1154,7 +1180,7 @@ top: 0.000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: cysteine
 title: Cysteine
@@ -1165,7 +1191,7 @@ top: 0.00005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: dehydroepiandrosterone
 title: Dehydroepiandrosterone
@@ -1176,7 +1202,7 @@ top: 0.00000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: dihydrotestosterone
 title: Dihydrotestosterone
@@ -1187,7 +1213,7 @@ top: 0.000000008
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: compound_11_deoxycortisol
 title: 11-Deoxycortisol
@@ -1198,7 +1224,7 @@ top: 0.00000007
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: dopamine
 title: Dopamine
@@ -1209,7 +1235,7 @@ top: 0.000000000136
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: epidermal_growth_factor 
 title: Epidermal growth factor
@@ -1220,7 +1246,7 @@ top: 0.00000000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: ergothioneine
 title: Ergothioneine
@@ -1231,7 +1257,7 @@ top: 0.00002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: erythropoietin
 title: Erythropoietin  
@@ -1242,7 +1268,7 @@ top: 0.00000008
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: estriol
 title: Estriol
@@ -1253,7 +1279,7 @@ top: 0.00017
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: estrone
 title: Estrone
@@ -1264,7 +1290,7 @@ top: 0.00000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: alpha_1_fetoprotein
 title: alpha-1-Fetoprotein
@@ -1275,7 +1301,7 @@ top: 0.00000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: flavin_adenine_dinucleotide
 title: Flavin adenine dinucleotide
@@ -1286,7 +1312,7 @@ top: 0.00000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: fluoride
 title: Fluoride
@@ -1297,7 +1323,7 @@ top: 0.00000045
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: fructose
 title: Fructose
@@ -1308,7 +1334,7 @@ top: 0.00008
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: furosemide_glucuronide  
 title: Furosemide glucuronide
@@ -1319,7 +1345,7 @@ top: 0.0004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: galactose
 title: Galactose 
@@ -1330,7 +1356,7 @@ top: 0.0002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: gastric_inhibitory_peptide
 title: Gastric Inhibitory Peptide (GIP)
@@ -1341,7 +1367,7 @@ top: 0.0000000004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: gastrin
 title: Gastrin  
@@ -1352,7 +1378,7 @@ top: 0.00000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: glucosamine
 title: Glucosamine
@@ -1363,7 +1389,7 @@ top: 0.00089
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: glucuronic_acid
 title: Glucuronic acid
@@ -1374,7 +1400,7 @@ top: 0.000011
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: glutamic_acid
 title: Glutamic acid
@@ -1385,7 +1411,7 @@ top: 0.000028
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: glutamine
 title: Glutamine
@@ -1396,7 +1422,7 @@ top: 0.000106
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: glutathione
 title: Glutathione
@@ -1407,7 +1433,7 @@ top: 0.00041
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: glycerol
 title: Glycerol
@@ -1418,7 +1444,7 @@ top: 0.0000172
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: glycogen
 title: Glycogen
@@ -1429,7 +1455,7 @@ top: 0.000162
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: cyclic_gmp
 title: Cyclic GMP
@@ -1440,7 +1466,7 @@ top: 0.0000000044
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: gonadotropin_releasing_hormone
 title: Gonadotropin-releasing hormone
@@ -1451,7 +1477,7 @@ top: 0.00000000008
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: guanidine
 title: Guanidine
@@ -1462,7 +1488,7 @@ top: 0.0000023
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: haptoglobin
 title: Haptoglobin
@@ -1473,7 +1499,7 @@ top: 0.0022
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: hemoglobin
 title: Hemoglobin
@@ -1484,7 +1510,7 @@ top: 0.195
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: histamine
 title: Histamine
@@ -1495,7 +1521,7 @@ top: 0.000000086
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: beta_hydroxybutyric_acid
 title: beta-Hydroxybutyric acid 
@@ -1506,7 +1532,7 @@ top: 0.000009
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: 17_hydroxycorticosteroids
 title: 17α-Hydroxycorticosteroids
@@ -1517,7 +1543,7 @@ top: 0.0000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: 17_hydroxyprogesterone
 title: 17α-Hydroxyprogesterone
@@ -1528,7 +1554,7 @@ top: 0.0000000003
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: indican
 title: Indican
@@ -1539,7 +1565,7 @@ top: 0.000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: insulin_like_growth_factor
 title: Insulin-like growth factor 
@@ -1550,7 +1576,7 @@ top: 0.000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: alpha_ketonic_acids
 title: alpha-Ketonic acids
@@ -1561,7 +1587,7 @@ top: 0.00003
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: leptin
 title: Leptin
@@ -1572,7 +1598,7 @@ top: 0.0000000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: lecithin
 title: Lecithin
@@ -1583,7 +1609,7 @@ top: 0.00225
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: lipoprotein
 title: Lipoprotein
@@ -1594,7 +1620,7 @@ top: 0.001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: lysozyme
 title: Lysozyme
@@ -1605,7 +1631,7 @@ top: 0.000015
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: malic_acid
 title: Malic acid
@@ -1616,7 +1642,7 @@ top: 0.000009
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: melatonin_day
 title: Melatonin (Day)
@@ -1627,7 +1653,7 @@ top: 0.00000000000145
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: melatonin_night  
 title: Melatonin (Night)
@@ -1638,7 +1664,7 @@ top: 0.00000000000713
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: mercury
 title: Mercury  
@@ -1649,7 +1675,7 @@ top: 0.0000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: methemoglobin
 title: Methemoglobin
@@ -1660,7 +1686,7 @@ top: 0.0006
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: methyl_guanidine
 title: Methyl guanidine
@@ -1671,7 +1697,7 @@ top: 0.000003
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: macrophage_inflammatory_protein_1_alpha
 title: Macrophage inflammatory protein 1-alpha
@@ -1682,7 +1708,7 @@ top: 0.00000000023
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: macrophage_inflammatory_protein_1_beta
 title: Macrophage inflammatory protein 1-beta
@@ -1693,7 +1719,7 @@ top: 0.0000000009
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: mucopolysaccharides
 title: Mucopolysaccharides
@@ -1704,7 +1730,7 @@ top: 0.00225
 testAtLab:
 canTestAtHome: false
 
-:::  
+::
 
 id: mucoproteins
 title: Mucoproteins  
@@ -1715,7 +1741,7 @@ top: 0.00096
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: niacin
 title: Niacin
@@ -1726,7 +1752,7 @@ top: 0.000015
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: norepinephrine_15_min_rest
 title: Norepinephrine (after 15 min rest)
@@ -1737,7 +1763,7 @@ top: 0.000000000475
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: norepinephrine_emitted
 title: Norepinephrine (when emitted)
@@ -1748,7 +1774,7 @@ top: 0.0000000085
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: nucleotide
 title: Nucleotide  
@@ -1759,7 +1785,7 @@ top: 0.00052
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: ornithine
 title: Ornithine
@@ -1770,7 +1796,7 @@ top: 0.000014
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: oxytocin_male
 title: Oxytocin (male)
@@ -1781,7 +1807,7 @@ top: 0.000000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: oxytocin_female_nonlactating
 title: Oxytocin (female, nonlactating)  
@@ -1792,7 +1818,7 @@ top: 0.000000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: oxytocin_female_pregnant_33_40_wks
 title: Oxytocin (female, pregnant 33-40 wks)
@@ -1803,7 +1829,7 @@ top: 0.00000000048
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: pancreatic_polypeptide  
 title: Pancreatic polypeptide
@@ -1814,7 +1840,7 @@ top: 0.0000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pantothenic_acid
 title: Pantothenic acid  
@@ -1825,7 +1851,7 @@ top: 0.00000035
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: para_aminobenzoic_acid
 title: Para-aminobenzoic acid
@@ -1836,7 +1862,7 @@ top: 0.00000004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pentose
 title: Pentose
@@ -1847,7 +1873,7 @@ top: 0.000023
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phenol
 title: Phenol
@@ -1858,7 +1884,7 @@ top: 0.000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phenylalanine
 title: Phenylalanine
@@ -1869,7 +1895,7 @@ top: 0.00004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phospholipid
 title: Phospholipid
@@ -1880,7 +1906,7 @@ top: 0.00012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phosphorus_inorganic_adult
 title: Phosphorus inorganic, adult
@@ -1891,7 +1917,7 @@ top: 0.000045
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phosphorus_inorganic_children
 title: Phosphorus inorganic, children
@@ -1902,7 +1928,7 @@ top: 0.00007
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phosphorus_total
 title: Phosphorus total
@@ -1913,7 +1939,7 @@ top: 0.00015
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: phytanic_acid
 title: Phytanic acid
@@ -1924,7 +1950,7 @@ top: 0.000003
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: platelet_derived_growth_factor
 title: Platelet-derived growth factor
@@ -1935,7 +1961,7 @@ top: 0.00000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: polysaccharides_total
 title: Polysaccharides total
@@ -1946,7 +1972,7 @@ top: 0.000131
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pregnenolone
 title: Pregnenolone
@@ -1957,7 +1983,7 @@ top: 0.000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone_female_follicular
 title: Progesterone (female, follicular)
@@ -1968,7 +1994,7 @@ top: 0.0000000009
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone_female_midluteal
 title: Progesterone (female, midluteal)
@@ -1979,7 +2005,7 @@ top: 0.0000000121
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone_pregnancy_weeks_16_18
 title: Progesterone (pregnancy, weeks 16-18)
@@ -1990,7 +2016,7 @@ top: 0.000000066
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone_pregnancy_weeks_28_30
 title: Progesterone (pregnancy, weeks 28-30)
@@ -2002,7 +2028,7 @@ top: 0.000000126
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone_pregnancy_weeks_38_40
 title: Progesterone (pregnancy, weeks 38-40)
@@ -2013,7 +2039,7 @@ top: 0.000000227
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: progesterone_male
 title: Progesterone (male)
@@ -2024,7 +2050,7 @@ top: 0.00000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: proinsulin_fasting
 title: Proinsulin fasting
@@ -2035,7 +2061,7 @@ top: 0.0000000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: proinsulin_mean
 
@@ -2047,7 +2073,7 @@ top: 0.000000017
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: prolactin_male_awake
 title: Prolactin (male, awake)
@@ -2058,7 +2084,7 @@ top: 0.000000007
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: prolactin_male_sleep
 title: Prolactin (male, during sleep)
@@ -2070,7 +2096,7 @@ top: 0.00000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: prolactin_female_follicular
 title: Prolactin (female, follicular)
@@ -2082,7 +2108,7 @@ top: 0.000000023
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: prolactin_female_luteal
 title: Prolactin (female, luteal)
@@ -2094,7 +2120,7 @@ top: 0.00000004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: proline
 title: Proline
@@ -2106,7 +2132,7 @@ top: 0.000057
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: prostaglandin_e
 title: Prostaglandin PGE
@@ -2118,7 +2144,7 @@ top: 0.0000000000415
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: prostaglandin_f
 title: Prostaglandin PGF
@@ -2129,7 +2155,7 @@ top: 0.0000000000156
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: 15_keto_pgf2a
 title: 15-keto-PGF2a
@@ -2140,7 +2166,7 @@ top: 0.0000000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: 15_keto_pge2
 title: 15-keto-PGE2
@@ -2151,7 +2177,7 @@ top: 0.00000000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: protein_total
 title: Protein total
@@ -2162,7 +2188,7 @@ top: 0.083
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: protoporphyrin
 title: Protoporphyrin
@@ -2173,7 +2199,7 @@ top: 0.00000061
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pseudoglobulin_i
 title: Pseudoglobulin I
@@ -2184,7 +2210,7 @@ top: 0.019
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pseudoglobulin_ii
 title: Pseudoglobulin II
@@ -2195,7 +2221,7 @@ top: 0.008
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: purine_total
 title: Purine total
@@ -2206,7 +2232,7 @@ top: 0.0000115
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pyrimidine_nucleotides
 
@@ -2218,7 +2244,7 @@ top: 0.0000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: pyridoxine
 title: Pyridoxine (Vitamin B6)
@@ -2229,7 +2255,7 @@ top: 0.00000009
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: rantes
 title: RANTES
@@ -2240,7 +2266,7 @@ top: 0.00000000007
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: relaxin_day_lt_100_preparturition
 
@@ -2252,7 +2278,7 @@ top: 0.000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: relaxin_day_100_to_2_days_preceding
 
@@ -2264,7 +2290,7 @@ top: 0.00000004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: relaxin_day_preceding_parturition
 title: Relaxin (day preceding parturition)
@@ -2275,7 +2301,7 @@ top: 0.0002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: relaxin_day_following_parturition
 title: Relaxin (day following parturition)
@@ -2286,7 +2312,7 @@ top: 0.000000002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: retinol
 title: Retinol (Vitamin A)
@@ -2297,7 +2323,7 @@ top: 0.0000008
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: riboflavin
 title: Riboflavin (Vitamin B2)
@@ -2308,7 +2334,7 @@ top: 0.000000037
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: rna
 title: RNA
@@ -2319,7 +2345,7 @@ top: 0.00006
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: secretin
 title: Secretin
@@ -2331,7 +2357,7 @@ top: 0.000000000045
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: serine
 title: Serine
@@ -2342,7 +2368,7 @@ top: 0.00002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: silicon
 title: Silicon
@@ -2353,7 +2379,7 @@ top: 0.0000057
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: solids_total
 title: Solids, total
@@ -2364,7 +2390,7 @@ top: 0.09
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: somatotropin_growth_hormone
 title: Somatotropin (growth hormone)
@@ -2375,7 +2401,7 @@ top: 0.00000014
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: sphingomyelin
 title: Sphingomyelin
@@ -2386,7 +2412,7 @@ top: 0.004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: succinic_acid
 title: Succinic acid
@@ -2397,7 +2423,7 @@ top: 0.000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: sugar_total
 title: Sugar, total  
@@ -2408,7 +2434,7 @@ top: 0.0011
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: sulfates_inorganic
 title: Sulfates inorganic
@@ -2419,7 +2445,7 @@ top: 0.000012
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: sulfur_total
 title: Sulfur total
@@ -2430,7 +2456,7 @@ top: 0.038
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: taurine  
 title: Taurine
@@ -2441,7 +2467,7 @@ top: 0.000021
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: testosterone_male_free  
 title: Testosterone (male, free)
@@ -2452,7 +2478,7 @@ top: 0.0000000102
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: testosterone_male_total
 title: Testosterone (male, total)  
@@ -2463,7 +2489,7 @@ top: 0.0000000875
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: testosterone_female_free
 title: Testosterone (female, free)
@@ -2474,7 +2500,7 @@ top: 0.0000000000038
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: testosterone_female_total
 title: Testosterone (female, total)
@@ -2485,7 +2511,7 @@ top: 0.0000000075
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: testosterone_female_pregnant
 title: Testosterone (female, pregnant)
@@ -2496,7 +2522,7 @@ top: 0.000000019
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: thiamine  
 title: Thiamine (Vitamin B1)
@@ -2507,7 +2533,7 @@ top: 0.00000009
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thiocyanate_nonsmoker
 title: Thiocyanate (nonsmoker)
@@ -2518,7 +2544,7 @@ top: 0.000004
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thiocyanate_smoker
 title: Thiocyanate (smoker) 
@@ -2529,7 +2555,7 @@ top: 0.000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: threonine
 title: Threonine
@@ -2540,7 +2566,7 @@ top: 0.00000032
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thyroglobulin
 title: Thyroglobulin (Tg)
@@ -2551,7 +2577,7 @@ top: 0.00000005
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thyroid_hormones
 title: Thyroid hormones
@@ -2562,7 +2588,7 @@ top: 0.00000008
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thyroxine_free  
 title: Thyroxine (FT4, free)
@@ -2573,7 +2599,7 @@ top: 0.000000000024
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thyroxine_total
 title: Thyroxine (FT4, total)
@@ -2584,7 +2610,7 @@ top: 0.00000012
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thyroxine_binding_prealbumin  
 title: Thyroxine-binding prealbumin
@@ -2595,7 +2621,7 @@ top: 0.00035
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: thyroxine_binding_globulin
 title: Thyroxine-binding globulin
@@ -2606,7 +2632,7 @@ top: 0.00000034
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: tin
 title: Tin
@@ -2617,7 +2643,7 @@ top: 0.0000001
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: alpha_tocopherol  
 title: alpha-Tocopherol (Vitamin E)
@@ -2628,7 +2654,7 @@ top: 0.00002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: transcortin_male
 title: Transcortin (male)
@@ -2639,7 +2665,7 @@ top: 0.00002
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: transcortin_female  
 title: Transcortin (female)
@@ -2650,7 +2676,7 @@ top: 0.000025
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: transferrin_newborn
 title: Transferrin (newborn)  
@@ -2661,7 +2687,7 @@ top: 0.00275
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: transferrin_adult
 title: Transferrin (adult)
@@ -2672,7 +2698,7 @@ top: 0.004
 testAtLab:  
 canTestAtHome: false
 
-:::
+::
 
 id: transferrin_over_60
 title: Transferrin (age >60 yrs)
@@ -2683,7 +2709,7 @@ top: 0.0038
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: triiodothyronine_free
 title: Triiodothyronine (free)
@@ -2694,7 +2720,7 @@ top: 0.0000000000066
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: triiodothyronine_total  
 title: Triiodothyronine (total, T3)
@@ -2705,7 +2731,7 @@ top: 0.0000000025
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: tryptophan
 title: Tryptophan
@@ -2716,7 +2742,7 @@ top: 0.00003
 testAtLab: 
 canTestAtHome: false
 
-:::
+::
 
 id: tyrosine  
 title: Tyrosine
@@ -2727,7 +2753,7 @@ top: 0.000025
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: uric_acid_child
 title: Uric acid (child)
@@ -2738,7 +2764,7 @@ top: 0.0000067
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: uric_acid_adult_male
 title: Uric acid (adult, male)  
@@ -2749,7 +2775,7 @@ top: 0.0000072
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: uric_acid_adult_female
 title: Uric acid (adult, female)
@@ -2760,7 +2786,7 @@ top: 0.0000061
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: valine
 title: Valine
@@ -2771,7 +2797,7 @@ top: 0.0000042
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: vip
 title: Vasoactive intestinal peptide (VIP)
@@ -2782,7 +2808,7 @@ top: 0.000000000016
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: vasopressin_hydrated
 title: Vasopressin (hydrated)
@@ -2793,7 +2819,7 @@ top: 0.00000000000045
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: vasopressin_dehydrated
 title: Vasopressin (dehydrated)
@@ -2804,7 +2830,7 @@ top: 0.0000000000037
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: valproic_acid
 title: Valproic acid
@@ -2824,7 +2850,7 @@ https://www.mayocliniclabs.com/test-catalog/overview/37067
  Therapeutic: 5-25 mcg/mL
  Critical value: >30 mcg/mL
 
-:::
+::
 
 id: lamotrigine
 title: Lamotrigine
@@ -2838,7 +2864,7 @@ canTestAtHome: false
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198624/
 
-:::
+::
 
 id: carbamazepine
 title: Carbamazepine
@@ -2854,7 +2880,7 @@ https://emedicine.medscape.com/article/2089796-overview?form=fpf
  The therapeutic reference range of carbamazepine is 4-12 mg/L
 
 
-:::
+::
 
 id: olanzapine
 title: Olanzapine
@@ -2870,7 +2896,7 @@ https://pubmed.ncbi.nlm.nih.gov/11704898/
  The optimal therapeutic range of olanzapine serum levels is 20 to 40 ng/ml.
 
 
-:::
+::
 
 id: quetiapine
 title: Quetiapine
@@ -2885,7 +2911,7 @@ canTestAtHome: false
 https://www.mayocliniclabs.com/test-catalog/overview/91727
  Expected steady-state Quetiapine plasma levels in patients receiving recommended daily dosages: 100 - 1000 ng/mL.
 
-:::
+::
 
 id: risperidone
 title: Risperidone
@@ -2900,7 +2926,7 @@ canTestAtHome: false
 https://ltd.aruplab.com/Tests/Pub/2007951
  Therapeutic range (Risperidone)	20-60 ng/mL
 
-:::
+::
 
 id: aripiprazole
 title: Aripiprazole
@@ -2915,7 +2941,7 @@ canTestAtHome: false
 https://ltd.aruplab.com/Tests/Pub/2007945
  Therapeutic Range (Aripiprazole and Dehydroaripiprazole)	150-500 ng/mL
 
-:::
+::
 
 id: ziprasidone
 title: Ziprasidone
@@ -2927,7 +2953,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: lurasidone
 title: Lurasidone
@@ -2939,7 +2965,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: asenapine
 title: Asenapine
@@ -2951,7 +2977,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: cariprazine
 title: Cariprazine
@@ -2963,7 +2989,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: paliperidone
 title: Paliperidone
@@ -2975,7 +3001,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: oxcarbazepine
 title: Oxcarbazepine
@@ -2987,7 +3013,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: topiramate
 title: Topiramate
@@ -2999,7 +3025,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: gabapentin
 title: Gabapentin
@@ -3011,7 +3037,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: clozapine
 title: Clozapine
@@ -3023,7 +3049,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: haloperidol
 title: Haloperidol
@@ -3035,7 +3061,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: chlorpromazine
 title: Chlorpromazine
@@ -3047,7 +3073,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: venlafaxine
 title: Venlafaxine
@@ -3059,7 +3085,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: fluoxetine
 title: Fluoxetine
@@ -3074,7 +3100,7 @@ canTestAtHome: false
 https://www.mayocliniclabs.com/test-catalog/overview/80228#:~:text=Both%20fluoxetine%20and%20its%20major,%2FmL)%20at%20steady%20state.
  120-500 ng/mL
 
-:::
+::
 
 id: bupropion
 title: Bupropion
@@ -3086,7 +3112,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: sertraline
 title: Sertraline
@@ -3098,7 +3124,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: paroxetine
 title: Paroxetine
@@ -3110,7 +3136,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: escitalopram
 title: Escitalopram
@@ -3122,7 +3148,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: duloxetine
 title: Duloxetine
@@ -3134,7 +3160,7 @@ top:
 testAtLab:
 canTestAtHome: false
 
-:::
+::
 
 id: modafinil
 title: Modafinil
@@ -3145,4 +3171,9 @@ bottom:
 top:
 testAtLab:
 canTestAtHome: false
+
+
+::
+
+import ../footer.scroll
 
