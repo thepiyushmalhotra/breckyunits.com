@@ -153,9 +153,11 @@ h3,h4 {
 }
 h1.scrollTitle {
   text-align: center;
+  margin: auto;
   margin-bottom: .15625rem;
   margin-top: 0;
   font-size: 1.75rem;
+  max-width: calc(100vw - 2 * (1.5625rem + 1.875rem));
 }
 h1.scrollTitle a {
   color: #000;

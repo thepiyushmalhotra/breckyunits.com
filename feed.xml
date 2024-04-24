@@ -4,8 +4,18 @@
  <title>Breck Yunits' Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Tue, 23 Apr 2024 02:58:15 +0000</lastBuildDate>
+ <lastBuildDate>Wed, 24 Apr 2024 19:25:30 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>Hot Coffee</title>
+  <link>https://breckyunits.com/datasets.html</link>
+  <pubDate>Tue, 23 Apr 2024 05:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Big O's Kitchen</title>
+  <link>https://breckyunits.com/bigOsKitchen.html</link>
+  <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>The Fastest in the World</title>
   <link>https://breckyunits.com/fastest.html</link>
