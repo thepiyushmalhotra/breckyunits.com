@@ -18,6 +18,7 @@
 }
 .scrollCaptionedFigure {
   display: block;
+  break-inside: avoid;
   text-align: center;
 }
 .scrollCaptionedFigure img {
