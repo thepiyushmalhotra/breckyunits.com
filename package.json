@@ -10,13 +10,14 @@
   "scripts": {
     "build": "scroll list | scroll build",
     "test": "scroll list | scroll test",
-    "open": "open index.html"
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
   },
   "bugs": {
     "url": "https://github.com/breck7/breckyunits.com/issues"
   },
   "homepage": "https://breckyunits.com",
   "dependencies": {
-    "scroll-cli": "^79.1.0"
+    "scroll-cli": "^81.1.0"
   }
 }

@@ -2,14 +2,14 @@
  import header.scroll
  title A Higher Language
  
- startColumns 1
- groups All Life
+ byLine
+ 
+ groups All Life Thinking Writing
  date 2024-04-27
  
- ***
+ startColumns 1
  
  I was walking in the woods and saw a path on my right. I had never seen this path before.
- 
  endSnippet
  
  It was a few feet wide and a foot or two taller than me.
@@ -77,14 +77,11 @@
  
  import allFooter.scroll
  
- 
- 
 /home/runner/work/breckyunits.com/breckyunits.com/datasets.scroll
  import header.scroll
  title Hot Coffee
  // aka Dataset Thinking
- 
- 
+ byLine
  startColumns 1
  date 4/23/2024 5:00
  groups All Programming Thinking
@@ -93,7 +90,6 @@
   dateline
  
  Happiness is a hot cup of coffee in a ceramic mug on a cold day.
- 
  endSnippet
  
  But, like happiness, heat is fleeting.
@@ -199,9 +195,7 @@
  - All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
  
  <br><br>
- 
  ---
- 
  <br><br>
  
  # Footnotes
@@ -306,11 +300,11 @@
  import header.scroll
  title Big O's Kitchen
  
- # Menu Instructions
- 
- startColumns 2
  groups All Programming
  date 4/23/2024
+ 
+ # Menu Instructions
+ startColumns 2
  
  Congrats on landing a job at Big O's Kitchen!
  
@@ -352,6 +346,7 @@
  Make a plate for every combination of ingredients in the ingredient pack.
  
  So if today's ingredient pack contains 3 ingredients (bacon, lettuce, and tomato) you should make 6 plates:
+ 
  - 🥓🥬🍅
  - 🥓🍅🥬
  - 🥬🥓🍅
@@ -361,11 +356,9 @@
  
  css h1,h2,h1.scrollTitle a {color: #c42c1f;} body {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial";}
  
- 
  endColumns
  
  startColumns 1
- 
  image bigOs.png
   caption Interactive Version
    https://www.datawrapper.de/_/O5Pmu/
@@ -385,17 +378,27 @@
  6	1	3	6	16	36	64	720
  7	1	3	7	20	49	128	5040
  
+ # Related Posts
+ - The Three Byte Fix
+  link ckmeans.html
+ - Logeracy
+  link logeracy.html
+ - Planets and Pebbles
+  link planets-and-pebbles.html
+ - Orders of Magnitude
+  link orders-of-magnitude.html
+ 
  import allFooter.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fastest.scroll
  import header.scroll
  title The Fastest in the World
  
- startColumns 1
- groups All Life
- date 2024-04-22
+ byLine
  
- ***
+ startColumns 1
+ groups All Life Thinking
+ date 2024-04-22
  
  The girl lost the race.
  
@@ -520,11 +523,10 @@
  
  import allFooter.scroll
  
- 
- 
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  import header.scroll
  title Ketones vs Lithium
+ byLine
  startColumns 2
  date 4/16/2024
  groups All BipolarDisorder 
@@ -540,7 +542,6 @@
  The meter showed "1.0 mmol/L". Success! I was still in ketosis.
  
  endSnippet
- 
  ***
  
  It was day 174 since, at wits' end, I started a therapeutic ketogenic diet as a treatment strategy for bipolar disorder.
@@ -637,7 +638,6 @@
  And so now I return to the one millimole question.
  
  ***
- 
  // Note: what is termed "ketones" here is termed "ketone bodies" on Wikipedia
  
  # What is a ketone?
@@ -1022,6 +1022,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarTerm.scroll
  import header.scroll
  title The Future of the Term "Bipolar Disorder"
+ byLine
  date 4/10/2024
  groups All BipolarDisorder
  startColumns 2
@@ -1471,6 +1472,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/mindmap.scroll
  import header.scroll
  title A Different Kind of Mindmap
+ byLine
  startColumns 2
  date 2/24/2024
  groups All BipolarDisorder Programming Life
@@ -3051,7 +3053,7 @@
  startColumns 2
  date 5/26/2023
  groups All IntellectualFreedom  
- author https://breckyunits.com Breck Yunits
+ byLine
  openGraphImage https://breckyunits.com/mamoc.png
  
  // chatGptSummary The essay introduces a mathematical model of copyright, analyzing its predicted effects, including an increase in fashions, fictions, and copies relative to distinct ideas, a decrease in the average thinker's skillset, a shift in the objective functions of artifacts towards serving the objectives of copyright holders, and consolidation of power in a small Royal Class.
@@ -4005,23 +4007,29 @@
  import header.scroll
  title The Three Byte Fix
  date 6/09/2022
- startColumns 2
- groups All Programming  
+ import mediumColumns.scroll
+ groups All Programming
  
- This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. A 3 byte change made the code run _20 times_ faster.
-  dateline
+ # A Small Open Source Success Story
+ 
+ ### Adding 3 missing characters made code run _20x_ faster.
+ 
+ // Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. 
  
  # Map chart slowdown
- In the fall of 2020 users started reporting that our map charts had become slow.
+ "Your maps are slow".
+  dateline
+ In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
+  https://ourworldindata.org/ our
  
  image map-view.png
   caption Suddenly these charts were taking a long time to render.
  
  # k-means was the culprit
- To color our map charts an engineer on our team utilized a very effective technique called k-means clustering, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow. Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
+ To color our maps an engineer on our team utilized a very effective technique called k-means clustering, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow.
   https://en.wikipedia.org/wiki/K-means_clustering k-means clustering
-  hoverNote map charts
-   The industry term for this kind of chart is Choropleth map. See https://en.wikipedia.org/wiki/Choropleth_map
+ 
+ Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
  
  endSnippet
  
@@ -4035,18 +4043,9 @@
  
  My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a 2011 paper and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
   https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf 2011 paper
-  hoverNote O(nlog(n))
-   To be precise O(knlog(n)) time, where k is the number of groups. But I've simplified for this story as that detail is not important.
  
  # Benchmarking shows closer to n² than n·log(n)
  Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
-  hoverNote slower
-   Much slower for larger N, of course. Also, if you fit the curve you see not quite quadratic behavior, but worse than n log(n). A todo item would be to hone in on the curve it was approaching, but that did depend on the combination of N and K due to some discrete if branches.
- 
- comment
-  Wolfram Alpha fits of the runtime data:
-  Before: https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D
-  After: https://www.wolframalpha.com/input?i=linear+fit+%7B1000%2C15%7D%2C%7B2000%2C29%7D%2C%7B10000%2C32%7D%2C%7B20000%2C52%7D%2C%7B100000%2C125%7D%2C%7B200000%2C324%7D
  
  Rows	Time
  1000	36000
@@ -4060,12 +4059,18 @@
  After triple checking my logic, I created an issue on the Simple Statistics repo with my benchmark script.
   https://github.com/simple-statistics/simple-statistics/issues/520 issue
  
- comment
-  Sidenote: I was a bit anxious, as I always am when opening an issue on someone else's project, because often I then learn that I made some dumb error on my side.
+ // Sidenote: I was a bit anxious, as I always am when opening an issue on someone else's project, because often I then learn that I made some dumb error on my side.
  
  # A fix!
  Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
   https://github.com/simple-statistics/simple-statistics/pull/521 found a fix
+ 
+ plainTextOnly
+  Before:
+  if (iMax < matrix.length - 1) {
+  
+  After:
+  if (iMax < matrix[0].length - 1) {
  
  <code class="scrollCodeBlock">
   Before:
@@ -4100,6 +4105,18 @@
  Rows	LogLinear	Quadratic	Before	After
  100000	16.60964	100000	231.22	1.25
  200000	17.60964	200000	569.43	1.62
+ <details>
+ <summary>Full Dataset</summary>
+ 
+ Rows	LogLinear	Quadratic	Before	After
+ 1000	9966	1000000	36000	15000
+ 2000	21932	4000000	53000	29000
+ 10000	132877	100000000	258000	32000
+ 20000	285754	400000000	1236000	52000
+ 100000	1660964	10000000000	23122000	125000
+ 200000	3521928	40000000000	113886000	324000
+ 
+ </details>
  
  # Merged
  Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
@@ -4108,15 +4125,23 @@
  # Thanks!
  Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun.
  
- // Before/after data:
-  Rows	LogLinear	Quadratic	Before	After
-  1	1	1	1	1
-  1000	9966	1000000	36000	15000
-  2000	21932	4000000	53000	29000
-  10000	132877	100000000	258000	32000
-  20000	285754	400000000	1236000	52000
-  100000	1660964	10000000000	23122000	125000
-  200000	3521928	40000000000	113886000	324000
+ # Related Posts
+ - Big O's Kitchen
+  link bigOsKitchen.html
+ - Logeracy
+  link logeracy.html
+ - Planets and Pebbles
+  link planets-and-pebbles.html
+ - Orders of Magnitude
+  link orders-of-magnitude.html
+ 
+ # Notes
+ 
+ - The industry term for this type of map is Choropleth map.
+  https://en.wikipedia.org/wiki/Choropleth_map Choropleth map
+ - To be precise the algo was `O(knlog(n))` time, where k is the number of groups. But I've simplified for this story as that detail is not important.
+ - Wolfram Alpha fit of the quadratic runtime data
+  https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D
  
  import allFooter.scroll
  
@@ -4749,7 +4774,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/elbakian-interview.scroll
  import header.scroll
  title Goblin Interviews Alexandra Elbakian
- 
+ author Others
  startColumns 2
  groups All OtherAuthor
  date 05/22/2021
@@ -5386,6 +5411,14 @@
  I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2009. At the time I didn't have a concise way to put it, so instead I advised "think in Orders of Magnitude". Now I have a better way to put it: *become logerate*. I wonder what wonderful things humankind will achieve when we have logeracy rates like our literacy rates.
   https://breckyunits.com/orders-of-magnitude.html Orders of Magnitudes
  
+ # Related Posts
+ - Big O's Kitchen
+  link bigOsKitchen.html
+ - Planets and Pebbles
+  link planets-and-pebbles.html
+ - Orders of Magnitude
+  link orders-of-magnitude.html
+ 
  # Notes
  ^coinage I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
   link logeracy.png proof
@@ -5401,6 +5434,8 @@
  ^coinage2 Uh oh, another coinage.
  
  ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
+ 
+ 
  
  import allFooter.scroll
  
@@ -5494,7 +5529,7 @@
  import header.scroll
  title How James Park built FitBit
  date 2021-03-11
- 
+ author Others
  groups All OtherAuthor
  startColumns 2
  
@@ -6054,7 +6089,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/insist-on-focus.scroll
  import header.scroll
  title "Insist on Focus" - Keith Rabois describes working at PayPal
- 
+ author Others
  startColumns 2
  groups All Startups OtherAuthor
  date 2021-02-28 2
@@ -6577,7 +6612,6 @@
  wideColumns 1
  
  ---
- css summary {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial"; cursor: pointer;}
  
  <details>
  <summary>Dataset</summary>
@@ -8293,25 +8327,25 @@
  import header.scroll
  title Time
  
- startColumns 2
+ byLine
+ 
+ startColumns 1
  groups All Life  
  date 2013-04-01
  
- quote
-  Two people in the same forest,
-  have the same amount of water and food,
-  Are near each other, but may be out of sight,
-  The paths behind each are equally long.
-  The paths ahead, may vary.
-  One's path is easy and clear.
-  The other's is overgrown and treacherous.
-  Their paths through the forest,
-  in the past, in the present, and ahead
-  are equal.
-  Their journeys can be very different.
+ Two people in the same forest,
+ have the same amount of water and food,
+ Are near each other, but may be out of sight,
+ The paths behind each are equally long.
+ The paths ahead, may vary.
+ One's path is easy and clear.
+ The other's is overgrown and treacherous.
+ Their paths through the forest,
+ in the past, in the present, and ahead
+ are equal.
+ Their journeys can be very different.
  
  import allFooter.scroll
- 
 /home/runner/work/breckyunits.com/breckyunits.com/money-is-meant-to-circulate.scroll
  import header.scroll
  title Money is Meant to Circulate
@@ -8960,6 +8994,14 @@
  I let the pebbles build up, and I chip away at them in the off hours. But the bulk of my day I try to focus on the planets--the small number of things that can have exponential impact. I don't sweat the small stuff.
  
  I highly recommend this system. We live in a power law world, and it's important to practice the skill of predicting what things will prove hugely important, and what things will turn out to be pebbles.
+ 
+ # Related Posts
+ - Big O's Kitchen
+  link bigOsKitchen.html
+ - Logeracy
+  link logeracy.html
+ - Orders of Magnitude
+  link orders-of-magnitude.html
  
  import allFooter.scroll
  
@@ -10728,6 +10770,7 @@
  groups All Startups  
  
  _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
+  // 2024 Update Update. I wish I explained why I thought it was weak in the above 2021 update. I agree it could have been better written, but I think a lot of this is directionally correct.
  
  Over the past 6 months, our startup has taken two approaches to diversification. We initially tried no diversification and then we tried heavy diversification.
   dateline
@@ -11344,6 +11387,14 @@
  - Facebook has 350 million users. Dropbox has 3 million. Facebook has 2 orders of magnitude more users.
  - The population of California is about 35 million. The population of the US is one order of magnitude bigger, about 300 million. The population of China is about 4 times that of the U.S. at 1,300,000, which is less than an order of magnitude difference.
  - Shaq is about 1 order of magnitude taller than a newborn, but besides that height is much more narrowly distributed. Everyone is within the same order of magnitude tall.
+ 
+ # Related Posts
+ - Big O's Kitchen
+  link bigOsKitchen.html
+ - Logeracy
+  link logeracy.html
+ - Planets and Pebbles
+  link planets-and-pebbles.html
  
  # Notes
  - WolframAlpha

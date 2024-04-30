@@ -1,4 +1,3 @@
-https://breckyunits.com/why-the-future-doesnt-need-us.html
 https://breckyunits.com/aHigherLanguage.html
 https://breckyunits.com/datasets.html
 https://breckyunits.com/bigOsKitchen.html
@@ -188,9 +187,9 @@ https://breckyunits.com/first-place-in-the-stock-market-game.html
 https://breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.html
 https://breckyunits.com/learning-how-to-program-part-i.html
 https://breckyunits.com/i-guess-the-time-had-come.html
+https://breckyunits.com/why-the-future-doesnt-need-us.html
 https://breckyunits.com/writing.html
 https://breckyunits.com/when-woman-is-boss.html
-https://breckyunits.com/twelve_tips_to_master_programming_faster.html
 https://breckyunits.com/treeNotation.html
 https://breckyunits.com/thinking.html
 https://breckyunits.com/teslaAutobiography.html
@@ -198,7 +197,6 @@ https://breckyunits.com/startups.html
 https://breckyunits.com/society.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
-https://breckyunits.com/live-free-or-ai.html
 https://breckyunits.com/life.html
 https://breckyunits.com/index.html
 https://breckyunits.com/full.html
