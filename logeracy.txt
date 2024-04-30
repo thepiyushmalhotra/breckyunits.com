@@ -105,11 +105,11 @@ I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2
 
 Related Posts
 =============
-- Big O's Kitchen
+- Big O's Kitchen (2024)
  https://breckyunits.com/bigOsKitchen.html
-- Planets and Pebbles
+- Planets and Pebbles (2012)
  https://breckyunits.com/planets-and-pebbles.html
-- Orders of Magnitude
+- Orders of Magnitude (2009)
  https://breckyunits.com/orders-of-magnitude.html
 
 Notes

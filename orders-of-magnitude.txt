@@ -52,11 +52,11 @@ More examples
 
 Related Posts
 =============
-- Big O's Kitchen
+- Big O's Kitchen (2024)
  https://breckyunits.com/bigOsKitchen.html
-- Logeracy
+- Logeracy (2021)
  https://breckyunits.com/logeracy.html
-- Planets and Pebbles
+- Planets and Pebbles (2012)
  https://breckyunits.com/planets-and-pebbles.html
 
 Notes

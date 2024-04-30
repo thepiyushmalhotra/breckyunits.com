@@ -13,9 +13,9 @@ I highly recommend this system. We live in a power law world, and it's important
 
 Related Posts
 =============
-- Big O's Kitchen
+- Big O's Kitchen (2024)
  https://breckyunits.com/bigOsKitchen.html
-- Logeracy
+- Logeracy (2021)
  https://breckyunits.com/logeracy.html
-- Orders of Magnitude
+- Orders of Magnitude (2009)
  https://breckyunits.com/orders-of-magnitude.html

@@ -1,7 +1,7 @@
 date,title,permalink,groups,wordCount
 04/27/2024,A Higher Language,aHigherLanguage.html,All Life Thinking Writing,395
 04/23/2024,Hot Coffee,datasets.html,All Programming Thinking,641
-04/23/2024,Big O's Kitchen,bigOsKitchen.html,All Programming,308
+04/23/2024,Big O's Kitchen,bigOsKitchen.html,All Programming,312
 04/22/2024,The Fastest in the World,fastest.html,All Life Thinking,319
 04/16/2024,Ketones vs Lithium,ketonesVsLithium.html,All BipolarDisorder ,4987
 04/10/2024,The Future of the Term "Bipolar Disorder",bipolarTerm.html,All BipolarDisorder,843
@@ -45,7 +45,7 @@ date,title,permalink,groups,wordCount
 10/07/2022,A scratch ticket with a positive expected value,scratch-ticket.html,All Startups  ,444
 09/01/2022,An Angel Investor's Data,an-angel-investors-data.html,All Startups  ,501
 08/30/2022,How the public domain can win,how-the-public-domain-can-win.html,All IntellectualFreedom  ,792
-06/09/2022,The Three Byte Fix,ckmeans.html,All Programming,902
+06/09/2022,The Three Byte Fix,ckmeans.html,All Programming,906
 02/28/2022,Upstream of Everything,upstream-of-everything.html,All Life Thinking ,1216
 02/18/2022,Brain Pilots,brain-pilots.html,All BipolarDisorder Life  ,2644
 12/15/2021,Aftertext,aftertext.html,All TreeNotation Programming Writing ,1997
@@ -56,7 +56,7 @@ date,title,permalink,groups,wordCount
 05/12/2021,The Intellectual Freedom Amendment,the-intellectual-freedom-amendment.html,All IntellectualFreedom  ,493
 05/07/2021,Some old blogs,some-old-blogs.html,All Writing  ,257
 05/06/2021,Wisdom: a Tiny Language for Great Advice,wisdom-a-tiny-language-for-great-advice.html,All Writing Life ,659
-04/26/2021,Logeracy,logeracy.html,All Thinking Society ,1535
+04/26/2021,Logeracy,logeracy.html,All Thinking Society,1538
 03/30/2021,How to fix the CDC,how-to-fix-the-cdc.html,All Society,1014
 03/11/2021,How James Park built FitBit,how-james-park-built-fitbit.html,All OtherAuthor,11664
 02/28/2021,"Insist on Focus" - Keith Rabois describes working at PayPal,insist-on-focus.html,All Startups OtherAuthor,669
@@ -98,7 +98,7 @@ date,title,permalink,groups,wordCount
 12/16/2012,Narratives Misrepresent Complex Systems,narratives-misrepresent-complex-systems.html,All Thinking Writing Life,778
 12/16/2012,Simple is...,simple-is.html,All Life Thinking ,167
 12/14/2012,Introducing Note,introducing-note.html,All TreeNotation Programming  ,679
-11/26/2012,Planets and Pebbles,planets-and-pebbles.html,All Thinking  ,191
+11/26/2012,Planets and Pebbles,planets-and-pebbles.html,All Thinking,194
 11/25/2012,Publishing More,publishing-more.html,All Writing  ,209
 11/20/2012,Setplicity,setplicity.html,All Programming Thinking ,779
 10/20/2012,Naming Things,naming-things.html,All Programming Writing ,893
@@ -153,7 +153,7 @@ date,title,permalink,groups,wordCount
 12/10/2009,Get Stuff Done By Setting Arbitrary Constraints,get-stuff-done-by-setting-arbitrary-constraints.html,All Life  ,492
 12/09/2009,Why You Shouldn't Save Blogging for Old Age,why-you-shouldnt-save-blogging-for-old-age.html,All Writing  ,295
 12/08/2009,6 Specific Ways to Find Programming Mentors,6-specific-ways-to-find-programming-mentors.html,All Programming  ,811
-12/07/2009,Orders of Magnitude,orders-of-magnitude.html,All Thinking  ,879
+12/07/2009,Orders of Magnitude,orders-of-magnitude.html,All Thinking,882
 12/06/2009,The Many Worlds Law,the-many-worlds-law.html,All Life Thinking ,354
 12/04/2009,Twelve Tips to Master Programming Faster,twelve-tips-to-master-programming-faster.html,All Programming  ,1830
 12/03/2009,What's Linear Algebra?,whats-linear-algebra.html,All Thinking  ,334
@@ -173,7 +173,7 @@ date,title,permalink,groups,wordCount
 07/28/2008,How to Cure the Hiccups,how-to-cure-the-hiccups.html,All Life,271
 07/27/2008,"Trying Shelfari, GoodReads, and LibraryThing",trying-shelfari-goodreads-and-librarything.html,All Thinking Life,429
 07/09/2008,Over Half of the World is Older Than Me,over-half-of-the-world-is-older-than-me.html,All Life,134
-07/07/2008,Bloggers Who Turned Pro and Their Famous Last Words,bloggers-who-turned-pro-and-their-famous-last-words.html,All Writing,650
+07/07/2008,Bloggers Turning Pro,bloggers-who-turned-pro-and-their-famous-last-words.html,All Writing,676
 05/14/2008,Daily Gas Use for the United States and the World,daily-gas-use-for-the-united-states-and-the-world.html,All Society,271
 05/08/2008,"Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles",analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html,All Startups,1050
 09/28/2007,First Place in the Stock Market Game,first-place-in-the-stock-market-game.html,All Startups,478

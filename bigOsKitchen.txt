@@ -72,11 +72,11 @@ Plates needed
 
 Related Posts
 =============
-- The Three Byte Fix
+- The Three Byte Fix (2022)
  https://breckyunits.com/ckmeans.html
-- Logeracy
+- Logeracy (2021)
  https://breckyunits.com/logeracy.html
-- Planets and Pebbles
+- Planets and Pebbles (2012)
  https://breckyunits.com/planets-and-pebbles.html
-- Orders of Magnitude
+- Orders of Magnitude (2009)
  https://breckyunits.com/orders-of-magnitude.html
