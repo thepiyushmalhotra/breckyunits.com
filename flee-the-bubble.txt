@@ -1,6 +1,7 @@
 Flee the Bubble
 ===============
 
+January 5, 2010
 
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
 
@@ -10,7 +11,6 @@ What is "the bubble"?
 =====================
 
 The bubble is the early, early product development stage. When new people aren't constantly using and falling in love with your product, you're in the bubble. You want to get out of here as fast as possible.
-
 
 If you haven't launched, you're probably in the bubble. If you're in "stealth mode", you're probably in the bubble. If you're not "launching early and often", you're probably in the bubble. If you're not regularly talking to users/customers, you're probably in the bubble. If there's not a steady uptick in the number of users in love with your product, you're probably in the bubble.
 

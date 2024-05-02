@@ -1,8 +1,9 @@
+author Others
+date 2021-03-11
+groups All OtherAuthor
+
 import header.scroll
 title How James Park built FitBit
-date 2021-03-11
-author Others
-groups All OtherAuthor
 startColumns 2
 
 comment
@@ -450,7 +451,7 @@ image fitbit2008.jpg
 
 *James:* Well, it was a category, but it wasn't something that we had realized. We use this database from the government that was thousands of different activities that people would do.
 
-*Guy:* Oh, I see. 
+*Guy:* Oh, I see.
 
 *James:* And so, it was an option. We just didn't think people would with log that.
 
@@ -556,4 +557,3 @@ image fitbit2008.jpg
  https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
 
 import allFooter.scroll
-

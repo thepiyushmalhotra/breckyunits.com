@@ -1,13 +1,13 @@
 Building a TreeBase with 6.5 million files
 ==========================================
 
+January 29, 2020
 
 In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
 
 TreeBase is a new system I am working on for long-term, strongly-typed collaborative knowledge bases. The design of TreeBase is dumb. It's just a folder with a bunch of files encoded with Tree Notation. A row in a normal SQL table in TreeBase is roughly equivalent to a file. The filenames serve as IDs. Instead of each using an optimized binary storage format it just uses plain text like UTF-8. Field names are stored alongside the values in every file. Instead of starting with a schema you can just start adding files and evolve your schema and types as you go.
  https://truebase.pub
  https://treenotation.org
-
 
 For example, in this tiny demo TreeBase of the planets the file `mars.planet` looks like this:
  https://github.com/breck7/truebase/tree/main/planetsDB
@@ -598,7 +598,7 @@ Okay, you might be wondering what is the point of this system? Specifically, why
 
 Wouldn't it be cool if we could combine sophisticated type checking, querying, and analytical capabilities of databases with the simplicity of files? Programmers can easily build GUIs on top of TreeBase that have any and all of the functionality of traditional database-backed programs but have the additional advantage of an extremely well-known access vector to their information.
 
-People have been predicting the death of files but these predictions are wrong. Even Apple recently backtracked and added a Files interface to iOS. Files and folders aren't going anywhere. It's a very simple and useful design pattern that works in the analog and digital realm. Files have been around for at least 4,500 years and my guess is will be around for another 5,000 years, if the earth doesn't blow up. Instead of dying, on the contrary file systems will keep getting better and better. 
+People have been predicting the death of files but these predictions are wrong. Even Apple recently backtracked and added a Files interface to iOS. Files and folders aren't going anywhere. It's a very simple and useful design pattern that works in the analog and digital realm. Files have been around for at least 4,500 years and my guess is will be around for another 5,000 years, if the earth doesn't blow up. Instead of dying, on the contrary file systems will keep getting better and better.
  https://en.wikipedia.org/wiki/Papyrus
 
 2) Tree Notation is All You Need to Create Meaningful Semantic Content

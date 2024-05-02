@@ -1,10 +1,10 @@
+date 11/16/2022
+groups All Programming Thinking TreeNotation
+openGraphImage https://breckyunits.com/rootThinking.png
+
 import header.scroll
 title Root Thinking
 startColumns 1
-date 11/16/2022
-groups All Programming Thinking TreeNotation
-
-openGraphImage https://breckyunits.com/rootThinking.png
 
 I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
  dateline
@@ -32,4 +32,3 @@ If everyone practiced _root thinking_ all the time we would get nowhere. It's ha
 On second thought, I think this idea is bad. The representation of your principles-axioms-agents-types-etc rounds to irrelevant. Infinitely better to spend time making sure you have the correct collection of first principles than worrying about representing them as a "tree" so you can have a visual. It's knowing what the principles are and how they interact that matters most, not some striving for the ideal representation syntax. This post presents a bad idea, but I'll leave it up as a reminder that sometimes I'm dead wrong.
 
 import allFooter.scroll
-

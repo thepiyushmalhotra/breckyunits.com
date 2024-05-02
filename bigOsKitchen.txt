@@ -1,7 +1,6 @@
 Big O's Kitchen
 ===============
 
-
 Menu Instructions
 =================
 
@@ -10,7 +9,6 @@ Congrats on landing a job at Big O's Kitchen!
 Our menu has *7 dishes*.
 
 Below are the instructions for making each dish.
-
 
 1. The Constant
 ===============
@@ -59,11 +57,9 @@ So if today's ingredient pack contains 3 ingredients (bacon, lettuce, and tomato
 - 🥬🍅🥓
 - 🍅🥬🥓
 
-
 [Image Omitted]
  Interactive Version
   https://www.datawrapper.de/_/O5Pmu/
-
 
 Plates needed
 =============

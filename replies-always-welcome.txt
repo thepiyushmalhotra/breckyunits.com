@@ -1,12 +1,12 @@
 Replies always welcome
 ======================
 
+November 14, 2022
 
 Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones, turns and walks away. That's the experience a `noreply` email address provides. Let's make email human again! If a human can't read and reply to emails it's not too hard to setup scripts that can at least do _something_ for the customer.
 
 [Image Omitted]
  My automated campaign against no reply email addresses. Anytime a company sends a message from a noreply address they get this as a response. I am aware of the irony.
-
 
 [Image Omitted]
  Join the campaign against noreply email addresses!
@@ -14,7 +14,6 @@ Imagine a waitress that drops off your food then immediately puts on noise cance
 My Gmail filter
 ===============
 Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings > Filters > Import filters. Join the campaign to make email more human human again!
-
 
     Mail Filters
     tag:mail.google.com,2008:filters:z0000001687903548068*6834178925122906716
@@ -46,7 +45,6 @@ Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings 
 Learn more: https://breckyunits.com/replies-always-welcome.html
 
     
-
 
 Specific examples
 =================

@@ -1,9 +1,9 @@
 I thought we could build AI experts by hand
 ===========================================
 
+December 28, 2023
 
 I thought we could build AI experts by hand. I bet everything I had to make that happen. I placed my bet in the summer of 2022. Right before the launch of the Transformer AIs that changed everything. Was I wrong? Almost certainly. Did I lose everything? Yes. Did I do the right thing? I'm not sure. I'm writing this to try and figure that out.
-
 
 Symbols
 =======
@@ -111,7 +111,7 @@ But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 
 
 Scale
 =====
-I understand how naive the idea sounds. Simply by adding more and more concepts and measurements to maximize comparability in this simple notational system you could map entire knowledge domains and develop digital AI experts that would be the best in the world! Somehow I believed my implementation would succeed where countless other knowledge base and expert systems had failed. My claims were very hand wavy! I predicted there would be emergent benefits, but I had little proof. It just _felt_ like it would, from what I had seen in my prototypes. 
+I understand how naive the idea sounds. Simply by adding more and more concepts and measurements to maximize comparability in this simple notational system you could map entire knowledge domains and develop digital AI experts that would be the best in the world! Somehow I believed my implementation would succeed where countless other knowledge base and expert systems had failed. My claims were very hand wavy! I predicted there would be emergent benefits, but I had little proof. It just _felt_ like it would, from what I had seen in my prototypes.
 
 Where would the emergent benefits come from in my system that wouldn't come from existing approaches?
 

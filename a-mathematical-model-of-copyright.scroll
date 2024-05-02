@@ -1,10 +1,11 @@
+date 5/26/2023
+groups All IntellectualFreedom
+openGraphImage https://breckyunits.com/mamoc.png
+
 import header.scroll
 title A Mathematical Model of Copyright
 startColumns 2
-date 5/26/2023
-groups All IntellectualFreedom  
 byLine
-openGraphImage https://breckyunits.com/mamoc.png
 
 // chatGptSummary The essay introduces a mathematical model of copyright, analyzing its predicted effects, including an increase in fashions, fictions, and copies relative to distinct ideas, a decrease in the average thinker's skillset, a shift in the objective functions of artifacts towards serving the objectives of copyright holders, and consolidation of power in a small Royal Class.
 
@@ -120,7 +121,7 @@ A publisher is a set of $T$ specializing in production of $A$.
 
 ### Censors
 katex U: U(D)
-A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed. 
+A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed.
 
 <br>
 
@@ -225,7 +226,7 @@ We should expect the number of Publishers $Q$ to decrease due to the increasing 
 
 ## Effect on U
 katex \Uparrow U
-We should expect censorship to go up to enforce copyright laws. 
+We should expect censorship to go up to enforce copyright laws.
 
 ## Effect on $A_©$
 katex \Uparrow A_©
@@ -260,4 +261,3 @@ A copyright system should also increasingly consolidate power in a small Royal C
 // ^registryEffects A side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
 
 import allFooter.scroll
-

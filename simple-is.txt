@@ -1,8 +1,9 @@
 Simple is...
 ============
 
-*Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
+December 16, 2012
 
+*Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
 
 *Understandable but not misleading*. "Computing all boils down to ones and zeros" is understandable and not misleading. "Milk: it does a body good", is understandable but misleading.
 

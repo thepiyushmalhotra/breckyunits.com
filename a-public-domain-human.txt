@@ -4,9 +4,10 @@ A Public Domain Human
 Open sourcing more of my life for honesty
 =========================================
 
+March 6, 2023
+
 I believe Minsky's theory of the brain as a Society of Mind is correct^minsky. His theory implies there is no "I" but instead a collection of neural agents living together in a single brain. We all have agents capable of dishonesty—evolved, understandably, for survival—along with agents capable of acting with integrity. Inside our brains competing agents jockey for control.
  https://en.wikipedia.org/wiki/Society_of_Mind
-
 
 I like to think the majority of agents in my own brain steer me to behave honestly. This wasn't always the case. As a kid in particular I was a rascal. I'd use my wits to gain short term rewards, like sneaking out, kissing the older girl, or getting free Taco Bell (and later, beer). But the truth would catch up to me, and my honest neural agents would retaliate on the dishonest ones.
 
@@ -35,7 +36,7 @@ Closed sourced programs are like Instagram accounts
 ===================================================
 With closed source software one gets a shiny finished product without seeing any of the truth behind what it took to make. And almost always what people hide from you they will lie to you about.
 
-The closed source software company is like the social media influencer who posts an amazing sunset shot of them in a bathing suit swimming next to dolphins. They will make it look effortless and hide from you the truth: the hundred less glamorous photos, the dozen excursions with no dolphins, and the intense workouts and hidden costs of their lifestyle. They will hide from you all the flaws. 
+The closed source software company is like the social media influencer who posts an amazing sunset shot of them in a bathing suit swimming next to dolphins. They will make it look effortless and hide from you the truth: the hundred less glamorous photos, the dozen excursions with no dolphins, and the intense workouts and hidden costs of their lifestyle. They will hide from you all the flaws.
 
 On social media this probably has minor consequences but in software eventually consumers are left increasingly paying the price for dishonest software. Technical debt accumulates in closed source projects and in the long run more honest approaches turn out to be better.
 

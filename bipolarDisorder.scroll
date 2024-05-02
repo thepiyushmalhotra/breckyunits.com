@@ -1,8 +1,9 @@
+date 1/24/2024
+groups All BipolarDisorder
+
 import header.scroll
 title Focusing on Bipolar Disorder
-date 1/24/2024
 
-groups All BipolarDisorder  
 import mediumColumns.scroll
 
 Assuming I keep blogging, which I hope I manage to do, I expect my posts will largely be about bipolar disorder. I've been blogging for fifteen years but never wrote publicly about bipolar disorder, even though I was diagnosed twenty years ago. I kept my diagnosis a secret.
@@ -132,7 +133,7 @@ I recently was able to be a participant in one of the newer bipolar research stu
  https://en.wikipedia.org/wiki/Arterial_line arterial line
 
 image brainScan.png
- caption A still from a scan of my brain. Somewhere in there lies the problem...I think. In late 2023 I participated in a research study and for the first time got scanned with MRI, fMRI, MRS, PET, and EEG machines. 
+ caption A still from a scan of my brain. Somewhere in there lies the problem...I think. In late 2023 I participated in a research study and for the first time got scanned with MRI, fMRI, MRS, PET, and EEG machines.
   https://en.wikipedia.org/wiki/Magnetic_resonance_imaging MRI
   https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging fMRI
   https://en.wikipedia.org/wiki/In_vivo_magnetic_resonance_spectroscopy MRS
@@ -168,6 +169,4 @@ spaceTable
  2003 August 2 MD ❌ No No
  2002 October 1 AP ❌ No No
 
-
 import allFooter.scroll
-

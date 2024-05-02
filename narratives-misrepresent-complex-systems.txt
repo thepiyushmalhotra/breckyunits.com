@@ -1,11 +1,11 @@
 Narratives Misrepresent Complex Systems
 =======================================
 
+December 16, 2012
 
 When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
 
 [Image Omitted]
-
 
 These strips gave a clear narrative of Billy's day. In the strip above, Billy, a fun loving kid, was given a task by his mother to put some letters in the mailbox before the mailman arrives. Billy took the letters, ran into the kitchen, then dashed into the living room, jumped on the couch, sprinted to the dining room, crawled under the dining room table, skipped into the TV room, jumped into the crib, twirled into the foyer, stumbled outside, swung around the light post, then ran to the mailbox.
 
@@ -16,7 +16,6 @@ With this picture in mind, let's do a thought experiment.
 Let's imagine that right now, once again, Billy and his mom are standing in the laundry room and she's about to give him the mail. What are the odds that Billy gets to the mailbox in time?
 
 Pick a range, and then click here to see the answer.
-
 
 If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
 

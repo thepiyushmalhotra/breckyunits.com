@@ -1,7 +1,7 @@
 Aftertext
 =========
 
-
+December 15, 2021
 
 Both HTML and Markdown mix content with markup:
 
@@ -17,7 +17,6 @@ aftertext
  A link in Aftertext looks like this.
  link hi.html this
 
-
 You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
 
 Here is a silly another example, with more markups.
@@ -26,7 +25,6 @@ Here is a silly another example, with more markups.
 The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
  https://scroll.pub/
  https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll
-
 
 Why did I make this?
 ====================
@@ -52,7 +50,7 @@ Finally, I should mention that it seems like keeping the written text and markup
 A Petri dish for new markup ideas
 =================================
 
-Aftertext provides a scalable way to add new markup ideas. 
+Aftertext provides a scalable way to add new markup ideas.
 
 Simple markups like bolds or italics aren't a big pain and conventions like *bold* and _italics_ used in languages like Markdown or Textile do a sufficient job. But even with those, after a certain amount of rules it's hard to keep track of what characters do what. You also have to worry about escaping rules. With Aftertext adding new markups does not increase the cognitive load on the writer.
  https://en.wikipedia.org/wiki/Markdown
@@ -65,7 +63,6 @@ I'm particularly interested in exploring new ways to do footnotes, sparklines, d
 Adding a new markup command is just a few lines of code.
  https://github.com/publicdomaincompany/scroll/blob/main/grammar/aftertext.grammar
 
-
 What are the downsides of Aftertext?
 ====================================
 
@@ -73,7 +70,7 @@ There are downsides in using Aftertext that you don't have with paired delimiter
 
 There is the issue of breakages when editing Aftertext. The nice thing about *bold* is that if you change the text between the tags you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.
 
-A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed. 
+A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed.
 
 Another problem of Aftertext is when markup is semantic and not just an augmentation. `*I* did not say that` is different from `I did not say *that*`. Without embedded markup in these situations meaning could be lost.
 
@@ -89,8 +86,7 @@ You might make the argument that not just the implementation, but the idea itsel
 
 The most likely reason why this is a bad idea is that it simply doesn't matter whether it's a good idea or not. You could argue that improvements to markup syntax are inconsequential. That even if it was a 2x better way to markup text for some use cases, AIs will change writing and code in so many bigger ways that's it not even worth thinking about clean source anymore. This could very well be true (luckily it didn't take many hours to build).
 
-
-Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles. 
+Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles.
 
 Summary and Closing Thoughts
 ============================
@@ -135,7 +131,6 @@ Why now?
 
 Issues with embedded markup and alternative solutions have been discussed for decades. I would say it's a safe bet to say embedded markup is superior since it so thoroughly dominates usage. Nevertheless, as I mentioned in my use case, there is a time and a place for alternatives. Aftertext would have been simple enough to understand decades ago and use with pen and paper. So why hasn't Aftertext's been tried before?
 
-
 Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocomplete) used to be more expensive, so Aftertext would have been inefficient. It probably was worthwhile to have a learning curve and force users to memorize cryptic acronyms. It paid off to minimize keystrokes.
 
 I may also be overvaluing the importance of universal parsibility. I value formats that are easy to maintain by hand but also easy to write parsers for. Before GUIs, collaborative VCSs, IDEs, or AIs, there wasn't as much value to be gained by doing this. But even today I may be overvaluing hand editability. This seems to be the era of AIs and all apps editing JSON documents on the backend. I may be a dinosaur.
@@ -149,7 +144,6 @@ Notes
 - There's no reason it has to be "Aftertext". The markups could come before the text too.
 - Thanks to justinpombrio for pointing out how semantic embedded markup is different than augmenting markup.
 - Another downside of the current implementation, pointed out by David Chisnall, is the lack of a mechanism for global markup directives. I'd expect Aftertext to evolve in that direction if it proves its worth in the local scope.
-
 
 [Image Omitted]
  A screenshot of Aftertext on the left and the rendered HTML on the right.

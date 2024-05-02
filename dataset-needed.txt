@@ -1,11 +1,11 @@
 Dataset Needed
 ==============
 
+January 23, 2020
 
 People make biased claims all the time. A decent response used to be "citation needed". But we should demand more. Anytime someone makes a claim that seems biased, call them out with: *_Dataset needed_*.
 
 Whether it's an academic paper, news article, blog post, tweet, comment or ad, linking to analyses is not enough. If someone stops at that, demand a link to a clean dataset supporting the author's position. If they can't deliver, they should retract.
-
 
 Of course, most sources don't currently publish their datasets. *You cannot trust claims from any person or organization without an easily accessible dataset.* In fact, it's probably safe to assume when someone shares a conclusion without the accompanying dataset that they are distorting reality for their own benefit.
 

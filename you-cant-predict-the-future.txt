@@ -1,11 +1,11 @@
 You Can't Predict the Future
 ============================
 
+August 25, 2010
 
 I've been very surprised to discover how unpredictable the future is. As you try to predict farther out, your error margins grow exponentially bigger until you're "predicting" nothing specific at all.
 
-
-Apparently this is because many things in our world are "chaotic". Small errors in your predictions get compounded over time. 10 day weather forecasts are notoriously inaccurate despite the fact that teams of the highest IQ'd people on earth have been working on them for years. I don't understand the math behind chaos but I believe in the basic ideas. 
+Apparently this is because many things in our world are "chaotic". Small errors in your predictions get compounded over time. 10 day weather forecasts are notoriously inaccurate despite the fact that teams of the highest IQ'd people on earth have been working on them for years. I don't understand the math behind chaos but I believe in the basic ideas.
 
 A Simple Example
 ================
@@ -15,7 +15,7 @@ However, I can't predict with much accuracy whether or not I'll work out 30 days
 
 Things You Can't Predict
 ========================
-Weather, the stock market, individual stock prices, the next popular website, startup success, box office hits, etc. Basically dynamic, complex systems are completely resistant to predictions. 
+Weather, the stock market, individual stock prices, the next popular website, startup success, box office hits, etc. Basically dynamic, complex systems are completely resistant to predictions.
 
 On Model verse Off Model
 ========================
@@ -27,7 +27,7 @@ The world is complex and impossible to predict accurately. But people don't get 
 
 Inside Information
 ==================
-What if you have inside information? Should you then be able to make better predictions than others? Let's imagine for a moment that you were alive in 1945 and you were trying to predict when WWII would end. If you were like 99.99999+% of the population, you would have absolutely no idea that a new type of bomb was just invented and about to be put to use. But if you were one of the few who knew about the bomb, you might have been a lot more confident that the war was close to an end. Inside information gives you a big advantage in predicting the future. If you have information and can legally "bet on that", go for it. However, even the most connected people only have the inside scoop on a handful of topics, and even if you know something other people don't it's very hard to predict the scale (or direction) of an event's effect. 
+What if you have inside information? Should you then be able to make better predictions than others? Let's imagine for a moment that you were alive in 1945 and you were trying to predict when WWII would end. If you were like 99.99999+% of the population, you would have absolutely no idea that a new type of bomb was just invented and about to be put to use. But if you were one of the few who knew about the bomb, you might have been a lot more confident that the war was close to an end. Inside information gives you a big advantage in predicting the future. If you have information and can legally "bet on that", go for it. However, even the most connected people only have the inside scoop on a handful of topics, and even if you know something other people don't it's very hard to predict the scale (or direction) of an event's effect.
 
 Be Conservative
 ===============

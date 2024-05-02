@@ -1,6 +1,7 @@
 The Hidden Benefits of Automation
 =================================
 
+March 17, 2010
 
 If you automate a process which you repeat _Y_ times, that takes _X_ minutes, what would your payoff be?
 
@@ -11,7 +12,6 @@ Surprisingly I've found that is almost never the case. Instead, the benefits are
 Actual Payoff = _XY minutes saved + E_
 
 What is E? It's the extra something you get from not having to waste time and energy on XY.
-
 
 An Example
 ==========

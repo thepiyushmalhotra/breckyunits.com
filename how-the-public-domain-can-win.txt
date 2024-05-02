@@ -1,6 +1,7 @@
 How the public domain can win
 =============================
 
+August 30, 2022
 
 Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build. If enough capable people start building public domain products we can change the world.
 
@@ -9,7 +10,6 @@ It took me 18 years to figure this out. In 2004 I did what you would now call "f
 [Image Omitted]
  One of the many moves in the struggle for intellectual freedom. Aaron Swartz is a hero whose name and impact will expand for eons.
   https://en.wikipedia.org/wiki/Aaron_Swartz
-
 
 Trust
 =====

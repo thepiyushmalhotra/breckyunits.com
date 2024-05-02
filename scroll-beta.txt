@@ -1,11 +1,12 @@
 Scroll Beta
 ===========
 
+February 22, 2021
+
 Today I'm launching the beta of something new called Scroll.
  https://github.com/publicdomaincompany/scroll
 
 I've been reading the newspaper everyday since I was a kid. I remember I'd have my feet on the ground, my body tilted at an angle and my body weight pressed into the pages on the counter. I remember staring intently at the pages spread out before me. World news, local news, sports, business, comics. I remember the smell of the print. The feel of the pages. The ink that would be smeared on my forearms when I finished reading and stood back up straight. Scroll has none of that. But it does at least have the same big single page layout.
-
 
 Scroll brings back _some_ of the magic of newspapers.
 

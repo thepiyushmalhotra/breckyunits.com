@@ -1,12 +1,12 @@
 The Box Method of Science
 =========================
 
-
 [Image Omitted]
  S = side length of box. P = pattern. t = time. V = voxel side length.
 
-Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
+March 30, 2024
 
+Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
 
 As the size of the cube increases, the number of concepts needed increases. An increasing cube size captures more phenomena. You need more concepts for a box containing the earth than for a thimble containing a pebble. As your voxel size--the smallest unit of measurement--decreases, the number of concepts needed increases. As your time horizon increases, the number of concepts needed increases, as patterns combine to produce novel patterns in combinatorial ways, and some patterns only unfold over a certain period of time. Although, past a certain amount of time, maybe everything just repeats again. In fact, it seems likely that the number of concepts _C_ would grow sigmoidally with each of these factors.
 

@@ -5,6 +5,8 @@ by Breck Yunits
 [Image Omitted]
  Pricking my finger then measuring the level of ketones in my blood.
 
+April 16, 2024
+
 I pricked my finger and moved a disposable ketone measuring stick into the newly formed drop of blood. I was checking my "blood ketone" levels. If the result came back higher than 0.8 mmol/L, I would be in a state of "ketosis".
 
 The meter showed "1.0 mmol/L". Success! I was still in ketosis.
@@ -118,7 +120,6 @@ A ketone is small. Very small. The diameter of a ketone is 0.6 nanometers. Have 
  https://en.wikipedia.org/wiki/Ketone_bodies
  https://en.wikipedia.org/wiki/Nanometre
 
-
 There are 3 kinds of ketones. They have long chemical names. BHB ($C_4H_8O_3$), which makes up about 70-80% of your ketones. AA ($C_4H_6O_3$), which makes up around 20%. And Acetone ($C_3H_6O$), which makes up around 2%.
  https://en.wikipedia.org/wiki/%CE%92-Hydroxybutyric_acid
  https://en.wikipedia.org/wiki/Acetoacetic_acid
@@ -153,9 +154,7 @@ For ketones to reach brain cells, they travel in the blood plasma from your live
  https://en.wikipedia.org/wiki/Citric_acid_cycle
  https://en.wikipedia.org/wiki/Adenosine_triphosphate
 
-
 ***
-
 
 Okay. So I can describe a ketone. What about a _millimole of ketones_?
 
@@ -174,7 +173,6 @@ The amount of whole blood (blood cells + blood plasma), varies depending on the 
 
 [Image Omitted]
  If you took out all my blood, this is roughly what it would look like.
-
 
 I will leave the math in the comments, but the final answer is 0.5mL worth of ketones.
 
@@ -217,7 +215,6 @@ There are around four lithium salt compounds in use for medicinal purposes. Lith
 
 Because it is the dominant form, for the rest of this post when I say "lithium" I am referring to Lithium Carbonate.
 
-
 Just like ketones, lithium is tiny. In fact, according to my calculations, a molecule of lithium is around 2.5x smaller than a ketone molecule.
 
 Unlike ketones, you cannot check your lithium levels at home (though some people are working on that). Instead, to measure lithium levels your blood needs to be processed in a lab using techniques with names like Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy.
@@ -245,7 +242,7 @@ Another lithium test a lab can do is called an RBC test. This test measures the 
 
 This seems to explain why my lithium slingshot did not happen immediately after stopping lithium but in the weeks after. Once you stop taking lithium, the lithium content in your blood runs out fast, but it takes more time for the lithium to leave all of your cells. Then, those cells, which had been working in a lithium rich environment, seem vulnerable to catching a manic fire. The lithium slingshot.
 
-Can we _see_ the amounts of lithium in the brain? Apparently we can, to some degree, using MRS. Ketones too. I looked into being able to take my own MRS pictures at home, but didn't have a place to put one of the machines. Oh yeah, and they cost $500,000! 
+Can we _see_ the amounts of lithium in the brain? Apparently we can, to some degree, using MRS. Ketones too. I looked into being able to take my own MRS pictures at home, but didn't have a place to put one of the machines. Oh yeah, and they cost $500,000!
  https://pubmed.ncbi.nlm.nih.gov/10793316/
  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6856437/
  https://en.wikipedia.org/wiki/In_vivo_magnetic_resonance_spectroscopy
@@ -324,7 +321,6 @@ I was thrilled to find this information on Wikipedia, but still it seemed like a
 Finally I had enough raw material to start building my first structured, clean, tabular dataset to answer my question. It was a bit of data cleaning grunt work, and v1 is pretty ugly and I'm sure is packed with loads of errors, but finally I had a dataset of the reference levels for around 240 chemicals found in human blood.
  https://breckyunits.com/ketones/chemicalBloodTests.html
 
-
 So now I can finally answer: one millimole, what are the odds?
 
 ***
@@ -368,8 +364,7 @@ I went back and added 8 drugs by hand to my dataset including the common bipolar
  Valproate (aka Depakote) is often ranked 2nd among bipolar medications and also has overlap with the ketone/lithium range. It also crosses the blood brain barrier by passive diffusion. Image Source: NIH
   https://3d.nih.gov/entries/3dpx-008821
 
-So I expanded my dataset yet still found it unlikely that 2 random chemicals would have therapeutic level overlaps. At this point, I am confident concluding this leg of my research journey. With this additional data I would not change my initial bet. My answer is: *the slight overlap in the therapeutic blood level ranges of the 2 top bipolar drugs with the therapeutic level of ketones is a strong clue to some underlying biomechanisms*. 
-
+So I expanded my dataset yet still found it unlikely that 2 random chemicals would have therapeutic level overlaps. At this point, I am confident concluding this leg of my research journey. With this additional data I would not change my initial bet. My answer is: *the slight overlap in the therapeutic blood level ranges of the 2 top bipolar drugs with the therapeutic level of ketones is a strong clue to some underlying biomechanisms*.
 
 ***
 
@@ -387,11 +382,10 @@ But for now, if you'll excuse me, I've got fats to eat, and fingers to prick.
 
 ---
 
-
 Notes
 =====
 
-^ketoacidosis: There is a dangerous condition involving ketones called ketoacidosis affecting mostly diabetics which is associated with around 200,000 cases and 600 fatalities per year in the US. 
+^ketoacidosis: There is a dangerous condition involving ketones called ketoacidosis affecting mostly diabetics which is associated with around 200,000 cases and 600 fatalities per year in the US.
  https://en.wikipedia.org/wiki/Ketoacidosis
  https://www.cdc.gov/mmwr/volumes/67/wr/mm6712a3.htm
 

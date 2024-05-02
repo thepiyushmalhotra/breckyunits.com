@@ -1,6 +1,7 @@
 Why is it best to do one thing really, really well?
 ===================================================
 
+March 22, 2010
 
 Google has a list of 10 principles that guide its actions. Number 2 on this list is:
  http://www.google.com/intl/en/corporate/tenthings.html
@@ -8,7 +9,6 @@ Google has a list of 10 principles that guide its actions. Number 2 on this list
 It's best to do one thing really, really well.
 
 This advice is so often repeated that I thought it would be worthwhile to think hard about why this might be the case.
-
 
 Why is it best to do one thing really, really well?
 ===================================================
@@ -22,7 +22,7 @@ A simpler analogy: You can make Italian food and Chinese food in the same restau
 
 Why the _"really, really"_?
 ===========================
-My English teacher would have told me that at least one of the "really"'s was unnecessary. But if you think about the statement in terms of math having the two "really"'s makes sense. 
+My English teacher would have told me that at least one of the "really"'s was unnecessary. But if you think about the statement in terms of math having the two "really"'s makes sense.
 
 Let's define doing one thing well as being in the top 10% of companies that do that thing. Doing one thing really well means being in the top 1% of companies that do that thing. Doing one thing really, really well means being in the top 0.1% of companies that do that thing.
 

@@ -1,6 +1,8 @@
 Blog Posts, Sorted by Sleep
 ===========================
 
+April 5, 2024
+
 Have you ever examined the correlation between your writing behavior and sleep?
 
 I've written some things in my life that make me cringe. I might cringe because I see some past writing was naive, mistaken, locked-in, overconfident, unkind, insensitive, aggressive, or grandiose.
@@ -12,7 +14,6 @@ For this post I combined 2,500 nights of sleep data with 58 blog posts. A 7 year
 [Image Omitted]
  Interactive version.
   https://www.datawrapper.de/_/YsKWU/
-
 
 ~7 Hours is the Cutoff
 ======================
@@ -59,7 +60,7 @@ On the other hand, because the importance of ideas varies by so many orders of m
 
 Writing data reflects the current phenomena in your brain
 =========================================================
-It seems when I sleep less, my brain is in more of a pleasure seeking state, has a bias to action ("don't think, just do"), and feels less pain than in a more rested state. Less sleep means less critical thinking. Less sleep seems to make me less willing to invest the time in rewiring my brain to correct mistaken thought habits. 
+It seems when I sleep less, my brain is in more of a pleasure seeking state, has a bias to action ("don't think, just do"), and feels less pain than in a more rested state. Less sleep means less critical thinking. Less sleep seems to make me less willing to invest the time in rewiring my brain to correct mistaken thought habits.
 
 Grateful for FitBit
 ===================

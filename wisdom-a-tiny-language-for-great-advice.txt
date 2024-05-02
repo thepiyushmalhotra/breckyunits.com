@@ -1,6 +1,7 @@
 Wisdom: a Tiny Language for Great Advice
 ========================================
 
+May 6, 2021
 
 I am aware of two dialects for advice. I will call them FortuneCookie and Wisdom. Below are two examples of advice written in FortuneCookie.
 
@@ -16,7 +17,6 @@ Charlie Munger
 🔬 I don't know of a single case of a startup that felt they spent too much time talking to users.
 Jessica Livingston
 
-
 If you only looked at certain dimensions, you could conclude the FortuneCookie versions are better. They are shorter. They are not attached to an author's name which seems to make them simpler.
 
 But all things considered, the FortuneCookie versions are worthless compared to the Wisdom versions.
@@ -28,7 +28,7 @@ Like FortuneCookie, Wisdom is some advice that can change your perspective or gu
 Unlike FortuneCookie, Wisdom needs to be backed by a large dataset. For example, in 2009 I wrote:
  https://breckyunits.com/twelve-tips-to-master-programming-faster.html
 
-🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding. 
+🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
 
 Ten years later, after gathering data I can now write:
  https://github.com/breck7/30000hours
@@ -51,8 +51,6 @@ Marc Andreessen
 Coming up with great pieces of Wisdom is hard. Like a good Proof of Work algorithm, Wisdom is hard to generate and easy to test. I know who Charlie Munger is, so I know he's probably met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't come up with any. I know who Jessica Livingston is and I know she's familiar with thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't think of any.
 
 If you have great experience, I urge you to not put it out there in the form of FortuneCookie, but chew on it until you can form it into Wisdom. These are very valuable contributions to our common blockchain.
-
-
 
 Notes
 =====

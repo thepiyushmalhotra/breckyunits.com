@@ -1,8 +1,9 @@
 Medical Records to the Moon
 ===========================
 
-A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: *in the future will someone's medical record stretch to the moon?*
+March 2, 2020
 
+A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: *in the future will someone's medical record stretch to the moon?*
 
 Medical Records at the Provider
 ===============================

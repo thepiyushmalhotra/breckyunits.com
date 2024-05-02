@@ -1,9 +1,9 @@
 NudgePad: An IDE in Your Browser
 ================================
 
+September 23, 2013
 
 Making websites is slow and frustrating.
-
 
 I met a young entrepreneur who wanted to create a website for his bed and breakfast. He had spent dozens of hours with different tools and was no closer to having what he wanted.
 
@@ -34,7 +34,6 @@ Which is why we're building a third option. We are building an open source, gene
 [Image Omitted]
 
 Here's a short video demonstrating how it works:
-
 
 NudgePad is in early beta, but is powering a number of live websites  like these:
 

@@ -1,8 +1,9 @@
 Are you Making Something that will become ‘Absolutely Irrelevant’?
 ==================================================================
 
-I’m reading a fascinating biography of Warren Buffett right now(Snowball).
+January 5, 2009
 
+I’m reading a fascinating biography of Warren Buffett right now(Snowball).
 
 So Warren Buffett, Bill Gates, and a few other gazillionaires are sitting around at a resort in British Columbia drinking some cokes and shooting the shit. It is 1990, George Bush is president and the Internet revolution is still a few years away.
 
@@ -10,9 +11,7 @@ The trillionaires are having a discussion about what companies will have a banne
 
 Maybe I’m overplaying this, but I thought it was a very sharp insight, concisely said. You can apply the pattern to a number of different industries:
 
-
 Cell phones: “you get rid of landlines so knowing how to make landlines becomes absolutely irrelevant.”
-
 
 Yet to happen(and may or may not happen,  just trying to illustrate the thought process):
 
@@ -30,12 +29,10 @@ I think it would be a good excercise for startup founders to try and apply this 
 
 Comment from Jeremy: i just finished reading through the book, and thoroughly enjoyed it as well. My second favorite tidbit was when Buffett and Gates were with Gates parents and a group of other biz people, and Gates father asked everyone what was the single biggest factor to each person's success. Bill Gates and Buffett's responses were the same: "Focus"
 
-
 ---
 
 Note: I imported this post from my original Wordpress blog.
  https://breckyunits.com/some-old-blogs.html
-
 
 Original post
  https://web.archive.org/web/20090201144117/http://www.breckyunits.com/web-startups/2009/01/05/are-you-making-something-that-will-become-absolutely-irrelevant/

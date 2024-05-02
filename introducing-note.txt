@@ -1,9 +1,9 @@
 Introducing Note
 ================
 
+December 14, 2012
 
 Note is a structured, human readable, concise language for encoding data.
-
 
 XML to JSON to Note
 ===================

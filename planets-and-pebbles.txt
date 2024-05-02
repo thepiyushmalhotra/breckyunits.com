@@ -1,6 +1,8 @@
 Planets and Pebbles
 ===================
 
+November 26, 2012
+
 For todo lists, I created a system I call planets and pebbles.
 
 [Image Omitted]

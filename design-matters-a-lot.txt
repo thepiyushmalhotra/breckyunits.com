@@ -1,6 +1,7 @@
 Design Matters. A lot.
 ======================
 
+July 2, 2010
 
 A year ago I wrote a post titled The Truth about Web Design where I briefly argued that "design doesn't matter a whole lot."
  https://breckyunits.com/the-truth-about-web-design.html
@@ -8,7 +9,6 @@ A year ago I wrote a post titled The Truth about Web Design where I briefly argu
 My argument was: "you go to a website for the utility of it. Design is far secondary. There are plenty of prettier things to look at in the real world."
 
 I do think the real world is a pretty place, but about design, I was completely wrong.
-
 
 I now think design is incredibly important, and on par with engineering. I used to think a poorly designed product was a matter of a company setting the right priorities, now I think it reflects ignorance, laziness or mediocrity. If a company engineers a great product but fails to put forward a great design, it says:
 
@@ -18,9 +18,9 @@ I now think design is incredibly important, and on par with engineering. I used 
 
 Why Design is Important, In Princple
 ====================================
-For nearly a decade I've always dreamed of my ideal computer as no computer at all. I wanted a computer smaller than the smallest smartphone, that would always be ready to take commands but would also be out of site. In other words, I've always thought of computers purely as problem solving tools--as a means to an end. 
+For nearly a decade I've always dreamed of my ideal computer as no computer at all. I wanted a computer smaller than the smallest smartphone, that would always be ready to take commands but would also be out of site. In other words, I've always thought of computers purely as problem solving tools--as a means to an end.
 
-I want the computer to solve the problem and get out of my way. Computers are ugly. The world is beautiful. I like to look at other people, the sky, the ocean and not a menu or a screen. I didn't care about the style in which the computer solved my problem, because no matter how "great" it looked it couldn't compare to the natural beauty of the world. 
+I want the computer to solve the problem and get out of my way. Computers are ugly. The world is beautiful. I like to look at other people, the sky, the ocean and not a menu or a screen. I didn't care about the style in which the computer solved my problem, because no matter how "great" it looked it couldn't compare to the natural beauty of the world.
 
 I was wrong.
 
@@ -30,7 +30,7 @@ Why Design is Important, In Practice
 ====================================
 If that argument didn't make sense, there are a number of practical reasons why a great design is important.
 
-*A great design can unlock more value for the user.* Dropbox overcomes herculean engineering challenges to work, but if it weren't for its simple, easy to use design it wouldn't be nearly as useful. 
+*A great design can unlock more value for the user.* Dropbox overcomes herculean engineering challenges to work, but if it weren't for its simple, easy to use design it wouldn't be nearly as useful.
 
 *A great design can be the competitive edge in a competive market.* Mint.com had a great design, and it bested a few other startups in that emerging market.
 
@@ -40,11 +40,11 @@ If that argument didn't make sense, there are a number of practical reasons why 
 
 What to do if you aren't good at design
 =======================================
-Personally, I'm a terrible designer. Like many hackers, I can program but I can't paint. What should we do? 
+Personally, I'm a terrible designer. Like many hackers, I can program but I can't paint. What should we do?
 
-First, learn to appreciate the importance of design. 
+First, learn to appreciate the importance of design.
 
-Second, learn to work well with designers. Don't treat design as secondary to engineering. Instead, think of how you can be a better engineer to execute the vision of your design team. 
+Second, learn to work well with designers. Don't treat design as secondary to engineering. Instead, think of how you can be a better engineer to execute the vision of your design team.
 
 Great engineering can't compensate for poor design just as great design can't compensate for poor engineering. To create great products, you need both. Don't be lazy when it comes to design. It could be the make or break difference between your product's success or failure.
 

@@ -1,8 +1,9 @@
+date 5/09/2023
+groups All BipolarDisorder Life
+
 import header.scroll
 title The Magnificent Multi-Agent Mind of Marvin Minsky
 startColumns 2
-date 5/09/2023
-groups All BipolarDisorder Life
 
 If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
  dateline
@@ -61,7 +62,7 @@ My guess is financial pressures. As Sinclair wrote: "It is difficult to get a ma
 
 Minsky certainly didn't figure it all out. You'll see in his interviews he is very clear about how much we don't understand and he talks about the future and what devices we need to figure out more of the puzzle. Researchers at places like Numenta and Neuralink continue down the path that Minsky started.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Numenta
- https://neuralink.com/ Neuralink 
+ https://neuralink.com/ Neuralink
 
 He didn't figure it all out but he certainly found a solid foundation. The people in computer science who took his ideas seriously are now building AIs that are indistinguishable from magic. Whereas the people in the mental health fields who have ignored his ideas in favor of the DSM continue to make things worse.
 
@@ -81,4 +82,3 @@ He didn't figure it all out but he certainly found a solid foundation. The peopl
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
 
 import allFooter.scroll
-

@@ -1,9 +1,10 @@
 How James Park built FitBit
 ===========================
 
-
 Introduction
 ============
+March 11, 2021
+
 I have been a FitBit user for many years but did not know the story behind the company. Recently came across a podcast by Guy Raz called How I Built This. In this episode he interviews James Park who explains the story of FitBit.
  https://www.npr.org/podcasts/510313/how-i-built-this
  https://www.npr.org/2020/04/22/841267648/fitbit-james-park
@@ -14,7 +15,6 @@ Transcript of _How I Built This_ with James Park
 ================================================
 [Image Omitted]
 *Guy:* From NPR, It's How I Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. Here we go. I'm Guy Raz, and on the show today, how the Nintendo Wii inspired James Park to build a device and then a company that would have a huge and lasting influence on the health and fitness industry, Fitbit.
-
 
 It's taken me a few weeks to get motivated about exercise. This whole pandemic thing just had me in a state of anxiety and it messed with my routine, but I was inspired to jump back into it about two weeks ago, after watching my 11-year-old proudly announce his daily step count recorded on his Fitbit. Now, fitness isn't all that important to him. He's 11. But the gamification of fitness, the idea that it could be fun to hit 5,000 or 10,000 steps a day, that's what matters.
 
@@ -469,7 +469,7 @@ Building a community
 
 *James:* Well, it was a category, but it wasn't something that we had realized. We use this database from the government that was thousands of different activities that people would do.
 
-*Guy:* Oh, I see. 
+*Guy:* Oh, I see.
 
 *James:* And so, it was an option. We just didn't think people would with log that.
 

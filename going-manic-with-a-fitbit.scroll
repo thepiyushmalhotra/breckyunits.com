@@ -1,8 +1,9 @@
+date 1/13/2018
+groups All BipolarDisorder
+
 import header.scroll
 title Going Manic with a FitBit
-date 1/13/2018
 
-groups All BipolarDisorder  
 import mediumColumns.scroll
 
 image mania/3yrsSleepData.webp
@@ -119,4 +120,3 @@ Next time I start acting on a grand idea, I hope my band and I will do the healt
  https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium
 
 import allFooter.scroll
-

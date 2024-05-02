@@ -4,8 +4,9 @@ SafeFS
 _Or: If lawyers invented a filesystem_
 ======================================
 
-Today the trade group _Lawyers Also Build In America_ announced a new file system: SAFEFS. This breakthrough file system provides 4 key benefits:
+January 27, 2023
 
+Today the trade group _Lawyers Also Build In America_ announced a new file system: SAFEFS. This breakthrough file system provides 4 key benefits:
 
 1. Advanced obfuscation keeps jobs SAFE
 =======================================

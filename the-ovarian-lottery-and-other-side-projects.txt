@@ -1,11 +1,11 @@
 The Ovarian Lottery and Other Side Projects
 ===========================================
 
+August 11, 2010
 
-I've had some free time the past two weeks to work on a few random ideas I've had. 
+I've had some free time the past two weeks to work on a few random ideas I've had.
 
 They all largely involve probability/statistics and have no practical or monetary purpose. If I was a painter and not a programmer you might call them "art projects".
-
 
 One project deals with categorizing data into "Extremistan" and "Mediocristan". Taleb's books, the Black Swan and Fooled by Randomness, list a number of different examples for each, and I thought it would be interesting to extend that categorization further.
  https://www.fooledbyrandomness.com

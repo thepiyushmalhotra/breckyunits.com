@@ -1,11 +1,11 @@
 Type the World
 ==============
 
+January 20, 2020
 
 In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.
 
 This might be hard to follow unless you have experience working with types, whether that be types in programming languages, or types in databases, or types in Excel. Actually, this may be hard to follow regardless of your experience. I'm not sure I follow it. Maybe just stay for the links. Skimming is encouraged.
-
 
 First, from the Land of Character Sets
 ======================================
@@ -125,7 +125,7 @@ In the past 30 years, central code hubs have emerged. There were early ones like
  https://sourceforge.net/
  http://github.com/
 
-In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's CRAN but the breakout star is 2010's NPM, which has more packages than the package managers of all other languages combined. 
+In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's CRAN but the breakout star is 2010's NPM, which has more packages than the package managers of all other languages combined.
  https://cran.r-project.org/
  http://npmjs.com/
 

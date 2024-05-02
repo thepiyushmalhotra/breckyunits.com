@@ -1,16 +1,16 @@
 The Three Byte Fix
 ==================
 
-
 A Small Open Source Success Story
 =================================
 
 Adding 3 missing characters made code run _20x_ faster.
 =======================================================
 
-
 Map chart slowdown
 ==================
+June 9, 2022
+
 "Your maps are slow".
 In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
  https://ourworldindata.org/
@@ -25,10 +25,8 @@ To color our maps an engineer on our team utilized a very effective technique ca
 
 Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
 
-
 Benchmarking ckmeans
 ====================
-
 We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package Simple Statistics.
  https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js
  https://github.com/simple-statistics/simple-statistics
@@ -49,7 +47,6 @@ Opening an issue
 After triple checking my logic, I created an issue on the Simple Statistics repo with my benchmark script.
  https://github.com/simple-statistics/simple-statistics/issues/520
 
-
 A fix!
 ======
 Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
@@ -60,7 +57,6 @@ if (iMax < matrix.length - 1) {
 
 After:
 if (iMax < matrix[0].length - 1) {
-
 
 He had read through the original ckmeans C++ implementation and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
  https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp
@@ -84,7 +80,6 @@ You can easily see the difference when you look at time needed per additional ro
 
 [Table Omitted]
 
-
 Merged
 ======
 Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
@@ -107,7 +102,6 @@ Related Posts
 
 Notes
 =====
-
 - The industry term for this type of map is Choropleth map.
  https://en.wikipedia.org/wiki/Choropleth_map
 - To be precise the algo was `O(knlog(n))` time, where k is the number of groups. But I've simplified for this story as that detail is not important.

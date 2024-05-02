@@ -1,6 +1,7 @@
 If stories are lies why do they work?
 =====================================
 
+January 16, 2020
 
 I often rail against narratives. I think stories always oversimplify things, have hindsight bias, and often mislead. I spend a lot of time trying to invent tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain). And yet, as much as I rail on stories, I have to admit stories work.
  https://breckyunits.com/narratives-misrepresent-complex-systems.html
@@ -11,7 +12,6 @@ I read an article that put it more succinctly:
 
 Why storytelling?
 Simple: nothing else works.
-
 
 I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. Stories make people feel something. They get people going.
 

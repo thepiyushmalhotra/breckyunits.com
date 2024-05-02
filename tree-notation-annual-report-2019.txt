@@ -1,6 +1,7 @@
 2019 Tree Notation Annual Report
 ================================
 
+December 9, 2020
 
 _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
 
@@ -9,7 +10,6 @@ In 2017 I wrote a post about a half-baked idea I named TreeNotation.
  https://treenotation.org
 
 Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is sub-optimal and why we need more complex syntax."
-
 
 My template for this (and maybe future) reports will be as follows:
 
@@ -67,7 +67,6 @@ I think to represent the jumps from binary to symbols to systems, there is a bes
 
 To get a little more concrete, let me show a rough approximation of how using Tree Notation you could imagine a document that starts with just the concept of a bit (here denoted on line 2 as ".") and work your way up to defining digits and characters and words and entities. There is a lot of hand-waving going on here, which is why Tree Notation is still, at best, a half-baked idea.
 
-
 .
 ...
 0
@@ -96,7 +95,6 @@ A SUNSA would greatly _reduce the cost_ of a common knowledge base of science. W
 By encoding all of science into a universal syntax, in addition to tremendous pedagogical benefits, we could take analogies like this:
 
 [Image Omitted]
-
 
 And make them actual concrete visualizations.
 

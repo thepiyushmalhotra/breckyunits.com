@@ -1,12 +1,13 @@
 The Churn Rate of Data
 ======================
 
+June 15, 2010
 
 I think it's interesting to ponder the value of information over it's lifetime.
 
 Different types of data become outdated at different rates. A street map is probably mostly relevant 10 years later, while a 10 year old weather forecast is much less valuable.
 
-Phone numbers probably last about 5 years nowadays. Email addresses could end up lasting decades. News is often largely irrelevant after a day. For a coupon site I worked on, the average life of a coupon seemed to be about 2 weeks. 
+Phone numbers probably last about 5 years nowadays. Email addresses could end up lasting decades. News is often largely irrelevant after a day. For a coupon site I worked on, the average life of a coupon seemed to be about 2 weeks.
 
 If your data has a long half life, then you have time to build it up. Wikipedia articles are still valuable years later.
 

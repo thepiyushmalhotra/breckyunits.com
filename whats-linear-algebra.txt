@@ -1,11 +1,11 @@
 What's Linear Algebra?
 ======================
 
+December 3, 2009
 
 What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
 
 Today's topic is linear algebra. I know almost nothing about vectors, matrices, and linear algebra.
-
 
 I did not take a Linear Algebra course in college. Multivariable calculus may have done a chapter on vectors, but I only remember the very basics: it's a size with a direction, or something like that.
 
@@ -25,7 +25,7 @@ But I have no idea when I should be using vectors, matrices, and other linear al
 
 There are lots of books that teach _how_ to do linear algebra. But are there any that explain _why_?
 
-Would everyone benefit from linear algebra just as everyone would benefit from knowing probability theory? Would I benefit? 
+Would everyone benefit from linear algebra just as everyone would benefit from knowing probability theory? Would I benefit?
 
 I don't know the answer to these questions. Fooled by Randomness revealed to me why probability is so incredibly important and inspired me to master it. Is there a similar book like that for linear algebra?
 

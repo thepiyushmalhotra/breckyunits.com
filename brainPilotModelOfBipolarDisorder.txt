@@ -1,13 +1,14 @@
 The Brain Pilot Model of Bipolar Disorder
 =========================================
 
+February 20, 2024
+
 A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
  https://www.metabolicmind.org
  https://breckyunits.com/bipolarKeto.html
 
 Today I want to explore a model of bipolar disorder that I've wondered about for a few years, after reading about Marvin Minsky's "Society of Mind" model of the brain. In the model I explore today, mania and depression are not the result of a chemical imbalance, nor the result of a metabolic disorder, but instead are two neural circuits that are learned over time and persist in the brain, whether active or not, like learned skills. This post explores the brain pilot model of bipolar disorder.
  https://breckyunits.com/marvin-minsky.html
-
 
 Brain Circuits
 ==============
@@ -74,7 +75,6 @@ I don't think the model explored above is a leading contender for finally explai
 - It explains why bipolar disorder has yet to be "solved". Bipolar disorder would be a brain agent disorder, and we can't yet "see" neural agents. Minsky's model of the brain is still conceptual. The biomarkers of the root cause of bipolar haven't been identified because it is not an organ or organelle or metabolite issue but is instead a brain circuit issue.
 - It explains why if you don't develop mania or depression relatively early in life, you are not likely to develop it later. Later in life your there is more established competition so forming a new brain pilot might be more difficult.
 - It explains certain behaviors present in the extremes as being logical actions for the respective brain pilots to maintain control of the host.
-
 
 Unanswered Questions
 ====================

@@ -1,13 +1,13 @@
 Many Narratives. All true.
 ==========================
 
+June 13, 2023
 
 I often write about the unreliability of narratives. It is even worse than I thought. Trying to write a narrative of one's own life in the traditional way is impossible. I am writing a narrative of my past year and realized while there is a single thread about *where* my body was and *what* I was doing there are _multiple_ independent threads explaining the *why*.
  https://breckyunits.com/if-stories-are-lies-why-do-they-work.html
 
 Luckily I now know this is what the science predicts! Specifically, Marvin Minsky's Society of Mind model.
  https://breckyunits.com/marvin-minsky.html
-
 
 The Model
 =========
@@ -45,6 +45,6 @@ If someone wants to write a true autobiography one approach is to just stick to 
 
 It would probably be a boring book.
 
-But to get into the _why_ and still be accurate, it probably would be best to tell it as a *multiple character* story. 
+But to get into the _why_ and still be accurate, it probably would be best to tell it as a *multiple character* story.
 
 Our brains are like a ship on a long voyage inhabited by multiple characters (picking up new ones along the way) who take turns steering. Impossible to fit that into a single narrative.

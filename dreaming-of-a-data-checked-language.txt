@@ -1,9 +1,9 @@
 Dreaming of a Data Checked Language
 ===================================
 
+January 3, 2020
 
 Speling errors and errors grammar are nearly extinct in published content. *Data errors*, however, are prolific.
-
 
 By data error I mean one the following errors: a statement without a backing dataset and/or definitions, a statement with data but a bad reduction(s), or a statement with backing data but lacking integrated context. I will provide examples of these errors later.
 
@@ -121,7 +121,6 @@ Perhaps what we need is a new color of squiggly:
 If we had a data checker that highlighted data errors we would eventually see a drastic reduction in data errors.
 
 If we had a checker for data errors appear today our screens would be full of blue. For example, click the button below to highlight just some of the data errors on this page alone.
-
 
 How Do We Reduce Data Errors?
 =============================

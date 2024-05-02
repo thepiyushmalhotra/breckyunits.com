@@ -2,10 +2,9 @@ A Mathematical Model of Copyright
 =================================
 by Breck Yunits
 
+May 26, 2023
 
 What is copyright, from first principles? This essay introduces a mathematical model of a *world with ideas*, then adds a *copyright system* to that model, and finally analyzes the *predicted effects* of that system.
-
-
 
 Part 1: The world
 =================
@@ -65,7 +64,6 @@ A public domain artifact $A^0$ is an artifact claimed to have no $\Psi$ or an ex
 Advertising
 ===========
 Advertising is a function $\varLambda$ that takes an $A$ and combines it with an orthogonal artifact $A_j^\Psi$ that serves $B_\Psi$.
-
 
 Part 3: Predicted effects of copyright
 ======================================
@@ -136,7 +134,7 @@ We should expect the number of Publishers $Q$ to decrease due to the increasing 
 
 Effect on U
 ===========
-We should expect censorship to go up to enforce copyright laws. 
+We should expect censorship to go up to enforce copyright laws.
 
 Effect on $A_©$
 ===============
@@ -145,7 +143,6 @@ We should expect the number of $A$ promoting © to increase to train $T$ to supp
 Effect on $T_{R-}$
 ==================
 We should expect the Non-Royal Class $T_{R-}$ to pay an increasing amount of $R$, deal with an increasing amount of noise from ${Z + F + K}$, and have increasingly lower skillsets $\overline{S}$.
-
 
 Conclusions
 ===========
@@ -156,9 +153,7 @@ A copyright system would have no effect on $I_{new}$ but instead increase the no
 
 A copyright system should also increasingly consolidate power in a small Royal Class $T_{R+}$.
 
-
 ---
-
 
 Notes
 =====

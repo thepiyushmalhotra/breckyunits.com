@@ -1,11 +1,11 @@
 Walking and other invisible tools of thought
 ============================================
 
+May 19, 2023
 
 There are tools of thought you can see: pen & paper, mathematical notation, computer aided design applications, programming languages, ... .
 
 And there are tools of thought you cannot see: walking, rigorous conversation, travel, real world adventures, showering, breathe & body work, ... ^chatgpt. I will write about two you cannot see: *walking* and *mentors inside your head*.
-
 
 ---
 
@@ -17,7 +17,6 @@ Why is walking so effective?
 ============================
 My bet is it has something to do with neural agents.
  https://breckyunits.com/marvin-minsky.html
-
 
 Fatigue Theory
 ==============

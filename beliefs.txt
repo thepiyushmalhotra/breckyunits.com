@@ -1,10 +1,9 @@
 Beliefs
 =======
 
-
+February 11, 2024
 
 What does it mean to say a person believes _X_, where _X_ is a series of words?
-
 
 This means that the person's brain has a neural weight wiring that not only can generate the phrase _X_ and synonyms of _X_, but the wiring is strong enough to guide their actions. Those actions might include not only motor actions, but internal trainings of other neural wirings.
 

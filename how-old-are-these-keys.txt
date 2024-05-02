@@ -4,11 +4,12 @@ How Old Are These Keys? Five Eras of Human Progress
  My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
   https://breckyunits.com/keyboard/index.html
 
+February 25, 2020
+
 One of the questions I often come back to is this: how much of our collective wealth is inherited by our generation versus created by our generation?
 
 I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
  https://breckyunits.com/keyboard/index.html
-
 
 The Five Waves of Symbols
 =========================
@@ -56,8 +57,9 @@ I made the thing as fun as I could given time constraints and then shipped.
 
 ---
 
-Update: I finally got around to making a chart with this data and adding colors to the keys.
+April 28, 2024
 
+Update: I finally got around to making a chart with this data and adding colors to the keys.
 
 ---
 
