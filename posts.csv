@@ -1,7 +1,8 @@
 date,title,permalink,groups,wordCount
+05/02/2024,Energy Clocks,theEnergyClock.html,All BipolarDisorder,781
 04/27/2024,A Higher Language,aHigherLanguage.html,All Life Thinking Writing,395
-04/23/2024,Hot Coffee,datasets.html,All Programming Thinking,651
-04/23/2024,Big O's Kitchen,bigOsKitchen.html,All Programming,306
+04/23/2024,Hot Coffee,datasets.html,All Programming Thinking,801
+04/23/2024,Big O's Kitchen,bigOsKitchen.html,All Programming,376
 04/22/2024,The Fastest in the World,fastest.html,All Life Thinking,319
 04/16/2024,Ketones vs Lithium,ketonesVsLithium.html,All BipolarDisorder,4990
 04/10/2024,The Future of the Term "Bipolar Disorder",bipolarTerm.html,All BipolarDisorder,846
@@ -21,7 +22,7 @@ date,title,permalink,groups,wordCount
 01/30/2024,Blogging as Therapy,bloggingAsTherapy.html,All BipolarDisorder Writing,481
 01/29/2024,Delusions,delusions.html,All BipolarDisorder,1714
 01/26/2024,On Eating Animals,eatingAnimals.html,All Society,834
-01/24/2024,Focusing on Bipolar Disorder,bipolarDisorder.html,All BipolarDisorder,2628
+01/24/2024,Focusing on Bipolar Disorder,bipolarDisorder.html,All BipolarDisorder,2744
 01/23/2024,Keto for bipolar was not talked about until very recently,bipolarKeto.html,All BipolarDisorder,410
 01/12/2024,Words are Worse than Weights,wordsAreWorseThanWeights.html,All Programming Writing TreeNotation Life,1870
 01/04/2024,If nature is doing it...,ifNatureIsDoingIt.html,All Thinking Life Startups,314
@@ -45,7 +46,7 @@ date,title,permalink,groups,wordCount
 10/07/2022,A scratch ticket with a positive expected value,scratch-ticket.html,All Startups,447
 09/01/2022,An Angel Investor's Data,an-angel-investors-data.html,All Startups,504
 08/30/2022,How the public domain can win,how-the-public-domain-can-win.html,All IntellectualFreedom,795
-06/09/2022,The Three Byte Fix,ckmeans.html,All Programming,909
+06/09/2022,The Three Byte Fix,ckmeans.html,All Programming,975
 02/28/2022,Upstream of Everything,upstream-of-everything.html,All Life Thinking,1219
 02/18/2022,Brain Pilots,brain-pilots.html,All BipolarDisorder Life,2647
 12/15/2021,Aftertext,aftertext.html,All TreeNotation Programming Writing,2000
@@ -65,10 +66,10 @@ date,title,permalink,groups,wordCount
 12/09/2020,2019 Tree Notation Annual Report,tree-notation-annual-report-2019.html,All TreeNotation Programming,3377
 03/02/2020,Medical Records to the Moon,medical-records-to-the-moon.html,All Thinking Society,1130
 03/02/2020,Musing on the Future of Healthcare,musing-on-the-future-of-healthcare.html,All Thinking Society,376
-02/25/2020,How Old Are These Keys? Five Eras of Human Progress,how-old-are-these-keys.html,All Thinking Society,526
+02/25/2020,How Old Are These Keys? Five Eras of Human Progress,how-old-are-these-keys.html,All Thinking Society,1512
 02/21/2020,An Unpopular Phrase,an-unpopular-phrase.html,All IntellectualFreedom,669
 02/09/2020,Integrity and Perseverance in Business ensure success (1853),integrity-and-perseverance-in-business-ensure-success.html,All Startups,177
-01/29/2020,Building a TreeBase with 6.5 million files,building-a-treebase-with-6.5-million-files.html,All TreeNotation Programming,6367
+01/29/2020,Building a TreeBase with 6.5 million files,building-a-treebase-with-6.5-million-files.html,All TreeNotation Programming,6996
 01/23/2020,Dataset Needed,dataset-needed.html,All Thinking Society Writing,402
 01/20/2020,Type the World,type-the-world.html,All Programming Thinking TreeNotation,2319
 01/16/2020,If stories are lies why do they work?,if-stories-are-lies-why-do-they-work.html,All Writing Life,591
@@ -130,8 +131,8 @@ date,title,permalink,groups,wordCount
 03/24/2010,The Invention of Free Will,the-invention-of-free-will.html,All Life,321
 03/22/2010,"Why is it best to do one thing really, really well?",why-is-it-best-to-do-one-thing-really-really-well.html,All Startups,871
 03/17/2010,The Hidden Benefits of Automation,the-hidden-benefits-of-automation.html,All Programming,393
-03/16/2010,Metrics for Programmers,metrics-for-programmers.html,All Programming,154
-03/08/2010,HackerNews Data: Visits as a Function of Karma,hackernews-data-visits-as-a-function-of-karma.html,All Programming Startups,100
+03/16/2010,Metrics for Programmers,metrics-for-programmers.html,All Programming,218
+03/08/2010,HackerNews Data: Visits as a Function of Karma,hackernews-data-visits-as-a-function-of-karma.html,All Programming Startups,129
 02/19/2010,"Don't talk about what you will do, talk about what you have done",dont-talk-about-what-you-will-do-talk-about-what-you-have-done.html,All Life,507
 02/17/2010,Why it's worth it to buy the book,why-its-worth-it-to-buy-the-book.html,All Life Thinking,341
 02/02/2010,The Least You Can Do,the-least-you-can-do.html,All Life,464
@@ -141,10 +142,10 @@ date,title,permalink,groups,wordCount
 01/15/2010,With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself,with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html,All Programming Life,954
 01/14/2010,"When forced to wait, wait!",when-forced-to-wait-wait.html,All Life,508
 01/12/2010,"How to Buy Low, Sell High",how-to-buy-low-sell-high.html,All Life,767
-01/05/2010,Flee the Bubble,flee-the-bubble.html,All Startups,602
+01/05/2010,Flee the Bubble,flee-the-bubble.html,All Startups,616
 12/28/2009,Checklist for New Products,checklist-for-new-products.html,All Startups,181
 12/24/2009,Diversification in Startups,diversification-in-startups.html,All Startups,1227
-12/23/2009,Thoughts on Setting Goals,thoughts-on-setting-goals.html,All Life,333
+12/23/2009,Thoughts on Setting Goals,thoughts-on-setting-goals.html,All Life,346
 12/20/2009,Problems Worth Solving,problems-worth-solving.html,All Programming Startups,484
 12/16/2009,Make Something 40% of Your Customers Must Have,make-something-40-of-your-customers-must-have.html,All Startups,605
 12/15/2009,SEO Made Easy: LUMPS,seo-made-easy-lumps.html,All Programming Startups,683
@@ -172,7 +173,7 @@ date,title,permalink,groups,wordCount
 07/28/2008,Bigger Telescopes are needed to Solve Global Warming,bigger-telescopes-are-needed-to-solve-global-warming.html,All Society,555
 07/28/2008,How to Cure the Hiccups,how-to-cure-the-hiccups.html,All Life,274
 07/27/2008,"Trying Shelfari, GoodReads, and LibraryThing",trying-shelfari-goodreads-and-librarything.html,All Thinking Life,432
-07/09/2008,Over Half of the World is Older Than Me,over-half-of-the-world-is-older-than-me.html,All Life,137
+07/09/2008,Over Half of the World is Older Than Me,over-half-of-the-world-is-older-than-me.html,All Life,147
 07/07/2008,Bloggers Turning Pro,bloggers-who-turned-pro-and-their-famous-last-words.html,All Writing,679
 05/14/2008,Daily Gas Use for the United States and the World,daily-gas-use-for-the-united-states-and-the-world.html,All Society,274
 05/08/2008,"Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles",analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html,All Startups,1053

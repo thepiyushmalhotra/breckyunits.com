@@ -1,12 +1,11 @@
 date 4/23/2024 5:00
 groups All Programming Thinking
-openGraphImage https://breckyunits.com/coffeeChart.png
 
 import header.scroll
 title Hot Coffee
 // aka Dataset Thinking
 
-startColumns 1
+thinColumns 1
 # Datasets are automated tests for world models
 
 byLine
@@ -133,6 +132,7 @@ image coffeeRaw.jpg
 
 ### The Data Visualized
 image coffeeChart.png
+ openGraph
  caption Interactive version.
   link https://www.datawrapper.de/_/1hhse/ Interactive version
 
@@ -141,6 +141,7 @@ endColumns
 
 wideColumns 1
 
+printTable
 Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
 1	Thermos	3	7.25	TRUE	149.9	147	144.6	141.2	138.2	137.1	134	132.8	131.1	129.3	127.2
 2	Yeti Covered	4	3.8	TRUE	146.6	141	136.7	132.5	129	125.6	123.4	121.6	118.5	117.6	115.7
@@ -154,7 +155,7 @@ Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
 
 endColumns
 
-startColumns 1
+thinColumns 1
 
 ### The Best Model of Heat
 [Coming in a future post]

@@ -5,7 +5,8 @@ January 5, 2010
 
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
 
-[Table Omitted]
+Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
+Bubble 3 0 Months 99% Good None-low
 
 What is "the bubble"?
 =====================

@@ -1,7 +1,200 @@
+/home/runner/work/breckyunits.com/breckyunits.com/theEnergyClock.scroll
+ date 2024-05-02
+ groups All BipolarDisorder
+ 
+ openGraphImage energyClock.jpeg
+  //
+   The load shedding in Kathmandu reminded me of the roating "clock" in Hunger Games 2.
+   Source: https://www.youtube.com/watch?app=desktop&v=velg-kWXoaY
+ 
+ import header.scroll
+ title Energy Clocks
+ 
+ ## Kathmandu and ATP
+  https://en.wikipedia.org/wiki/Kathmandu Kathmandu
+  https://en.wikipedia.org/wiki/Adenosine_triphosphate ATP
+ 
+ byLine
+ 
+ thinColumns 1
+ 
+ Just as I sat down for my first meal in Nepal, the power went out.
+ 
+ endSnippet
+ 
+ I looked around. No one flinched.
+ 
+ _I guess it's fine_, I thought.
+ 
+ I finished my naan, handed over some cash and walked out.
+ 
+ ***
+ 
+ It was quiet.
+ 
+ Power was out everywhere.
+ 
+ ***
+ 
+ I turned down an alley and walked a few blocks.
+ 
+ Eventually I came out onto a new street, into a new world.
+ 
+ Power was on over here.
+ 
+ The streets were crowded.
+ 
+ The air buzzed with noise from people and motorbikes and machines.
+ 
+ I arrived at the hookah bar to meet my Nepali friend.
+ 
+ ***
+ 
+ We talked about college in America and blew smoke rings.
+ 
+ Then the power went out.
+ 
+ "Welcome to Kathmandu", she said.
+ 
+ "Each neighborhood gets power for a few hours, then it rotates, like the hand on a clock".
+ 
+ ***
+ 
+ Kathmandu had a rotating energy clock.
+ 
+ Neighborhoods that were hustle and bustle one minute would be dead quiet the next.
+ 
+ It dawned on me that I had only been to cities with perpetually steady energy.
+ 
+ It had never even occurred to me that there could be anything different.
+ 
+ Kathmandu was different.
+ 
+ ***
+ 
+ The energy clock affected each and every day.
+ 
+ You made plans based on the energy clock.
+ 
+ Even the monkeys moved differently based on whether there was power or not.
+ 
+ No one I knew seemed to know the complete story as to why the power was the way that it was.
+ 
+ People just went on with their lives, unconscious as to how this rotating energy clock was subtlety affecting their plans.
+ 
+ ***
+ 
+ # 12 Years Later
+ 
+ Last year, I took my final bite of naan. I tossed all candy. I said no to pizza.
+ 
+ I was done eating carbs.
+  https://en.wikipedia.org/wiki/Carbohydrate carbs
+ 
+ I started eating fats instead.
+  https://en.wikipedia.org/wiki/Fat fats
+ 
+ I was trying to get my body to phase change into "ketosis".
+  https://en.wikipedia.org/wiki/Ketosis ketosis
+ 
+ The theory is that you can eat a keto diet to manage bipolar disorder.
+  link bipolarKeto.html keto diet to manage bipolar disorder
+ 
+ ***
+ 
+ Bipolar disorder is like having an energy clock.
+ 
+ Some months you have energy. And then...it goes out.
+ 
+ Steady energy would be better.
+ 
+ ***
+ 
+ I prick my finger to measure the ketones in my blood.
+  link ketonesVsLithium.html ketones in my blood
+ 
+ The blood tests tell me I've been in ketosis for 6 months.
+ 
+ By my calculations, it will take 3 years before I know for sure if keto can control my energy.
+ 
+ So far, so good.
+ 
+ I strive to be an objective scientist. So I stay skeptical most of the time.
+ 
+ But I allow myself a few moments to wonder...
+ 
+ _What if keto works?_
+ 
+ _What if I no longer hear the ticking of the bipolar energy clock_?
+ 
+ ***
+ 
+ My whole life I've been tossed around by the movement of the bipolar energy clock.
+ 
+ It's hard to explain to people who have steady energy just _how much_ the energy changes affect you.
+ 
+ The energy swings not only affect your activity levels, but they affect your decision making.
+ 
+ Risky leaps don't seem so risky when you have extra energy. And not taking big leaps, knowing that your power will soon go out, seems wasteful.
+ 
+ When the power turned on, it was a mad rush to get as much done as possible, because I knew the energy wouldn't last.
+ 
+ ***
+ 
+ Your understanding of the world fluctuates wildly.
+ 
+ I had no idea who or what was turning my power on and off.
+ 
+ I didn't know what "power" was.
+ 
+ I didn't even identify the bipolar pattern until my 20's.
+ 
+ Before that it was an unlabeled and unsolved mystery.
+ 
+ After that it was merely an unsolved mystery.
+ 
+ ***
+ 
+ All my attempts to control it failed.
+ 
+ Maybe the gods decided who got power and for how long.
+ 
+ I tried to do good things when the power came to me, hoping the gods would reward me with a steady supply.
+ 
+ But energy would always come and then leave.
+ 
+ ***
+ 
+ With keto, the energy clock might be controllable.
+ 
+ The key drivers of bipolar energy cycles may have finally been identified by scientists.
+  https://www.metabolicmind.org/ scientists
+ 
+ Mitochondria, ketones, glucose, ATP--these seem to be the key actors.
+ 
+ Could my years of alternating power surges and power outages be over?
+ 
+ Do people solve problems like this?
+ 
+ ***
+ 
+ Well, in Kathmandu they did.
+ 
+ In 2018 Nepal finally built a steady power supply.
+  https://kathmandupost.com/money/2018/05/14/entire-country-is-now-free-of-loadshedding
+ 
+ The Kathmandu energy clock is gone.
+ 
+ ***
+ 
+ Who knows, maybe bipolar energy clocks will soon be gone too.
+ 
+ import allFooter.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/aHigherLanguage.scroll
  date 2024-04-27
  groups All Life Thinking Writing
- openGraphImage https://breckyunits.com/tunnelByDallE.png
+ openGraphImage tunnelByDallE.png
   // Generated by DallE
    the tunnel coming out of the forest is made completely out of books and papers and screens--the floor, the ceiling, the walls, it is 100% books and papers and screens. It previously extended out of the forest past the cliff above the void to nowhere. It was a tunnel of books and papers and screens to nowhere. The man walking in it, putting his weight in it, caused it to collapse. so he is falling first and above him is all the books and papers and screens also falling from the disintegrating tunnel
  
@@ -10,7 +203,7 @@
  
  byLine
  
- startColumns 1
+ thinColumns 1
  
  I was walking in the woods and saw a path on my right. I had never seen this path before.
  endSnippet
@@ -76,13 +269,12 @@
 /home/runner/work/breckyunits.com/breckyunits.com/datasets.scroll
  date 4/23/2024 5:00
  groups All Programming Thinking
- openGraphImage https://breckyunits.com/coffeeChart.png
  
  import header.scroll
  title Hot Coffee
  // aka Dataset Thinking
  
- startColumns 1
+ thinColumns 1
  # Datasets are automated tests for world models
  
  byLine
@@ -209,6 +401,7 @@
  
  ### The Data Visualized
  image coffeeChart.png
+  openGraph
   caption Interactive version.
    link https://www.datawrapper.de/_/1hhse/ Interactive version
  
@@ -217,6 +410,7 @@
  
  wideColumns 1
  
+ printTable
  Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
  1	Thermos	3	7.25	TRUE	149.9	147	144.6	141.2	138.2	137.1	134	132.8	131.1	129.3	127.2
  2	Yeti Covered	4	3.8	TRUE	146.6	141	136.7	132.5	129	125.6	123.4	121.6	118.5	117.6	115.7
@@ -230,7 +424,7 @@
  
  endColumns
  
- startColumns 1
+ thinColumns 1
  
  ### The Best Model of Heat
  [Coming in a future post]
@@ -304,7 +498,7 @@
  title Big O's Kitchen
  
  # Menu Instructions
- startColumns 2
+ thinColumns 2
  
  Congrats on landing a job at Big O's Kitchen!
  
@@ -360,7 +554,7 @@
  
  endColumns
  
- startColumns 1
+ thinColumns 1
  image bigOs.png
   caption Interactive Version
    https://www.datawrapper.de/_/O5Pmu/
@@ -371,6 +565,7 @@
  
  ## Plates needed
  
+ printTable
  Ingredients	The Constant	The Log	The Linear	The Log Linear	The Quad	The Expo	The Factory
  1	1	1	1	1	1	2	1
  2	1	1	2	2	4	4	2
@@ -388,7 +583,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/fastest.scroll
  date 2024-04-22
  groups All Life Thinking
- openGraphImage https://breckyunits.com/theFastestByDallE.png
+ openGraphImage theFastestByDallE.png
   // Generated by DallE
    Make a highly minimalistic black and white illustration, featuring two hands—one of a child and one of an adult. The design focuses solely on their outlines. The child's hand is on the left and the adults is on the right. The adults hand is coming down at a slight angle. The childs hand is coming up at a slight angle. We see the back of the childs hand. We see the palm side of the adults hand. It looks like they were holding hands but something (that we dont see at all) pulled them apart. You can see that they are reaching as hard as they can to touch but the new distance between them is too hard to overcome
  
@@ -397,7 +592,7 @@
  
  byLine
  
- startColumns 1
+ thinColumns 1
  
  The girl lost the race.
  
@@ -520,12 +715,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  date 4/16/2024
  groups All BipolarDisorder
- openGraphImage https://breckyunits.com/ketones/bhb.png
  
  import header.scroll
  title Ketones vs Lithium
  byLine
- startColumns 2
+ thinColumns 2
  
  image ketones/ketoMojoFingerPrick.jpeg
   caption Pricking my finger then measuring the level of ketones in my blood.
@@ -637,6 +831,7 @@
  
  # What is a ketone?
  image ketones/bhb.png
+  openGraph
   caption Ketones are tiny molecules. The ketone BHB (beta-hydroxybutyrate) accounts for around 70-80% of your ketones. Image Source: NIH
    https://3d.nih.gov/entries/4223/2 NIH
  
@@ -1017,7 +1212,7 @@
  import header.scroll
  title The Future of the Term "Bipolar Disorder"
  byLine
- startColumns 2
+ thinColumns 2
  
  Now that I am writing more about Bipolar Disorder, and even have a category page for the term, I thought I should write a brief note on what I think about the term itself.
   dateline
@@ -1099,10 +1294,9 @@
 /home/runner/work/breckyunits.com/breckyunits.com/sleepWriting.scroll
  date 4/5/2024
  groups All BipolarDisorder Writing
- openGraphImage https://breckyunits.com/less-sleeping-less-thinking.png
  
  import header.scroll
- import mediumColumns.scroll
+ mediumColumns 1
  title Blog Posts, Sorted by Sleep
  
  Have you ever examined the correlation between your writing behavior and sleep?
@@ -1116,6 +1310,7 @@
   // Sleep data from my FitBit
  
  image less-sleeping-less-thinking.png
+  openGraph
   caption Interactive version.
    https://www.datawrapper.de/_/YsKWU/
  
@@ -1175,7 +1370,7 @@
  
  import header.scroll
  title Do Human Brains Molt?
- import mediumColumns.scroll
+ mediumColumns 1
  
  image lobsterMoltingChart.png
   caption In lobsters, a steroid hormone called ecdysteroid spikes during the pre-molt phase and declines sharply after molting. Source: J. Sook Chung
@@ -1211,7 +1406,7 @@
  import header.scroll
  title Final Tree Notation Report
  
- startColumns 2
+ thinColumns 2
  
  image treeNotationTimeline.png
  
@@ -1283,7 +1478,7 @@
  import header.scroll
  title The Box Method of Science
  
- startColumns 2
+ thinColumns 2
  
  image boxMethod.jpeg
   caption S = side length of box. P = pattern. t = time. V = voxel side length.
@@ -1352,7 +1547,7 @@
  
  import header.scroll
  title Open-Mindedness
- startColumns 2
+ thinColumns 2
  
  What is open-mindedness, from first principles? Here are some musings.
   dateline
@@ -1463,7 +1658,7 @@
  import header.scroll
  title A Different Kind of Mindmap
  byLine
- startColumns 2
+ thinColumns 2
  
  In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
   dateline
@@ -1494,7 +1689,7 @@
  import header.scroll
  title Synthesizing Knowledge
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  Everyone wants Optimal Answers to their Questions. What is an _Optimal_ Answer? An Optimal Answer is an Answer that uses all relevant Cells in a Knowledge Base. Once you have the relevant Cells there are reductions, transformations, and visualizations to do, but the difficulty in generating Optimal Answers is dominated by the challenge of assembling data into a Knowledge Base and making relevant Cells easily findable.
   dateline
@@ -1536,7 +1731,7 @@
  
  import header.scroll
  title The Brain Pilot Model of Bipolar Disorder
- startColumns 2
+ thinColumns 2
  
  A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
   https://www.metabolicmind.org research effort
@@ -1623,7 +1818,7 @@
  
  import header.scroll
  title Why do we subsidize fiction?
- import mediumColumns.scroll
+ mediumColumns 1
  image blackCup.jpg
  
  The color of the cup on my desk is black.
@@ -1665,7 +1860,7 @@
  import header.scroll
  title Beliefs
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  What does it mean to say a person believes _X_, where _X_ is a series of words?
   dateline
@@ -1692,7 +1887,7 @@
  import header.scroll
  title What is the role of the bipolar in society?
  
- startColumns 2
+ thinColumns 2
  
  It is estimated 2% of the population is bipolar. Sunday I explored: what if that was 98%? And today I explore, why isn't it 0%?
   link stableMoodDisorder.html what if that was 98%
@@ -1834,7 +2029,7 @@
  import header.scroll
  title Stable Mood Disorder
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  In our universe, an estimated 2% of humans have bipolar disorder. Imagine a universe where that ratio is flipped.
   dateline
@@ -1897,7 +2092,7 @@
  import header.scroll
  title Becoming a High Energy Person
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  Approximately every eighteen months, I start transitioning from a low energy person to a high energy person. No substances or triggering events are at fault. It is a natural cycle, as inevitable as the tides.
   dateline
@@ -1970,7 +2165,7 @@
  import header.scroll
  title Blogging as Therapy
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  I have kept this blog going for 14 years, through good times and bad. One thing I've noticed, particularly recently, is that, after getting a post out, my mind feels calmer the rest of the day. I also feel like each post helps me develop some actionable insight, however small, that I can use going forward in the future.
   dateline
@@ -2004,7 +2199,7 @@
  import header.scroll
  title Delusions
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  This is a post about delusions. In society and in myself.
   dateline
@@ -2096,7 +2291,7 @@
  import header.scroll
  title On Eating Animals
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  I went to a plastination exhibit for the first time last week. I got so much out of the visit and highly recommend checking one out if you haven't. I salute Gunther von Hagens, who pioneered the technique. You probably learn more anatomy walking around a plastination exhibit for 2 hours then you would learn in 200 hours reading anatomy books. There are a number of new insights I got from my visit, that I will probably write about in future posts, but one insight I hadn't thought about in years is how much humans and animals look alike once you open us up! And then of course I was confronted again with that lifelong and uncomfortable question that I usually like to avoid: humans and animals are awfully similar, is it morally wrong to eat animals? I thought now was as good a time as any to blog about it, thus forcing myself to think about it.
   https://en.wikipedia.org/wiki/Plastination plastination
@@ -2140,7 +2335,7 @@
  import header.scroll
  title Focusing on Bipolar Disorder
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  Assuming I keep blogging, which I hope I manage to do, I expect my posts will largely be about bipolar disorder. I've been blogging for fifteen years but never wrote publicly about bipolar disorder, even though I was diagnosed twenty years ago. I kept my diagnosis a secret.
   dateline
@@ -2315,7 +2510,7 @@
  
  // Adapted from one of my reddit posts: https://www.reddit.com/r/bipolarketo/comments/17k2pg3/keto_was_not_mentioned_in_the_top_50_books_on/
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  title Keto for bipolar was not talked about until very recently
  
@@ -2360,7 +2555,7 @@
  import header.scroll
  title Words are Worse than Weights
  
- startColumns 2
+ thinColumns 2
  
  For decades I had a bet that worked in good times and bad: time you invest in word skills easily pays for itself via increased value you can provide to society. If the tide went out for me I'd pick up a book on a new programming language so that when the tide came back in I'd be better equipped to contribute more. I also thought that the more society invested in words, the better off society would be. New words and word techniques from scientific research helped us invent new technology and cure disease. Improvements in words led to better legal and commerce and diplomatic systems that led to more justice and prosperity for more people. My read on history is that it was words that led to the start of civilization, words were our present, and words were our future. *Words were the safe bet*.
   dateline
@@ -2436,7 +2631,7 @@
  import header.scroll
  title If nature is doing it...
  
- startColumns 2
+ thinColumns 2
  
  You can easily imagine inventions that humans have never built before. How does one filter which of these inventions are practical?
   dateline
@@ -2483,7 +2678,7 @@
  import header.scroll
  title Could in vitro brains power AI?
  
- startColumns 2
+ thinColumns 2
  
  Happy New Year!
   dateline
@@ -2551,7 +2746,7 @@
  import header.scroll
  title I thought we could build AI experts by hand
  
- startColumns 2
+ thinColumns 2
  
  I thought we could build AI experts by hand. I bet everything I had to make that happen. I placed my bet in the summer of 2022. Right before the launch of the Transformer AIs that changed everything. Was I wrong? Almost certainly. Did I lose everything? Yes. Did I do the right thing? I'm not sure. I'm writing this to try and figure that out.
   dateline
@@ -2784,7 +2979,7 @@
  
  import header.scroll
  title A Manic Startup
- startColumns 2
+ thinColumns 2
  
  I am so disappointed in myself for having yet another manic cycle and hurting the people I love. I'm sharing this to come out publicly as having bipolar disorder, take 80% blame for my actions and words, and maybe help someone avoid my mistakes.
   dateline
@@ -2865,7 +3060,7 @@
  
  import header.scroll
  title A Proposal to Solve Government Forms Worldwide, Forever
- startColumns 2
+ thinColumns 2
  
  // chatGptSummary The proposed idea is to create a universal infrastructure for government forms worldwide, using Specifications, Instances, and Templates, with the aim of reducing time wasted on forms, increasing transparency, and benefiting citizens; however, obstacles such as resistance from those in power and the potential creation of more forms if the system becomes popular are acknowledged.
  
@@ -2931,7 +3126,7 @@
  
  import header.scroll
  title Many Narratives. All true.
- startColumns 2
+ thinColumns 2
  
  // chatGptSummary Writing a traditional narrative of one's own life is impossible because there are multiple independent threads explaining the why behind actions, as described by Marvin Minsky's Society of Mind model, where various neural agents with different activation energies drive the body, making it difficult to determine a single reason, suggesting that a true autobiography would require a multiple character story approach.
  
@@ -2989,7 +3184,7 @@
  
  import header.scroll
  title Live Free or AGI
- startColumns 2
+ thinColumns 2
  
  // chatGptSummary The author reflects on their childhood fear of the "Live Free or Die" license plates in New Hampshire, highlighting how the motto now represents a beautiful vision for humanity, while discussing the current focus of the tech industry on AGI (Artificial General Intelligence) and the potential conflicts between prioritizing AGI development and individual freedom, ultimately expressing a preference for prioritizing freedom over AGI.
  
@@ -3024,11 +3219,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/a-mathematical-model-of-copyright.scroll
  date 5/26/2023
  groups All IntellectualFreedom
- openGraphImage https://breckyunits.com/mamoc.png
+ openGraphImage mamoc.png
  
  import header.scroll
  title A Mathematical Model of Copyright
- startColumns 2
+ thinColumns 2
  byLine
  
  // chatGptSummary The essay introduces a mathematical model of copyright, analyzing its predicted effects, including an increase in fashions, fictions, and copies relative to distinct ideas, a decrease in the average thinker's skillset, a shift in the objective functions of artifacts towards serving the objectives of copyright holders, and consolidation of power in a small Royal Class.
@@ -3292,7 +3487,7 @@
  
  import header.scroll
  title Walking and other invisible tools of thought
- startColumns 2
+ thinColumns 2
  
  // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
  
@@ -3354,7 +3549,7 @@
  
  import header.scroll
  title The Magnificent Multi-Agent Mind of Marvin Minsky
- startColumns 2
+ thinColumns 2
  
  If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
   dateline
@@ -3440,7 +3635,7 @@
  
  import header.scroll
  title Enchained Symbols
- startColumns 2
+ thinColumns 2
  
  Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.
   dateline
@@ -3483,7 +3678,7 @@
  
  import header.scroll
  title A Public Domain Human
- startColumns 2
+ thinColumns 2
  
  # Open sourcing more of my life for honesty
  
@@ -3555,11 +3750,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/safeFs.scroll
  date 1/27/2023
  groups All IntellectualFreedom
- openGraphImage https://breckyunits.com/safeFS.png
+ openGraphImage safeFS.png
  
  import header.scroll
  title SafeFS
- startColumns 2
+ thinColumns 2
  
  ## _Or: If lawyers invented a filesystem_
  
@@ -3596,17 +3791,17 @@
 /home/runner/work/breckyunits.com/breckyunits.com/useTheSpine.scroll
  date 1/3/2023
  groups All TreeNotation Programming
- openGraphImage https://breckyunits.com/spines.png
  
  import header.scroll
  title Use the Spine
  
- startColumns 2
+ thinColumns 2
  
  Greater than 99% of the time symbols are read and written on surfaces with spines. You cannot get away from it. Yet still, amongst programming language designers there exists some sort of "spine blindness". They overlook the fact that no matter how perfect their language, it will always be read and written by humans on surfaces with spines, as surely as the sun rises. Why they would fight this and not embrace this is beyond me. Nature provides, man ignores.
   dateline
  
  image spines.jpg
+  openGraph
   caption My M1 MacBook screen, paper notebook, notepads, and my 1920 copy of Einstein's Theory of Relativity, all have spines.
  
  endSnippet
@@ -3644,12 +3839,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/oneTextarea.scroll
  date 12/30/2022
  groups All TreeNotation Programming
- openGraphImage https://breckyunits.com/oneTextarea.gif
  
  import header.scroll
  title One Textarea
  
- startColumns 2
+ thinColumns 2
  
  Forget all the "best practices" you've learned about web forms. _Everyone is doing it wrong_. The true best practice is this: every web form on earth can and should be replaced by a single textarea.
   dateline
@@ -3657,6 +3851,7 @@
    The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Tree Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
  
  image oneTextarea.gif
+  openGraph
   caption Every single web form on earth can (and should) be represented in a single textarea as plain text with no visible syntax using Tree Notation or a similar base 2D notation. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
    https://github.com/breck7/copypaster demo gif
  
@@ -3686,11 +3881,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/root-thinking.scroll
  date 11/16/2022
  groups All Programming Thinking TreeNotation
- openGraphImage https://breckyunits.com/rootThinking.png
+ openGraphImage rootThinking.png
  
  import header.scroll
  title Root Thinking
- startColumns 1
+ thinColumns 1
  
  I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
   dateline
@@ -3722,17 +3917,17 @@
 /home/runner/work/breckyunits.com/breckyunits.com/replies-always-welcome.scroll
  date 11/14/2022
  groups All Programming
- openGraphImage https://breckyunits.com/noNoReplies.png
  
  import header.scroll
  title Replies always welcome
  
- startColumns 2
+ thinColumns 2
  
  Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones, turns and walks away. That's the experience a `noreply` email address provides. Let's make email human again! If a human can't read and reply to emails it's not too hard to setup scripts that can at least do _something_ for the customer.
   dateline
  
  image noNoReplies.png
+  openGraph
   caption My automated campaign against no reply email addresses. Anytime a company sends a message from a noreply address they get this as a response. I am aware of the irony.
  
  endSnippet
@@ -3804,14 +3999,14 @@
 /home/runner/work/breckyunits.com/breckyunits.com/misinformationOrFakeNewsNeuralNetwork.scroll
  date 10/15/2022
  groups All
- openGraphImage https://breckyunits.com/misinformationOrFakeNews.jpg
  
  import header.scroll
  title Training a neural network to spot misinformation and fake news from a single image
  
- startColumns 2
+ thinColumns 2
  
  image misinformationOrFakeNews.jpg
+  openGraph
  
  Today I'm announcing the release of the image above, which is sufficient training data to train a neural network to spot misinformation or fake news with near perfect accuracy.
   dateline
@@ -3823,17 +4018,17 @@
 /home/runner/work/breckyunits.com/breckyunits.com/scratch-ticket.scroll
  date 10/07/2022
  groups All Startups
- openGraphImage https://breckyunits.com/seemewin.jpeg
  
  import header.scroll
  title A scratch ticket with a positive expected value
  
- startColumns 2
+ thinColumns 2
  
  In 2007 we came up with an idea for a scratch ticket that would give everyday Americans a positive expected value.
   dateline
  
  image seemewin.jpg
+  openGraph
   caption Still makes me laugh.
    https://www.youtube.com/watch?v=SgG63QYZaE0
  
@@ -3876,17 +4071,17 @@
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
  date 9/1/2022
  groups All Startups
- openGraphImage https://breckyunits.com/angelData.png
  
  import header.scroll
  title An Angel Investor's Data
  
- startColumns 2
+ thinColumns 2
  
  There's a trend where people are publishing _real data first_, and then insights. Here is my data from angel investing:
   dateline
  
  image angelData.png
+  openGraph
   caption Sigh. I am sharing my data as a png. We need a beautiful plain text spreadsheet language.
  
  endSnippet
@@ -3925,7 +4120,7 @@
  import header.scroll
  title How the public domain can win
  
- startColumns 2
+ thinColumns 2
  
  KEYMESSAGE If enough capable people start building public domain products we can change the world.
   dateline
@@ -3977,7 +4172,7 @@
  
  import header.scroll
  title The Three Byte Fix
- import mediumColumns.scroll
+ mediumColumns 1
  
  # A Small Open Source Success Story
  
@@ -4015,6 +4210,7 @@
  # Benchmarking shows closer to n² than n·log(n)
  Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
  
+ printTable
  Rows	Time
  1000	36000
  2000	53000
@@ -4070,12 +4266,13 @@
  
  You can easily see the difference when you look at time needed per additional row as the number of rows increases:
  
+ printTable
  Rows	LogLinear	Quadratic	Before	After
  100000	16.60964	100000	231.22	1.25
  200000	17.60964	200000	569.43	1.62
- <details>
- <summary>Full Dataset</summary>
  
+ expander Full Dataset
+ printTable
  Rows	LogLinear	Quadratic	Before	After
  1000	9966	1000000	36000	15000
  2000	21932	4000000	53000	29000
@@ -4083,8 +4280,6 @@
  20000	285754	400000000	1236000	52000
  100000	1660964	10000000000	23122000	125000
  200000	3521928	40000000000	113886000	324000
- 
- </details>
  
  # Merged
  Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
@@ -4112,7 +4307,7 @@
  import header.scroll
  title Upstream of Everything
  
- startColumns 2
+ thinColumns 2
  
  image sortingIdeas.svg
   caption A rough sketch of a semi-random selection of ideas stacked in order of importance. The biggest ideas, "upstream of everything", are at the bottom. The furthest upstream ideas we can never see. A better artist would have drawn this as an actual stream.
@@ -4188,7 +4383,7 @@
  
  // Note: I am publishing this about 2 years after writing it. I found it marked almost ready in a drafts folder on 1/22/2024. Reading it over I liked it, so gonna publish it now, almost entirely unedited, with a few typos fixed. Since it is unchanged I'm using the early written date. I'm guessing I took my time publishing it because I still wanted to work on it more back then, but other things came up and I forgot about it.
  
- startColumns 2
+ thinColumns 2
  
  image brainPilots/brainWithPilotsInGold.jpg
   caption What if there is not just one part of your brain that can say "I", but many?
@@ -4365,7 +4560,7 @@
  import header.scroll
  title Aftertext
  
- startColumns 2
+ thinColumns 2
  
  comment
   This invention falls somewhere between trivial and mildly interesting.
@@ -4550,17 +4745,17 @@
 /home/runner/work/breckyunits.com/breckyunits.com/write-thin-to-write-fast.scroll
  date 2021-10-15
  groups All Writing
- openGraphImage https://breckyunits.com/writeThin.png
  
  import header.scroll
  title Write Thin to Write Fast
  
- startColumns 2
+ thinColumns 2
  
  comment
   Todo: add caption support to image node.
  
  image writeThin.png
+  openGraph
  
  I'm always trying to improve my writing. I want my writing to be more meaningful, clearer, more memorable, and shorter. I would also like to write faster.
   dateline
@@ -4631,7 +4826,7 @@
  import header.scroll
  title User Methods
  
- startColumns 2
+ thinColumns 2
  
  In this essay I'm going to talk about a design pattern in writing applications that requires effectively no extra work and more than triples the power of your code. It's one of the biggest wins I've found in programming and I don't think this pattern is emphasized enough. The tldr; is this:
   dateline
@@ -4737,7 +4932,7 @@
  
  import header.scroll
  title Goblin Interviews Alexandra Elbakian
- startColumns 2
+ thinColumns 2
  
  In this video Dmitry Puchkov interviews Alexandra Elbakian. I do not speak Russian but had it translated. This is a first draft, the translation needs a lot of work, but perhaps it can be skimmed for interesting quotes. If you have a link to a better transcript, or can improve this one, pull requests are welcome (My whole site is public domain, and the source is on GitHub).
   link https://youtube.com/watch?v=RyTRyRwsTp4 video
@@ -5075,7 +5270,7 @@
  
  import header.scroll
  title Scrolldown now has Dialogues
- startColumns 2
+ thinColumns 2
  
  chat
   hey. I just added Dialogues to Scrolldown.
@@ -5110,7 +5305,7 @@
  import header.scroll
  title The Intellectual Freedom Amendment
  
- startColumns 2
+ thinColumns 2
  
  This post is written for people who already are "partisans" on the issues of copyrights and patents. Here I am not trying to educate newcomers on the pros of Intellectual Freedom. I am writing to those who are already strong supporters of open source, @Sci-Hub@, the ##Internet Archive##, and others. To that crowd I am trying to plant the seed for a new political strategy. If you think that copyright and patent laws _could be_ a root contributor to some of the big problems of our day, like misinformation (or _fake news_) and inequality, this post is for you.
   wrap @ https://en.wikipedia.org/wiki/Sci-Hub
@@ -5146,7 +5341,7 @@
  
  import header.scroll
  title Some old blogs
- startColumns 2
+ thinColumns 2
  
  I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Machine heart ❤️.
   dateline
@@ -5192,7 +5387,7 @@
  import header.scroll
  title Wisdom: a Tiny Language for Great Advice
  
- startColumns 2
+ thinColumns 2
  
  I am aware of two dialects for advice. I will call them FortuneCookie and Wisdom. Below are two examples of advice written in FortuneCookie.
   dateline
@@ -5273,13 +5468,12 @@
 /home/runner/work/breckyunits.com/breckyunits.com/logeracy.scroll
  date 2021-04-26
  groups All Thinking Society
- openGraphImage https://breckyunits.com/literacy.jpg
  related bigOsKitchen planets-and-pebbles orders-of-magnitude
  
  import header.scroll
  title Logeracy
  
- startColumns 2
+ thinColumns 2
  
  I invented a new word: *_Logeracy_*^coinage. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
   https://en.wikipedia.org/wiki/Logarithm logarithms
@@ -5323,6 +5517,7 @@
  No country or organization measures logeracy yet^email. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
  
  image literacy.jpg
+  openGraph
  
  Countries have been measuring literacy for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
   https://ourworldindata.org/literacy literacy
@@ -5397,12 +5592,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-fix-the-cdc.scroll
  date 2021-03-30
  groups All Society
- openGraphImage https://breckyunits.com/cdc.jpeg
  
  import header.scroll
  title How to fix the CDC
  
- startColumns 2
+ thinColumns 2
  
  *The CDC needs to move to Git*. The CDC needs to move pretty much _everything to Git_. And they should do it *with urgency*. They should make it a priority to never again publish anything without a link to a Git repo. Not just papers, but also datasets and press releases. It doesn't matter under what account or on what service the repos are republished to; what matters is that _every CDC publication needs a link to a backing Git repo_.
   https://www.cdc.gov/ CDC
@@ -5472,6 +5666,7 @@
  I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
  
  image cdc.jpeg
+  openGraph
  
  # Notes
  - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
@@ -5485,7 +5680,7 @@
  
  import header.scroll
  title How James Park built FitBit
- startColumns 2
+ thinColumns 2
  
  comment
   todo: add custom grammar.
@@ -6047,7 +6242,7 @@
  
  import header.scroll
  title "Insist on Focus" - Keith Rabois describes working at PayPal
- startColumns 2
+ thinColumns 2
  
  I read an interesting Twitter thread on focus strategy. That led me to the 3-minute YouTube video Insist on Focus by Keith Rabois. I created the transcript below.
   dateline
@@ -6095,7 +6290,7 @@
  import header.scroll
  title The Public Domain Publishing Company
  
- startColumns 2
+ thinColumns 2
  
  I thought it unlikely that I'd actually cofound another startup, but here we are. Sometimes you gotta do what you gotta do.
   dateline
@@ -6114,7 +6309,7 @@
  
  import header.scroll
  title Scroll Beta
- startColumns 2
+ thinColumns 2
  
  Today I'm launching the beta of something new called Scroll.
   https://github.com/publicdomaincompany/scroll Scroll
@@ -6145,7 +6340,7 @@
  import header.scroll
  title 2019 Tree Notation Annual Report
  
- startColumns 2
+ thinColumns 2
  
  * _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
   dateline
@@ -6374,7 +6569,7 @@
  
  import header.scroll
  title Medical Records to the Moon
- startColumns 2
+ thinColumns 2
  
  A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: *in the future will someone's medical record stretch to the moon?*
   dateline
@@ -6477,7 +6672,7 @@
  import header.scroll
  title Musing on the Future of Healthcare
  
- startColumns 2
+ thinColumns 2
  
  I expect the future of healthcare will be powered by consumer devices. Devices you wear. Devices you keep in your home. In the kitchen. In the bathroom. In the medicine cabinet.
   dateline
@@ -6506,8 +6701,9 @@
  
  import header.scroll
  title How Old Are These Keys? Five Eras of Human Progress
- startColumns 2
+ thinColumns 2
  image keyboard/screenshot.png
+  link keyboard/index.html
   caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
    link keyboard/index.html Try it yourself
  
@@ -6570,8 +6766,12 @@
  
  ---
  
- <details>
- <summary>Dataset</summary>
+ expander Dataset
+ printTable
+ 
+ import allFooter.scroll
+ 
+ 
  symbol	year	count	source
  acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
  acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
@@ -6677,9 +6877,6 @@
  aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
  aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
  asSymbol	-2000	8	https://en.wikipedia.org/wiki/S
- </details>
- 
- import allFooter.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-unpopular-phrase.scroll
  date 2020-02-21
@@ -6688,7 +6885,7 @@
  import header.scroll
  title An Unpopular Phrase
  
- startColumns 2
+ thinColumns 2
  
  One of the most _un_popular phrases I use is the phrase "Intellectual Slavery Laws".
   dateline
@@ -6735,7 +6932,7 @@
  import header.scroll
  title Integrity and Perseverance in Business ensure success (1853)
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  image integrity.jpg
   caption A poster from the 1850's promoting Folsom's Mercantile College in Ohio. The poster includes a motto (which I boxed in green) that I think is great guidance: _Integrity and Perseverance in Business ensure success_. Image Source.
@@ -6771,7 +6968,7 @@
  import header.scroll
  title Building a TreeBase with 6.5 million files
  
- startColumns 2
+ thinColumns 2
  
  In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
   dateline
@@ -7470,7 +7667,7 @@
  import header.scroll
  title Dataset Needed
  
- startColumns 2
+ thinColumns 2
  
  People make biased claims all the time. A decent response used to be "citation needed". But we should demand more. Anytime someone makes a claim that seems biased, call them out with: *_Dataset needed_*.
   dateline
@@ -7516,7 +7713,7 @@
  import header.scroll
  title Type the World
  
- startColumns 2
+ thinColumns 2
  
  In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.
   dateline
@@ -7699,7 +7896,7 @@
  import header.scroll
  title If stories are lies why do they work?
  
- startColumns 2
+ thinColumns 2
  
  I often rail against narratives. I think stories always oversimplify things, have hindsight bias, and often mislead. I spend a lot of time trying to invent tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain). And yet, as much as I rail on stories, I have to admit stories work.
   https://breckyunits.com/narratives-misrepresent-complex-systems.html rail
@@ -7746,7 +7943,7 @@
  import header.scroll
  title Dreaming of a Data Checked Language
  
- startColumns 2
+ thinColumns 2
  
  * <span class="redSquig">Speling</span> errors and <span class="greenSquig">errors grammar</span> are <span class="dataError">nearly extinct in published content</span>. *Data errors*, however, <span class="dataError">are prolific</span>.
   dateline
@@ -7911,7 +8108,7 @@
  
  import header.scroll
  title English cannot encode Real News
- startColumns 2
+ thinColumns 2
  
  # The Attempt to Capture Truth
  
@@ -7987,7 +8184,7 @@
  import header.scroll
  title Going Manic with a FitBit
  
- import mediumColumns.scroll
+ mediumColumns 1
  
  image mania/3yrsSleepData.webp
  
@@ -8111,7 +8308,7 @@
  import header.scroll
  title Ohayo
  
- startColumns 2
+ thinColumns 2
  
  I just pushed a project I've been working on called Ohayo.
   https://ohayo.computer Ohayo
@@ -8130,7 +8327,7 @@
  import header.scroll
  title Show HN: Programming is Now Two-Dimensional
  
- startColumns 2
+ thinColumns 2
  
  *Eureka!* I wanted to announce something small, but slightly novel, and potentially useful.
   dateline
@@ -8180,7 +8377,7 @@
  
  import header.scroll
  title Big Data Notation
- startColumns 2
+ thinColumns 2
  
  # A Suggestion for a Simple Notation
  
@@ -8209,7 +8406,7 @@
  import header.scroll
  title NudgePad: An IDE in Your Browser
  
- startColumns 2
+ thinColumns 2
  
  Making websites is slow and frustrating.
   dateline
@@ -8266,7 +8463,7 @@
  import header.scroll
  title Software Should Save People Time
  
- startColumns 2
+ thinColumns 2
  
  For me, the primary motivation for creating software is to save myself and other people time.
   dateline
@@ -8294,7 +8491,7 @@
  
  byLine
  
- startColumns 1
+ thinColumns 1
  
  Two people in the same forest,
  have the same amount of water and food,
@@ -8317,7 +8514,7 @@
  import header.scroll
  title Money is Meant to Circulate
  
- startColumns 2
+ thinColumns 2
  
  quote
   The crux of the matter, is that people don't understand the true nature of money. It is meant to circulate, not be wrapped up in a stocking
@@ -8339,7 +8536,7 @@
  import header.scroll
  title Why 10,000 hours?
  
- startColumns 2
+ thinColumns 2
  
  Why does it take 10,000 hours to become a master of something, and not 1,000 hours or 100,000 hours?
   dateline
@@ -8370,7 +8567,7 @@
  
  import header.scroll
  title Minor Epiphanies
- startColumns 2
+ thinColumns 2
  
  A kid says _Mommy_ or _Daddy_ or _Jack_ or _Jill_ hundreds of times before grasping the concept of a _name_.
   dateline
@@ -8406,7 +8603,7 @@
  import header.scroll
  title The Booster Design Pattern
  
- startColumns 2
+ thinColumns 2
  
  If your software project is going to have a long life, it may benefit from Boosters. A Booster is something you design with two constraints: 1) it must help in the current environment 2) it must be easy to jettison in the next environment.
   dateline
@@ -8422,7 +8619,7 @@
  import header.scroll
  title Startups and Planes
  
- startColumns 2
+ thinColumns 2
  
  It is a popular misconception that most startups need to fail. We expect 0% of planes to crash. Yet we switch subjects from planes to startups and then suddenly a 100% success rate is out of the question.
   dateline
@@ -8437,7 +8634,7 @@
  import header.scroll
  title Save Your Money for Great Values
  
- startColumns 2
+ thinColumns 2
  
  Some purchasing decisions are drastically better than others. You might spend $20 on a ticket to a conference where you meet your next employer and earn 1,000x "return" on your purchase. Or you might spend $20 on a fancy meal and have a nice night out.
   dateline
@@ -8465,7 +8662,7 @@
  import header.scroll
  title Infinite Futures
  
- startColumns 2
+ thinColumns 2
  
  You shouldn't plan for _the_ future. You should plan for *one of many* futures.
   dateline
@@ -8487,7 +8684,7 @@
  import header.scroll
  title Prove It
  
- startColumns 2
+ thinColumns 2
  
  I love that phrase.
   dateline
@@ -8519,7 +8716,7 @@
  import header.scroll
  title The Great Bank Robbery
  
- startColumns 2
+ thinColumns 2
  
  If you are poor, your money could be safer under the mattress than in the bank:
   dateline
@@ -8555,7 +8752,7 @@
  import header.scroll
  title Responsibility
  
- startColumns 2
+ thinColumns 2
  
  Entrepreneurship is taking responsibility for a problem you did not create.
   dateline
@@ -8587,7 +8784,7 @@
  import header.scroll
  title Black Swans and Technology
  
- startColumns 2
+ thinColumns 2
  
  For the past year I've been raving about Node.js, so I cracked a huge smile when I saw this question on Quora:
   dateline
@@ -8630,7 +8827,7 @@
  import header.scroll
  title Deliver
  
- startColumns 2
+ thinColumns 2
  
  comment
   "roods" is NOT a typo. Or if it is a typo, it was a typo present in the original book as well.
@@ -8681,7 +8878,7 @@
  
  import header.scroll
  title Can't Lose. Could Win Big.
- startColumns 2
+ thinColumns 2
  
  One of Nassim Taleb's big recommendations for how to live in an uncertain world is to follow a barbell strategy: be extremely conservative about most decisions, but make some decisions that open you up to uncapped upside.
   dateline
@@ -8719,7 +8916,7 @@
  import header.scroll
  title Probability Makes Planes Fly
  
- startColumns 2
+ thinColumns 2
  
  My whole life I've been trying to understand how the world works. How do planes fly? How do computers compute? How does the economy coordinate?
   dateline
@@ -8772,7 +8969,7 @@
  import header.scroll
  title Narratives Misrepresent Complex Systems
  
- startColumns 2
+ thinColumns 2
  
  When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
   dateline
@@ -8864,7 +9061,7 @@
  
  import header.scroll
  title Simple is...
- startColumns 2
+ thinColumns 2
  
  *Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
   dateline
@@ -8894,7 +9091,7 @@
  import header.scroll
  title Introducing Note
  
- startColumns 2
+ thinColumns 2
  
  comment
   Just want to note that it took nearly a decade but this article is now
@@ -8956,7 +9153,7 @@
  
  import header.scroll
  title Planets and Pebbles
- startColumns 1
+ thinColumns 1
  
  For todo lists, I created a system I call planets and pebbles.
   dateline
@@ -8981,7 +9178,7 @@
  import header.scroll
  title Publishing More
  
- startColumns 2
+ thinColumns 2
  
  I published 55 essays here the first year. The second and third years combined, that number nosedived to 5.
   dateline
@@ -9009,7 +9206,7 @@
  import header.scroll
  title Setplicity
  
- startColumns 2
+ thinColumns 2
  
  "Is simplicity ever bad?" If you had asked me this a year ago, I probably would have called you a fucking moron for asking such a dumb question. "Never!", I would have shouted. Now, I think it's a fair question. Simplicity has it's limits. Simplicity is not enough, and if you pursue simplicity at all costs, that can be a bad thing. There's something more than simplicity that you need to be aware of. I'll get to that in a second, but first, I want to backtrack a bit and state clearly that I do strongly, strongly believe and strive for simplicity. Let me talk about why for a second.
   dateline
@@ -9048,7 +9245,7 @@
  import header.scroll
  title Naming Things
  
- startColumns 2
+ thinColumns 2
  
  I love to name things.
   dateline
@@ -9084,7 +9281,7 @@
  import header.scroll
  title What can a Programmer learn from Rock Climbing?
  
- startColumns 2
+ thinColumns 2
  
  Railay is a tiny little beach town in Southern Thailand famous for its rock climbing. I've been in Railay for two weeks. When the weather is good, I'm outside rock climbing. When the weather is bad, I'm inside programming. So naturally I've found myself comparing the two. Specifically I've been thinking about what I can take away from my rock climbing experience and apply to my programming education.
   dateline
@@ -9126,7 +9323,7 @@
  import header.scroll
  title Look for a Line
  
- startColumns 2
+ thinColumns 2
  
  A good friend passed along some business advice to me a few months ago. "Look for a line," he said. Basically, if you see a line out the door at McDonald's, start Burger King. Lines are everywhere and are dead giveaways for good business ideas and good businesses.
   dateline
@@ -9152,7 +9349,7 @@
  import header.scroll
  title Backpack the World with Zero Planning
  
- startColumns 2
+ thinColumns 2
  
  _I haven't written in a long while because i'm currently on a long trip around the world. at the moment, we're in indonesia. one thing that really surprised me was that despite our best efforts to do as little planning as possible, we were in fact almost overprepared. i've realized you can do an around the world trip with literally zero planning and be perfectly fine. you can literally hop on a plane with nothing more than a passport, license, credit card, and the clothes on your back and worry about the rest later. i think a lot of people don't make a journey like this because they're intimidated not by the trip itself, but by the planning for the trip. i'm here to say you don't need to plan at all to travel the world (alas, would be a lot harder if you were not born in a first world country, unfortunately). here's my guide for anyone that might want to attempt to do so. every step is highlighted in bold. adjust accordingly for your specific needs and desires._
   dateline
@@ -9212,7 +9409,7 @@
  import header.scroll
  title The Economy Explained
  
- startColumns 2
+ thinColumns 2
  
  I was an Economics major in college but in hindsight I don't like the way it was taught. I came away with an academic, unrealistic view of the economy. If I had to teach economics I would try to explain it in a more realistic, practical manner.
   dateline
@@ -9271,7 +9468,7 @@
  import header.scroll
  title Circle of Competence
  
- startColumns 2
+ thinColumns 2
  
  Warren Buffet claims to follow an investment strategy of staying within his "circle of competence". That's why he doesn't invest in high tech--it's outside his circle.
   dateline
@@ -9294,7 +9491,7 @@
  import header.scroll
  title Critical Thinking
  
- startColumns 2
+ thinColumns 2
  
  I have a feeling critical thinking gets the least amount of brain's resources. The trick is to critically think about things, come to conclusions, and turn those conclusions into habits. The subconcious, habitual mind is much more powerful than the tiny little conscious, critically thinking mind.
   dateline
@@ -9312,7 +9509,7 @@
  import header.scroll
  title How is Intelligence Distributed?
  
- startColumns 2
+ thinColumns 2
  
  I've been working on a fun side project of categorizing things into Mediocristan or Extremistan(inspired by NNT's book The Black Swan).
   dateline
@@ -9332,7 +9529,7 @@
  import header.scroll
  title Kids are Neat
  
- startColumns 2
+ thinColumns 2
  
  Maybe I'm getting old, but I'm starting to think the best way to "change the world" isn't to bust your ass building companies, inventing new machines, running for office, promoting ideas, etc., but to simply raise good kids. Even if you are a genius and can invent amazing things, by raising a few good kids their output combined can easily top yours. Nerdy version: you are a single core cpu and can't match the output of a multicore machine.
   dateline
@@ -9350,7 +9547,7 @@
  import header.scroll
  title Nature Verse Nurture
  
- startColumns 2
+ thinColumns 2
  
  Genetics, aka nature, plays the dominant role in predicting most aspects of your life, in my estimation.
   dateline
@@ -9374,7 +9571,7 @@
  import header.scroll
  title Recommendations Are Far From Good
  
- startColumns 2
+ thinColumns 2
  
  Doctors used to recommend leeches to cure a whole variety of illnesses. That seems laughable today. But I think our recommendations today will be laughable to people in the future.
   dateline
@@ -9401,7 +9598,7 @@
  import header.scroll
  title Ruby
  
- startColumns 2
+ thinColumns 2
  
  Ruby is an awesome language. I've come to the conclusion that I enjoy it more than Python for the simple reason that whitespace doesn't matter.
   dateline
@@ -9417,7 +9614,7 @@
  import header.scroll
  title You Can't Predict the Future
  
- startColumns 2
+ thinColumns 2
  
  I've been very surprised to discover how unpredictable the future is. As you try to predict farther out, your error margins grow exponentially bigger until you're "predicting" nothing specific at all.
   dateline
@@ -9455,7 +9652,7 @@
  import header.scroll
  title The Recency Effect
  
- startColumns 2
+ thinColumns 2
  
  Your most recent experiences effect you the most. Reading this essay will effect you the most today but a week from now the effect will have largely worn off.
   dateline
@@ -9486,7 +9683,7 @@
  
  import header.scroll
  title What Percentage of the Brain Does What?
- startColumns 2
+ thinColumns 2
  
  * _Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintest understanding of the brain so this is one of those times. Reading this post could make you dumber. But occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
   link whats-linear-algebra.html Linear Algebra
@@ -9521,7 +9718,7 @@
  import header.scroll
  title The Ovarian Lottery and Other Side Projects
  
- startColumns 2
+ thinColumns 2
  
  I've had some free time the past two weeks to work on a few random ideas I've had.
   dateline
@@ -9609,7 +9806,7 @@
  import header.scroll
  title Happiness is in Mediocristan
  
- startColumns 2
+ thinColumns 2
  
  Three unexpected things have happened to me during my two years of entrepreneurial pursuits in California.
   dateline
@@ -9653,7 +9850,7 @@
  import header.scroll
  title Orbits
  
- startColumns 2
+ thinColumns 2
  
  In February I celebrated my 26th Orbit. I am 26 orbits old. How many orbits are you?
   dateline
@@ -9682,7 +9879,7 @@
  import header.scroll
  title What I Want
  
- startColumns 2
+ thinColumns 2
  
  Figuring out what you want in life is very hard. No one tells you exactly what you want. You have to figure it out on your own.
   dateline
@@ -9730,7 +9927,7 @@
  import header.scroll
  title The Do You Know Game and Why We Need Celebrities
  
- startColumns 2
+ thinColumns 2
  
  Last night over dinner we had an interesting conversation about why we care about celebrities. Here's my thinking on the matter.
   dateline
@@ -9794,7 +9991,7 @@
  import header.scroll
  title Design Matters. A lot.
  
- startColumns 2
+ thinColumns 2
  
  A year ago I wrote a post titled The Truth about Web Design where I briefly argued that "design doesn't matter a whole lot."
   dateline
@@ -9853,7 +10050,7 @@
  import header.scroll
  title Competition and Specialization
  
- startColumns 2
+ thinColumns 2
  
  Competition and specialization are generally positive economics forces. What's interesting is that they are contradictory.
   dateline
@@ -9882,7 +10079,7 @@
  import header.scroll
  title Simple, but not easy
  
- startColumns 2
+ thinColumns 2
  
  Doing a startup is surprisingly simple. You have to start by creating a product that people must have, then you scale it from there.
   dateline
@@ -9920,7 +10117,7 @@
  import header.scroll
  title Flip Flopping
  
- startColumns 2
+ thinColumns 2
  
  Every Sunday night in college my fraternity would gather in the commons room for a "brother meeting". (Yes, I was in a fraternity, and yes I do regret that icing hadn't been invented yet). These meetings weren't really "productive", but we at least made a few decisions each week. The debates leading up to these decisions were quite fascinating. The questions would be retarded, like whether or not our next party should be "Pirate" themed or "Prisoner" themed(our fraternity was called Pike, so naturally(?) we were limited to themes that started with the letter P so we could call the party "Pike's of the Caribbean" or something). No matter what the issue, we would always have members make really passionate arguments for both sides.
   dateline
@@ -9965,7 +10162,7 @@
  import header.scroll
  title The Churn Rate of Data
  
- startColumns 2
+ thinColumns 2
  
  I think it's interesting to ponder the value of information over it's lifetime.
   dateline
@@ -9991,7 +10188,7 @@
  import header.scroll
  title Culture and Complexity
  
- startColumns 2
+ thinColumns 2
  
  Have you heard of the Emperor Penguins? It's a species of penguins that journeys 30-75 miles across the frigid Antarctic to breed. Each year these penguins endure 8 months of brutally cold winters far from food. If you aren't familiar with them, check out either of the documentaries March of the Penguins or Planet Earth.
   dateline
@@ -10031,7 +10228,7 @@
  import header.scroll
  title The Invention of Free Will
  
- startColumns 2
+ thinColumns 2
  
  # Or..We Think we have Free Will because we only Observe One Path.
  
@@ -10070,7 +10267,7 @@
  import header.scroll
  title Why is it best to do one thing really, really well?
  
- startColumns 2
+ thinColumns 2
  
  Google has a list of 10 principles that guide its actions. Number 2 on this list is:
   dateline
@@ -10126,7 +10323,7 @@
  import header.scroll
  title The Hidden Benefits of Automation
  
- startColumns 2
+ thinColumns 2
  
  If you automate a process which you repeat _Y_ times, that takes _X_ minutes, what would your payoff be?
   dateline
@@ -10162,7 +10359,7 @@
  import header.scroll
  title Metrics for Programmers
  
- startColumns 2
+ thinColumns 2
  
  I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.
   dateline
@@ -10196,7 +10393,7 @@
  import header.scroll
  title HackerNews Data: Visits as a Function of Karma
  
- startColumns 2
+ thinColumns 2
  
  If a post on HackerNews gets more points, it gets more visits.
   dateline
@@ -10235,7 +10432,7 @@
  import header.scroll
  title Don't talk about what you will do, talk about what you have done
  
- startColumns 2
+ thinColumns 2
  
  All the time I overhear people saying things like "I will start excercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
   dateline
@@ -10300,7 +10497,7 @@
  import header.scroll
  title Why it's worth it to buy the book
  
- startColumns 2
+ thinColumns 2
  
  If a book is worth reading, it's worth buying too.
   dateline
@@ -10338,7 +10535,7 @@
  import header.scroll
  title The Least You Can Do
  
- startColumns 2
+ thinColumns 2
  
  My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about.
   dateline
@@ -10389,7 +10586,7 @@
  import header.scroll
  title Four Tips to Improve Communication
  
- startColumns 2
+ thinColumns 2
  
  Good communication is overcommunication. Very few people overcommmunicate. Undercommunication is much more common. Undercommunication is also the cause of countless problems in business.
   dateline
@@ -10417,7 +10614,7 @@
  import header.scroll
  title Network Effects
  
- startColumns 2
+ thinColumns 2
  
  Network effects are to entrepreneurs what compounding effects are to investors: a key to getting rich.
   dateline
@@ -10449,7 +10646,7 @@
  import header.scroll
  title If you can explain something logically, you can explain it simply
  
- startColumns 2
+ thinColumns 2
  
  chat
   Is there any subject which cannot be explained simply?
@@ -10494,7 +10691,7 @@
  import header.scroll
  title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
  
- startColumns 2
+ thinColumns 2
  
  In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repeat Yourself."
   dateline
@@ -10566,7 +10763,7 @@
  import header.scroll
  title When forced to wait, wait!
  
- startColumns 2
+ thinColumns 2
  
  When a problem you are working on forces you to wait, do you wait or switch tasks?
   dateline
@@ -10618,7 +10815,7 @@
  import header.scroll
  title How to Buy Low, Sell High
  
- startColumns 2
+ thinColumns 2
  
  Whether you're an entrepreneur, a venture capitalist, a casual investor or just a shopper looking for a deal, you should know how to buy low and sell high. Buying low and selling high is not easy. It's not easy because it requires too things humans are notoriously bad at: long term planning and emotional control. But if done over a long period of time, buying low and selling high is a surefire way to get rich.
   dateline
@@ -10664,7 +10861,7 @@
  import header.scroll
  title Flee the Bubble
  
- startColumns 2
+ thinColumns 2
  
  Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
   dateline
@@ -10721,7 +10918,7 @@
  import header.scroll
  title Checklist for New Products
  
- startColumns 2
+ thinColumns 2
  
  At our startup, we've practiced a diversification strategy.
   dateline
@@ -10757,7 +10954,7 @@
  
  import header.scroll
  title Diversification in Startups
- startColumns 2
+ thinColumns 2
  
  _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
   // 2024 Update Update. I wish I explained why I thought it was weak in the above 2021 update. I agree it could have been better written, but I think a lot of this is directionally correct.
@@ -10843,7 +11040,7 @@
  import header.scroll
  title Thoughts on Setting Goals
  
- startColumns 2
+ thinColumns 2
  
  It is better to set small, meaningful goals than to set wild, audacious goals.
   dateline
@@ -10895,7 +11092,7 @@
  import header.scroll
  title Problems Worth Solving
  
- startColumns 2
+ thinColumns 2
  
  Programming, ultimately, is about solving problems. Often I make the mistake of judging a programmer's work by the elegance of the code. Although the solution is important, what's even more important is the problem being solved.
   dateline
@@ -10931,7 +11128,7 @@
  import header.scroll
  title Make Something 40% of Your Customers Must Have
  
- startColumns 2
+ thinColumns 2
  
  If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
   dateline
@@ -11033,7 +11230,7 @@
  import header.scroll
  title SEO Made Easy: LUMPS
  
- startColumns 2
+ thinColumns 2
  
  The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
   dateline
@@ -11104,7 +11301,7 @@
  import header.scroll
  title Don't Flip the Bozo Bit
  
- startColumns 2
+ thinColumns 2
  
  Do you "flip the bozo bit" on people?
   dateline
@@ -11151,7 +11348,7 @@
  import header.scroll
  title (un)features
  
- startColumns 2
+ thinColumns 2
  
  Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
   dateline
@@ -11199,7 +11396,7 @@
  import header.scroll
  title Get Stuff Done By Setting Arbitrary Constraints
  
- startColumns 2
+ thinColumns 2
  
  Employees and students receive deadlines, due dates, goals, guidelines, instructions and milestones from their bosses and teachers. I call these "arbitrary constraints".
   dateline
@@ -11245,7 +11442,7 @@
  import header.scroll
  title Why You Shouldn't Save Blogging for Old Age
  
- startColumns 2
+ thinColumns 2
  
  A lot of people have the idea that maybe one day they'll become rich and famous and then write a book about it. That's probably because it seems like the first thing people do after becoming rich and famous is write a book about it.
   dateline
@@ -11285,7 +11482,7 @@
  import header.scroll
  title 6 Specific Ways to Find Programming Mentors
  
- startColumns 2
+ thinColumns 2
  
  Finding experienced mentors and peers might be the most important thing you can do if you want to become a great programmer. They will tell you what books to read, explain the pros and cons of different languages, demystify anything that seems to you like "magic", help you when you get in a jam, work alongside you to produce great things people want, and challenge you to reach new heights.
   dateline
@@ -11334,7 +11531,7 @@
  import header.scroll
  title Orders of Magnitude
  
- startColumns 2
+ thinColumns 2
  
  Do you think in Orders of Magnitude? You should.
   dateline
@@ -11402,7 +11599,7 @@
  import header.scroll
  title The Many Worlds Law
  
- startColumns 2
+ thinColumns 2
  
  Imagine you are eating dinner with 9 friends and you all agree to play Credit Card Roulette. Credit Card Roulette is a game where everyone puts their credit card in a pile and the server randomly chooses one and charges the whole meal to it.
   dateline
@@ -11441,7 +11638,7 @@
  
  import header.scroll
  title Twelve Tips to Master Programming Faster
- startColumns 2
+ thinColumns 2
  
  Do you want to become a great coder? Do you have a *passion* for computers but not a thorough understanding of them? If so, this post is for you.
   dateline
@@ -11517,7 +11714,7 @@
  import header.scroll
  title What's Linear Algebra?
  
- startColumns 2
+ thinColumns 2
  
  What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
   dateline
@@ -11559,7 +11756,7 @@
  import header.scroll
  title Fiction or Nonfiction?
  
- startColumns 2
+ thinColumns 2
  
  What books have changed your life? Seriously, pause for a few minutes and think about the question. I'll share my list in a moment, but first come up with yours.
   dateline
@@ -11611,7 +11808,7 @@
  
  import header.scroll
  title Experience is What You Get
- startColumns 2
+ thinColumns 2
  
  quote
   Experience is what you get when you don't get what you want.
@@ -11638,7 +11835,7 @@
  import header.scroll
  title I'm Back
  
- startColumns 2
+ thinColumns 2
  
  Decided to blog again. I missed it. Writing publicly, even when you only get 3 readers, two of which are bots and the other is your relative, is to the mind what exercise is to the body. It's fun and feels good; especially when you haven't done it in a while.
   dateline
@@ -11712,7 +11909,7 @@
  
  import header.scroll
  title The Truth about Web Design
- startColumns 1
+ thinColumns 1
  
  Here’s what I’m going to assume: craigslist, Google, and eBay do not have very pretty designs. How can a website be so successful if the design isn’t pretty? My position is that because design doesn’t matter a whole lot.
   dateline
@@ -11741,7 +11938,7 @@
  
  import header.scroll
  title Twitter Search Wins Again
- startColumns 1
+ thinColumns 1
  
  Twitter Search is starting to replace a ton of websites that I used to visit.
   dateline
@@ -11771,7 +11968,7 @@
  
  import header.scroll
  title Irrational Numbers
- startColumns 2
+ thinColumns 2
  
  There’s a post currently on Hacker News that discusses irrational numbers. A long time ago irrational numbers really bothered me. I remember I had a teacher in high school who gave us extra credit for reading books about math that dealt with specific topics like pi or irrational numbers. These books gave me nightmares :). I still don’t really understand irrational numbers but haven’t thought about them in a long time.  According to Wikipedia:
   https://news.ycombinator.com/item?id=540005 Hacker News
@@ -11807,7 +12004,7 @@
  
  import header.scroll
  title Are you Making Something that will become ‘Absolutely Irrelevant’?
- startColumns 2
+ thinColumns 2
  
  I’m reading a fascinating biography of Warren Buffett right now(Snowball).
   dateline
@@ -11856,7 +12053,7 @@
  
  import header.scroll
  title Meteorite Caught on Film
- startColumns 1
+ thinColumns 1
  
  A bright meteorite was caught on film in Canada this week.
   dateline
@@ -11878,7 +12075,7 @@
  
  import header.scroll
  title When the Market Says No, Listen
- startColumns 2
+ thinColumns 2
  
  I just want to share the most valuable piece of Internet startup advice I possess.
   dateline
@@ -11926,7 +12123,7 @@
  
  import header.scroll
  title San Francisco
- startColumns 1
+ thinColumns 1
  
  Got in to San Fran last night. Moved in to the Mission District with college buddies. I expect to be a multibillionaire in a month, tops.
   dateline
@@ -11946,7 +12143,7 @@
  
  import header.scroll
  title JustHackIt
- startColumns 2
+ thinColumns 2
  
  This evening JustHackIt.com launched. Before you co-found a company, you need to find good co-founders. The best way to do that is to just work on projects with people. The idea for JustHackIt is to connect hackers in one place and encourage them to just start projects together, without even knowing the person. Hopefully you’ll find some people who are smart, talented, and will make a great co-founder in the future.
   dateline
@@ -11975,7 +12172,7 @@
  
  import header.scroll
  title Bigger Telescopes are needed to Solve Global Warming
- startColumns 2
+ thinColumns 2
  
  On August 31, 1854, a Londoner living on Broad Street fell ill with cholera and died. In three days, 127 other Londoners would also contract and die of cholera. By September 10th, over 500 people had died and panic was setting in on the London streets. Doctors studied the dead but could not solve the epidemic.
   dateline
@@ -12009,7 +12206,7 @@
  
  import header.scroll
  title How to Cure the Hiccups
- startColumns 2
+ thinColumns 2
  
  The hiccups have been cured. Want to know what the secret is?
   dateline
@@ -12040,7 +12237,7 @@
  
  import header.scroll
  title Trying Shelfari, GoodReads, and LibraryThing
- startColumns 2
+ thinColumns 2
  
  Decided to try out one of these book social networks to see if I can find some important books I should be reading. The idea is you enter the books you’ve read and rate them, as well as the books you want to read. Then the site will show you people who like similar books and you can hopefully stumble upon some books that they’ve read that you will like.
   dateline
@@ -12077,7 +12274,7 @@
  
  import header.scroll
  title Over Half of the World is Older Than Me
- startColumns 1
+ thinColumns 1
  
  It’s nice to know that more than 50% of the people  alive today have been around for longer than I have(at least for a few more years).
   dateline
@@ -12108,7 +12305,7 @@
  
  import header.scroll
  title Bloggers Turning Pro
- startColumns 1
+ thinColumns 1
  
  After months of deliberation, I’ve decided to quit my day job and work on my blog full time.
   dateline
@@ -12188,7 +12385,7 @@
  
  import header.scroll
  title Daily Gas Use for the United States and the World
- startColumns 2
+ thinColumns 2
  
  The other day I wrote a post on How much Gas Americans use per day. The answer is 400 Million Gallons. A reader wanted to know how much gas the whole world consumes in a day. The answer is about 83 millon bbl’s. One bbl = 42 gallons, so the world consumes about 3.5 billion gallons of gas per day. That means the United States consumes 11% of the total gas consumed per day.
   dateline
@@ -12218,7 +12415,7 @@
  
  import header.scroll
  title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
- startColumns 2
+ thinColumns 2
  
  xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
   dateline
@@ -12351,7 +12548,7 @@
  
  import header.scroll
  title First Place in the Stock Market Game
- startColumns 2
+ thinColumns 2
  
  So after 1 year, my Fantasy Stock Portfolio returned a little over 150%, which was enough to capture 1st place. We used the MarketWatch game. At first I had no competition among our friends in our private game, although Conor(and his risky day trading in the subprime market) spiked at one point and finished around 80%. I lucked out thanks to a hot tech market and picking some of the best companies in that. Not a single pick lost money(though this is lucky).
   https://web.archive.org/web/20081120154142/http://vse.marketwatch.com/Game/Homepage.aspx MarketWatch
@@ -12382,7 +12579,7 @@
  
  import header.scroll
  title Why a Team is Worth a lot more than an Idea
- startColumns 2
+ thinColumns 2
  
  Every successful person in the startup world will tell you that the most important part of any startup is the *team*. From my own experiences, I wholeheartedly agree. But everyday I talk to people who think the most important thing is the *idea*. For instance, I just met a nice young woman at Logan Airport. She was wearing a well-pressed white blouse and grey skirt, dressed to impressed for her job at a prominent Boston-based health care consulting firm. We started talking about Facebook, and she repeated something I’ve heard at least a dozen times “[Zuckerberg] is going to make so much money. Facebook was such a simple idea. I wish I had thought of that.” I smiled and agreed pleasantly while trying hard not to roll my eyes.
   dateline
@@ -12420,7 +12617,7 @@
  
  import header.scroll
  title Learning How to Program Part I
- startColumns 2
+ thinColumns 2
  
  * `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
  
@@ -12455,7 +12652,7 @@
  
  import header.scroll
  title I guess the time has come
- startColumns 2
+ thinColumns 2
  
  For a few years, GoDaddy kept alerting me that BreckYunits.com was available and I should buy fast before someone else does! Lucky for me, all the other Breck Yunits’ out there weren’t getting the same alerts. Enjoy BreckYunits.info, suckers!!!
   dateline

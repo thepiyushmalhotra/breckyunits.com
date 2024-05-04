@@ -1,11 +1,10 @@
 date 4/16/2024
 groups All BipolarDisorder
-openGraphImage https://breckyunits.com/ketones/bhb.png
 
 import header.scroll
 title Ketones vs Lithium
 byLine
-startColumns 2
+thinColumns 2
 
 image ketones/ketoMojoFingerPrick.jpeg
  caption Pricking my finger then measuring the level of ketones in my blood.
@@ -117,6 +116,7 @@ And so now I return to the one millimole question.
 
 # What is a ketone?
 image ketones/bhb.png
+ openGraph
  caption Ketones are tiny molecules. The ketone BHB (beta-hydroxybutyrate) accounts for around 70-80% of your ketones. Image Source: NIH
   https://3d.nih.gov/entries/4223/2 NIH
 
