@@ -1,7 +1,126 @@
+/home/runner/work/breckyunits.com/breckyunits.com/badModels.scroll
+ date 2024-05-04
+ groups All Life Society
+ 
+ import header.scroll
+ title Hypothermia
+ 
+ thinColumns 1
+ 
+ # Bad models of the world can be dangerous.
+ 
+ We stood at the edge of the lake.
+ 
+ Everyone was in a wetsuit.
+ 
+ Except for me.
+ 
+ Wetsuits: _hundreds of people_.
+ 
+ Boardshorts: _one person_.
+ 
+ // there were actually 3 people not in wetsuits. The other 2 were in speedos and looked like Olympic swimmers. I assume they were out of the water before I even hit the buoy.
+ 
+ ***
+ 
+ endSnippet
+ 
+ "You're brave," another triathlete said.
+ 
+ I shrugged.
+ 
+ I was not brave.
+ 
+ I was dumb.
+ 
+ ***
+ 
+ I did not think this through.
+ 
+ If I had done any research, I would have learned that the lake was 50 degrees.
+ 
+ If I had done any research, I would have learned that in 50 degree water, hypothermia sets in at 30 minutes.
+ 
+ ***
+ 
+ I had one minute to think of a model and make a plan before the starter's gun went off.
+ 
+ ***
+ 
+ _I've got it_, I thought.
+ 
+ _When I move, my body generates heat._
+ 
+ _The cold will be painful._
+ 
+ _Start slow._
+ 
+ _Swimming will make me hot._
+ 
+ _Then swim the second half faster._
+ 
+ ***
+ 
+ _POWWW_.
+ 
+ The gun boomed and hundreds of wetsuits dove in the water.
+ 
+ I dove in last, in my boardshorts, and started swimming slowly.
+ 
+ ***
+ 
+ I am typing this story eleven years later. In warm clothes.
+  class dropcap
+ 
+ And yet, I just felt shivers.
+ 
+ As I learned that day, my model of the world was *bad*.
+ 
+ // calculations done by ChatGPT. Heat loss=5400 W. Heat gain= 581 W
+ Swimming generates heat, but in water that cold, you lose heat 10x faster than you make it.
+ 
+ ***
+ 
+ Back in Lake Berryessa, things were not going as planned.
+  https://en.wikipedia.org/wiki/Lake_Berryessa Lake Berryessa
+  class dropcap
+ 
+ At the halfway buoy, I was struggling to control my limbs.
+ 
+ My teeth were chattering uncontrollably.
+ 
+ The only thing I had going for me was that my wiser, wetsuit-wearing friend Tom had slowed down, to make sure I stayed alive.
+ 
+ Knowing Tom was there to keep me from drowning, I flapped on.
+ 
+ After half an hour, I made it back to shore.
+ 
+ ***
+ 
+ I had never been so cold.
+ 
+ I was shaking so bad that it took me twelve attempts to lift my leg over my bikeseat for the next part of the race.
+ 
+ But...
+ 
+ _I was alive!_
+ 
+ And I had learned an important lesson.
+ 
+ *Bad models of the world can be dangerous.*
+ 
+ ***
+ 
+ image lakeCrew.jpeg
+  openGraph
+  caption Tom, second from left, slowed down to make sure I didn't go down like Jack Dawson.
+   https://jamescameronstitanic.fandom.com/wiki/Jack_Dawson Jack Dawson
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/theEnergyClock.scroll
  date 2024-05-02
  groups All BipolarDisorder
- 
  openGraphImage energyClock.jpeg
   //
    The load shedding in Kathmandu reminded me of the roating "clock" in Hunger Games 2.
@@ -189,7 +308,7 @@
  
  Who knows, maybe bipolar energy clocks will soon be gone too.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aHigherLanguage.scroll
  date 2024-04-27
@@ -264,7 +383,7 @@
  
  I saw the previous end of the tunnel went to nowhere, over a void, and the new end of the tunnel ended at the edge of the cliff, coming out of the forest full of trees rising high into the sky.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/datasets.scroll
  date 4/23/2024 5:00
@@ -487,7 +606,7 @@
  // # Ergonomics
  // Reading Speed vs Modeling Speed
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bigOsKitchen.scroll
  date 4/23/2024
@@ -578,7 +697,7 @@
  # Related Posts
  relatedList
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fastest.scroll
  date 2024-04-22
@@ -710,7 +829,7 @@
  
  "The shoes", she said, with tears in her eyes.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  date 4/16/2024
@@ -1203,7 +1322,7 @@
   
   2nd dataset: ```
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarTerm.scroll
  date 4/10/2024
@@ -1289,7 +1408,7 @@
  I expect it will be many years, if not decades, before we have better terms, and so until then, I will keep tagging posts like this one with the term Bipolar Disorder.
   link bipolar.html Bipolar Disorder
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/sleepWriting.scroll
  date 4/5/2024
@@ -1362,7 +1481,7 @@
  # Grateful for FitBit
  I started wearing a Microsoft Band when it first came out in November 2014. Then a Band 2, then FitBit Charge, Ionic, Versa, and now Sense 2. I am grateful for all the people involved with creating these things. I think continued progress in the wearable sensor field is the best bet for improving human health.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/doHumanBrainsMolt.scroll
  date 4/3/2024
@@ -1397,7 +1516,7 @@
  While researching lobsters (for the first time), I also came upon this interesting post on a different topic releated to lobsters and brains.
   https://theoccasionalinterrobang.wordpress.com/2019/07/03/a-loser-lobsters-brain-differs-from-a-winner-lobsters-and-so-does-yours/ this interesting post
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/treeNotationFinalReport.scroll
  date 2024-4-2
@@ -1469,7 +1588,7 @@
  ^ellipsis The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
   http://longbets.org/793/ the bet
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/boxMethod.scroll
  date 2024-3-30
@@ -1539,7 +1658,7 @@
  _If you are interested in the concept of the evolution of patterns in nature, I recommend checking out assembly theory._
   https://en.wikipedia.org/wiki/Assembly_theory assembly theory
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/openMindedness.scroll
  date 3/08/2024
@@ -1649,7 +1768,7 @@
  
  Or it could be simply a waiting strategy, where a mind is shut only to incrementally better ideas, and no new ideas are significant enough to be worth opening one's mind for.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/mindmap.scroll
  date 2/24/2024
@@ -1680,7 +1799,7 @@
  I was in my twenties when I first learned the simple writing technique of "mind mapping". I think in the future there might be a new use of that phrase. AIs will be able to create a mindmap of a person's mind near instantly, when given access to their data. Eventually that could combine with brain scans to be able to correctly identify the 3D spatial positioning of neural agents, but well before that we may have an interesting new kind of brain visualization that is far more extensive than a resume or personality test.
   link wiwmin.png learned
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/synthesizingKnowledge.scroll
  date 2/21/2024
@@ -1723,7 +1842,7 @@
  
  Today that process still requires agency and embodiment and is done by human scientists and pioneers, but I expect AIs will soon have these capabilities.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/brainPilotModelOfBipolarDisorder.scroll
  date 2/20/2024
@@ -1810,7 +1929,7 @@
  - Are brain pilots really a thing? Will Minsky's model conceptual model be proven true by a factual one? It seems like if so, Jeff Hawkins and his team at Numenta are a team that might prove that.
   https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/whyDoWeSubsidizeFiction.scroll
  date 2/14/2024
@@ -1851,7 +1970,7 @@
  
  // I am contrarian here, and have been wrong about other contrarian ideas, but cannot see how I am wrong on this one. The only new perspective I've had lately on this is that debate over copyright might be irrelevant since AI is going to take over the world soon anyway ;) .
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/beliefs.scroll
  date 2/11/2024
@@ -1878,7 +1997,7 @@
  
  For a belief to exist means it had to outcompete other potential beliefs for survival in a resource constrained environment and provide a positive benefit to its host. If a host had the ability to simply erase beliefs instantly, it seems like too many beneficial beliefs would disappear prematurely. So beliefs are hard to erase from a person's neural wirings. However, people could add a new neural wiring _NotX_, that represents the belief that _X_ is not true. They can then reinforce this new neural wiring, and eventually change the probability so that they are far more likely to have the _NotX_ wiring active versus the _X_ wiring.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarsInSociety.scroll
  date 2/9/2024
@@ -2020,7 +2139,7 @@
  # Limitations of this essay
  A productive exercise would be to get a large dataset on objective rates of bipolar disorder in different regions. Then these, and other models, could be applied, and we could learn what fits best. A major obstacle however is that no good large objective dataset on bipolar disorder is readily available for even one country yet, never mind multiple. That should change soon, as I will explore in future posts.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/stableMoodDisorder.scroll
  date 2/4/2024
@@ -2083,7 +2202,7 @@
  
  Doctors try a large number of different amphetamines to try and get their Stable Mood Disorder patients to be employable, but have not yet found long term success.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/powerSurges.scroll
  date 2/3/2024
@@ -2156,7 +2275,7 @@
  
  I believe science is the way to figure this out, but it sure is taking a while.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggingAsTherapy.scroll
  date 1/30/2024
@@ -2190,7 +2309,7 @@
  
  Anyway. I'm going to publish this one now and try and get a double post out today. Luckily blogging is like _free_ therapy.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/delusions.scroll
  date 1/29/2024
@@ -2282,7 +2401,7 @@
  ## Thriving Alongside Delusions
  Maybe the trick is to have some sympathy for the delusional agent. Probabilities for rare events are hard to get right. I got so mad at society for being off on Covid by 100x. And then I went and was off myself on a few things by a 1,000x. Individuals and societies--both multi-agent thinking systems--will have delusional times. Perhaps the trick isn't to attack specific delusions as they come but to better understand what delusions are and how to create an environment that benefits from them, and is not harmed when they arise.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/eatingAnimals.scroll
  date 1/26/2024
@@ -2326,7 +2445,7 @@
  
  In walking around that plastination exhibit, I was looking at humans that once fed on the bodies of animals, and then chose to donate their own bodies to feed minds like mine. A circle of noble sacrifices.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarDisorder.scroll
  date 1/24/2024
@@ -2500,7 +2619,7 @@
   2003 August 2 MD ❌ No No
   2002 October 1 AP ❌ No No
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarKeto.scroll
  date 1/23/2024
@@ -2546,7 +2665,7 @@
  
  I still have a ton to learn but I wanted to share this simple book scan in case anyone else was wondering why they hadn't heard of this option before.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/wordsAreWorseThanWeights.scroll
  date 1/12/2024
@@ -2622,7 +2741,7 @@
  - What Just Happened? (2018)
   https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ifNatureIsDoingIt.scroll
  date 1/4/2024
@@ -2669,7 +2788,7 @@
  
  If nature is doing it, there has to be a practical way. If nature is not doing it, be skeptical.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/couldInVitroBrainsPowerAI.scroll
  date 1/1/2024
@@ -2737,7 +2856,7 @@
  ^after After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
   link https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.scroll
  date 12/28/2023
@@ -2971,7 +3090,7 @@
  
  A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere humans to play with when we are no longer the species running the zoo.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-manic-startup.scroll
  date 6/27/2023
@@ -3052,7 +3171,7 @@
  
  It is a hard pill to swallow that I was the Evil one, after all.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-proposal-on-government-forms.scroll
  date 6/16/2023
@@ -3118,7 +3237,7 @@
  
  katex
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/many-narratives-all-true.scroll
  date 6/13/2023
@@ -3174,7 +3293,7 @@
  
  Our brains are like a ship on a long voyage inhabited by multiple characters (picking up new ones along the way) who take turns steering. Impossible to fit that into a single narrative.
  
- import allFooter.scroll
+ import footer.scroll
  
  // todo: add a narratives page.
  
@@ -3214,7 +3333,7 @@
  My oldest daughter used to admonish me "No phone dadda" and over a year ago, after my phone died in a water incident, I chose not to replace it. It's been an amazing thing and I feel like I am living more free. But I am no Luddite (at least, not yet). I still spend a lot of time on my Macs. I love learning new math and science. I have no qualms against AGI or technology and I appreciate the benefits. I don't fear a singularity and think it would be cool if we get there someday. I just don't think AGI is the dominant term we should optimize for. If we reach the Singularity? Great. If not? No big deal. I believe living free is more important than life itself. (But maybe that's just because I saw a lot of license plates as a kid.)
   https://en.wikipedia.org/wiki/Luddite Luddite
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-mathematical-model-of-copyright.scroll
  date 5/26/2023
@@ -3479,7 +3598,7 @@
  
  // ^registryEffects A side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/walking-as-a-tool-of-thought.scroll
  date 5/19/2023
@@ -3541,7 +3660,7 @@
  ^chatgpt I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
   label ^
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/marvin-minsky.scroll
  date 5/09/2023
@@ -3627,7 +3746,7 @@
  ^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
   https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/enchained-symbols.scroll
  date 4/28/2023
@@ -3670,7 +3789,7 @@
  
  No true lover of symbols would ever enchain them.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-public-domain-human.scroll
  date 3/6/2023
@@ -3745,7 +3864,7 @@
  
  ^marriageAdvice Divorce: Getting legally married was a big mistake. In my experience, lawyers and judges in California Family Court are not steered by honest agents and I regret blindly signing up for their corrupt system.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/safeFs.scroll
  date 1/27/2023
@@ -3786,7 +3905,7 @@
  # 4. SAFE from economic growth
  SafeFS is the first file system proven to cause a slowdown in economic growth. SafeFS will cause countless hours of productive time to be wasted across all classes of builders: engineers, architects, scientists, construction workers, drivers, service workers, et cetera, ensuring progress does not go so fast that technology eliminates the need for lawyers, keeping legal jobs SAFE.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/useTheSpine.scroll
  date 1/3/2023
@@ -3834,7 +3953,7 @@
  ## At the dawn of a language revolution
  I firmly believe that this simple trick—using the spine—will unleash a wave of innovation that will eventually replace all top programming languages with better, more human friendly two dimensional ones. I already have dozens of tricks that I use in my daily programming world that exploit the fact that my languages use the spine. I expect innovative programmers will discover many many more. Good luck and have fun.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/oneTextarea.scroll
  date 12/30/2022
@@ -3876,7 +3995,7 @@
  # A Golden Opportunity
  If you're smart, honest and ambitious and you know the web stack boy oh boy is there a golden opportunity here. All my web forms now are one textarea and we are seeing exceptional results. Please go get rich bringing this technology to the masses. When you're rich you don't have to thank me—if I come across your form in the wild and it saves me time that will be thanks enough.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/root-thinking.scroll
  date 11/16/2022
@@ -3912,7 +4031,7 @@
  
  On second thought, I think this idea is bad. The representation of your principles-axioms-agents-types-etc rounds to irrelevant. Infinitely better to spend time making sure you have the correct collection of first principles than worrying about representing them as a "tree" so you can have a visual. It's knowing what the principles are and how they interact that matters most, not some striving for the ideal representation syntax. This post presents a bad idea, but I'll leave it up as a reminder that sometimes I'm dead wrong.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/replies-always-welcome.scroll
  date 11/14/2022
@@ -3994,7 +4113,7 @@
  ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
  Could be a `replyToLeaveAReview`.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/misinformationOrFakeNewsNeuralNetwork.scroll
  date 10/15/2022
@@ -4013,7 +4132,7 @@
  
  These empirical results match the theory that the whole truth and nothing but the truth would not contain a (c).
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scratch-ticket.scroll
  date 10/07/2022
@@ -4066,7 +4185,7 @@
  image pmarca.png
   caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
  date 9/1/2022
@@ -4110,7 +4229,7 @@
  readingList
   https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-the-public-domain-can-win.scroll
  date 08-30-2022
@@ -4163,7 +4282,7 @@
  
  // todo: Build a dataset of public domain products, as suggested by jmiven
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ckmeans.scroll
  date 6/09/2022
@@ -4298,7 +4417,7 @@
  - Wolfram Alpha fit of the quadratic runtime data
   https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/upstream-of-everything.scroll
  date 2/28/2022
@@ -4372,7 +4491,7 @@
  - I realize now that this idea is thousands of years old.
   https://en.wikipedia.org/wiki/I_know_that_I_know_nothing idea
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/brain-pilots.scroll
  date 2/18/2022
@@ -4551,7 +4670,7 @@
   https://www.pinterest.com/pin/58335757660803584/ Palm Study
  - Perhaps consciousness is the logging agent and there is only one consciousness. Perhaps the brain pilots drive the show, and the consciousness records the log, but the consciousness is not able to see which pilot is driving.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aftertext.scroll
  date 12/15/2021
@@ -4740,7 +4859,7 @@
  image aftertext.png
   caption A screenshot of Aftertext on the left and the rendered HTML on the right.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/write-thin-to-write-fast.scroll
  date 2021-10-15
@@ -4817,7 +4936,7 @@
   - Has the frequency of this advice appearing gone up as screens got wider?
   - Consider vertical languages like Japanese
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/user-methods.scroll
  date 8/11/2021
@@ -4923,7 +5042,7 @@
  ? Aren't UserMethods just a subset of PublicMethods?
  Yes. But they are a special category of PublicMethod and it's a distinction worth making. You want all your UserMethods available programmatically like the rest of your PublicMethods (for example, when writing tests), but you wouldn't want to show your users all PublicMethods in something like a Command Palette.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/elbakian-interview.scroll
  author Others
@@ -5261,7 +5380,7 @@
   A: Thank you.
   D: That is all for today.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dialogues.scroll
  date 2021-05-14
@@ -5296,7 +5415,7 @@
  - Try Scroll: https://scroll.pub
  - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-intellectual-freedom-amendment.scroll
  date 2021-05-12
@@ -5333,7 +5452,7 @@
  
  I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/some-old-blogs.scroll
  date 2021-05-07
@@ -5377,7 +5496,7 @@
  
  css .wayback{vertical-align: baseline;position: relative;top: -0.6em;font-size: 8px;}
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/wisdom.scroll
  date 2021-05-06
@@ -5463,7 +5582,7 @@
  
  css .rightQuote{text-align: right; display: block; margin-top: 5px;}
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/logeracy.scroll
  date 2021-04-26
@@ -5587,7 +5706,7 @@
  
  ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-fix-the-cdc.scroll
  date 2021-03-30
@@ -5671,7 +5790,7 @@
  # Notes
  - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-james-park-built-fitbit.scroll
  author Others
@@ -6232,7 +6351,7 @@
   https://twitter.com/guyraz @guyraz
   https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/insist-on-focus.scroll
  author Others
@@ -6281,7 +6400,7 @@
  
  I absolutely love the math behind this strategy. There are a few other terms to get right, but there's a fantastic idea here.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-public-domain-publishing-company.scroll
  date 2021-02-28 1
@@ -6301,7 +6420,7 @@
  If I had to bet, I'd say I'll probably be actively working on this for a while. But there's a chance I go on sabbatical quick.
  
  The team is coming together. Check out the homepage for a list of open positions.
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scroll-beta.scroll
  date 2021-02-22
@@ -6330,7 +6449,7 @@
  
  I've had fun building Scroll so far and am excited to start working on it with others.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/tree-notation-annual-report-2019.scroll
  date 2020-12-09
@@ -6561,7 +6680,7 @@
  ^note-risk Note that this means I am between 90-99% confident that Tree Notation is _not_ a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
  ^note-euclid When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/medical-records-to-the-moon.scroll
  date 2020-03-02
@@ -6663,7 +6782,7 @@
  
  *So for a 120 year old in 2140, their printed MRD would not reach the moon.* Though it may make it halfway there.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
  date 2020-03-02
@@ -6693,7 +6812,7 @@
  
  Another benefit to all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-old-are-these-keys.scroll
  date 2020-02-25
@@ -6769,8 +6888,7 @@
  expander Dataset
  printTable
  
- import allFooter.scroll
- 
+ import footer.scroll
  
  symbol	year	count	source
  acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
@@ -6922,7 +7040,7 @@
  - This woman is amazing.
   https://en.wikipedia.org/wiki/Alexandra_Elbakyan
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/integrity-and-perseverance-in-business-ensure-success.scroll
  date 2020-02-09
@@ -6958,7 +7076,7 @@
   https://placepeep.com placepeep
   https://startupschool.org StartupSchool
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/building-a-treebase-with-6-point-5-million-files.scroll
  date 2020-01-29
@@ -7658,7 +7776,7 @@
  
  I would love to hear your thoughts.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dataset-needed.scroll
  date 2020-01-23
@@ -7704,7 +7822,7 @@
  Thanks to DL for helping me refine my thinking from this earlier post.
   https://breckyunits.com/dreaming-of-a-data-checked-language.html earlier post
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/type-the-world.scroll
  date 2020-01-20
@@ -7887,7 +8005,7 @@
  
  While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/if-stories-are-lies-why-do-they-work.scroll
  date 2020-01-16
@@ -7934,7 +8052,7 @@
  
  Despite my problems with narratives and my quest for something better, it seems quite possible to me that at the end of the day it may turn out that there is nothing better, and it's best to make peace with stories, despite their flaws. And regardless of the future, I can't argue with the value of stories today for motivation and enjoyment. Nothing else works.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dreaming-of-a-data-checked-language.scroll
  date 2020-01-3
@@ -8100,7 +8218,7 @@
     border-radius: 5px;
   }
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/english-cannot-encode-real-news.scroll
  date 2019-08-19
@@ -8175,7 +8293,7 @@
  # Finally
  Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the stories_. But just remember they are stories. If you are reading English, know that you are not reading Real News.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/going-manic-with-a-fitbit.scroll
  date 1/13/2018
@@ -8299,7 +8417,7 @@
  * _Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time. Thank you to CP and DR, who provided me feedback at the time on this post. - 6/13/2023 _
   https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ohayo.scroll
  date 2017-06-23
@@ -8318,7 +8436,7 @@
  
  I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/show-hn-programming-is-now-two-dimensional.scroll
  date 2017-06-21
@@ -8369,7 +8487,7 @@
  Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
   https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/big-data-notation.scroll
  date 2013-09-24
@@ -8397,7 +8515,7 @@
  
  I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/nudgepad-an-ide-in-your-browser.scroll
  date 2013-09-23
@@ -8454,7 +8572,7 @@
  
  We truly believe this new way to build websites--an IDE in your browser-- is a faster way to build websites and the way it will be done in the future. By this time next year, using NudgePad, it could be 100x faster and easier to build websites than it is today.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/software-should-save-people-time.scroll
  date 2013-04-02
@@ -8480,7 +8598,7 @@
  
  The very first program I made was meant to save me and my family time. Back in 1996, to start our computer, connect to the Internet and launch Netscape took about 20 minutes, and you had to do each step sequentially. My first BAT script automated that to allow you to turn the computer on and go play outside for 20 minutes while it connected to the web. Many years later, my ultimate motivation to save people time has remained constant.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/time.scroll
  date 2013-04-01
@@ -8505,7 +8623,7 @@
  are equal.
  Their journeys can be very different.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/money-is-meant-to-circulate.scroll
  date 2013-03-30
@@ -8527,7 +8645,7 @@
  
  P.S. This quote also applies well to most man made things. Cars,  houses, bikes, et cetera, are more valuable circulating than idling. It seemed briefly we were on a trajectory toward overabundance, but the sharing economy is bringing circulation back.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-10000-hours.scroll
  date 2013-03-30
@@ -8559,7 +8677,7 @@
  
  image bug.png
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/minor-epiphanies.scroll
  date 2013-03-16
@@ -8594,7 +8712,7 @@
  
  - Stumbled upon the term in John Calcote's book "Autotools".
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-booster-design-pattern.scroll
  date 2013-03-08
@@ -8610,7 +8728,7 @@
  
  image booster.jpg
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/startups-and-planes.scroll
  date 2013-02-24
@@ -8625,7 +8743,7 @@
   dateline
  
  This is silly. Maybe as the decision makers switch from gambling financeers to engineers we will see the success rate of starting a company shoot closer to 100%.
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/save-your-money-for-great-values.scroll
  date 2013-02-16
@@ -8653,7 +8771,7 @@
  - I'm not advocating being a penny pincher. I'm advocating being aware of the orders of magnitude difference in return from purchases.
  - I wonder if someday we'll have credit cards that help you be aware of the order of magnitude variance in expected value of purchases. It seems like one great benefit, would be to charge a higher interest rate on purchases that have low expected value, and a very low interest rate on purchases with high expected value (like books).
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/infinite-futures.scroll
  date 2013-02-12
@@ -8675,7 +8793,7 @@
  
  There are infinite futures. Prepare for them all!
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/prove-it.scroll
  date 2012-12-29
@@ -8707,7 +8825,7 @@
  
  The only way to accurately describe yourself or your group is to look at how you've spent your time in the past. Anytime someone says something about what they will do or be like in the future, your response should be simple: prove it.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-great-bank-robbery.scroll
  date 2012-12-23
@@ -8743,7 +8861,7 @@
   link fbi.jpg FBI
   https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/property-crime/burglary here
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/responsibility.scroll
  date 2012-12-22
@@ -8775,7 +8893,7 @@
  
  Smart entrepreneurship is all about choosing problems you can and want to own. You need to say "no" to most problems. If you say "yes" to everything, you'll stretch yourself too thin. You need to increase your responsibility in a realistic way. You need to focus hard on the problems you can solve with your current resources, and leave the other problems for another company or another time.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/black-swans-and-technology.scroll
  date 2012-12-19
@@ -8818,7 +8936,7 @@
  # Notes
  _All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/deliver.scroll
  date 2012-12-19
@@ -8869,7 +8987,7 @@
  
  Be the One who delivers the goods!
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/cant-lose-could-win-big.scroll
  date 2012-12-18
@@ -8907,7 +9025,7 @@
  
  Then, if you want to make yourself open to positive black swans, you can put 10% of your efforts into things that make you more open to those like: recruiting world class talent, pitching and raising money, tackling bigger markets. But make sure you focus on the conservative things. Risk, in moderation, is a good thing. Risk, in significant amounts, is for the foolish.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/probability-makes-planes-fly.scroll
  date 2012-12-18
@@ -8960,7 +9078,7 @@
  
  It's probability all the way down.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/narratives-misrepresent-complex-systems.scroll
  date 2012-12-16
@@ -9052,7 +9170,7 @@
  
  </div>
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-is.scroll
  date 2012-12-16
@@ -9082,7 +9200,7 @@
  
  *Simple is balanced*. It is nuanced, not black and white.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/introducing-note.scroll
  date 2012-12-14
@@ -9144,7 +9262,7 @@
  
  Please feel free to email me with any questions or feedback you may have, as well as if you'd be interested in contributing.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/planets-and-pebbles.scroll
  date 2012-11-26
@@ -9169,7 +9287,7 @@
  # Related Posts
  relatedList
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/publishing-more.scroll
  date 2012-11-25
@@ -9197,7 +9315,7 @@
  
  The bottom line is I want to publish more. It forces me to think hard about my opinions, and it opens me up to advice from other people. I think this blog has helped me be less wrong about a lot of things. So here's to another fifty posts.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/setplicity.scroll
  date 2012-11-20
@@ -9236,7 +9354,7 @@
  
  Simplicity is a great thing to strive for. But sometimes cutting things out to make something simpler can make it worse. Simplicity is not the only thing to maximize. Make sure to balance simplicity with setplicity. Don't worry if you haven't reduced things to a singularity. Happiness in life is found by balancing amongst a set of things, not by cutting everything out.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/naming-things.scroll
  date 2012-10-20
@@ -9272,7 +9390,7 @@
  
  What I like about the idea of using the names Present and Absent is that it makes the fundamentals of computing align with the fundamentals of the world. The most fundamental questions in the world about being--of existence. Do we exist? Why do we exist? Will we exist tomorrow? Likewise, the most fundamental questions in computing is not whether or not there are ones and zeroes, it's whether or not a charge exists. Does a charge exist? Why does that charge exist? Will that charge exist in the next iteration? Computing is not about manipulating ones and zeroes. It's about using the concept of being, of existence, to solve problems. Computing is about using the concept of the presence or absence of charge to do many wonderful things.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.scroll
  date 2011-03-30
@@ -9314,7 +9432,7 @@
  - Rock climbing and programming are great complements because rock climbing seems to erase any bad effects on your hands that typing all day can cause.
  - I'm a terrible rock climber and only a decent programmer. Take all my advice with a grain of salt.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/look-for-a-line.scroll
  date 2011-03-05
@@ -9340,7 +9458,7 @@
  
  If you are the CEO of a company, your job is simply to create lines. You want customers lining up for your product, investors lining up to invest, recruits lining up to apply for jobs. It's very easy to measure how you're doing. If you look around and don't see any lines, you gotta pick it up.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/backpack-the-world-with-zero-planning.scroll
  date 2011-03-04
@@ -9400,7 +9518,7 @@
  - check flight prices for the next few legs of your trip.
  - find the local groupon clones and check them often for great excursion and meal deals.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-economy-explained.scroll
  date 2010-09-18
@@ -9459,7 +9577,7 @@
  # In conclusion
  In conclusion, the economy is a tremendous creature that can provide you with a lot if you plug yourself in. It's been growing for thousands of years and has a lot to offer. You can also to choose to stay largely unplugged from it, and that's okay too.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/circle-of-competence.scroll
  date 2010-08-25
@@ -9482,7 +9600,7 @@
  3. Be a big fish in a small circle.
  4. Spend time outside your circle, but expand it slowly. Definitely work hard to improve your skill set but don't overreach. It's better to have a solid core and build momentum from that than to be marginal in a lot of areas.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/critical-thinking.scroll
  date 2010-08-25
@@ -9500,7 +9618,7 @@
  
  Come to conclusions and build good habits. Let your auto pilot take over. Then occasionally come back and revisit your conclusions.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-is-intelligence-distributed.scroll
  date 2010-08-25
@@ -9520,7 +9638,7 @@
  
  Would love to hear what other people think. Shoot me an email!
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/kids-are-neat.scroll
  date 2010-08-25
@@ -9538,7 +9656,7 @@
  
  So the trick to making a difference is to sometimes slow down, spend time raising good kids, and delegate some of the world saving to them.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/nature-verse-nurture.scroll
  date 2010-08-25
@@ -9562,7 +9680,7 @@
  
  I think the bio/genome field will be the most interesting industry come 2025 or so.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/recommendations-are-far-from-good.scroll
  date 2010-08-25
@@ -9589,7 +9707,7 @@
  
  Recommendations are great business, but I think we're 2 or 3 orders of magnitude away from where they could be, and it could take decades(or never) to reach those levels.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ruby.scroll
  date 2010-08-25
@@ -9605,7 +9723,7 @@
  
  Python is a great language too, and I have more experience with it, and the whitespace thing is a silly gripe. But I've reached a peak with PHP and am looking to master something new. Ruby it is.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/you-cant-predict-the-future.scroll
  date 2010-08-25
@@ -9643,7 +9761,7 @@
  # Be Conservative
  My general advice is to be ultra conservative about the future and ultra bullish on the present. Plan and prepare for the worst of days--but without a pessimistic attitude. Enjoy today and make safe investments for tomorrow.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-recency-effect.scroll
  date 2010-08-23
@@ -9675,7 +9793,7 @@
  - Influence by Cialdini will give you a momentary force field against the tricks of pushy salespeople and also temporarily boost your own ability to get people to do what you want.
  - Watching Jersey Shore will temporarily make you feel much better about your life while at the same time altering your vocabulary with phrases like "You do you" and "GTL".
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-percentage-of-the-brain-does-what.scroll
  date 2010-08-23
@@ -9709,7 +9827,7 @@
  
  I'm probably quite far off, but I thought it was an interesting question to think about. Now I'll go see if I can dig up some truer numbers.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-ovarian-lottery-and-other-side-projects.scroll
  date 2010-08-11
@@ -9797,7 +9915,7 @@
  comment
   Relevant photo (and thread): https://twitter.com/SlowwCo/status/1458263107885617153/photo/2
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/happiness-is-in-mediocristan.scroll
  date 2010-08-06
@@ -9841,7 +9959,7 @@
  
  It's funny, although our society doles out vastly different rewards, at the end of the day, in what matters the most, mother nature has created a pretty equal playing field.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orbits.scroll
  date 2010-08-06
@@ -9870,7 +9988,7 @@
  - 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
  - 4. We should also call days "revs". Okay I'm done.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-i-want.scroll
  date 2010-08-06
@@ -9918,7 +10036,7 @@
  
  If you don't know what it is you want, try making a mindmap.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-do-you-know-game-and-why-we-need-celebrities.scroll
  date 2010-08-03
@@ -9981,7 +10099,7 @@
  
  But celebrities are better than nothing.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/design-matters-a-lot.scroll
  date 2010-07-02
@@ -10041,7 +10159,7 @@
  # Notes
  - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/competition-and-specialization.scroll
  date 2010-06-28
@@ -10070,7 +10188,7 @@
  *Update 8/6/2010*: Overspecialization can be bad as well when things don't go according to plan, as NNT points out, Mother Nature does not like overspecialization, as it limits evolution and weakens the animals. If Intel fell into a sinkhole, we'd be screwed if it weren't for having a backup in AMD.
   http://www.fooledbyrandomness.com/robustness.pdf Mother Nature does not like overspecialization
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-but-not-easy.scroll
  date 2010-06-17
@@ -10108,7 +10226,7 @@
  
  What are some other reasons people fail to build a must have product?
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/flip-flopping.scroll
  date 2010-06-16
@@ -10153,7 +10271,7 @@
  
  I have no idea.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-churn-rate-of-data.scroll
  date 2010-06-15
@@ -10179,7 +10297,7 @@
  
  Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/culture-and-complexity.scroll
  date 2010-06-14
@@ -10219,7 +10337,7 @@
  # Notes
  1. Interesting factet: there are apparently 38 colonies of Emperor Penguins in Antarctica.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-invention-of-free-will.scroll
  date 2010-03-24
@@ -10258,7 +10376,7 @@
   https://./the-many-worlds-law.html many
  - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-is-it-best-to-do-one-thing-really-really-well.scroll
  date 2010-03-22
@@ -10314,7 +10432,7 @@
  ? How do you explain the fact that successful companies actually do a lot of different things?
  Microsoft Windows brings in something like $15 billion per year. Google Adwords brings in something like $15 billion per year. When you make that kind of money, you can drop $100 million selling ice cream and it won't hurt you too much. But to get there, you've first got to do one hard thing really, really well, whether it be operating systems or search.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-hidden-benefits-of-automation.scroll
  date 2010-03-17
@@ -10350,7 +10468,7 @@
  # Automate. Automate. Automate
  Try to automate as much as possible. The great thing about automation is that once you automate one task you'll have more time to automate the next task. Automation is a great investment with compounding effects. Try to get a process down to as few steps or keystrokes as possible(your ideal goal is zero keystrokes). Every step you eliminate will pay off more than you think.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/metrics-for-programmers.scroll
  date 2010-03-16
@@ -10384,7 +10502,7 @@
   ../Zend-1.10 360 2145 1692 336419 42 11123
   ../symfony-1.4.3 770 2905 2091 298700 362 12198
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/hackernews-data-visits-as-a-function-of-karma.scroll
  date 2010-03-08
@@ -10423,7 +10541,7 @@
   1 146 <a href="seo-made-easy-lumps.html">/seo_made_easy_lumps</a>
   1 36 <a href="dont-flip-the-bozo-bit.html">/dont_flip_the_bozo_bit</a>
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dont-talk-about-what-you-will-do-talk-about-what-you-have-done.scroll
  date 2010-02-19
@@ -10488,7 +10606,7 @@
  # Notes
  1. In other words, don't overpromise and underdeliver.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-its-worth-it-to-buy-the-book.scroll
  date 2010-02-17
@@ -10526,7 +10644,7 @@
  - 1. Even if a book is more expensive, say $50, the numbers don't change too much.
  - 2. Pardon my scribbling. Got a new toy.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-least-you-can-do.scroll
  date 2010-02-02
@@ -10577,7 +10695,7 @@
  - Another relevant computer science topics is the The longest common subsequence problem.
   http://en.wikipedia.org/wiki/Longest_common_subsequence_problem The longest common subsequence problem
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/four-tips-to-improve-communication.scroll
  date 2010-01-29
@@ -10605,7 +10723,7 @@
  
  That's it. Good luck!
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/network-effects.scroll
  date 2010-01-22
@@ -10637,7 +10755,7 @@
  # Notes
  - 1. This is probably easier said than done.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/if-you-can-explain-something-logically-you-can-explain-it-simply.scroll
  date 2010-01-18
@@ -10682,7 +10800,7 @@
   Do I need to master the building blocks to be successful in life?
   No. But you need to know them if you want to be able to learn any subject.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.scroll
  date 2010-01-15
@@ -10754,7 +10872,7 @@
  # Notes
  - 1. I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/when-forced-to-wait-wait.scroll
  date 2010-01-14
@@ -10806,7 +10924,7 @@
   http://paulgraham.com/head.html Holding a Program in One's Head
  - 2. Of course, if you're given a very long idle time, then feel free to switch tasks. Don't spend 4 hours staring at your screen waiting for a coworker to get back to you.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-buy-low-sell-high.scroll
  date 2010-01-12
@@ -10852,7 +10970,7 @@
  # Buy a business
  Businesses can be the ultimate thing to buy low and sell high because they have nearly unlimited upside. Real estate, gold, commodities, etc., can be good investments perhaps. But when's the last time you heard of someone's house going up 10,000%? Starting a business can be your best investment ever, as you are guaranteed to buy _extremely low_, and have the potential to sell _extremely high_.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/flee-the-bubble.scroll
  date 2010-01-05
@@ -10909,7 +11027,7 @@
  
  That's all I've got. But don't take it from me, read the writings of web entrepreneurs who have achieved more success. (And please share what you find or your own experiences on HackerNews).
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/checklist-for-new-products.scroll
  date 2009-12-28
@@ -10946,7 +11064,7 @@
  - 9. What resources do you need to do this? <input size="40">
  - 10. What's the total addressable market size? <input size="6"> people $<input size="6">
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/diversification-in-startups.scroll
  date 2009-12-24
@@ -11031,7 +11149,7 @@
  2. Thanks to Ben for helping me form my ideas on this issue.
   http://www.benzulauf.com Ben
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/thoughts-on-setting-goals.scroll
  date 2009-12-23
@@ -11083,7 +11201,7 @@
  
  If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/problems-worth-solving.scroll
  date 2009-12-20
@@ -11119,7 +11237,7 @@
  # Ignore Speed Limits
  If you don't have the skills yet to solve important problems, reach out to those who do. To solve important problems, you need to develop a strong skill set. But you can do this much faster than you think. If you commit to solving important problems and then reach out to more committed programmers than you, I'm sure you'll find many of them willing to help speed you along your learning curve.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/make-something-40-of-your-customers-must-have.scroll
  date 2009-12-16
@@ -11221,7 +11339,7 @@
  - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
   http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/seo-made-easy-lumps.scroll
  date 2009-12-15
@@ -11292,7 +11410,7 @@
  - SEOBook - one of the best SEO sites out there.
   https://www.seobook.com SEOBook
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dont-flip-the-bozo-bit.scroll
  date 2009-12-13
@@ -11339,7 +11457,7 @@
  - Origin of the term?
   https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/unfeatures.scroll
  date 2009-12-11
@@ -11387,7 +11505,7 @@
  * Edit: 01/05/2010. Features are a great way to make money.
   https://evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 great way to make money
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/get-stuff-done-by-setting-arbitrary-constraints.scroll
  date 2009-12-10
@@ -11433,7 +11551,7 @@
  
  But the important thing is just having constraints in the first place.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.scroll
  date 2009-12-09
@@ -11473,7 +11591,7 @@
  
  Blogging. Don't save it for your old age.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/6-specific-ways-to-find-programming-mentors.scroll
  date 2009-12-08
@@ -11521,7 +11639,7 @@
  # Notes
  1. That exercise percentage is a guess, but sounds right to me.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orders-of-magnitude.scroll
  date 2009-12-07
@@ -11590,7 +11708,7 @@
  - Thanks to Mairi and Andrew Kitchell for providing feedback.
   http://www.30words.com Andrew Kitchell
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-many-worlds-law.scroll
  date 2009-12-06
@@ -11630,7 +11748,7 @@
  - 4. I called it the many worlds "law" because I don't want to use the word theory or hypothesis. Theory and hypothesis are too linked in people's minds with uncertainty, and some ideas, like evolution and many worlds, have way too much supporting evidence to leave any room for uncertainty, in as much as we can be uncertain about something.
  - 5. One of the most important laws in most worlds, anyway.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/twelve-tips-to-master-programming-faster.scroll
  date 2009-12-04
@@ -11705,7 +11823,7 @@
  2. I added the quotes around "coding" when describing my past experience because it was simple stuff, and it felt funny funny calling it coding just as it would sound funny calling a 5 year old's work "writing".
  3. I still have a long way to go to become a "great programmer", 2-4 more years I'd say.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/whats-linear-algebra.scroll
  date 2009-12-03
@@ -11747,7 +11865,7 @@
  
  I guess when you write about what you don't know, you write mostly questions.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fiction-or-nonfiction.scroll
  date 2009-12-02 3
@@ -11800,7 +11918,7 @@
  - 3. This essay is in response to a comment I read a while back on HackerNews that got me thinking about the subject.
   http://news.ycombinator.com/item?id=917566 comment
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/experience-is-what-you-get.scroll
  date 2009-12-02 2
@@ -11826,7 +11944,7 @@
  
  When you're fresh out of the gate, it's hard to make those predictions. You just don't have any data so you can't analyze cause and effect appropriately. But once you're out there attempting things, even if you screw up or don't get what you want, you get experience. You get data to use to make better decisions in the future.
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/im-back.scroll
  date 2009-12-02 1
@@ -11854,7 +11972,7 @@
  
  Written 11/30/2009
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-you-focus-on-increases.scroll
  date 2009-05-06
@@ -11901,7 +12019,7 @@
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/iphone/2009/05/06/what-you-focus-on-increases/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-truth-about-web-design.scroll
  date 2009-04-14
@@ -11930,7 +12048,7 @@
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-startups/2009/04/14/the-truth-about-web-design/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/twitter-search-wins-again.scroll
  date 2009-04-06
@@ -11960,7 +12078,7 @@
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-20/2009/04/06/twitter-search-wins-again/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/irrational-numbers.scroll
  date 2009-03-31
@@ -11996,7 +12114,7 @@
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/statistics/2009/03/31/irrational-numbers/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/are-you-making-something-that-will-become-absolutely-irrelevant.scroll
  date 2009-01-05
@@ -12045,7 +12163,7 @@
  Original post
   https://web.archive.org/web/20090201144117/http://www.breckyunits.com/web-startups/2009/01/05/are-you-making-something-that-will-become-absolutely-irrelevant/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/meteorite-caught-on-film.scroll
  date 2008-11-23
@@ -12067,7 +12185,7 @@
  Original post
   https://web.archive.org/web/20090206005656/http://www.breckyunits.com/science/2008/11/23/meteorite-caught-on-film/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/my-best-startup-advice-numbers-numbers-numbers.scroll
  date 2008-10-12
@@ -12115,7 +12233,7 @@
  Original post
   https://web.archive.org/web/20081016050749/http://www.breckyunits.com/web-20/2008/10/12/my-best-startup-advice-numbers-numbers-numbers/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/san-francisco.scroll
  date 2008-09-19
@@ -12135,7 +12253,7 @@
  Original post
   https://web.archive.org/web/20090209063918/http://www.breckyunits.com/san-francisco/2008/09/19/san-francisco/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/justhackit.scroll
  date 2008-08-20
@@ -12164,7 +12282,7 @@
  Original post
   https://web.archive.org/web/20081017081121/http://www.breckyunits.com/web-20/2008/08/20/justhackit/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.scroll
  date 2008-07-28
@@ -12198,7 +12316,7 @@
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/uncategorized/2009/04/25/bigger-telescopes-are-needed-to-solve-global-warming-2/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-cure-the-hiccups.scroll
  date 2008-07-28
@@ -12229,7 +12347,7 @@
  Original post
   https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/28/how-to-cure-the-hiccups/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/trying-shelfari-goodreads-and-librarything.scroll
  date 2008-07-27
@@ -12266,7 +12384,7 @@
  Original post
   https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/27/trying-shelfari-goodreads-and-librarything/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/over-half-of-the-world-is-older-than-me.scroll
  date 2008-07-09
@@ -12296,7 +12414,7 @@
  Original post
   https://web.archive.org/web/20081120163150/http://www.breckyunits.com/statistics/2008/07/09/over-half-of-the-world-is-older-than-me/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggers-who-turned-pro-and-their-famous-last-words.scroll
  date 2008-07-07
@@ -12377,7 +12495,7 @@
  Original post
   https://web.archive.org/web/20081024204528/http://www.breckyunits.com/web-20/2008/07/07/bloggers-who-turned-pro-and-their-famous-last-words/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.scroll
  date 2008-05-14
@@ -12407,7 +12525,7 @@
  Original post
   https://web.archive.org/web/20081120162550/http://www.breckyunits.com/economics/2008/05/14/daily-gas-use-for-the-united-states-and-the-world/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.scroll
  date 2008-05-08
@@ -12540,7 +12658,7 @@
  Original post
   https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/first-place-in-the-stock-market-game.scroll
  date 2007-09-28
@@ -12571,7 +12689,7 @@
  Original post
   https://web.archive.org/web/20081120154142/http://www.breckyunits.com/economics/2007/09/28/first-place-in-the-stock-market-game/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.scroll
  date 2007-09-13
@@ -12609,7 +12727,7 @@
  Original post
   https://web.archive.org/web/20081120154142/http://www.breckyunits.com/ideas/2007/09/13/why-a-team-is-worth-a-lot-more-than-an-idea/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/learning-how-to-program-part-i.scroll
  date 2007-08-28
@@ -12644,7 +12762,7 @@
  Original post
   https://web.archive.org/web/20081120161711/http://www.breckyunits.com/programming/2007/08/28/learning-how-to-program-part-i/
  
- import allFooter.scroll
+ import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/i-guess-the-time-had-come.scroll
  date 2007-08-24
@@ -12672,4 +12790,4 @@
  Original post
   https://web.archive.org/web/20081120161711/http://www.breckyunits.com/blogging/2007/08/24/i-guess-the-time-had-come/
  
- import allFooter.scroll
+ import footer.scroll
