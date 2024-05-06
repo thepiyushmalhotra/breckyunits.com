@@ -182,10 +182,6 @@
 /home/runner/work/breckyunits.com/breckyunits.com/theEnergyClock.scroll
  date 2024-05-02
  groups All BipolarDisorder
- openGraphImage energyClock.jpeg
-  //
-   The load shedding in Kathmandu reminded me of the roating "clock" in Hunger Games 2.
-   Source: https://www.youtube.com/watch?app=desktop&v=velg-kWXoaY
  
  import header.scroll
  title Energy Clocks
@@ -240,6 +236,14 @@
  
  ***
  
+ image energyClock.jpeg
+  openGraph
+  caption In the movie Hunger Games: Catching Fire, an outdoor arena has 12 slices. Each slice gets power for one hour, then it rotates to the next slice. A rotating energy clock.
+   https://www.imdb.com/title/tt1951264/ Hunger Games: Catching Fire
+   // Source: https://www.youtube.com/watch?app=desktop&v=velg-kWXoaY
+ 
+ ***
+ 
  Kathmandu had a rotating energy clock.
  
  Neighborhoods that were hustle and bustle one minute would be dead quiet the next.
@@ -282,7 +286,7 @@
  
  ***
  
- Bipolar disorder is like having an energy clock.
+ Bipolar disorder is like having a rotating energy clock.
  
  Some months you have energy. And then...it goes out.
  
@@ -290,10 +294,10 @@
  
  ***
  
- I prick my finger to measure the ketones in my blood.
-  link ketonesVsLithium.html ketones in my blood
+ I am six months into keto.
  
- The blood tests tell me I've been in ketosis for 6 months.
+ A few times a week, I prick my finger to measure the ketones in my blood.
+  link ketonesVsLithium.html ketones in my blood
  
  By my calculations, it will take 3 years before I know for sure if keto can control my energy.
  
@@ -345,10 +349,10 @@
  
  ***
  
- With keto, the energy clock might be controllable.
+ With keto, the energy clock might be fixable.
  
- The key drivers of bipolar energy cycles may have finally been identified by scientists.
-  https://www.metabolicmind.org/ scientists
+ The key drivers of bipolar energy cycles may have finally been identified by scientific workers.
+  https://www.metabolicmind.org/ scientific workers
  
  Mitochondria, ketones, glucose, ATP--these seem to be the key actors.
  
@@ -363,11 +367,13 @@
  In 2018 Nepal finally built a steady power supply.
   https://kathmandupost.com/money/2018/05/14/entire-country-is-now-free-of-loadshedding
  
- The Kathmandu energy clock is gone.
+ Workers fixed the Kathmandu energy clock.
  
  ***
  
- Who knows, maybe bipolar energy clocks will soon be gone too.
+ Maybe workers can fix the bipolar energy clock too.
+ 
+ ****
  
  import footer.scroll
  
@@ -4865,7 +4871,7 @@
   link http://akkartik.name/ Kartik
   https://shalabh.com/ Shalabh
   https://twitter.com/warianoguerra Mariano
-  https://trellick.work Joe Trellick
+  https://trellick.work Joe
  
  In 1997 Ted Nelson proposed parallel markup.
   https://www.xml.com/pub/a/w3j/s3.nelson.html parallel markup
@@ -4875,7 +4881,7 @@
   @ Ted Nelson
  
  When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
-  https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup" implementation
+  https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup implementation"
   https://en.wikipedia.org/wiki/Overlapping_markup Overlapping markup
  
  A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff/groff 50 years later, when characters/bytes aren't so expensive anymore.
@@ -5691,7 +5697,7 @@
  An illogerate person may mistake one part of a sin wave for a trend.
  
  An illogerate is one who may be familiar with exponentials but unfamiliar with sigmoids
-  https://en.wikipedia.org/wiki/Sigmoid_function signmoids
+  https://en.wikipedia.org/wiki/Sigmoid_function sigmoids
  
  # Measuring Logeracy
  No country or organization measures logeracy yet^email. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
@@ -8356,6 +8362,97 @@
  
  import footer.scroll
  
+/home/runner/work/breckyunits.com/breckyunits.com/30000hours.scroll
+ groups All Programming Life
+ 
+ import header.scroll
+ title 30,000 Hours
+ related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+ date 7/18/2019
+ 
+ mediumColumns 1
+ 
+ In 2013 I sent a brief email to 25 programmers whose programs I admired.
+  dateline
+ 
+ quote
+  "Would you be willing to share the # of hours you have spent practicing programming?
+  
+  Back of the envelope numbers are fine!"
+ 
+ Some emails bounced back.
+ 
+ Some went unanswered.
+ 
+ But five coders wrote back.
+ 
+ This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting--and a testament to practice!
+ 
+ printTable
+ Name	GitHubId	Hours	YearOfEstimate	BornIn
+ Donald Knuth		56000	2013	1938
+ Rob Pike	robpike	30000	2013	1956
+ Peter Norvig	norvig	30000	2013	1956
+ Stephen Wolfram		50000	2013	1959
+ Lars Bak	larsbak	30000	2013	1965
+  https://en.wikipedia.org/wiki/Donald_Knuth Donald Knuth
+  https://en.wikipedia.org/wiki/Rob_Pike Rob Pike
+  https://en.wikipedia.org/wiki/Peter_Norvig Peter Norvig
+  https://en.wikipedia.org/wiki/Stephen_Wolfram Stephen Wolfram
+  https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer) Lars Bak
+  https://github.com/robpike robpike
+  https://github.com/norvig norvig
+  https://github.com/larsbak larsbak
+ 
+ image 30000.png
+ 
+ endSnippet
+ 
+ # My Conclusion
+ No evidence has been found that the 10,000 hour strategy is flawed. :)
+ 
+ # Thank You
+ I hope these data points can encourage other aspiring programmers as much as they encouraged me.
+ 
+ I am eternally grateful to the programmers who responded.
+ 
+ Back then I was 5 years into my programming career, I had passed 10,000 hours of practice, and was starting to worry that the "10,000 hour strategy" I had been following and telling other aspiring programmers to follow may have been in vain, because I was still a pretty bad programmer (many would argue that today, 6 years later, I'm not much better, but now I can say that's just because I only have 29,000 hours of practice).
+ 
+ These busy coders answered my cold emails with not just a number but many encouraging words and thoughts.
+ 
+ One of my favorite responses was from Peter Norvig, who sent me a Python program computing his estimate:
+ 
+ code
+  # sum(years *  (hours/week)) * (weeks/year) 
+  
+  (4 * 10 # college
+  + 2 * 30 # first job
+  + 5 * 20 # grad school
+  + 6 * 20 # faculty, research faculty
+  + 6 * 25 # programming jobs
+  + 15 * 10 # management jobs
+  ) * 48
+ 
+ Thank you everyone!
+ 
+ ****
+ 
+ # Notes
+ I promised I would compile the responses and publish the results to the public domain.
+ 
+ But, while waiting for more responses to trickle in, I slowly forgot about this project.
+ 
+ Until this morning (7/18/2019), when I stumbled upon one of those old emails.
+ 
+ Sorry for the delay!
+ 
+ # Related Posts
+ relatedList
+ 
+ // Originally posted here: https://github.com/breck7/30000hours
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/going-manic-with-a-fitbit.scroll
  date 1/13/2018
  groups All BipolarDisorder
@@ -8415,7 +8512,6 @@
  With my software project I started to feel the paranoid need to move fast — I got the delusion Google was also working on the same idea and was about to launch before me, stealing my thunder. Embarrassingly, I started publishing these grand claims, emailing past coworkers and employers, and started telling people I would win the Turing Prize.
  
  My spending got wild. For example, on a trip during the episode, I spent $300 to upgrade my ticket to first class (at the time I thought it was worthwhile because I wrote a “brilliant” math proof on the plane), took a deluxe Uber for $70, and tipped a busker $100. My usual daily expenses were about $30. My monthly expenses had been about $3k a month, but now shot up to over $10k.
-  wrapsOn false
  
  I can't believe I didn't know better, given more than a decade of experience with this condition. But at the time I was oblivious to what was driving me — in my mind there was a perfectly logical narrative explaining all my actions. Only now, looking at the sleep data, is it clear to me that physical brain conditions were contributing a huge amount to my behavior.
  
@@ -8711,6 +8807,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/why-10000-hours.scroll
  date 2013-03-30
  groups All Life Thinking
+ related 30000hours
  
  import header.scroll
  title Why 10,000 hours?
@@ -8737,6 +8834,11 @@
   @ Guglielmo Marconi
  
  image bug.png
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
  
  import footer.scroll
  
@@ -9456,6 +9558,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.scroll
  date 2011-03-30
  groups All Programming Life
+ related 30000hours twelve-tips-to-master-programming-faster
  
  import header.scroll
  title What can a Programmer learn from Rock Climbing?
@@ -9489,9 +9592,14 @@
  
  * 10. *Natural gifts play a part.* Some people who practiced for 5,000 hours will be worse than some people who practiced for only 2,000 hours due to genetics and other factors. It would be great if how good you were at something was determined totally by how many hours you've invested. But it's not. However, at the extremes, the number of hours of practice makes a huge difference. The absolute best climbers spend an enormous amount of time practicing. In the middle of the pack, a lot of the difference is just due to luck. I've worked with a wide range of programmers in my (short so far) career. I've worked with really smart ones and some average ones. Some work hard and others aren't so dedicated. The best by far though, possess both the intelligence and the dedication. And I'd probably rather work with the dedicated and average smarts over the brilliant but lazy.
  
+ ****
+ 
  # Notes
  - Rock climbing and programming are great complements because rock climbing seems to erase any bad effects on your hands that typing all day can cause.
  - I'm a terrible rock climber and only a decent programmer. Take all my advice with a grain of salt.
+ 
+ # Related Posts
+ relatedList
  
  import footer.scroll
  
@@ -11814,6 +11922,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/twelve-tips-to-master-programming-faster.scroll
  date 2009-12-04
  groups All Programming
+ related 30000hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
  
  import header.scroll
  title Twelve Tips to Master Programming Faster
@@ -11841,16 +11950,27 @@
  
  # The 12 Tips
  1. *Get started*. Do not feel bad that you are not an expert programmer yet. In 10,000 hours, you will be. All you need to do is start. Dedicate some time each day or week to checking things off this list. You can take as long as you want or move as fast as you want. If you've decided to become a great programmer, youve already accomplished the hardest part: planting the seed. Now you just have to add time and your skills will blossom. If you need any help with any of these steps, feel free to email me and Ill do my best to help.
+ 
  2. *Dont worry*. Do not be intimated by how much you dont understand. Computers are still largely magic even to me. We all know that computers are fundamentally about 1s and 0s, but what the hell does that really mean? It took me a long time to figure it out--it has something to do with voltages and transistors. There are endless topics in computer science and endless terms that you won't understand. But if you stick with it, eventually almost everything will be demystified. So don't waste time or get stressed worrying about what you don't know. It will come, trust me. Remember, every great programmer at one time had NO IDEA what assembly was, or a compiler, or a pointer, or a class, or a closure, or a transistor. Many of them still dont! That's part of the fun of this subject--you'll always be learning.
+ 
  3. *Silicon Valley*. Simply by moving to Silicon Valley, you have at least: 10x as many programmers to talk to, 10x as many programming job opportunities, 10x as many programming meetups, and so on. You don't have to do this, but it will make you move much faster. The first year of my programming career was in Boston. The second year was in San Francisco. I have learned at a much faster pace my second year.
+ 
  4. *Read books*. In December of 2007 I spent a few hundred dollars on programming books. I bought like 20 of them because I had no idea where to begin. I felt guilty spending so much money on books back then. Looking back, it was worth it hundreds of times over. You will read and learn more from a good $30 paperback book than dozens of free blogs. I could probably explain why, but its not even worth it. The data is so very clear from my experience that trying to explain why it is that way is like trying to explain why pizza tastes better than broccoli: Im sure there are reasons but just try pizza and you'll agree with me.
+ 
  5. *Get mentors*. I used to create websites for small businesses. Sometimes my clients would want something I didnt know how to do, simple things back then like forms. I used to search Google for the answers, and if I couldnt find them, I'd panic! Dont do that. When you get in over your head, ping mentors. They dont mind, trust me. Something that youll spend 5 hours panicking to learn will take them 2 minutes to explain to you. If you dont know any good coders, feel free to use me as your first mentor.
+ 
  6. *Object Oriented*. This is the "language" the world codes in. Just as businessmen communicate primarily in English, coders communicate primarily in Object Oriented terms. Terms like classes and instances and inheritance. They were completely, completely, completely foreign and scary to me. Theyd make me sick to my stomach. Then I read a good book(Object Oriented PHP, Peter Lavin), and slowly practiced the techniques, and now I totally get it. Now I can communicate and work with other programmers.
+ 
  7. *Publish code*. If you keep a private journal and write the sentence The car green is, you may keep writing that hundreds of times without realizing its bad grammar, until you happen to come upon the correct way of doing things. If you write that in an email, someone will instantly correctly you and you probably won't make the mistake again. You can speed up your learning _1-2 orders of magnitude_ by sharing your work with others. Its embarrassing to make mistakes, but the only way to become great is to trudge through foul smelling swamp of embarrassment.
+ 
  8. *Use github*. The term version control used to scare the hell out of me. Heck, it still can be pretty cryptic. But version control is crucial to becoming a great programmer. Every other developer uses it, and you can't become a great programmer by coding alone, so you'll have to start using it. Luckily, you're learning during an ideal time. Github has made learning and using version control much easier. Also, Dropbox is a great tool that your mom could use and yet that has some of the powerful sharing and version control features of something like git.
+ 
  9. *Treat yourself*. Build things you think are cool. Build stuff you want to use. Its more fun to work on something you are interested in. Programming is like cooking, you don't know if what you make is good until you taste it. If something you cook tastes like dog food, how will you know unless you taste it? Build things you are going to consume yourself and you'll be more interested in making it taste not like dog food.
+ 
  10. *Write English*. Code is surprisingly more like English than like math. Great code is easy to read. In great code functions, files, classes and variables are named well. Comments, when needed, are concise and helpful. In great code the language and vocabulary is not elitist: it is easy for the layman to understand.
+ 
  11. *Be prolific*. You dont paint the Mona Lisa by spending 5 years working on 1 piece. You create the Mona Lisa by painting 1000 different works, one of them eventually happens to be the Mona Lisa. Write web apps, iPhone apps, Javascript apps, desktop apps, command line tools: as many things as you want. Start a small new project every week or even every day. You eventually have to strike a balance between quantity and quality, but when you are young the goal should be quantity. Quality will come in time.
+ 
  12. *Learn Linux*. The command line is not user friendly. It will take time and lots of repetition to learn it. But again, its what the world uses, you'll need at least a basic grasp of the command line to become a great programmer. When you get good at the command line, its actually pretty damn cool. Youll appreciate how much of what we depend on today was written over the course of a few decades. And youll be amazed at how much you can do from the command line. If you use Windows, get CYGWIN! I just found it a few months ago, and it is much easier and faster than running virtualized Linux instances.
  
  *That's it, go get started!*
@@ -11869,6 +11989,8 @@
  
  That means I've spent between 2,000-5,000 hours developing my skills. Hopefully, by reading these tips, you can move much faster than I have over the past 2 years.
  
+ ****
+ 
  # Links
  - Github
   https://github.com
@@ -11879,10 +12001,13 @@
  - Cygwin
   https://www.cygwin.com
  
- ## Notes
+ # Notes
  1. The saying that it takes 10,000 hours to master something may or may not be true but is indisputably popular (which is often an attribute of true ideas).
  2. I added the quotes around "coding" when describing my past experience because it was simple stuff, and it felt funny funny calling it coding just as it would sound funny calling a 5 year old's work "writing".
  3. I still have a long way to go to become a "great programmer", 2-4 more years I'd say.
+ 
+ # Related Posts
+ relatedList
  
  import footer.scroll
  
