@@ -60,6 +60,8 @@ Summary
 =======
 There you have it, SEO made easy! Just remember LUMPS.
 
+****
+
 Links
 =====
 - Google WebmasterTools

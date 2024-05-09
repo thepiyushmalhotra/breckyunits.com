@@ -18,3 +18,5 @@ December 16, 2012
 *Cohesive but flexible*. You want the set to match. But you want each item to be independently improvable.
 
 *Simple is balanced*. It is nuanced, not black and white.
+
+****

@@ -32,3 +32,5 @@ Expanding Knowledge
 There are many Questions where the best Answers, even after synthesizing all human knowledge, are still far from Optimal. Identifying the best data to gather next to get closer to Optimal Answers to those Questions is the next problem after synthesizing knowledge.
 
 Today that process still requires agency and embodiment and is done by human scientists and pioneers, but I expect AIs will soon have these capabilities.
+
+****

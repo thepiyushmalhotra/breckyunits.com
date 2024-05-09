@@ -39,3 +39,5 @@ If you don't meet your constraints, it's no big deal. They're largely arbitrary 
 When you don't meet some constraints, set new ones. Because you now have more experience, the new ones might be less arbitrary.
 
 But the important thing is just having constraints in the first place.
+
+****

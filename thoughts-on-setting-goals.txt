@@ -42,3 +42,5 @@ LowBar HighBar What
 1 3 blog posts
 
 If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy.
+
+****

@@ -231,3 +231,5 @@ Symbols have enabled us to bootstrap technology. And they will remain an importa
 I thought we needed a characteristica universalis. I wasn't sure if it was possible but thought we should try. Now it seems much clearer that what we really need are capable learning neural networks, and those are indeed possible to build.
 
 A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere humans to play with when we are no longer the species running the zoo.
+
+****

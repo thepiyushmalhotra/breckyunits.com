@@ -60,7 +60,7 @@ Minsky certainly didn't figure it all out. You'll see in his interviews he is ve
 
 He didn't figure it all out but he certainly found a solid foundation. The people in computer science who took his ideas seriously are now building AIs that are indistinguishable from magic. Whereas the people in the mental health fields who have ignored his ideas in favor of the DSM continue to make things worse.
 
----
+****
 
 Related reading
 ===============
@@ -69,8 +69,6 @@ Related reading
  https://www.lesswrong.com/
 - Internal Family Systems Model
  https://en.wikipedia.org/wiki/Internal_Family_Systems_Model
-
----
 
 Footnotes
 =========

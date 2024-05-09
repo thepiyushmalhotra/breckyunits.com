@@ -17,3 +17,5 @@ Section 1. Article I, Section 8, Clause 8 of this Constitution is hereby repeale
 Section 2. Congress shall make no law abridging the right of the people to publish or peaceably implement ideas.
 
 I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
+
+****

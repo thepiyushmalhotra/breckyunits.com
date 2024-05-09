@@ -1,3 +1,134 @@
+/home/runner/work/breckyunits.com/breckyunits.com/blackSwanThoughts.scroll
+ date 2024-05-07
+ groups All Life Thinking
+ 
+ import header.scroll
+ title Black Swan Thoughts
+ // what are the black swans of black swans?
+ 
+ byLine
+ 
+ thinColumns 1
+ 
+ image blackSwanThoughts.jpg
+  openGraph
+  // ChatGPT/DallE, with some slight edits by me. Prompt:
+   It is a comic. Single frame. XKCD style. A very tall tree stands in the middle, ten times taller than a tree to the left and a tree to the right. Next to the tree on the left is a stump carved out to form a throne. On the stump sites an old man with a gray beard. On the right is a small child looking up at the tree.
+ 
+ The boy looked up at the tree that was ten times taller than the others.
+ 
+ Then he looked down and saw an old man sitting in a carved out stump next to the tree.
+ 
+ "Excuse me mister, why is that tree so tall?" the boy asked.
+ 
+ Gray Beard explained the tree.
+ 
+ "Do you understand?"
+ 
+ "Yes. I understand," said the boy.
+ 
+ The boy turned around and walked out of the forest back to the city.
+ 
+ endSnippet
+ 
+ ***
+ 
+ In the city the boy met many people.
+ 
+ One day a friend had a problem with her eye.
+ 
+ He helped her get the right medicine.
+ 
+ The boy decided to learn more about medicines.
+ 
+ He got a job selling medicines.
+ 
+ A few years later he had saved some money.
+ 
+ ***
+ 
+ He returned to the forest and found Gray Beard sitting in his carved out stump by the tall tree.
+ 
+ He told Gray Beard about his experiences.
+ 
+ Gray Beard again explained the tree.
+ 
+ "Ah! Now I understand," said the young man.
+ 
+ ***
+ 
+ Back in the city the young man began helping people with their projects.
+ 
+ He put his savings into some of his favorite projects.
+ 
+ Years later, one project helped many people and he became rich.
+ 
+ ***
+ 
+ He returned to the forest and found Gray Beard sitting in his carved out stump by the tall tree.
+ 
+ He told Gray Beard about his experiences.
+ 
+ Gray Beard again explained the tree.
+ 
+ "Ah! Finally I understand," said the man.
+ 
+ ***
+ 
+ He left the forest and went back to the city.
+ 
+ In the city he took classes and went to parties and danced and fell in love.
+ 
+ A few years later he looked down at a beautiful crying baby.
+ 
+ ***
+ 
+ He returned to the forest and found Gray Beard sitting in his carved out stump by the tall tree.
+ 
+ He told Gray Beard about his experiences.
+ 
+ Gray Beard again explained the tree.
+ 
+ The new father stood there.
+ 
+ Nothing was said.
+ 
+ He rubbed his own beard.
+ 
+ ***
+ 
+ He left the forest and went back to the city.
+ 
+ "Let us pack then," his wife said to him.
+ 
+ They packed their bags and buckled up their children and drove to the forest.
+ 
+ ***
+ 
+ Back in the forest he went to the tall tree.
+ 
+ The carved out stump was empty.
+ 
+ He walked for miles and miles in circles, looking for Gray Beard.
+ 
+ Eventually he became tired.
+ 
+ He sat down in the stump.
+ 
+ ***
+ 
+ The breeze blew on his face and the birds chirped and the leaves rustled.
+ 
+ He breathed in deeply.
+ 
+ Then he heard a child's voice.
+ 
+ "Excuse me mister, why is that tree so tall?"
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/aScientistGoesToHeaven.scroll
  date 2024-05-05
  groups All IntellectualFreedom
@@ -54,6 +185,8 @@
  "Sorry", he says.
  
  "It's paywalled."
+ 
+ ****
  
  import footer.scroll
  
@@ -170,7 +303,7 @@
  
  *Bad models of the world can be dangerous.*
  
- ***
+ ****
  
  image lakeCrew.jpeg
   openGraph
@@ -375,6 +508,10 @@
  
  ****
  
+ # Related Posts
+ relatedList
+ related powerSurges
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aHigherLanguage.scroll
@@ -449,6 +586,8 @@
  The last thing I remember is falling through the air on my stomach as a steep rocky cliff rushed by my feet and spinning around to see a tunnel of books and papers and screens rapidly disassembling above me in front of a bright blue sky.
  
  I saw the previous end of the tunnel went to nowhere, over a void, and the new end of the tunnel ended at the edge of the cliff, coming out of the forest full of trees rising high into the sky.
+ 
+ ****
  
  import footer.scroll
  
@@ -573,9 +712,7 @@
  - Tabular UIs have superior ergonomics for humans because they allow more efficient eye movement and require fewer tokens to manage.
  - All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
  
- <br><br>
- ---
- <br><br>
+ ****
  
  # Footnotes
  
@@ -618,8 +755,6 @@
  // in a new language
  
  <br><br>
- 
- ---
  
  # Footnotes²
  ^liberties There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
@@ -672,6 +807,10 @@
  // # Why concepts and measures?
  // # Ergonomics
  // Reading Speed vs Modeling Speed
+ 
+ # Related Posts
+ relatedList
+ related dataset-needed
  
  import footer.scroll
  
@@ -739,6 +878,8 @@
  css h1,h2,h1.scrollTitle a {color: #c42c1f;} body {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial";}
  
  endColumns
+ 
+ ****
  
  thinColumns 1
  image bigOs.png
@@ -895,6 +1036,8 @@
  She finally moved her throat.
  
  "The shoes", she said, with tears in her eyes.
+ 
+ ****
  
  import footer.scroll
  
@@ -1320,7 +1463,7 @@
  
  But for now, if you'll excuse me, I've got fats to eat, and fingers to prick.
  
- ---
+ ****
  
  katex
  
@@ -1475,6 +1618,8 @@
  I expect it will be many years, if not decades, before we have better terms, and so until then, I will keep tagging posts like this one with the term Bipolar Disorder.
   link bipolar.html Bipolar Disorder
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/sleepWriting.scroll
@@ -1548,6 +1693,8 @@
  # Grateful for FitBit
  I started wearing a Microsoft Band when it first came out in November 2014. Then a Band 2, then FitBit Charge, Ionic, Versa, and now Sense 2. I am grateful for all the people involved with creating these things. I think continued progress in the wearable sensor field is the best bet for improving human health.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/doHumanBrainsMolt.scroll
@@ -1578,6 +1725,8 @@
  In my quest to find a more accurate model of bipolar disorder, I was wondering if human brains go through a similar process to lobsters that we haven't properly understood yet. Like lobsters, humans brains are contained inside a skeleton (the skull). While we clearly don't molt our skulls, I wonder if there is some similar natural transformative cyclical process designed to keep our brains growing, shed damaged mental models of the world, improve reproduction, and enhance sensory perceptions. Could the cycles of bipolar disorder be a natural phasic phenomena experienced by all humans, and those labeled "bipolar" just experience more intense molts than others, for some reason?
  
  It seems like lobsters have no choice but to keep molting (except for the ones moved to captive, controlled environments designed to stop molting, like supermarket tanks where they go before being boiled to death). Maybe they are really stoked with their current shell, but nature says "sorry, too bad, time to grow", and gives them the painful boot. Similarly, maybe brains go through cycles where even if you were comfortable with your current interface to the world, nature has designed it so you will have to molt it anyway. It is a painful and vulnerable process (the mortality rate of a lobster molt is 10%), and no guarantees your new shell will be better than the last, but apparently, with lobsters at least, it is a risk that pays off in the game of natural selection.
+ 
+ ****
  
  ## Notes
  While researching lobsters (for the first time), I also came upon this interesting post on a different topic releated to lobsters and brains.
@@ -1648,7 +1797,7 @@
  
  It took me a while to let Tree Notation go. Even after LLMs destroyed the potential upside of pragmatic utility of the notation, I still liked it because it gave me an interesting way to work on problems of knowledge itself. It wasn't until I had some insights into 4D languages that I finally could say there was no longer _any_ need for Tree Notation. I am grateful for the experience and have now moved on to a new research journey.
  
- ---
+ ****
  
  ^def Program synthesis: the ability for a computer to generate the right code. Just a unique term for the concept of _really_ good autocomplete.
  ^why And in particular, understanding the model that explains _why_ LLMs succeeded while my approach failed.
@@ -1667,6 +1816,7 @@
  thinColumns 2
  
  image boxMethod.jpeg
+  openGraph
   caption S = side length of box. P = pattern. t = time. V = voxel side length.
  
  Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
@@ -1675,55 +1825,143 @@
  
  endSnippet
  
- As the size of the cube increases, the number of concepts needed increases. An increasing cube size captures more phenomena. You need more concepts for a box containing the earth than for a thimble containing a pebble. As your voxel size--the smallest unit of measurement--decreases, the number of concepts needed increases. As your time horizon increases, the number of concepts needed increases, as patterns combine to produce novel patterns in combinatorial ways, and some patterns only unfold over a certain period of time. Although, past a certain amount of time, maybe everything just repeats again. In fact, it seems likely that the number of concepts _C_ would grow sigmoidally with each of these factors.
+ ***
+ 
+ As the size of the cube increases, the number of concepts needed increases. An increasing cube size captures more phenomena. You need more concepts for a box containing the earth than for a thimble containing a pebble.
+ 
+ As your voxel size--the smallest unit of measurement--decreases, the number of concepts needed increases.
+ 
+ As your time horizon increases, the number of concepts needed increases, as patterns combine to produce novel patterns in combinatorial ways, and some patterns only unfold over a certain period of time. Although, past a certain amount of time, maybe everything just repeats again.
+ 
+ In fact, it seems likely that the number of concepts _C_ would grow sigmoidally with each of these factors.
   // (does this hold under close examination?)
  
- Why are there any patterns at all? Why isn't the number of concepts zero? Why doesn't every box just contain randomness? There could be ~infinite random universes, but this one, for sure, contains patterns.
+ ***
  
- What is a pattern? A pattern is something accurately simulatable by a function. A concept really is just a function that simulates something, with inputs and outputs. A concept could be embodied in different ways: by software, by an analog computer, by an integrated circuit, by neurons, et cetera. If all you had in your box was a rock, you could have a concept of "persistence", which is that a rock is persistent in that it will still be there even as you increase the time.
+ Why are there any patterns at all? Why isn't the number of concepts zero? Why doesn't every box just contain randomness? There could be infinite random universes, but this one, for sure, contains patterns.
  
- Brains are pattern simulators, and symbols are a way for these simulators to communicate simulations.
+ ***
  
- You can classify patterns into _natural patterns_ and _man-made patterns_. Mitosis is a natural pattern. Wheels are a simple man-made pattern and cars are a man-made pattern made up of many, many man-made patterns.
+ What is a pattern? A pattern is something accurately simulatable by a function. A concept is a function with inputs and outputs that simulates a pattern.
  
- Science is the process of discovering patterns, mostly natural, and tagging them with concepts.
+ A concept could be embodied in different ways: by software, by an analog computer, by an integrated circuit, by neurons, et cetera. 
  
- It's fairly easy to tag new man-made patterns with concepts. There are max eight billion agents generating these (in practice, much less), and we can tag them as we create them.
+ If all you had in your box was a rock, you could have a concept of "persistence", which is that a rock is persistent in that it will still be there even as you increase the time. Input rock to persistence and persistence outputs rock.
  
- But by the time we arrived on the scene with our tagging abilities, nature had already developed a backlog of a mind-numbingly large number of untagged patterns.
+ Brains are pattern simulators, and symbolic concepts are a way for these simulators to communicate simulations.
+ 
+ ***
+ 
+ You can classify patterns into _natural patterns_ and _man-made patterns_.
+ 
+ Mitosis is a natural pattern.
+ 
+ Wheels are a simple man-made pattern and cars are a man-made pattern made up of many, many man-made patterns.
+ 
+ ***
+ 
+ Science is the process of gathering data, searching that data for patterns, mostly natural, and tagging those patterns with concepts.
+ 
+ It's fairly easy to tag new man-made patterns with concepts. There are max eight billion agents generating these (much less, in practice), and we can tag them as we create them.
+ 
+ For natural patterns, however, nature developed an astronomically large number of patterns before humans even evolved. So early scientists had quite a backlog to work through.
+ 
+ In the beginning of science, there were natural patterns to be tagged everywhere--a lot of low hanging fruit.
+ 
+ Untagged natural patterns may have become rarer.
  
  image diminishingReturns.png
   caption The box at the element size is well described. Scientists have identified all the natural elements and the only new ones are man-made.
   // Does this hold up to scrutiny? Is the "taxonomy of elements" what creates this sigmoidal pattern? Would we still see it if we counted ions and molecules?
  
- Scientists had a lot of low hanging fruit patterns to tag.
+ ***
  
- If you put a box around the earth, what percentage of nature's patterns have been tagged? Are we 50% done? Are we 1% done? Are we 0.0001% of the way there? Are we something like 45% of the way there, with greatly diminishing returns, approaching some hard limit of knowability? Or will be there a point where we've successfully uncovered all the useful patterns here on earth?
+ If you put a box around the earth, what percentage of nature's patterns have been tagged?
  
- Both nature and man are constantly creating new patterns combinatorically. How many new microbes does nature invent everyday? Who is inventing more patterns nowadays on earth: nature or man? How has that race changed over time? What about if you extend your box to contain the whole universe?
+ Are we 50% done? Are we 1% done? Are we 0.0001% of the way there?
  
- If you put a box around our universe, what were the first patterns in it? How is it that a box can contain patterns that evolve to be able to simulate the very box they are in?
+ Are we something like 45% of the way there, with greatly diminishing returns, approaching some hard limit of knowability?
+ 
+ Or will there be a point where we've successfully uncovered all the useful patterns here on earth?
+ 
+ ***
+ 
+ Both nature and man are constantly creating new patterns combinatorically.
+ 
+ How many new microbes does nature invent everyday?
+ 
+ Who is inventing more patterns nowadays on earth: nature or man?
+ 
+ How has that race changed over time?
+ 
+ What about if you extend your box to contain the whole universe?
+ 
+ ***
+ 
+ If you put a box around our universe, what were the first patterns in it?
+ 
+ How is it that a box can contain patterns that evolve to be able to simulate the very box they are in?
+ 
+ ***
  
  A decreasing voxel size allows for identifying concepts that can generate predictions impossible with a higher voxel size, but also increases the number of untagged patterns.
  
- Something being unpredictable after much effort means it is either truly unpredictable or just that the true pattern has not been found yet. That might be because the box is too small; the box is misplaced; the voxels are too big; the needed measurements cannot be taken; the measurements are not being taken enough over time. It does seem like the process of finding the right formula is not so hard, once the right data has been collected.
+ ***
  
- We often have a lot of Misconcepts. A concept that doesn't really explain a pattern. Maybe it is correlated with some parts of a pattern, but it is very lacking compared to some concepts that are far more reliable. You could also call these bullshit concepts.
+ Something being unpredictable after much effort means it is either truly unpredictable or just that the true pattern has not been found yet.
  
- If you put a box around a bunch of bricks, we seem to have a pretty good handle on all the useful concepts. Put it around a human brain though, and we still have a long way to go. Though, if you think about the progress made in the last 50 years, you can imagine we might possibly get far further in the next 50, if diminishing returns aren't too strong.
+ That might be because:
+ - The box is too small.
+ - The box is misplaced.
+ - The voxels are too big.
+ - The right measures are unknown (measures are concepts too!).
+ - The measurements are not being taken enough over time.
  
- Can we make empirical claims about how many concepts C can we expect to describe patterns P given a box of size S, voxel size V, over time T? Perhaps it is possible to use Wikipedia to do such a thing. Maybe if you plotted that we would see the general relationship between these things.
+ ***
  
- Why might answering this question be useful? If we consider an encyclopedia E to contain all the useful concepts C in a box, then we might be able to make predictions about how complete our understanding of a topic is, regardless of the domain, by taking simple measurements of E alongside S, V, and T.
+ It does seem like the process of finding the right formula is not so hard, once the right data has been collected.
+  link datasets.html right data has been collected
  
- ---
+ ***
  
- _Sorry if you were expecting some quantified answers, as I haven't done that hard thinking, yet. This post is early explorations of trying to think of what science is from first principles. Scientists and engineers and craftsmen have done absolutely amazing things in so many fields, but I'm very interested in an area where science has so far failed, and I try to think of possible root causes of that failure. In those situations, it might just be a matter of time (waiting for technologies to decrease voxel size, or take previously impossible measurements)._
+ We often have a lot of _misconcepts_.
  
- ---
+ A _misconcept_ is a concept that doesn't really explain a pattern.
  
- _If you are interested in the concept of the evolution of patterns in nature, I recommend checking out assembly theory._
+ Maybe it is _correlated_ with some parts of a pattern, but it is very lacking compared to some concepts that are far more reliable.
+ 
+ You could also call these bullshit concepts.
+ 
+ ***
+ 
+ If you put a box around a bunch of bricks, we seem to have a pretty good handle on all the useful concepts.
+ 
+ Put it around a human brain though, and we still have a long way to go.
+ 
+ Although, if you think about the progress made in neuroscience in the last 50 years, you can imagine we might possibly get very far in the next 50, if diminishing returns aren't too strong.
+ 
+ ***
+ 
+ Can we make empirical claims about how many concepts C can we expect to describe patterns P given a box of size S, voxel size V, over time T?
+ 
+ Perhaps it is possible to use Wikipedia to do such a thing.
+ 
+ Maybe if you plotted that we would see the general relationship between these things.
+ 
+ Why might answering this question be useful?
+ 
+ If we consider an encyclopedia E to contain all the useful concepts C in a box, then we might be able to make predictions about how complete our understanding of a topic is, regardless of the domain, by taking simple measurements of E alongside S, V, and T.
+ 
+ ****
+ 
+ # Notes
+ 
+ - Sorry if you were expecting some quantified answers, as I haven't done that hard empirical work, yet. This post is early explorations of trying to think of what science is from first principles. Scientists and engineers and craftsmen have done absolutely amazing things in so many fields, but I'm very interested in an area where science has so far failed, and I try to think of possible root causes of that failure. In those situations, it might just be a matter of time (waiting for technologies to decrease voxel size, or take previously impossible measurements).
+ - If you are interested in the concept of the evolution of patterns in nature, I recommend checking out assembly theory.
   https://en.wikipedia.org/wiki/Assembly_theory assembly theory
+ - This great new post by Stephen Wolfram explores similar ideas.
+  https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post
+ 
  
  import footer.scroll
  
@@ -1803,13 +2041,13 @@
  - Would it be good practice to regularly (annually, perhaps) take such substances?
  - Are there patterns in what kinds of ideas people are open/closed minded about?
  
- ---
+ ****
  
  # Notes
  ^aside Philosophically by some measures you could argue that having a mind is not clearly advantageous to _objects_ in general. For example, organisms with minds make up a small percentage of the biomass on earth. Or you could say that some rocks last billions of years, whereas minds are gone much faster than that.
   https://ourworldindata.org/life-on-earth a small percentage of the biomass on earth
  
- ---
+ ***
  
  # Open-Mindedness, Part II
  
@@ -1834,6 +2072,8 @@
  It could be out of respect for a social group and/or traditions, and one would rather be respectful to their groups than have the best mental model on every topic.
  
  Or it could be simply a waiting strategy, where a mind is shut only to incrementally better ideas, and no new ideas are significant enough to be worth opening one's mind for.
+ 
+ ****
  
  import footer.scroll
  
@@ -1865,6 +2105,8 @@
  
  I was in my twenties when I first learned the simple writing technique of "mind mapping". I think in the future there might be a new use of that phrase. AIs will be able to create a mindmap of a person's mind near instantly, when given access to their data. Eventually that could combine with brain scans to be able to correctly identify the 3D spatial positioning of neural agents, but well before that we may have an interesting new kind of brain visualization that is far more extensive than a resume or personality test.
   link wiwmin.png learned
+ 
+ ****
  
  import footer.scroll
  
@@ -1908,6 +2150,8 @@
  There are many Questions where the best Answers, even after synthesizing all human knowledge, are still far from Optimal. Identifying the best data to gather next to get closer to Optimal Answers to those Questions is the next problem after synthesizing knowledge.
  
  Today that process still requires agency and embodiment and is done by human scientists and pioneers, but I expect AIs will soon have these capabilities.
+ 
+ ****
  
  import footer.scroll
  
@@ -1996,6 +2240,8 @@
  - Are brain pilots really a thing? Will Minsky's model conceptual model be proven true by a factual one? It seems like if so, Jeff Hawkins and his team at Numenta are a team that might prove that.
   https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/whyDoWeSubsidizeFiction.scroll
@@ -2037,6 +2283,8 @@
  
  // I am contrarian here, and have been wrong about other contrarian ideas, but cannot see how I am wrong on this one. The only new perspective I've had lately on this is that debate over copyright might be irrelevant since AI is going to take over the world soon anyway ;) .
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/beliefs.scroll
@@ -2063,6 +2311,8 @@
  It seems brains can get into states where the threshold for a belief to become a brain pilot decreases, and lots of beliefs get a chance at piloting a brain during a period of rapid brain pilot switching.
  
  For a belief to exist means it had to outcompete other potential beliefs for survival in a resource constrained environment and provide a positive benefit to its host. If a host had the ability to simply erase beliefs instantly, it seems like too many beneficial beliefs would disappear prematurely. So beliefs are hard to erase from a person's neural wirings. However, people could add a new neural wiring _NotX_, that represents the belief that _X_ is not true. They can then reinforce this new neural wiring, and eventually change the probability so that they are far more likely to have the _NotX_ wiring active versus the _X_ wiring.
+ 
+ ****
  
  import footer.scroll
  
@@ -2201,7 +2451,7 @@
  
  The only thing I am sure of is that it would be great if we figure out the biology of what this energy cycle _is_.
  
- ---
+ ****
  
  # Limitations of this essay
  A productive exercise would be to get a large dataset on objective rates of bipolar disorder in different regions. Then these, and other models, could be applied, and we could learn what fits best. A major obstacle however is that no good large objective dataset on bipolar disorder is readily available for even one country yet, never mind multiple. That should change soon, as I will explore in future posts.
@@ -2268,6 +2518,8 @@
  Their inability to match the intensity of normal people at work, and their lack of desire to participate in long, existential conversations when off work, causes them to experience social isolation and difficulties in personal relationships.
  
  Doctors try a large number of different amphetamines to try and get their Stable Mood Disorder patients to be employable, but have not yet found long term success.
+ 
+ ****
  
  import footer.scroll
  
@@ -2342,11 +2594,18 @@
  
  I believe science is the way to figure this out, but it sure is taking a while.
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ related theEnergyClock
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggingAsTherapy.scroll
  date 1/30/2024
  groups All BipolarDisorder Writing
+ related blackSwanThoughts wordsAreWorseThanWeights publishing-more why-you-shouldnt-save-blogging-for-old-age im-back
  
  import header.scroll
  title Blogging as Therapy
@@ -2375,6 +2634,11 @@
  Now that I've thought about it, I think it is probably just a hobby. I don't do crosswords, or fish, or knit. I blog. It's a fun, open ended hobby. I never really know what puzzle I'll try next, or where I'll end up.
  
  Anyway. I'm going to publish this one now and try and get a double post out today. Luckily blogging is like _free_ therapy.
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
  
  import footer.scroll
  
@@ -2468,6 +2732,8 @@
  ## Thriving Alongside Delusions
  Maybe the trick is to have some sympathy for the delusional agent. Probabilities for rare events are hard to get right. I got so mad at society for being off on Covid by 100x. And then I went and was off myself on a few things by a 1,000x. Individuals and societies--both multi-agent thinking systems--will have delusional times. Perhaps the trick isn't to attack specific delusions as they come but to better understand what delusions are and how to create an environment that benefits from them, and is not harmed when they arise.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/eatingAnimals.scroll
@@ -2511,6 +2777,8 @@
  Just as I can't deny that a lot of animals die to bring me my bacon and steak bites, animals cannot deny that at some point I will pass on, and they will feast on me (or my redistributed atoms). Also, many of these animals would not have lived at all had their not been such a plan for their lives. In a sense, there is likely a plan for all of us. Ideally we should continue to strive for a world where life forms are all treated with dignity and respect, but we should also recognize that life needs to sacrifice for life, and that giving up one's body for the benefit of future life is a noble end.
  
  In walking around that plastination exhibit, I was looking at humans that once fed on the bodies of animals, and then chose to donate their own bodies to feed minds like mine. A circle of noble sacrifices.
+ 
+ ****
  
  import footer.scroll
  
@@ -2659,6 +2927,8 @@
  
  It gives me hope that there are so many smart, caring, hard working people trying to figure this thing out. I will do my best to contribute in any and every way I can. I've learned if we don't neutralize bipolar disorder, it will neutralize me.
  
+ ****
+ 
  # Appendix: Table of start of elevated energy episodes
  spaceTable
   Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
@@ -2732,6 +3002,8 @@
  
  I still have a ton to learn but I wanted to share this simple book scan in case anyone else was wondering why they hadn't heard of this option before.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/wordsAreWorseThanWeights.scroll
@@ -2802,6 +3074,8 @@
  I will always enjoy playing with words as a hobby. Writing essays like these, where I try to create a word model for some aspect of the world, makes me feel better, when I reach some level of satisfaction with the model I wrestle with. But how useful will skills with words be for society? Is it still worth honing my programming skills? For the first time in my life it seems like the answer is no. I guess it was a blessing to have that safe bet for so long. Pretty sad to see it go. But I don't see how words will put food on the table. If you need me I'll be out scrambling to find the best way to bet on weights.
   class dropcap
  
+ ****
+ 
  # Related Reading
  - The Bitter Lesson (2019)
   http://www.incompleteideas.net/IncIdeas/BitterLesson.html
@@ -2830,7 +3104,7 @@
  
  Birds, on the other hand, are abundant, and planes turned out to be practical.
  
- ---
+ ***
  
  Some inventions are possible but not practical. We could build a limited number at a net loss and eventually we'd stop.
   class dropcap
@@ -2839,14 +3113,14 @@
  
  Nature has no living things that regularly exit and re-enter the atmosphere. Humans in space was proved possible, but might turn out to be impractical.
  
- ---
+ ***
  
  All practical inventions have abundant natural models. The sun is a model for nuclear power plants. Lightning for light bulbs. Branches for bridges. Birds for planes. Ears for recorders. Eyes for cameras. Fish for submarines. Ant hills for homes. Pools for ponds. Chloroplast for solar panels. DNA replication for downloading. Bacteria for CRISPR. Brains for artificial neural networks.
   class dropcap
  
  Once human inventions become abundant, they can serve as models for further practical inventions. Carriages for cars. Human computers for computing machines. Phonebooks for search engines. Facebooks for Facebook.
  
- ---
+ ***
  
  If you can't find an abundant natural model for an invention, be skeptical of its practicality.
   class dropcap
@@ -2854,6 +3128,8 @@
  If a model isn't out there yet in abundance, the invention is most likely impractical.
  
  If nature is doing it, there has to be a practical way. If nature is not doing it, be skeptical.
+ 
+ ****
  
  import footer.scroll
  
@@ -2916,7 +3192,7 @@
  
  I have no conclusions, as I said in the disclaimer up top this is meant to just be a meandering post. If I tried to reach conclusions on these ideas before publishing it would be years.
  
- ---
+ ****
  
  ^note It does seem like a ground breaking proof of concept could happen within a decade. If that were to happen maybe something like this could be viable within another decade. So perhaps the earliest something like this might happen would be 15 - 20 years. It doesn't seem like it would be 50 years out, as by then it seems AGI would have happened using traditional chips, or that world powers would have hit the kill switch.
  
@@ -3157,6 +3433,8 @@
  
  A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere humans to play with when we are no longer the species running the zoo.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-manic-startup.scroll
@@ -3212,7 +3490,7 @@
  
  Again the police were called and again I talked my way out of a hospital trip.
  
- I was baffled that they would try to stop me because I was _Good_ and was going to help cure cancer and mental health and fix science and solve all these world ills and so anyone trying to stop me was _Evil_. My euphoria started alternating with an angry "war mode" personality and I started _viciously_ retaliating online against anyone who I found taking secret action against me, including my own family and close friends, which is absolutely awful, because now I realize they saw the idiotic road I was taking and were truly trying to get me to a better path, just as they said they were.
+ I was baffled that they would try to stop me because I was _Good_ and was going to help cure cancer and mental health and fix science and solve all these world ills and so anyone trying to stop me was _Bad_. My euphoria started alternating with an angry "war mode" personality and I started _viciously_ retaliating online against anyone who I found taking secret action against me, including my own family and close friends, which is absolutely awful, because now I realize they saw the idiotic road I was taking and were truly trying to get me to a better path, just as they said they were.
  
  This repelled my whole support structure and I was left on my own. I interpreted this as some grand cosmic challenge and went all in.
  
@@ -3236,7 +3514,9 @@
  
  Far worse than failing at the startup I failed as a husband, a father, son, brother, friend, as a kind human being.
  
- It is a hard pill to swallow that I was the Evil one, after all.
+ It is a hard pill to swallow that I was the Bad Guy, after all.
+ 
+ ****
  
  import footer.scroll
  
@@ -3302,6 +3582,8 @@
  
  I hope by publishing these ideas others might be encouraged to start developing these systems. I am hoping readers might alert me to locations where this kind of system is already in place. I am also keenly interested in mathematical arguments why this system should not exist universally.
  
+ ****
+ 
  katex
  
  import footer.scroll
@@ -3360,6 +3642,12 @@
  
  Our brains are like a ship on a long voyage inhabited by multiple characters (picking up new ones along the way) who take turns steering. Impossible to fit that into a single narrative.
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ related if-stories-are-lies-why-do-they-work english-cannot-encode-real-news narratives-misrepresent-complex-systems
+ 
  import footer.scroll
  
  // todo: add a narratives page.
@@ -3399,6 +3687,8 @@
  # My preference: Live Free or Die. Maybe AGI.
  My oldest daughter used to admonish me "No phone dadda" and over a year ago, after my phone died in a water incident, I chose not to replace it. It's been an amazing thing and I feel like I am living more free. But I am no Luddite (at least, not yet). I still spend a lot of time on my Macs. I love learning new math and science. I have no qualms against AGI or technology and I appreciate the benefits. I don't fear a singularity and think it would be cool if we get there someday. I just don't think AGI is the dominant term we should optimize for. If we reach the Singularity? Great. If not? No big deal. I believe living free is more important than life itself. (But maybe that's just because I saw a lot of license plates as a kid.)
   https://en.wikipedia.org/wiki/Luddite Luddite
+ 
+ ****
  
  import footer.scroll
  
@@ -3651,13 +3941,9 @@
  
  A copyright system should also increasingly consolidate power in a small Royal Class $T_{R+}$.
  
- <br>
+ ****
  
- ---
- 
- <br>
- 
- ### Notes
+ # Notes
  ^terms The terms in this model could be vectors, matrices, tensors, graphs, or trees without changing the analysis.
  ^communicators We will exclude thinkers who cannot communicate from this analysis.
  ^artists The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
@@ -3684,7 +3970,7 @@
  
  endSnippet
  
- ---
+ ***
  
  # On walking
  Walking is one of the more interesting invisible tools of thought. It seems it often helps me get _unstuck_ on an idea. Or sometimes on a walk it will click that an idea I thought was done is missing a critical piece. Or I will realize that I had gotten the priorities of things wrong.
@@ -3709,8 +3995,7 @@
  ### No-op Theory
  Or perhaps walking doesn't actually do anything and it's just a correlation illusion. Walking is simply an alternative way to pass the time until your subconscious cracks the problem. It may feel better when the solution comes to you while on a walk, even though the time elapsed was the same, because not only did you solve the problem but you also got some exercise.
  
- ^superdimensional Probably something super-dimensional such as "you just need a ladder".
- ---
+ ***
  
  # On Mentors Inside Your Head
  Marvin Minsky mentions how he has "copies" of some of his friends inside his head, like the great Dick Feynman. Sometimes he would write an idea out and then "hear" Feynman say "What experiment would you do to test this?".
@@ -3722,10 +4007,13 @@
  Listening to certain podcasts—Lex Fridman's comes to mind—can have a similar effect. Though basic math shows it is an order of magnitude  more effective to find work  surrounded by people like this. It might take 10 hours of podcast listening to equate to 1 hour of real life back-and-forth with a smart mentor discussing ideas.
   https://lexfridman.com/ Lex Fridman's
  
- ---
+ ****
+ 
+ # Notes
  
  ^chatgpt I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
-  label ^
+ 
+ ^superdimensional Probably something super-dimensional such as "you just need a ladder".
  
  import footer.scroll
  
@@ -3798,7 +4086,7 @@
  
  He didn't figure it all out but he certainly found a solid foundation. The people in computer science who took his ideas seriously are now building AIs that are indistinguishable from magic. Whereas the people in the mental health fields who have ignored his ideas in favor of the DSM continue to make things worse.
  
- ---
+ ****
  
  # Related reading
  - The second best place I've seen these ideas written about so far is LessWrong, which calls this the Subagent Model of the Mind.
@@ -3806,8 +4094,6 @@
   https://www.lesswrong.com/ LessWrong
  - Internal Family Systems Model
   https://en.wikipedia.org/wiki/Internal_Family_Systems_Model
- 
- ---
  
  # Footnotes
  ^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
@@ -3855,6 +4141,8 @@
  Humans have had symbols for 1% of history but 99% of humans have lived during that 1%. Enchaining symbols is a strange way to show appreciation.
  
  No true lover of symbols would ever enchain them.
+ 
+ ****
  
  import footer.scroll
  
@@ -3925,6 +4213,8 @@
  
  I have a lot of ideas. I want to open source my net worth, income and expenses, assets, health information, and a lot more. There's a lot of opportunity to also build new languages to do so. I'm excited for the future. Time to get to work.
  
+ ****
+ 
  ## Notes
  ^minsky Minsky: I also believe his theory is as significant as Darwin's. Below is a crude illustration of his theory. Everyone's brain there is a struggle between honest agents (blue) and dishonest ones (red).
  image honestBrain.jpg
@@ -3971,6 +4261,8 @@
  
  # 4. SAFE from economic growth
  SafeFS is the first file system proven to cause a slowdown in economic growth. SafeFS will cause countless hours of productive time to be wasted across all classes of builders: engineers, architects, scientists, construction workers, drivers, service workers, et cetera, ensuring progress does not go so fast that technology eliminates the need for lawyers, keeping legal jobs SAFE.
+ 
+ ****
  
  import footer.scroll
  
@@ -4020,6 +4312,8 @@
  ## At the dawn of a language revolution
  I firmly believe that this simple trick—using the spine—will unleash a wave of innovation that will eventually replace all top programming languages with better, more human friendly two dimensional ones. I already have dozens of tricks that I use in my daily programming world that exploit the fact that my languages use the spine. I expect innovative programmers will discover many many more. Good luck and have fun.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/oneTextarea.scroll
@@ -4062,6 +4356,8 @@
  # A Golden Opportunity
  If you're smart, honest and ambitious and you know the web stack boy oh boy is there a golden opportunity here. All my web forms now are one textarea and we are seeing exceptional results. Please go get rich bringing this technology to the masses. When you're rich you don't have to thank me—if I come across your form in the wild and it saves me time that will be thanks enough.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/root-thinking.scroll
@@ -4089,6 +4385,8 @@
  
  ## Root thinking isn't as valuable when growth is rapid
  If everyone practiced _root thinking_ all the time we would get nowhere. It's hard to know the limits to a current path without going down it. Perhaps we only need 1 in 100, perhaps even fewer, to research and reflect on the current path and see if we have some better choices. I haven't invested much thought yet to what the ideal ratio is, if there is even one.
+ 
+ ****
  
  ## Notes
  ^tn Tree Notation is one minimal system for representing all structures as trees.
@@ -4180,6 +4478,8 @@
  ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
  Could be a `replyToLeaveAReview`.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/misinformationOrFakeNewsNeuralNetwork.scroll
@@ -4187,9 +4487,8 @@
  groups All
  
  import header.scroll
+ mediumColumns 1
  title Training a neural network to spot misinformation and fake news from a single image
- 
- thinColumns 2
  
  image misinformationOrFakeNews.jpg
   openGraph
@@ -4198,6 +4497,8 @@
   dateline
  
  These empirical results match the theory that the whole truth and nothing but the truth would not contain a (c).
+ 
+ ****
  
  import footer.scroll
  
@@ -4252,6 +4553,8 @@
  image pmarca.png
   caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
@@ -4289,8 +4592,9 @@
  # $5,000 investments
  I included only the investments I made where I wired $10,000 or more. That is 17. I made lots of smaller bets but those don't change the dataset much. My one piece of advice if you're getting in this game is to make as many investments as you can of small sizes to increase your learning rate.
  
- # Reading List
+ ****
  
+ # Reading List
  More posts in the category of Angel Investors publishing data:
  
  readingList
@@ -4348,6 +4652,8 @@
  It took me 18 years to figure out that you can't _tell_ people the public domain is better. You have to _show_ them. Try building your own public domain product. Look through the telescope with your own eyes.
  
  // todo: Build a dataset of public domain products, as suggested by jmiven
+ 
+ ****
  
  import footer.scroll
  
@@ -4474,6 +4780,8 @@
  # Thanks!
  Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun.
  
+ ****
+ 
  # Related Posts
  relatedList
  
@@ -4531,6 +4839,8 @@
  Maybe, if there were any chance at all of ultimate success, it would make sense to dedicate every last 1% of the brain to the search for truth. But there's zero chance of success. The next bend also has a next bend. Therefore science will never be able to see beyond the next bend.
  
  And so I've come full circle to realizing the benefits of spirituality. Of not committing one's full brain to the search for truth, to science, to reason. To grow a strong garden of spiritual strength in the brain. To regularly acknowledge and appreciate the unknowable, to build a part of the mind that can remain stable and above the fray amidst a predictable march of disorder in the "rational" part.
+ 
+ ****
  
  # Errata
  
@@ -4728,7 +5038,7 @@
  ## Conclusion
  This post has so many questions, so few answers. It is one of those posts writing about things I don't understand much about yet. My brain pilots brain pilot is not yet very advanced.
  
- ---
+ ****
  
  ## Notes
  - Cover image derived from BrainFacts.org's 3D-Brain.
@@ -4913,6 +5223,8 @@
  Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets _its own scope_ and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
   https://treenotation.org/ Tree Notation
  
+ ****
+ 
  # Notes
  
  - There's no reason it has to be "Aftertext". The markups could come before the text too.
@@ -4935,6 +5247,8 @@
  import header.scroll
  title Write Thin to Write Fast
  
+ byLine
+ 
  thinColumns 2
  
  comment
@@ -4943,27 +5257,61 @@
  image writeThin.png
   openGraph
  
- I'm always trying to improve my writing. I want my writing to be more meaningful, clearer, more memorable, and shorter. I would also like to write faster.
+ I constantly seek ways to improve my writing.
   dateline
  
- That's a tall order and there aren't many shortcuts. But I think there is one simple shortcut, that I stumbled upon the past year:
+ I want my writing to be meaningful, clear, memorable, and short.
+ 
+ And I want to write faster.
+ 
+ This takes practice and there aren't a lot of shortcuts.
+ 
+ But I did find one shortcut this year:
  
  quote
-  Set your editor's column width very low
+  Set a thin column width in your editor
  
- 36 characters for me, YMMV. This simple mechanic has perhaps doubled my writing speed and quality.
+ Mine is 36 characters (your ideal width may be different).
+ 
+ Beyond that my editor wraps lines.
+ 
+ This simple mechanic has perhaps doubled my writing speed and quality.
  
  endSnippet
  
- At my current font-size, my laptop screen could easily support 180 characters across<a href="#monitorFootnote"></a>. But if my words spread across the full screen, I write slower and produce worse content.
+ ***
  
- Another way to frame this is my writing got worse as my screens got wider and I only recently noticed the correlation.
+ At my current font-size, my laptop screen could easily support 180 characters across.
+ 
+ But if my words spread across the full screen, I write slower and produce worse content.
+ 
+ Another way to frame this is that my writing got worse as my screens got wider and I only recently noticed the correlation.
+ 
+ ***
  
  ? How does column width affect writing speed?
  
- When I am writing I am mostly reviewing. I type a word once. But my eyes see it fifty times. Maybe great writers can edit more in their heads. With my limited mental capabilities editing happens on the page. I do a little bit of writing; a lot of reviewing and deleting. So the time I spend writing is dominated by the time I spend reviewing. Reviewing is reading. To write faster, I need to read faster.
+ When I am writing I am mostly reviewing.
  
- Humans read thinner columns faster. Perhaps this isn't the case for all people—I'm not an expert on what the full distribution looks like. But my claim is backed by a big dataset. I have my trusty copy of "The New York Times: The Complete Front Pages from 1851-2009". For over <span title="More than 50,000 days">150 years</span> the editors at the New York Times, the most widely read newspaper on the planet, decided on thin columns. If fatter columns were more readable we would have known by now.
+ I type a word once. But my eyes see it fifty times.
+ 
+ Maybe great writers can edit more in their heads. With my limited mental capabilities editing happens on the page. I do a little bit of writing; a lot of reviewing and deleting.
+ 
+ So the time I spend writing is dominated by the time I spend reviewing.
+ 
+ Reviewing is reading.
+ 
+ To write faster, I need to read faster.
+ 
+ Humans read thinner columns faster.
+ 
+ Perhaps this isn't the case for all people—I'm not an expert on what the full distribution looks like.
+ 
+ But my claim is backed by a big dataset.
+ 
+ I have my trusty copy of "The New York Times: The Complete Front Pages from 1851-2009". For over 150 years the editors at the New York Times, the most widely read newspaper on the planet, decided on thin columns.
+ 
+ If fatter columns were more readable we would have known by now.
  
  Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
  
@@ -4972,6 +5320,12 @@
  Every word in a great piece of writing survived a brutal game of natural selection. Every review by the author was a chance for each word to be eliminated. The quality of the surviving words are a function of how many times they were reviewed. If the author reviews their writing more, then the words that survive should be fitter.
  
  But moving your eyes takes work. It might not seem like a lot to the amateur but may make a huge difference toward the extremes. A great athlete practices their mechanics. They figure out how to get maximal output for minimal exertion. They "let the racket do the work". If you are moving your eyes more than you have to, you are wasting energy and will not have the stamina to review your writing enough. So thinner columns leave you with more energy for more editing passes. More editing passes improves quality.
+ 
+ If your columns are really wide, then you are not just moving your eyes, you are moving your head.
+ 
+ The difference might not seem like much for one line, but if you read 1,000 lines, that energy adds up! 
+ 
+ Nodding your head left and right once is easy. Doing it 2,000 times is tiring!
  
  ? If column width has such a significant impact on writing speed, why have I not seen this stressed more?
  
@@ -4983,9 +5337,13 @@
  
  Second, I could be ignorant. Maybe this is already talked about plenty. I would not be surprised if a _professional_ writer sees this and says "duh". Maybe it's taught in some basic "writing mechanics 101" introductory course. Maybe if I got my MFA or went to journalism school or worked at a newspaper this is a basic thing. Maybe that's why journalists carry those thin notepads.
  
- But let's say my hunches are correct, that thin columns do help you write faster and that this is not mentioned much. If I'm correct on both of those counts, then a clear explanation for this is that this simply is a new potential hazard created by new technology. My generation is the first to have access to big screens, and so in the past writing with wide columns wasn't a mistake people made because it simply wasn't possible. An alternative title I considered was "Write as fast as your grandparents by using the line length they used".
+ But let's say my hunches are correct, that thin columns do help you write faster and that this is not mentioned much. If I'm correct on both of those counts, then a clear explanation for this is that this simply is a new potential hazard created by new technology.
+ 
+ My generation is the first to have access to big screens, and so in the past writing with wide columns wasn't a mistake people made because it simply wasn't possible. An alternative title I considered was "Write as fast as your grandparents by using the line length they used".
  
  Jets are great, but beware jet lag when traveling. Big screens are great, but beware eye lag when writing. Try thin columns.
+ 
+ ****
  
  image nytimesDrawing.png
  
@@ -5108,6 +5466,8 @@
  
  ? Aren't UserMethods just a subset of PublicMethods?
  Yes. But they are a special category of PublicMethod and it's a distinction worth making. You want all your UserMethods available programmatically like the rest of your PublicMethods (for example, when writing tests), but you wouldn't want to show your users all PublicMethods in something like a Command Palette.
+ 
+ ****
  
  import footer.scroll
  
@@ -5478,6 +5838,8 @@
  
  image dialogues.png
  
+ ****
+ 
  # Links
  - Try Scroll: https://scroll.pub
  - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
@@ -5518,6 +5880,8 @@
   Section 2. Congress shall make no law abridging the right of the people to publish or peaceably implement ideas.
  
  I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
+ 
+ ****
  
  import footer.scroll
  
@@ -5562,6 +5926,8 @@
   link code/ that blog
  
  css .wayback{vertical-align: baseline;position: relative;top: -0.6em;font-size: 8px;}
+ 
+ ****
  
  import footer.scroll
  
@@ -5641,6 +6007,8 @@
   Mistakes happen when people treat FortuneCookie like Wisdom. Bad advice is a mistake on the reader's part, not the writers. Most "bad advice" has a famous person on one end, simply because they are constantly hounded for advice. Mostly they'll give out FortuneCookies, since new Wisdom takes time to compute.
  
   When you can quickly identify the difference between FortuneCookie and Wisdom, you're less likely to make the mistake of blindly betting on FortuneCookie. It's safe to use FortuneCookie for ideating but not for decision making. Wisdom you can bet on.
+ 
+ ****
  
  # Notes
  
@@ -5754,6 +6122,8 @@
  I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2009. At the time I didn't have a concise way to put it, so instead I advised "think in Orders of Magnitude". Now I have a better way to put it: *become logerate*. I wonder what wonderful things humankind will achieve when we have logeracy rates like our literacy rates.
   https://breckyunits.com/orders-of-magnitude.html Orders of Magnitudes
  
+ ****
+ 
  # Related Posts
  relatedList
  
@@ -5846,6 +6216,8 @@
  
  The second example is well documented elsewhere, but the CDC changed their online definition of the word "vaccine", again perhaps for political reasons. That sort of thing seems like the kind of change that maybe should have some audit trail behind it, no?
   https://alexberenson.substack.com/p/a-lawsuit-in-three-acts documented
+ 
+ ****
  
  # Conclusion
  
@@ -6467,6 +6839,8 @@
  
  I absolutely love the math behind this strategy. There are a few other terms to get right, but there's a fantastic idea here.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-public-domain-publishing-company.scroll
@@ -6474,9 +6848,10 @@
  groups All IntellectualFreedom Startups TreeNotation
  
  import header.scroll
- title The Public Domain Publishing Company
  
- thinColumns 2
+ thinColumns 1
+ 
+ title The Public Domain Publishing Company
  
  I thought it unlikely that I'd actually cofound another startup, but here we are. Sometimes you gotta do what you gotta do.
   dateline
@@ -6487,6 +6862,9 @@
  If I had to bet, I'd say I'll probably be actively working on this for a while. But there's a chance I go on sabbatical quick.
  
  The team is coming together. Check out the homepage for a list of open positions.
+ 
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scroll-beta.scroll
@@ -6495,7 +6873,7 @@
  
  import header.scroll
  title Scroll Beta
- thinColumns 2
+ mediumColumns 1
  
  Today I'm launching the beta of something new called Scroll.
   https://github.com/publicdomaincompany/scroll Scroll
@@ -6515,6 +6893,8 @@
   https://treenotation.org Tree Language
  
  I've had fun building Scroll so far and am excited to start working on it with others.
+ 
+ ****
  
  import footer.scroll
  
@@ -6741,6 +7121,8 @@
  
  That's it for the recap of 2019! Tune in next year for a recap of 2020.
  
+ ****
+ 
  # Notes
  
  ^note-research Regardless of whether or not Tree Notation turns out to be a good idea, as one part of the effort to prove/disprove it I've built a lot of big datasets on languages and notations, which seem to be useful for other people. Credit for that is due to a number of people who advised me back in 2017 to "learn to research properly".
@@ -6849,6 +7231,8 @@
  
  *So for a 120 year old in 2140, their printed MRD would not reach the moon.* Though it may make it halfway there.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
@@ -6878,6 +7262,8 @@
  You can not only reduce illness, but you can improve well-being too. You can see how your physical habits, social habits, eating habits, sleeping habits, correlate with hundreds of health and other signals.
  
  Another benefit to all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
+ 
+ ****
  
  import footer.scroll
  
@@ -7885,9 +8271,15 @@
  # Students: Learn to build and publish datasets
  I remember being a high school student and getting graded on our dataset notebooks we made in the lab. Writing clean data should be widely taught in school, and there's an army of potential workers who could help us create more public, deep-linkable datasets.
  
+ ****
+ 
  # Notes
  Thanks to DL for helping me refine my thinking from this earlier post.
-  https://breckyunits.com/dreaming-of-a-data-checked-language.html earlier post
+  link dreaming-of-a-data-checked-language.html earlier post
+ 
+ # Related Posts
+ relatedList
+ related datasets dreaming-of-a-data-checked-language
  
  import footer.scroll
  
@@ -8119,6 +8511,12 @@
  
  Despite my problems with narratives and my quest for something better, it seems quite possible to me that at the end of the day it may turn out that there is nothing better, and it's best to make peace with stories, despite their flaws. And regardless of the future, I can't argue with the value of stories today for motivation and enjoyment. Nothing else works.
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ related many-narratives-all-true dreaming-of-a-data-checked-language english-cannot-encode-real-news narratives-misrepresent-complex-systems
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dreaming-of-a-data-checked-language.scroll
@@ -8285,6 +8683,12 @@
     border-radius: 5px;
   }
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ related dataset-needed
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/english-cannot-encode-real-news.scroll
@@ -8359,6 +8763,12 @@
  
  # Finally
  Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the stories_. But just remember they are stories. If you are reading English, know that you are not reading Real News.
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
+ related many-narratives-all-true if-stories-are-lies-why-do-they-work narratives-misrepresent-complex-systems
  
  import footer.scroll
  
@@ -8571,7 +8981,9 @@
  
  Next time I start acting on a grand idea, I hope my band and I will do the healthy thing: get some sleep and forget it.
  
- * _Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time. Thank you to CP and DR, who provided me feedback at the time on this post. - 6/13/2023 _
+ ****
+ 
+ _Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time. Thank you to CP and DR, who provided me feedback at the time on this post. - 6/13/2023 _
   https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium
  
  import footer.scroll
@@ -8583,7 +8995,7 @@
  import header.scroll
  title Ohayo
  
- thinColumns 2
+ thinColumns 1
  
  I just pushed a project I've been working on called Ohayo.
   https://ohayo.computer Ohayo
@@ -8592,6 +9004,8 @@
  You can also view it on GitHub: https://github.com/treenotation/ohayo
  
  I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.
+ 
+ ****
  
  import footer.scroll
  
@@ -8644,6 +9058,8 @@
  Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
   https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/big-data-notation.scroll
@@ -8652,7 +9068,7 @@
  
  import header.scroll
  title Big Data Notation
- thinColumns 2
+ thinColumns 1
  
  # A Suggestion for a Simple Notation
  
@@ -8671,6 +9087,8 @@
   http://en.wikipedia.org/wiki/Big_data Wikipedia defines Big Data
  
  I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
+ 
+ ****
  
  import footer.scroll
  
@@ -8729,6 +9147,8 @@
  
  We truly believe this new way to build websites--an IDE in your browser-- is a faster way to build websites and the way it will be done in the future. By this time next year, using NudgePad, it could be 100x faster and easier to build websites than it is today.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/software-should-save-people-time.scroll
@@ -8738,22 +9158,44 @@
  import header.scroll
  title Software Should Save People Time
  
- thinColumns 2
+ thinColumns 1
  
  For me, the primary motivation for creating software is to save myself and other people time.
   dateline
  
- I want to spend less time doing monotonous tasks. Less time doing bureaucratic things. Less time dealing with unnecessary complexity. Less time doing chores.
+ I want to spend less time doing monotonous tasks.
+ 
+ Less time doing bureaucratic things. Less time dealing with unnecessary complexity. Less time doing chores.
  
  I want to spend more time engaged with life.
  
  endSnippet
  
- Saving people time is perhaps the only universal good. Everyone wants to have more options with their time. Everyone benefits when a person has more time. They can enjoy that extra time and/or invest some of it to make the world better for everyone else.
+ ***
  
- Nature loves to promote inequality, but a fascinating feature of time is that it is so equally distributed. Nature took the same amount of time to evolve all of us alive today. All of our evolutionary paths are equally long. We also have equal amounts of time to enjoy life, despite the fact that other things may be very unequally distributed.
+ Saving people time is perhaps the only universal good.
  
- The very first program I made was meant to save me and my family time. Back in 1996, to start our computer, connect to the Internet and launch Netscape took about 20 minutes, and you had to do each step sequentially. My first BAT script automated that to allow you to turn the computer on and go play outside for 20 minutes while it connected to the web. Many years later, my ultimate motivation to save people time has remained constant.
+ Everyone wants to have more options with their time.
+ 
+ Everyone benefits when a person has more time. They can enjoy that extra time and/or invest some of it to make the world better for everyone else.
+ 
+ ***
+ 
+ Nature loves to promote inequality, but a fascinating feature of time is that it is so equally distributed.
+ 
+ Nature took the same amount of time to evolve all of us alive today.
+ 
+ All of our evolutionary paths are equally long.
+ 
+ We also have equal amounts of time to enjoy life, despite the fact that other things may be very unequally distributed.
+ 
+ ***
+ 
+ The very first program I made was meant to save me and my family time. Back in 1996, to start our computer, connect to the Internet and launch Netscape took about 20 minutes, and you had to do each step sequentially. My first BAT script automated that to allow you to turn the computer on and go play outside for 20 minutes while it connected to the web.
+ 
+ Many years later, my ultimate motivation to save people time has remained constant.
+ 
+ ****
  
  import footer.scroll
  
@@ -8780,6 +9222,8 @@
  are equal.
  Their journeys can be very different.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/money-is-meant-to-circulate.scroll
@@ -8789,7 +9233,7 @@
  import header.scroll
  title Money is Meant to Circulate
  
- thinColumns 2
+ thinColumns 1
  
  quote
   The crux of the matter, is that people don't understand the true nature of money. It is meant to circulate, not be wrapped up in a stocking
@@ -8801,6 +9245,8 @@
  This quote, by the way, is from "My Father, Marconi", a biography of the famous inventor and entrepreneur written by his daughter, Degna. Marconi's story is absolutely fascinating. If you like technology and entrepreneurship, I highly recommend the book.
  
  P.S. This quote also applies well to most man made things. Cars,  houses, bikes, et cetera, are more valuable circulating than idling. It seemed briefly we were on a trajectory toward overabundance, but the sharing economy is bringing circulation back.
+ 
+ ****
  
  import footer.scroll
  
@@ -8873,7 +9319,10 @@
  
  As someone who loves to learn, my favorite thing about them is the rush you get from having something suddenly click. They make this programming thing really, really fun. Day in and day out.
  
- - Stumbled upon the term in John Calcote's book "Autotools".
+ ****
+ 
+ # Notes
+ - I stumbled upon the term in John Calcote's book "Autotools".
  
  import footer.scroll
  
@@ -8884,12 +9333,14 @@
  import header.scroll
  title The Booster Design Pattern
  
- thinColumns 2
+ thinColumns 1
  
  If your software project is going to have a long life, it may benefit from Boosters. A Booster is something you design with two constraints: 1) it must help in the current environment 2) it must be easy to jettison in the next environment.
   dateline
  
  image booster.jpg
+ 
+ ****
  
  import footer.scroll
  
@@ -8900,12 +9351,15 @@
  import header.scroll
  title Startups and Planes
  
- thinColumns 2
+ thinColumns 1
  
  It is a popular misconception that most startups need to fail. We expect 0% of planes to crash. Yet we switch subjects from planes to startups and then suddenly a 100% success rate is out of the question.
   dateline
  
  This is silly. Maybe as the decision makers switch from gambling financeers to engineers we will see the success rate of starting a company shoot closer to 100%.
+ 
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/save-your-money-for-great-values.scroll
@@ -8915,7 +9369,7 @@
  import header.scroll
  title Save Your Money for Great Values
  
- thinColumns 2
+ mediumColumns 1
  
  Some purchasing decisions are drastically better than others. You might spend $20 on a ticket to a conference where you meet your next employer and earn 1,000x "return" on your purchase. Or you might spend $20 on a fancy meal and have a nice night out.
   dateline
@@ -8934,6 +9388,8 @@
  - I'm not advocating being a penny pincher. I'm advocating being aware of the orders of magnitude difference in return from purchases.
  - I wonder if someday we'll have credit cards that help you be aware of the order of magnitude variance in expected value of purchases. It seems like one great benefit, would be to charge a higher interest rate on purchases that have low expected value, and a very low interest rate on purchases with high expected value (like books).
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/infinite-futures.scroll
@@ -8943,7 +9399,7 @@
  import header.scroll
  title Infinite Futures
  
- thinColumns 2
+ thinColumns 1
  
  You shouldn't plan for _the_ future. You should plan for *one of many* futures.
   dateline
@@ -8956,6 +9412,8 @@
  
  There are infinite futures. Prepare for them all!
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/prove-it.scroll
@@ -8965,7 +9423,7 @@
  import header.scroll
  title Prove It
  
- thinColumns 2
+ thinColumns 1
  
  I love that phrase.
   dateline
@@ -8988,6 +9446,8 @@
  
  The only way to accurately describe yourself or your group is to look at how you've spent your time in the past. Anytime someone says something about what they will do or be like in the future, your response should be simple: prove it.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-great-bank-robbery.scroll
@@ -8997,7 +9457,7 @@
  import header.scroll
  title The Great Bank Robbery
  
- thinColumns 2
+ mediumColumns 1
  
  If you are poor, your money could be safer under the mattress than in the bank:
   dateline
@@ -9014,8 +9474,9 @@
  
  What would happen to the statistic above, if instead of silently and automatically taking money from people's accounts, banks had to work for it?
  
- # Sources
+ ****
  
+ # Sources
  Moebs via wayback machine
   link moebs.pdf Moebs
   https://web.archive.org/web/20121004061537/http://www.moebs.com/Portals/0/pdf/Press%20Releases/120919%20PR%20OD%20v3.5.pdf wayback machine
@@ -9056,6 +9517,8 @@
  
  Smart entrepreneurship is all about choosing problems you can and want to own. You need to say "no" to most problems. If you say "yes" to everything, you'll stretch yourself too thin. You need to increase your responsibility in a realistic way. You need to focus hard on the problems you can solve with your current resources, and leave the other problems for another company or another time.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/black-swans-and-technology.scroll
@@ -9095,6 +9558,8 @@
  It took only a few minutes to imagine a few of these things. Clearly there are hundreds of thousands of low probability events that could come from established companies or startups that could shift the whole industry.
  
  The future is impossible to predict accurately.
+ 
+ ****
  
  # Notes
  _All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
@@ -9150,6 +9615,8 @@
  
  Be the One who delivers the goods!
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/cant-lose-could-win-big.scroll
@@ -9187,6 +9654,8 @@
  *Enjoy life*. Make sure you take time to enjoy life. Worst case scenario is you spend a few years with no great outcome at work but you have many great memories from life. That's a great outcome.
  
  Then, if you want to make yourself open to positive black swans, you can put 10% of your efforts into things that make you more open to those like: recruiting world class talent, pitching and raising money, tackling bigger markets. But make sure you focus on the conservative things. Risk, in moderation, is a good thing. Risk, in significant amounts, is for the foolish.
+ 
+ ****
  
  import footer.scroll
  
@@ -9240,6 +9709,8 @@
  Medicine? Compounded probability.
  
  It's probability all the way down.
+ 
+ ****
  
  import footer.scroll
  
@@ -9331,6 +9802,11 @@
  
  (Influenced a lot by Taleb's new book, Antifragile.)
  
+ related many-narratives-all-true english-cannot-encode-real-news
+ 
+ # Related Posts
+ relatedList
+ 
  </div>
  
  import footer.scroll
@@ -9362,6 +9838,8 @@
  *Cohesive but flexible*. You want the set to match. But you want each item to be independently improvable.
  
  *Simple is balanced*. It is nuanced, not black and white.
+ 
+ ****
  
  import footer.scroll
  
@@ -9425,6 +9903,8 @@
  
  Please feel free to email me with any questions or feedback you may have, as well as if you'd be interested in contributing.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/planets-and-pebbles.scroll
@@ -9447,6 +9927,8 @@
  
  I highly recommend this system. We live in a power law world, and it's important to practice the skill of predicting what things will prove hugely important, and what things will turn out to be pebbles.
  
+ ****
+ 
  # Related Posts
  relatedList
  
@@ -9455,6 +9937,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/publishing-more.scroll
  date 2012-11-25
  groups All Writing
+ related bloggingAsTherapy im-back
  
  import header.scroll
  title Publishing More
@@ -9477,6 +9960,11 @@
  I've also become somewhat disappointed with the essay form. I am very interested in understanding systems, and I feel words alone don't explain systems well. So I've been practicing my visual and design skills. But I'm basically a beginner and output is slow.
  
  The bottom line is I want to publish more. It forces me to think hard about my opinions, and it opens me up to advice from other people. I think this blog has helped me be less wrong about a lot of things. So here's to another fifty posts.
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
  
  import footer.scroll
  
@@ -9517,6 +10005,8 @@
  
  Simplicity is a great thing to strive for. But sometimes cutting things out to make something simpler can make it worse. Simplicity is not the only thing to maximize. Make sure to balance simplicity with setplicity. Don't worry if you haven't reduced things to a singularity. Happiness in life is found by balancing amongst a set of things, not by cutting everything out.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/naming-things.scroll
@@ -9552,6 +10042,8 @@
  For example, lately I've been trying to come up with a way to explain the fundamentals of computing. A strategy I recently employed was to change the names we use for the 2 boolean states from True and False to Absent or Present. It seems like it gets closer to the truth of how computers work. I mean, it doesn't make sense to ask a bit whether it is True or False. The only question an electronic bit can answer is whether a charge is present or absent. When we compare variable A to variable B, the CPU sets a flag in the comparison bit and we are really asking that bit whether a charge is present.
  
  What I like about the idea of using the names Present and Absent is that it makes the fundamentals of computing align with the fundamentals of the world. The most fundamental questions in the world about being--of existence. Do we exist? Why do we exist? Will we exist tomorrow? Likewise, the most fundamental questions in computing is not whether or not there are ones and zeroes, it's whether or not a charge exists. Does a charge exist? Why does that charge exist? Will that charge exist in the next iteration? Computing is not about manipulating ones and zeroes. It's about using the concept of being, of existence, to solve problems. Computing is about using the concept of the presence or absence of charge to do many wonderful things.
+ 
+ ****
  
  import footer.scroll
  
@@ -9627,6 +10119,8 @@
  
  If you are the CEO of a company, your job is simply to create lines. You want customers lining up for your product, investors lining up to invest, recruits lining up to apply for jobs. It's very easy to measure how you're doing. If you look around and don't see any lines, you gotta pick it up.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/backpack-the-world-with-zero-planning.scroll
@@ -9666,6 +10160,8 @@
  *Plan your trip one country at a time*. every few days, *check flight prices for the next few legs of your trip*. you can sometimes get amazingly cheap deals if you check prices frequently and are flexible about when and where you fly. use sites like kayak, adioso, hotels.com, airbnb, and hostelworld to find cheap flights and places to stay, especially in expensive countries. in cheap countries, lonely planet and simply asking around often works great for finding great value hotels. also in expensive cities, *find the local groupon clones and check them often for great excursion and meal deals*. finally, you might want to get travel insurance from a site like world nomads.
  
  That's it. enjoy your trip!
+ 
+ ****
  
  # Bullet point format
  - set a savings goal.
@@ -9746,6 +10242,8 @@
  # In conclusion
  In conclusion, the economy is a tremendous creature that can provide you with a lot if you plug yourself in. It's been growing for thousands of years and has a lot to offer. You can also to choose to stay largely unplugged from it, and that's okay too.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/circle-of-competence.scroll
@@ -9755,7 +10253,7 @@
  import header.scroll
  title Circle of Competence
  
- thinColumns 2
+ thinColumns 1
  
  Warren Buffet claims to follow an investment strategy of staying within his "circle of competence". That's why he doesn't invest in high tech--it's outside his circle.
   dateline
@@ -9769,6 +10267,8 @@
  3. Be a big fish in a small circle.
  4. Spend time outside your circle, but expand it slowly. Definitely work hard to improve your skill set but don't overreach. It's better to have a solid core and build momentum from that than to be marginal in a lot of areas.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/critical-thinking.scroll
@@ -9778,7 +10278,7 @@
  import header.scroll
  title Critical Thinking
  
- thinColumns 2
+ thinColumns 1
  
  I have a feeling critical thinking gets the least amount of brain's resources. The trick is to critically think about things, come to conclusions, and turn those conclusions into habits. The subconcious, habitual mind is much more powerful than the tiny little conscious, critically thinking mind.
   dateline
@@ -9786,6 +10286,8 @@
  If you're constantly using the critical thinking part of your mind, you're not using the bulk of your mind. You're probably accomplishing a lot less than you could be.
  
  Come to conclusions and build good habits. Let your auto pilot take over. Then occasionally come back and revisit your conclusions.
+ 
+ ****
  
  import footer.scroll
  
@@ -9796,7 +10298,7 @@
  import header.scroll
  title How is Intelligence Distributed?
  
- thinColumns 2
+ thinColumns 1
  
  I've been working on a fun side project of categorizing things into Mediocristan or Extremistan(inspired by NNT's book The Black Swan).
   dateline
@@ -9807,6 +10309,8 @@
  
  Would love to hear what other people think. Shoot me an email!
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/kids-are-neat.scroll
@@ -9816,7 +10320,7 @@
  import header.scroll
  title Kids are Neat
  
- thinColumns 2
+ thinColumns 1
  
  Maybe I'm getting old, but I'm starting to think the best way to "change the world" isn't to bust your ass building companies, inventing new machines, running for office, promoting ideas, etc., but to simply raise good kids. Even if you are a genius and can invent amazing things, by raising a few good kids their output combined can easily top yours. Nerdy version: you are a single core cpu and can't match the output of a multicore machine.
   dateline
@@ -9824,6 +10328,8 @@
  I'm not saying I want to have kids anytime soon. I'm just realizing after spending time with my family over on Cape Cod, that even my dad, who is a harder worker than anyone I've ever met and has made a profound impact with his work, can't compete with the output of 4 people (and their potential offspring), even if they each work only 1/3 as hard, which is probably around what we each do. It's simple math.
  
  So the trick to making a difference is to sometimes slow down, spend time raising good kids, and delegate some of the world saving to them.
+ 
+ ****
  
  import footer.scroll
  
@@ -9834,7 +10340,7 @@
  import header.scroll
  title Nature Verse Nurture
  
- thinColumns 2
+ thinColumns 1
  
  Genetics, aka nature, plays the dominant role in predicting most aspects of your life, in my estimation.
   dateline
@@ -9849,6 +10355,8 @@
  
  I think the bio/genome field will be the most interesting industry come 2025 or so.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/recommendations-are-far-from-good.scroll
@@ -9858,7 +10366,7 @@
  import header.scroll
  title Recommendations Are Far From Good
  
- thinColumns 2
+ thinColumns 1
  
  Doctors used to recommend leeches to cure a whole variety of illnesses. That seems laughable today. But I think our recommendations today will be laughable to people in the future.
   dateline
@@ -9876,6 +10384,8 @@
  
  Recommendations are great business, but I think we're 2 or 3 orders of magnitude away from where they could be, and it could take decades(or never) to reach those levels.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ruby.scroll
@@ -9885,12 +10395,14 @@
  import header.scroll
  title Ruby
  
- thinColumns 2
+ thinColumns 1
  
  Ruby is an awesome language. I've come to the conclusion that I enjoy it more than Python for the simple reason that whitespace doesn't matter.
   dateline
  
  Python is a great language too, and I have more experience with it, and the whitespace thing is a silly gripe. But I've reached a peak with PHP and am looking to master something new. Ruby it is.
+ 
+ ****
  
  import footer.scroll
  
@@ -9930,6 +10442,8 @@
  # Be Conservative
  My general advice is to be ultra conservative about the future and ultra bullish on the present. Plan and prepare for the worst of days--but without a pessimistic attitude. Enjoy today and make safe investments for tomorrow.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-recency-effect.scroll
@@ -9939,7 +10453,7 @@
  import header.scroll
  title The Recency Effect
  
- thinColumns 2
+ mediumColumns 1
  
  Your most recent experiences effect you the most. Reading this essay will effect you the most today but a week from now the effect will have largely worn off.
   dateline
@@ -9962,6 +10476,8 @@
  - Influence by Cialdini will give you a momentary force field against the tricks of pushy salespeople and also temporarily boost your own ability to get people to do what you want.
  - Watching Jersey Shore will temporarily make you feel much better about your life while at the same time altering your vocabulary with phrases like "You do you" and "GTL".
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-percentage-of-the-brain-does-what.scroll
@@ -9970,7 +10486,7 @@
  
  import header.scroll
  title What Percentage of the Brain Does What?
- thinColumns 2
+ thinColumns 1
  
  * _Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintest understanding of the brain so this is one of those times. Reading this post could make you dumber. But occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
   link whats-linear-algebra.html Linear Algebra
@@ -9986,15 +10502,17 @@
  
  I have no idea, but my guess is below.
  
- - 1. Vision. My guess is vision uses more than 50% of the brain.
- - 2. Memory. Perhaps 50% or more of the brain is involved with storing memories of sights, sounds, smells, etc.
- - 3. Locomotion. Movement probably touches between 20-60% of the brain.
- - 4. Auditory/Speech. I guess that between 20-40% of the brain is involved with this.
- - 5. Taste/touch/smell. My guess is between 10-20%.
- - 6. Emotion. My guess is 10-15% is involved with setting/controlling emotion.
- - 7. Long term planning/mathematics. I think the ability to do complex thinking is given the least resources.
+ 1. Vision. My guess is vision uses more than 50% of the brain.
+ 2. Memory. Perhaps 50% or more of the brain is involved with storing memories of sights, sounds, smells, etc.
+ 3. Locomotion. Movement probably touches between 20-60% of the brain.
+ 4. Auditory/Speech. I guess that between 20-40% of the brain is involved with this.
+ 5. Taste/touch/smell. My guess is between 10-20%.
+ 6. Emotion. My guess is 10-15% is involved with setting/controlling emotion.
+ 7. Long term planning/mathematics. I think the ability to do complex thinking is given the least resources.
  
  I'm probably quite far off, but I thought it was an interesting question to think about. Now I'll go see if I can dig up some truer numbers.
+ 
+ ****
  
  import footer.scroll
  
@@ -10069,6 +10587,8 @@
  
  Oh well. Ars gratia artis
  
+ ****
+ 
  # Notes
  I hope to finish up theOvarianLottery and slap a frontend on it sometime in the future.
  
@@ -10128,6 +10648,8 @@
  
  It's funny, although our society doles out vastly different rewards, at the end of the day, in what matters the most, mother nature has created a pretty equal playing field.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orbits.scroll
@@ -10137,7 +10659,7 @@
  import header.scroll
  title Orbits
  
- thinColumns 2
+ thinColumns 1
  
  In February I celebrated my 26th Orbit. I am 26 orbits old. How many orbits are you?
   dateline
@@ -10150,12 +10672,14 @@
  
  Enjoy the ride!
  
+ ****
+ 
  # Notes
- - 1. Neat fact: The sun completes a revolution around the center of the Milky Way galaxy once every 250 million years. It is estimated to have completed 25 orbits during the lifetime of our Sun, and less than one orbit since the origin of humans.
+ 1. Neat fact: The sun completes a revolution around the center of the Milky Way galaxy once every 250 million years. It is estimated to have completed 25 orbits during the lifetime of our Sun, and less than one orbit since the origin of humans.
   http://www.quora.com/The-Moon-orbits-the-Earth-and-the-Earth-orbits-the-Sun-What-does-the-Sun-orbit 25 orbits
- - 2. My roommate Andrew suggests the reason why we don't refer to a year as an orbit is perhaps because when we started calling things years, we didn't yet know that the earth revolved around the sun. Bad habits die hard.
- - 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
- - 4. We should also call days "revs". Okay I'm done.
+ 2. My roommate Andrew suggests the reason why we don't refer to a year as an orbit is perhaps because when we started calling things years, we didn't yet know that the earth revolved around the sun. Bad habits die hard.
+ 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
+ 4. We should also call days "revs". Okay I'm done.
  
  import footer.scroll
  
@@ -10204,6 +10728,8 @@
  image wiwmin.png
  
  If you don't know what it is you want, try making a mindmap.
+ 
+ ****
  
  import footer.scroll
  
@@ -10268,6 +10794,8 @@
  
  But celebrities are better than nothing.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/design-matters-a-lot.scroll
@@ -10325,6 +10853,12 @@
  
  Great engineering can't compensate for poor design just as great design can't compensate for poor engineering. To create great products, you need both. Don't be lazy when it comes to design. It could be the make or break difference between your product's success or failure.
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ related the-truth-about-web-design
+ 
  # Notes
  - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
  
@@ -10356,6 +10890,8 @@
  
  *Update 8/6/2010*: Overspecialization can be bad as well when things don't go according to plan, as NNT points out, Mother Nature does not like overspecialization, as it limits evolution and weakens the animals. If Intel fell into a sinkhole, we'd be screwed if it weren't for having a backup in AMD.
   http://www.fooledbyrandomness.com/robustness.pdf Mother Nature does not like overspecialization
+ 
+ ****
  
  import footer.scroll
  
@@ -10395,6 +10931,8 @@
  
  What are some other reasons people fail to build a must have product?
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/flip-flopping.scroll
@@ -10420,13 +10958,10 @@
  
  Try an experiment.
  
- 1) Take an issue, a political issue--the war in Afghanistan, Global Warming, marijuana legalization--or a minor everyday issue--what to have for dinner tonight, whether it's better to drink coffee or not, whether Facebook is a good thing or bad thing.
- 
- 2) Take a stand on that issue. Think of all the reasons why your stand is right. Be prepared to support your stance in a debate.
- 
- 3) Completely change your position. Take the other side. Think of every reason why this new side is correct. Be prepared to support this side without feeling like you are lying.
- 
- 4) Keep flipping if you want.
+ 1. Take an issue, a political issue--the war in Afghanistan, Global Warming, marijuana legalization--or a minor everyday issue--what to have for dinner tonight, whether it's better to drink coffee or not, whether Facebook is a good thing or bad thing.
+ 2. Take a stand on that issue. Think of all the reasons why your stand is right. Be prepared to support your stance in a debate.
+ 3. Completely change your position. Take the other side. Think of every reason why this new side is correct. Be prepared to support this side without feeling like you are lying.
+ 4. Keep flipping if you want.
  
  I think it's fascinating to see how now matter what the issue, you can create a convincing case for any side. And it's hard not to hear an argument for the opposing side and not want to change your position. Our brains can be easily overloaded. The most recently presented information pushes out the old arguments.
  
@@ -10440,6 +10975,8 @@
  
  I have no idea.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-churn-rate-of-data.scroll
@@ -10449,7 +10986,7 @@
  import header.scroll
  title The Churn Rate of Data
  
- thinColumns 2
+ thinColumns 1
  
  I think it's interesting to ponder the value of information over it's lifetime.
   dateline
@@ -10465,6 +11002,8 @@
  Books, it seems. We don't regularly read old weather forecasts, census rolls, or newspapers, but we definitely still read great books, from Aristotle to Shakespeare to Mill.
  
  Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.
+ 
+ ****
  
  import footer.scroll
  
@@ -10503,6 +11042,8 @@
  
  I don't have any profound insights on culture, I just think it's fascinating and something not to read too much into---it helps us survive, but there's no greater meaning to it.
  
+ ****
+ 
  # Notes
  1. Interesting factet: there are apparently 38 colonies of Emperor Penguins in Antarctica.
  
@@ -10539,6 +11080,8 @@
  The child who did their homework will never encounter the child who didn't, but they both exist, albeit in different universes or dimensions. Both of them are left wondering why they "chose" the way they did. The reality is that they chose nothing. They're both just along for the ride.
  
  Even the smug boy who says free will doesn't exist, is just one branch of the smug boy.
+ 
+ ****
  
  # Notes
  - This all assumes, of course, that there are many worlds and not just one.
@@ -10601,6 +11144,8 @@
  ? How do you explain the fact that successful companies actually do a lot of different things?
  Microsoft Windows brings in something like $15 billion per year. Google Adwords brings in something like $15 billion per year. When you make that kind of money, you can drop $100 million selling ice cream and it won't hurt you too much. But to get there, you've first got to do one hard thing really, really well, whether it be operating systems or search.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-hidden-benefits-of-automation.scroll
@@ -10637,6 +11182,8 @@
  # Automate. Automate. Automate
  Try to automate as much as possible. The great thing about automation is that once you automate one task you'll have more time to automate the next task. Automation is a great investment with compounding effects. Try to get a process down to as few steps or keystrokes as possible(your ideal goal is zero keystrokes). Every step you eliminate will pay off more than you think.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/metrics-for-programmers.scroll
@@ -10671,6 +11218,8 @@
   ../Zend-1.10 360 2145 1692 336419 42 11123
   ../symfony-1.4.3 770 2905 2091 298700 362 12198
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/hackernews-data-visits-as-a-function-of-karma.scroll
@@ -10680,7 +11229,7 @@
  import header.scroll
  title HackerNews Data: Visits as a Function of Karma
  
- thinColumns 2
+ mediumColumns 1
  
  If a post on HackerNews gets more points, it gets more visits.
   dateline
@@ -10709,6 +11258,8 @@
   4 214 <a href="diversification-in-startups.html">/diversification_in_startups</a>
   1 146 <a href="seo-made-easy-lumps.html">/seo_made_easy_lumps</a>
   1 36 <a href="dont-flip-the-bozo-bit.html">/dont_flip_the_bozo_bit</a>
+ 
+ ****
  
  import footer.scroll
  
@@ -10760,10 +11311,10 @@
  
  What do you do? Do you say:
  
- - 1. Dirt
- - 2. Grass
- - 3. I don't know. It could be either dirt or grass, or maybe something else entirely.
- - 4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
+ 1. Dirt
+ 2. Grass
+ 3. I don't know. It could be either dirt or grass, or maybe something else entirely.
+ 4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
  
  In my opinion you should say something like 3 or 4.
  
@@ -10771,6 +11322,12 @@
  
  ? Why is the future foggy?
  I don't know. Maybe a physicist could answer that question, but I don't know the answer. And I don't think I ever will.
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
+ related prove-it
  
  # Notes
  1. In other words, don't overpromise and underdeliver.
@@ -10809,9 +11366,15 @@
  
  image bookcost.png
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ related save-your-money-for-great-values
+ 
  # Notes
- - 1. Even if a book is more expensive, say $50, the numbers don't change too much.
- - 2. Pardon my scribbling. Got a new toy.
+ 1. Even if a book is more expensive, say $50, the numbers don't change too much.
+ 2. Pardon my scribbling. Got a new toy.
  
  import footer.scroll
  
@@ -10853,6 +11416,8 @@
  
  In reality you need to do things both ways. But try to put extra effort into doing things the smart way, and see where it takes you.
  
+ ****
+ 
  # Notes
  
  - Thanks to Conor for providing feedback.
@@ -10892,6 +11457,8 @@
  
  That's it. Good luck!
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/network-effects.scroll
@@ -10921,8 +11488,10 @@
  
  The biggest businesses enabled user-to-user network effects. Only the pizza store can improve its own offering. But Facebook, Craiglist, Twitter, and Windows have enabled their customers and developers to all improve the product with extremely little involvement from the company.
  
+ ****
+ 
  # Notes
- - 1. This is probably easier said than done.
+ 1. This is probably easier said than done.
  
  import footer.scroll
  
@@ -10968,6 +11537,8 @@
  chat
   Do I need to master the building blocks to be successful in life?
   No. But you need to know them if you want to be able to learn any subject.
+ 
+ ****
  
  import footer.scroll
  
@@ -11038,6 +11609,8 @@
  
  With every new project I repeat a lot of messages and questions to the team. "How many people love this product?", "How can we make this simpler?", "Which of the 7 deadly sins does this appeal to?". I think these are important questions and so I'll repeat them over and over and add them to the todo lists for every project, multiple times.
  
+ ****
+ 
  # Notes
  - 1. I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
  
@@ -11087,11 +11660,12 @@
  
  If you switch tasks during your idle times, you're implying that the time to reload the problem is less than the time gained doing something else. In other words, you are implying what you are doing is not worth doing. If that's the case, why work on it at all?
  
- # Notes
+ ****
  
- - 1. Influenced by Paul Graham's Holding a Program in One's Head
+ # Notes
+ 1. Influenced by Paul Graham's Holding a Program in One's Head
   http://paulgraham.com/head.html Holding a Program in One's Head
- - 2. Of course, if you're given a very long idle time, then feel free to switch tasks. Don't spend 4 hours staring at your screen waiting for a coworker to get back to you.
+ 2. Of course, if you're given a very long idle time, then feel free to switch tasks. Don't spend 4 hours staring at your screen waiting for a coworker to get back to you.
  
  import footer.scroll
  
@@ -11138,6 +11712,8 @@
  
  # Buy a business
  Businesses can be the ultimate thing to buy low and sell high because they have nearly unlimited upside. Real estate, gold, commodities, etc., can be good investments perhaps. But when's the last time you heard of someone's house going up 10,000%? Starting a business can be your best investment ever, as you are guaranteed to buy _extremely low_, and have the potential to sell _extremely high_.
+ 
+ ****
  
  import footer.scroll
  
@@ -11196,6 +11772,8 @@
  
  That's all I've got. But don't take it from me, read the writings of web entrepreneurs who have achieved more success. (And please share what you find or your own experiences on HackerNews).
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/checklist-for-new-products.scroll
@@ -11222,16 +11800,18 @@
  
  # Product Checklist
  
- - 1. How many users/customers does the product have? <input value="#" size="6">
- - 2. What percentage of these users/customers would be disappointed if this product disappeared tomorrow? <input value="%" size="6">
- - 3. Explain the product in one sentence: <input size="40">
- - 4. Is the product good/honest? <input type="checkbox"> Yes
- - 5. What is the predicted customer acquisition cost? $<input size="6">
- - 6. What is the predicted average lifetime value per customer? $<input size="6">
- - 7. Which of the 7 deadly sins does the product appeal to? <input type="checkbox"> Lust <input type="checkbox"> Greed <input type="checkbox"> Sloth <input type="checkbox"> Gluttony <input type="checkbox"> Pride <input type="checkbox"> Envy <input type="checkbox"> Wrath
- - 8. What's the go to market strategy in one sentence? <input size="40">
- - 9. What resources do you need to do this? <input size="40">
- - 10. What's the total addressable market size? <input size="6"> people $<input size="6">
+ 1. How many users/customers does the product have? <input value="#" size="6">
+ 2. What percentage of these users/customers would be disappointed if this product disappeared tomorrow? <input value="%" size="6">
+ 3. Explain the product in one sentence: <input size="40">
+ 4. Is the product good/honest? <input type="checkbox"> Yes
+ 5. What is the predicted customer acquisition cost? $<input size="6">
+ 6. What is the predicted average lifetime value per customer? $<input size="6">
+ 7. Which of the 7 deadly sins does the product appeal to? <input type="checkbox"> Lust <input type="checkbox"> Greed <input type="checkbox"> Sloth <input type="checkbox"> Gluttony <input type="checkbox"> Pride <input type="checkbox"> Envy <input type="checkbox"> Wrath
+ 8. What's the go to market strategy in one sentence? <input size="40">
+ 9. What resources do you need to do this? <input size="40">
+ 10. What's the total addressable market size? <input size="6"> people $<input size="6">
+ 
+ ****
  
  import footer.scroll
  
@@ -11313,6 +11893,8 @@
  
  And check back here, I'll hopefully be sharing how this approached worked for us.
  
+ ****
+ 
  # Notes
  1. Fun tidbit: I wrote this on paper then typed it up and posted it all while flying on Virgin Air from SFO back to Boston. Thanks for the free wifi Google!
  2. Thanks to Ben for helping me form my ideas on this issue.
@@ -11370,6 +11952,8 @@
  
  If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/problems-worth-solving.scroll
@@ -11405,6 +11989,8 @@
  
  # Ignore Speed Limits
  If you don't have the skills yet to solve important problems, reach out to those who do. To solve important problems, you need to develop a strong skill set. But you can do this much faster than you think. If you commit to solving important problems and then reach out to more committed programmers than you, I'm sure you'll find many of them willing to help speed you along your learning curve.
+ 
+ ****
  
  import footer.scroll
  
@@ -11496,8 +12082,9 @@
  
  But you laugh it off and keep chugging along.
  
- # Notes
+ ****
  
+ # Notes
  - Thanks Nivi for the great Venture Hacks interview!
  - Users/Customers refer to people who use your site regularly or buy from you. This is not "visitors". Generally a much lower percentage than 40% of visitors become users or customers. The 40% refers to the people who have made it through your funnel and have become users or customers.
  - I used customers and users interchangeably. For non-tech businesses, you can just use "customer" each time.
@@ -11573,6 +12160,8 @@
  # Summary
  There you have it, SEO made easy! Just remember LUMPS.
  
+ ****
+ 
  # Links
  - Google WebmasterTools
   https://www.google.com/webmasters/tools
@@ -11617,6 +12206,8 @@
  
  But this is a bad solution. The two presented above are better.
  
+ ****
+ 
  # Notes
  1. Thanks to Tom Price for telling me about this.
  
@@ -11660,8 +12251,10 @@
  This blog is powered by software with an (un)features list.
   https://github.com/breck7/brecksblog software
  
+ ****
+ 
  # Notes
- - 1. Feel free to move an (un)feature to your features list if you change your mind about it.
+ 1. Feel free to move an (un)feature to your features list if you change your mind about it.
  
  # Links
  - More great quotes from this year's Startup School
@@ -11720,6 +12313,8 @@
  
  But the important thing is just having constraints in the first place.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.scroll
@@ -11745,20 +12340,22 @@
  
  Likewise, saving blogging for your old age makes no sense. There are two selfless reasons why you should start blogging now:
  
- - 1. You may enlighten someone.
- - 2. Sharing your experiences adds another data point to our collective knowledge and makes us all better off.
+ 1. You may enlighten someone.
+ 2. Sharing your experiences adds another data point to our collective knowledge and makes us all better off.
  
  It used to take a lot of work to publish something. Now it is simpler than brushing your teeth. So publish, write, blog!
  
  If you need some selfish reasons, here are 5:
  
- - 1. Writing is good exercise for the brain and gives you "writer's high".
- - 2. Blogging makes you a better writer.
- - 3. When your blog gets traffic, it stokes your ego.
- - 4. You may spark interesting conversations with interesting people.
- - 5. In rare circumstances, you may make money.
+ 1. Writing is good exercise for the brain and gives you "writer's high".
+ 2. Blogging makes you a better writer.
+ 3. When your blog gets traffic, it stokes your ego.
+ 4. You may spark interesting conversations with interesting people.
+ 5. In rare circumstances, you may make money.
  
  Blogging. Don't save it for your old age.
+ 
+ ****
  
  import footer.scroll
  
@@ -11804,6 +12401,8 @@
  6. *Enlist a Friend*. If you excercise with someone else, you burn 50% more calories on average. Likewise, if you learn programming with a friend, you'll learn 50% faster. That's a significant time savings. It's also more fun. You must have a friend who has a similar interest as you in programming. Why not suggest that you get serious about learning it together?
  
  Hopefully you'll find some of these tips useful. Feel free to email me if you need a first mentor (breck7 at google's email service). I'm not very good yet, but I may be able to help.
+ 
+ ****
  
  # Notes
  1. That exercise percentage is a guess, but sounds right to me.
@@ -11868,6 +12467,8 @@
  - The population of California is about 35 million. The population of the US is one order of magnitude bigger, about 300 million. The population of China is about 4 times that of the U.S. at 1,300,000, which is less than an order of magnitude difference.
  - Shaq is about 1 order of magnitude taller than a newborn, but besides that height is much more narrowly distributed. Everyone is within the same order of magnitude tall.
  
+ ****
+ 
  # Related Posts
  relatedList
  
@@ -11909,13 +12510,15 @@
  
  This is a simple example of the many worlds law. You probably were not taught the many worlds law in school, which is a shame. It's one of the most important laws in the world.
  
+ ****
+ 
  # Notes
  
- - 1. I love this game because I don't have a credit card
- - 2. You can benefit greatly from understanding the many worlds law. Take solace in the fact that somewhere out there you won the lottery and are drinking a pina colada on your private island right now.
- - 3. The many worlds law could very well be wrong. There could be just 1 world. There could be 42. I don't think about that much. There may be no god, but betting there is one has benefits.
- - 4. I called it the many worlds "law" because I don't want to use the word theory or hypothesis. Theory and hypothesis are too linked in people's minds with uncertainty, and some ideas, like evolution and many worlds, have way too much supporting evidence to leave any room for uncertainty, in as much as we can be uncertain about something.
- - 5. One of the most important laws in most worlds, anyway.
+ 1. I love this game because I don't have a credit card
+ 2. You can benefit greatly from understanding the many worlds law. Take solace in the fact that somewhere out there you won the lottery and are drinking a pina colada on your private island right now.
+ 3. The many worlds law could very well be wrong. There could be just 1 world. There could be 42. I don't think about that much. There may be no god, but betting there is one has benefits.
+ 4. I called it the many worlds "law" because I don't want to use the word theory or hypothesis. Theory and hypothesis are too linked in people's minds with uncertainty, and some ideas, like evolution and many worlds, have way too much supporting evidence to leave any room for uncertainty, in as much as we can be uncertain about something.
+ 5. One of the most important laws in most worlds, anyway.
  
  import footer.scroll
  
@@ -12051,6 +12654,8 @@
  
  I guess when you write about what you don't know, you write mostly questions.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fiction-or-nonfiction.scroll
@@ -12097,11 +12702,12 @@
  Share your results here.
   http://news.ycombinator.com/item?id=973741 here
  
- # Notes
+ ****
  
- - 1. I read about equal amounts fiction and nonfiction. So on average, I get greater return from nonfiction reading.
- - 2. Reading fiction is a more enjoyable form of entertainment.
- - 3. This essay is in response to a comment I read a while back on HackerNews that got me thinking about the subject.
+ # Notes
+ 1. I read about equal amounts fiction and nonfiction. So on average, I get greater return from nonfiction reading.
+ 2. Reading fiction is a more enjoyable form of entertainment.
+ 3. This essay is in response to a comment I read a while back on HackerNews that got me thinking about the subject.
   http://news.ycombinator.com/item?id=917566 comment
  
  import footer.scroll
@@ -12112,7 +12718,7 @@
  
  import header.scroll
  title Experience is What You Get
- thinColumns 2
+ mediumColumns 1
  
  quote
   Experience is what you get when you don't get what you want.
@@ -12130,16 +12736,19 @@
  
  When you're fresh out of the gate, it's hard to make those predictions. You just don't have any data so you can't analyze cause and effect appropriately. But once you're out there attempting things, even if you screw up or don't get what you want, you get experience. You get data to use to make better decisions in the future.
  
+ ****
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/im-back.scroll
  date 2009-12-02 1
  groups All Writing
+ related publishing-more i-guess-the-time-had-come
  
  import header.scroll
  title I'm Back
  
- thinColumns 2
+ mediumColumns 1
  
  Decided to blog again. I missed it. Writing publicly, even when you only get 3 readers, two of which are bots and the other is your relative, is to the mind what exercise is to the body. It's fun and feels good; especially when you haven't done it in a while.
   dateline
@@ -12158,6 +12767,11 @@
  
  Written 11/30/2009
  
+ ****
+ 
+ # Related Posts
+ relatedList
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-you-focus-on-increases.scroll
@@ -12166,7 +12780,7 @@
  
  import header.scroll
  title What you focus on, increases
- wideColumns 1
+ mediumColumns 1
  
  There’s a discussion on a mailing list I belong to about piracy and the iPhone. One of the responders I thought was really insightful. The basic premise is “what you focus on, increases”–at least in your mind–so it’s better not to focus on negative things. In this example, by focusing on the small problem of pirated iPhone apps, bigger opportunities are missed. I’ve reprinted the part below:
   https://web.archive.org/web/20090713043922/http://www.nuthole.com/ responders
@@ -12200,6 +12814,8 @@
   protection, those people probably *still* wouldn’t buy apps.  They’d
   just stick to the thousands of free apps that are out there.
  
+ ****
+ 
  import importedNote.scroll
  
  Original post
@@ -12228,6 +12844,12 @@
    // Note: the original image was different but couldn't find it when importing this post 15 years later.
  
  Imagine trying to compete with nature. My premise is that you go to a website for the utility of it. Design is far secondary. There are plenty of prettier things to look at in the real world. Of course, you can make a website that is pretty to look at, that people will love spending time on. The way to do that is to make it look like the real world: Facebook photos, YouTube videos, etc. People will spend a lot of time on those sites because pictures and videos look pretty. But if you make a website with a whole lot of utility, design is secondary.  (And if your goal is to make a website that sells something instead of providing a service–then sometimes ugly designs win–in that case the trick is to try a lot of variation to see what works).
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
+ related design-matters-a-lot
  
  import importedNote.scroll
  
@@ -12258,6 +12880,8 @@
  When I experienced my first earthquake in San Francisco last week, within 1 minute I used Twitter search to confirm that it was actually an earthquake.
  
  Twitter Search is trending up in my own life. I think the odds are high that it will be *huge*. I think the odds are high it will become THE source for news.
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12294,6 +12918,8 @@
  Then I finally took probstat(relatively late in life) and years later I still can’t get enough. I think probability and statistics should be taught early and often. It can do amazing things, like pricing insurance, increasing sales, curing diseases, and turning irrational numbers rational.
  
  P.S. I know this is probably a naivve look at complex math topics, but I’m 1% sure that I’m totally correct and all those smart mathematicians are wrong.
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12339,7 +12965,7 @@
  
  I think it would be a good excercise for startup founders to try and apply this pattern to their own business. Are you making something that will become absolutely irrelevant? When you’re just starting out, you don’t have a whole lot of room for error.
  
- ---
+ ****
  
  quote
   Comment from Jeremy: i just finished reading through the book, and thoroughly enjoyed it as well. My second favorite tidbit was when Buffett and Gates were with Gates parents and a group of other biz people, and Gates father asked everyone what was the single biggest factor to each person's success. Bill Gates and Buffett's responses were the same: "Focus"
@@ -12365,6 +12991,8 @@
  I think with the recent exponential growth in video cameras we’ll all become a lot more familiar with meteorites in the years ahead.
  
  endSnippet
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12414,6 +13042,8 @@
  
  That’s my advice for the day.
  
+ ****
+ 
  import importedNote.scroll
  
  Original post
@@ -12433,6 +13063,8 @@
   dateline
  
  endSnippet
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12462,6 +13094,8 @@
  Already, the site’s getting pretty good traffic–400 visitors in the last hour. I don’t know if it will go anywhere, but it took only a few minutes to put together(thanks to slinkset) and hopefully will connect at least 1 co-founder team.
  
  BTW, the signup rate is pretty good–users are already in the double digits!
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12497,6 +13131,8 @@
  
  Likewise, if we can give one astronomer a big enough telescope, he could probably solve global warming for us. Maybe he’ll find out that the chances of turning into Venus are extremely slim and the problem isn’t a problem at all. Or maybe it is a problem, but other earth like planets have solved it somehow. It could be just as simple as boarding up a well.
  
+ ****
+ 
  import importedNote.scroll
  
  Original post
@@ -12528,6 +13164,8 @@
  
  Should work anytime, all the time. I’ve seen 100% instant success rates. Let me know if it doesn’t work for you.
  
+ ****
+ 
  import importedNote.scroll
  
  Original post
@@ -12556,7 +13194,7 @@
  
  They are all pretty good. I will update this post later with more detailed reviews, but I have to say if you sign up for one you might as well sign up for them all. You will increase your chances of finding “diamond in the rough” books that way. Of course, it takes time to input your books into all 3 of them, but there could be a quicker way to do that(I’m gonna look into existing sites, otherwise might roll one myself).
  
- The traffic stats:
+ ## The traffic stats:
  
  Compete.com shows goodreads pulling away from the comptetion.
  
@@ -12564,6 +13202,8 @@
   caption shelfari(red), goodreads(blue), librarything(orange)
  
  Google Trends for Websites also shows goodreads in the lead and growing fastest.
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12594,6 +13234,8 @@
   female,28.7 years (2008 est.)
  
  World’s per capita income: $10,000 (2007 est.)...Although this distribution is a lot different than the distribution of ages, so you can’t draw the same conclusions.
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12671,7 +13313,7 @@
   http://lisaandbrian.com/index.php?p=95 [source]
   http://popsugar.com/ popsugar
  
- ***
+ ****
  
  # Related Posts
  relatedList
@@ -12705,6 +13347,8 @@
  
  Americans use a lot of gas. The world uses a lot of gas. But the world is a big place and there’s a lot to go around.
   https://web.archive.org/web/20081120162550/http://breckyunits.com/?p=61 Americans use a lot of gas
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12840,6 +13484,8 @@
  
  [Missing chart] log(karma) by joined
  
+ ****
+ 
  import importedNote.scroll
  Original post
   https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/
@@ -12869,6 +13515,8 @@
  How did my real portfolio do? Pretty much mirrored my virtual portfolio. Except the commas and trailing zeros were very, very much different. :(
  
  If someone had given me $1,000,000 a year ago, I would be writing this from a tropical resort right now. Instead, I’ve earned enough to maybe splurge on the fries when I order my next hamburger. But it’s all good because I don’t need much money to do what I love. And because I’m totally going to win the lottery soon.
+ 
+ ****
  
  import importedNote.scroll
  
@@ -12908,6 +13556,8 @@
  
  I think the best entrepreneurs are the ones who can build and lead a team to ensure that the 99.9% gets done so that the .1% of the company that is the big idea becomes reality.
  
+ ****
+ 
  import importedNote.scroll
  
  Original post
@@ -12943,6 +13593,8 @@
  
  –Breck
  
+ ****
+ 
  import importedNote.scroll
  
  Original post
@@ -12953,6 +13605,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/i-guess-the-time-had-come.scroll
  date 2007-08-24
  groups All Writing Life
+ related im-back
  
  import header.scroll
  title I guess the time has come
@@ -12970,6 +13623,11 @@
  -Breck
  
  PS, Be the first to email me at my new address: breck@breckyunits.com . See if you can do it before my first botnet spam email arrives!
+ 
+ ****
+ 
+ # Related Posts
+ relatedList
  
  import importedNote.scroll
  

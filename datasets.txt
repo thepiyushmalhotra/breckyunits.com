@@ -113,7 +113,7 @@ Takeaways
 - Tabular UIs have superior ergonomics for humans because they allow more efficient eye movement and require fewer tokens to manage.
 - All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
 
----
+****
 
 Footnotes
 =========
@@ -145,11 +145,14 @@ The Best Model of Heat
 ======================
 [Coming in a future post]
 
----
-
 Footnotes²
 ==========
 ^liberties: There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
 ^fun: Everyone^datasetNeeded agrees making datasets at home is extremely fun.
 ^datasetNeeded: Dataset needed.
+ https://breckyunits.com/dataset-needed.html
+
+Related Posts
+=============
+- Dataset Needed (2020)
  https://breckyunits.com/dataset-needed.html

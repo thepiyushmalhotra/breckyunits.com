@@ -30,3 +30,5 @@ Would everyone benefit from linear algebra just as everyone would benefit from k
 I don't know the answer to these questions. Fooled by Randomness revealed to me why probability is so incredibly important and inspired me to master it. Is there a similar book like that for linear algebra?
 
 I guess when you write about what you don't know, you write mostly questions.
+
+****

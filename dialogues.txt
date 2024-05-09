@@ -18,6 +18,8 @@ Here is the Grammar code in the commit that added support for Dialogues:
 
 [Image Omitted]
 
+****
+
 Links
 =====
 - Try Scroll: https://scroll.pub

@@ -227,6 +227,11 @@ h4.scrollQuestion {
   overflow: hidden;
   white-space: nowrap;
 }
+.scrollTable td:hover {
+  text-overflow: unset;
+  overflow: unset;
+  white-space: unset;
+}
 .scrollTable th {
   text-transform: capitalize;
 }
