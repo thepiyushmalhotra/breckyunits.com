@@ -42,7 +42,7 @@ These busy coders answered my cold emails with not just a number but many encour
 
 One of my favorite responses was from Peter Norvig, who sent me a Python program computing his estimate:
 
-# sum(years *  (hours/week)) * (weeks/year) 
+# sum(years *  (hours/week)) * (weeks/year)
 
 (4 * 10 # college
 + 2 * 30 # first job

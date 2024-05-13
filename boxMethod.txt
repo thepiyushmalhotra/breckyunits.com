@@ -26,7 +26,7 @@ Why are there any patterns at all? Why isn't the number of concepts zero? Why do
 
 What is a pattern? A pattern is something accurately simulatable by a function. A concept is a function with inputs and outputs that simulates a pattern.
 
-A concept could be embodied in different ways: by software, by an analog computer, by an integrated circuit, by neurons, et cetera. 
+A concept could be embodied in different ways: by software, by an analog computer, by an integrated circuit, by neurons, et cetera.
 
 If all you had in your box was a rock, you could have a concept of "persistence", which is that a rock is persistent in that it will still be there even as you increase the time. Input rock to persistence and persistence outputs rock.
 
