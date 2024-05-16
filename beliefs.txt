@@ -1,6 +1,3 @@
-Beliefs
-=======
-
 February 11, 2024
 
 What does it mean to say a person believes _X_, where _X_ is a series of words?

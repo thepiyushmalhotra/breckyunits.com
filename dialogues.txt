@@ -1,6 +1,3 @@
-Scrolldown now has Dialogues
-============================
-
 hey. I just added Dialogues to Scrolldown.
 cool. But what's Scrolldown?
 Scrolldown is a new alternative to Markdown that is easier to extend.

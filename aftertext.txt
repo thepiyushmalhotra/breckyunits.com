@@ -1,6 +1,3 @@
-Aftertext
-=========
-
 December 15, 2021
 
 Both HTML and Markdown mix content with markup:

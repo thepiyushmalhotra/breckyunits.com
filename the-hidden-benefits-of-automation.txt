@@ -1,6 +1,3 @@
-The Hidden Benefits of Automation
-=================================
-
 March 17, 2010
 
 If you automate a process which you repeat _Y_ times, that takes _X_ minutes, what would your payoff be?

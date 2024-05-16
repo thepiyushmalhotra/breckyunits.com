@@ -1,6 +1,3 @@
-What's Linear Algebra?
-======================
-
 December 3, 2009
 
 What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!

@@ -1,6 +1,3 @@
-Chemical Blood Tests Dataset
-============================
-
 This file generates a TSV dataset of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
  https://breckyunits.com/chemicalBloodTests.tsv
  https://breckyunits.com/chemicalBloodTests.scroll

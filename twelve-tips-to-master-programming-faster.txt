@@ -1,6 +1,3 @@
-Twelve Tips to Master Programming Faster
-========================================
-
 December 4, 2009
 
 Do you want to become a great coder? Do you have a *passion* for computers but not a thorough understanding of them? If so, this post is for you.

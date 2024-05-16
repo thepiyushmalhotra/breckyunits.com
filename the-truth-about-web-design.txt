@@ -1,6 +1,3 @@
-The Truth about Web Design
-==========================
-
 April 14, 2009
 
 Here’s what I’m going to assume: craigslist, Google, and eBay do not have very pretty designs. How can a website be so successful if the design isn’t pretty? My position is that because design doesn’t matter a whole lot.

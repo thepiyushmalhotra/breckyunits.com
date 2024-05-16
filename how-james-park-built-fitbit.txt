@@ -1,6 +1,3 @@
-How James Park built FitBit
-===========================
-
 Introduction
 ============
 March 11, 2021

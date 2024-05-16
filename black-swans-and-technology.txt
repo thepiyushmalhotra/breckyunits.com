@@ -1,6 +1,3 @@
-Black Swans and Technology
-==========================
-
 December 19, 2012
 
 For the past year I've been raving about Node.js, so I cracked a huge smile when I saw this question on Quora:

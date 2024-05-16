@@ -1,6 +1,3 @@
-Root Thinking
-=============
-
 November 16, 2022
 
 I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:

@@ -1,6 +1,3 @@
-Dreaming of a Data Checked Language
-===================================
-
 January 3, 2020
 
 Speling errors and errors grammar are nearly extinct in published content. *Data errors*, however, are prolific.

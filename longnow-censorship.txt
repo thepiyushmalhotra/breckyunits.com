@@ -1,6 +1,3 @@
-My LongBets.org prediction on cancer
-====================================
-
 October 20, 2022
 
 For over 30 days I've waited patiently for LongNow Foundation, operator of LongBets.org, to publish my prediction on cancer. For some reason they have not done so. So I am publishing it publicly to my git backed blog so we have it confirmed on the blockchain.

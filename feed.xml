@@ -1,11 +1,17 @@
+<div class="scrollSection"><h1 class="scrollTitle"><a href="feed.xml">Breck's Blog</a></h1>
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 <channel>
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Wed, 15 May 2024 17:13:45 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 16 May 2024 10:06:35 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>PMF Mirages</title>
+  <link>https://breckyunits.com/pmfMirage.html</link>
+  <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>Digital Copyright and AIs</title>
   <link>https://breckyunits.com/digitalCopyright.html</link>
@@ -953,3 +959,4 @@
  </item>
 </channel>
 </rss>
+</div>

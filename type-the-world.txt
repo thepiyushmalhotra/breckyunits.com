@@ -1,6 +1,3 @@
-Type the World
-==============
-
 January 20, 2020
 
 In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.

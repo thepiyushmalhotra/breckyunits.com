@@ -1,6 +1,3 @@
-The Box Method of Science
-=========================
-
 [Image Omitted]
  S = side length of box. P = pattern. t = time. V = voxel side length.
 

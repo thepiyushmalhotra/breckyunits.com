@@ -1,9 +1,181 @@
+/home/runner/work/breckyunits.com/breckyunits.com/pmfMirage.scroll
+ date 2024-05-15
+ groups All Startups
+ title PMF Mirages
+ 
+ import header.scroll
+ printTitle
+ 
+ thinColumns 1
+ 
+ image pmfMirage.jpg
+  // ChatGPT
+ 
+ I typed `tail -f pageViews.log` into my console.
+  dateline
+ 
+ Then pressed Enter.
+ 
+ I stared at my screen as it streamed with endless lines of text.
+ 
+ Each line evidence of a visitor interacting with my new site.
+ 
+ It had been doing this for days.
+ 
+ _Holy shit,_ I thought.
+ 
+ _This must be "Product Market Fit"_.
+ 
+ ***
+ 
+ You can categorize all startups into a handful of classes.
+  link bigOsKitchen.html handful of classes
+ 
+ If you start a business washing clothes and your only equipment is a bathtub, you have a Log Business.
+ 
+ Buy some washing machines, and now it can be a Linear Business.
+ 
+ Add some employees and you might go Log Linear.
+ 
+ But if you develop it into a Laundromat Franchising Startup, now you might enter the realm of Quadratic and Exponential Businesses.
+ 
+ ***
+ 
+ "Venture Capital" is the sport of trying to build Quadratic and Exponential Businesses.
+ 
+ "Product Market Fit" (PMF) is the term for when your startup phase-changes from a Linear or Log Linear business to a Quadratic or Exponential one.
+ 
+ You detect PMF when you see your numbers accelerate upward.
+ 
+ It's like moving from skiing the bunny slopes to heli-skiing.
+ 
+ ***
+ 
+ They say PMF is a rare thing. Maybe 1% of startups experience that kind of phase-change.
+ 
+ I've been in this world for a couple of decades, and that sounds about right to me.
+ 
+ I have seen it a number of times, mostly from the years I lived in San Francisco.
+ 
+ I remember when the Dropbox and Airbnb gatherings went from beers around makeshift offices to having guest lists a thousand names long at the hippest venues in the city.
+ 
+ When you make something that hits PMF—something that a lot of people want—the customers and resources come streaming.
+ 
+ It's a lot to deal with, good and bad.
+ 
+ ***
+ 
+ I have long had a technology that I thought might evolve to be in the Quad or Expo Class.
+ 
+ In 2017, I launched it.
+ 
+ The response was crickets.
+ 
+ So, in 2019, I launched it again.
+ 
+ Again, crickets.
+ 
+ I launched again in 2021. And again. And again. And again.
+ 
+ Crickets every time.
+ 
+ Then in 2022, right before I launched for the 20th(?) time, I did 2 unrelated things, that, combined with this launch, would create one heck of a PMF mirage.
+ 
+ ***
+ 
+ The first thing I did was pay for a premium domain name. I thought maybe if the domain looked more expensive, people might share the product more.
+ 
+ The second thing I did was drop Google Analytics and add web server logs.
+ 
+ I did these things, along with a lot of more substantive product work, and "launched" my product on HackerNews, Reddit, and Twitter.
+ 
+ I then went to the playground with my daughters, assuming crickets again.
+ 
+ ***
+ 
+ The next day, I was pleasantly surprised to see hundreds of upvotes and many good signs that people were finding my thing useful.
+ 
+ I enjoyed the small rush of dopamine—those helpful little payoffs that help one get through the laborious years of building—but I expected the increase in users to be fleeting, like it had been in the past.
+ 
+ However, the traffic didn't stop.
+ 
+ No matter what time of day, when I looked at the live server logs, a lot of people were visiting the site.
+ 
+ _It's finally happening._ I thought.
+ 
+ _I made something people want. It is somewhere in the Quad/Expo class. I've got PMF. I can now can get the resources to fully build out the vision._
+ 
+ ***
+ 
+ Six months and much confusion later, I finally realized my dumb mistake.
+ 
+ Premium domains may or may not be helpful, but they certainly get a lot more bot traffic.
+ 
+ And, in the decades since I last used server traffic logs, the Internet filled up with many bots that have User Agents posing as humans.
+ 
+ I had not yet hit PMF.
+ 
+ *It was a PMF mirage.*
+ 
+ ***
+ 
+ This is an embarrassing mistake to make.
+ 
+ I share this story on this blog because I realize I've actually made it a few times in my career. I want to severely reduce the odds I make this mistake again.
+ 
+ ***
+ 
+ Of course, I have also made the opposite mistake.
+ 
+ I have invested in businesses and taken Log Linear gains only to watch from the sidelines as the business phase-changed into Quad/Expo.
+ 
+ I bought SellNothing.com years ago to remind myself of mistakes like the time I took a 10x gain on NVidia, and a 100x gain on Bitcoin, instead of just sitting on the beach and getting 100x and 10,000x gains.
+ 
+ I have proof that I can be fooled in either direction.
+ 
+ ***
+ 
+ # What have I learned?
+ 
+ If you are the one building the thing, assume positive metrics are faulty.
+ 
+ If you are committed to building something for the long term (and if you're not, you should be doing something else), it's unhealthy to get excited over short term metric bumps anyway.
+ 
+ Make sure you have a really strong mental model of the world and how your product fits into that.
+ 
+ Don't think just because you've worked on something for a long time that at some point it has to hit PMF. Nature does not owe you PMF.
+ 
+ You've always got to zoom out to improve your mental models, and zoom in to execute on the many details required to implement them.
+ 
+ You have got to build past the payoff points on your projects to realize the leverage from a good Quad/Expo idea.
+ 
+ You have to be long term oriented. 
+ 
+ Remember, things in the Quad and Expo classes *only* become Quad and Expo *over time*.
+ 
+ ***
+ 
+ Just because I made a dumb mistake and got burned from a PMF Mirage, doesn't mean I want to stop trying to build Quad and Expo things.
+ 
+ It is fun to build products in the Quad and Expo classes.
+ 
+ It's _definitely_ not a good reason to live an unbalanced life.
+ 
+ But if you can live a balanced life and find a way to make your work focused on building things with high leverage in the Quad/Expo classes, that's a fun world to work in.
+ 
+ Just beware of PMF mirages.
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/digitalCopyright.scroll
  date 5/14/2024
  groups All IntellectualFreedom Society
+ title Digital Copyright and AIs
  
  import header.scroll
- title Digital Copyright and AIs
+ printTitle
  
  thinColumns 1
  
@@ -15,8 +187,6 @@
  
  In America, AIs have more freedom to learn than humans. This worries me.
   dateline
- 
- endSnippet
  
  Do you want learn at the same library as ChatGPT, Gemini, Grok, or Llama?
   https://chat.openai.com ChatGPT
@@ -88,9 +258,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/corporateEmail.scroll
  date 5/12/2024
  groups All Startups Society Programming
+ title Corporate Email
  
  import header.scroll
- title Corporate Email
+ printTitle
  
  thinColumns 1
  
@@ -135,9 +306,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/marks.scroll
  date 2024-05-11
  groups All Data Thinking Life HasDataset
+ title Marks
  
  import header.scroll
- title Marks
+ printTitle
  byLine
  
  thinColumns 1
@@ -156,8 +328,6 @@
  Eight-hundred-eighty-octillion ATP molecules.
  
  Compressed to two marks on a surface.
- 
- endSnippet
  
  ***
  
@@ -240,9 +410,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/blackSwanThoughts.scroll
  date 2024-05-07
  groups All Life Thinking
+ title Black Swan Thoughts
  
  import header.scroll
- title Black Swan Thoughts
+ printTitle
  // what are the black swans of black swans?
  
  byLine
@@ -267,8 +438,6 @@
  "Yes. I understand," said the boy.
  
  The boy turned around and walked out of the forest back to the city.
- 
- endSnippet
  
  ***
  
@@ -371,12 +540,13 @@
 /home/runner/work/breckyunits.com/breckyunits.com/aScientistGoesToHeaven.scroll
  date 2024-05-05
  groups All IntellectualFreedom Data
+ title Three Scientists Go To Heaven
  
  import header.scroll
  
  thinColumns 1
  
- title Three Scientists Go To Heaven
+ printTitle
  
  byLine
  
@@ -386,8 +556,6 @@
   // In this single pane comic, xkcd illustration, 3 figures are seen standing outside the gates of heaven. Another stick figure, representing God, stands next to the gate. God is in control of the gate, preventing the others from entering. Heaven is on the other side of the gate
  
  Newton, Darwin, and a modern Scientist go to heaven.
- 
- endSnippet
  
  ***
  
@@ -432,9 +600,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/badModels.scroll
  date 2024-05-04
  groups All Life Society Data
+ title Hypothermia
  
  import header.scroll
- title Hypothermia
+ printTitle
  
  thinColumns 1
  
@@ -453,8 +622,6 @@
  // there were actually 3 people not in wetsuits. The other 2 were in speedos and looked like Olympic swimmers. I assume they were out of the water before I even hit the buoy.
  
  ***
- 
- endSnippet
  
  "You're brave," another triathlete said.
  
@@ -553,9 +720,10 @@
  date 2024-05-02
  groups All BipolarDisorder
  related powerSurges
+ title Energy Clocks
  
  import header.scroll
- title Energy Clocks
+ printTitle
  
  ## Kathmandu and ATP
   https://en.wikipedia.org/wiki/Kathmandu Kathmandu
@@ -757,9 +925,10 @@
  openGraphImage tunnelByDallE.png
   // Generated by DallE
    the tunnel coming out of the forest is made completely out of books and papers and screens--the floor, the ceiling, the walls, it is 100% books and papers and screens. It previously extended out of the forest past the cliff above the void to nowhere. It was a tunnel of books and papers and screens to nowhere. The man walking in it, putting his weight in it, caused it to collapse. so he is falling first and above him is all the books and papers and screens also falling from the disintegrating tunnel
+ title A Higher Language
  
  import header.scroll
- title A Higher Language
+ printTitle
  
  byLine
  
@@ -832,9 +1001,10 @@
  date 4/23/2024 5:00
  groups All Data Thinking Programming HasDataset
  related dataset-needed
+ title Hot Coffee
  
  import header.scroll
- title Hot Coffee
+ printTitle
  // aka Dataset Thinking
  
  thinColumns 1
@@ -1055,9 +1225,10 @@
  date 4/23/2024
  groups All Programming Data HasDataset
  related ckmeans logeracy planets-and-pebbles orders-of-magnitude
+ title Big O's Kitchen
  
  import header.scroll
- title Big O's Kitchen
+ printTitle
  
  # Menu Instructions
  thinColumns 2
@@ -1150,9 +1321,10 @@
  openGraphImage theFastestByDallE.png
   // Generated by DallE
    Make a highly minimalistic black and white illustration, featuring two hands—one of a child and one of an adult. The design focuses solely on their outlines. The child's hand is on the left and the adults is on the right. The adults hand is coming down at a slight angle. The childs hand is coming up at a slight angle. We see the back of the childs hand. We see the palm side of the adults hand. It looks like they were holding hands but something (that we dont see at all) pulled them apart. You can see that they are reaching as hard as they can to touch but the new distance between them is too hard to overcome
+ title The Fastest in the World
  
  import header.scroll
- title The Fastest in the World
+ printTitle
  
  byLine
  
@@ -1167,8 +1339,6 @@
  "No. I want to be the _fastest_."
  
  ***
- 
- endSnippet
  
  "I solved it! If I eat less, I'll weigh less and go faster."
  
@@ -1281,9 +1451,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  date 4/16/2024
  groups All BipolarDisorder HasDataset
+ title Ketones vs Lithium
  
  import header.scroll
- title Ketones vs Lithium
+ printTitle
  byLine
  thinColumns 2
  
@@ -1296,7 +1467,6 @@
  
  The meter showed "1.0 mmol/L". Success! I was still in ketosis.
  
- endSnippet
  ***
  
  It was day 174 since, at wits' end, I started a therapeutic ketogenic diet as a treatment strategy for bipolar disorder.
@@ -1774,9 +1944,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarTerm.scroll
  date 4/10/2024
  groups All BipolarDisorder
+ title The Future of the Term "Bipolar Disorder"
  
  import header.scroll
- title The Future of the Term "Bipolar Disorder"
+ printTitle
  byLine
  thinColumns 2
  
@@ -1786,8 +1957,6 @@
   link bipolar.html category page for the term
  
  In short, I predict in the long run, as our understanding increases, the phrase "Bipolar Disorder" and its sub-phrases (Bipolar I, Bipolar II, Bipolar NOS, and Cyclothymia), will fall out of use and be replaced by a larger set of more specific terms clustered not by symptoms but by biological causes.
- 
- endSnippet
  
  ***
  
@@ -1862,10 +2031,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/sleepWriting.scroll
  date 4/5/2024
  groups All BipolarDisorder Writing HasDataset
+ title Blog Posts, Sorted by Sleep
  
  import header.scroll
  mediumColumns 1
- title Blog Posts, Sorted by Sleep
+ printTitle
  
  Have you ever examined the correlation between your writing behavior and sleep?
   dateline
@@ -1937,9 +2107,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/doHumanBrainsMolt.scroll
  date 4/3/2024
  groups All BipolarDisorder
+ title Do Human Brains Molt?
  
  import header.scroll
- title Do Human Brains Molt?
+ printTitle
  mediumColumns 1
  
  image lobsterMoltingChart.png
@@ -1974,9 +2145,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/treeNotationFinalReport.scroll
  date 2024-4-2
  groups All TreeNotation Programming
+ title Final Tree Notation Report
  
  import header.scroll
- title Final Tree Notation Report
+ printTitle
  
  thinColumns 2
  
@@ -2046,9 +2218,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/boxMethod.scroll
  date 2024-3-30
  groups All Data Thinking
+ title The Box Method of Science
  
  import header.scroll
- title The Box Method of Science
+ printTitle
  
  thinColumns 2
  
@@ -2059,8 +2232,6 @@
  Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
   dateline
   // box === cube
- 
- endSnippet
  
  ***
  
@@ -2204,9 +2375,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/openMindedness.scroll
  date 3/08/2024
  groups All BipolarDisorder Life
+ title Open-Mindedness
  
  import header.scroll
- title Open-Mindedness
+ printTitle
  thinColumns 2
  
  What is open-mindedness, from first principles? Here are some musings.
@@ -2316,9 +2488,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/mindmap.scroll
  date 2/24/2024
  groups All BipolarDisorder Programming Life
+ title A Different Kind of Mindmap
  
  import header.scroll
- title A Different Kind of Mindmap
+ printTitle
  byLine
  thinColumns 2
  
@@ -2349,9 +2522,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/synthesizingKnowledge.scroll
  date 2/21/2024
  groups All Data Thinking Programming
+ title Synthesizing Knowledge
  
  import header.scroll
- title Synthesizing Knowledge
+ printTitle
  
  mediumColumns 1
  
@@ -2394,9 +2568,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/brainPilotModelOfBipolarDisorder.scroll
  date 2/20/2024
  groups All BipolarDisorder
+ title The Brain Pilot Model of Bipolar Disorder
  
  import header.scroll
- title The Brain Pilot Model of Bipolar Disorder
+ printTitle
  thinColumns 2
  
  A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
@@ -2483,9 +2658,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/whyDoWeSubsidizeFiction.scroll
  date 2/14/2024
  groups All IntellectualFreedom Society
+ title Why do we subsidize fiction?
  
  import header.scroll
- title Why do we subsidize fiction?
+ printTitle
  mediumColumns 1
  image blackCup.jpg
  
@@ -2526,9 +2702,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/beliefs.scroll
  date 2/11/2024
  groups All Life
+ title Beliefs
  
  import header.scroll
- title Beliefs
+ printTitle
  
  mediumColumns 1
  
@@ -2555,9 +2732,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarsInSociety.scroll
  date 2/9/2024
  groups All BipolarDisorder
+ title What is the role of the bipolar in society?
  
  import header.scroll
- title What is the role of the bipolar in society?
+ printTitle
  
  thinColumns 2
  
@@ -2697,9 +2875,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/stableMoodDisorder.scroll
  date 2/4/2024
  groups All BipolarDisorder
+ title Stable Mood Disorder
  
  import header.scroll
- title Stable Mood Disorder
+ printTitle
  
  mediumColumns 1
  
@@ -2763,9 +2942,10 @@
  date 2/3/2024
  groups All BipolarDisorder
  related theEnergyClock
+ title Becoming a High Energy Person
  
  import header.scroll
- title Becoming a High Energy Person
+ printTitle
  
  mediumColumns 1
  
@@ -2842,9 +3022,10 @@
  date 1/30/2024
  groups All BipolarDisorder Writing
  related blackSwanThoughts wordsAreWorseThanWeights publishing-more why-you-shouldnt-save-blogging-for-old-age im-back
+ title Blogging as Therapy
  
  import header.scroll
- title Blogging as Therapy
+ printTitle
  
  mediumColumns 1
  
@@ -2881,9 +3062,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/delusions.scroll
  date 1/29/2024
  groups All BipolarDisorder
+ title Delusions
  
  import header.scroll
- title Delusions
+ printTitle
  
  mediumColumns 1
  
@@ -2975,9 +3157,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/eatingAnimals.scroll
  date 1/26/2024
  groups All Society
+ title On Eating Animals
  
  import header.scroll
- title On Eating Animals
+ printTitle
  
  mediumColumns 1
  
@@ -3021,9 +3204,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarDisorder.scroll
  date 1/24/2024
  groups All BipolarDisorder
+ title Focusing on Bipolar Disorder
  
  import header.scroll
- title Focusing on Bipolar Disorder
+ printTitle
  
  mediumColumns 1
  
@@ -3197,6 +3381,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarKeto.scroll
  date 1/23/2024
  groups All BipolarDisorder HasDataset
+ title Keto for bipolar was not talked about until very recently
  
  import header.scroll
  
@@ -3204,7 +3389,7 @@
  
  mediumColumns 1
  
- title Keto for bipolar was not talked about until very recently
+ printTitle
  
  I started a ketogenic diet as a treatment for bipolar disorder 97 days ago, on October 19th, 2023, after learning about it on YouTube from MetabolicMind and Bipolarcast. So far, it seems promising.
   dateline
@@ -3245,9 +3430,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/wordsAreWorseThanWeights.scroll
  date 1/12/2024
  groups All Programming Writing TreeNotation Life
+ title Words are Worse than Weights
  
  import header.scroll
- title Words are Worse than Weights
+ printTitle
  
  thinColumns 2
  
@@ -3323,9 +3509,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/ifNatureIsDoingIt.scroll
  date 1/4/2024
  groups All Thinking Life Startups Data
+ title If nature is doing it...
  
  import header.scroll
- title If nature is doing it...
+ printTitle
  
  thinColumns 2
  
@@ -3372,9 +3559,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/couldInVitroBrainsPowerAI.scroll
  date 1/1/2024
  groups All Programming Society
+ title Could in vitro brains power AI?
  
  import header.scroll
- title Could in vitro brains power AI?
+ printTitle
  
  thinColumns 2
  
@@ -3440,9 +3628,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.scroll
  date 12/28/2023
  groups All TreeNotation Programming Startups
+ title I thought we could build AI experts by hand
  
  import header.scroll
- title I thought we could build AI experts by hand
+ printTitle
  
  thinColumns 2
  
@@ -3676,9 +3865,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/a-manic-startup.scroll
  date 6/27/2023
  groups All BipolarDisorder Startups
+ title A Manic Startup
  
  import header.scroll
- title A Manic Startup
+ printTitle
  thinColumns 2
  
  I am so disappointed in myself for having yet another manic cycle and hurting the people I love. I'm sharing this to come out publicly as having bipolar disorder, take 80% blame for my actions and words, and maybe help someone avoid my mistakes.
@@ -3759,9 +3949,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/a-proposal-on-government-forms.scroll
  date 6/16/2023
  groups All TreeNotation Programming Society
+ title A Proposal to Solve Government Forms Worldwide, Forever
  
  import header.scroll
- title A Proposal to Solve Government Forms Worldwide, Forever
+ printTitle
  thinColumns 2
  
  // chatGptSummary The proposed idea is to create a universal infrastructure for government forms worldwide, using Specifications, Instances, and Templates, with the aim of reducing time wasted on forms, increasing transparency, and benefiting citizens; however, obstacles such as resistance from those in power and the potential creation of more forms if the system becomes popular are acknowledged.
@@ -3828,9 +4019,10 @@
  date 6/13/2023
  groups All Writing Life
  related if-stories-are-lies-why-do-they-work english-cannot-encode-real-news narratives-misrepresent-complex-systems
+ title Many Narratives. All true.
  
  import header.scroll
- title Many Narratives. All true.
+ printTitle
  thinColumns 2
  
  // chatGptSummary Writing a traditional narrative of one's own life is impossible because there are multiple independent threads explaining the why behind actions, as described by Marvin Minsky's Society of Mind model, where various neural agents with different activation energies drive the body, making it difficult to determine a single reason, suggesting that a true autobiography would require a multiple character story approach.
@@ -3891,9 +4083,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/live-free-or-agi.scroll
  date 6/9/2023
  groups All Society
+ title Live Free or AGI
  
  import header.scroll
- title Live Free or AGI
+ printTitle
  thinColumns 2
  
  // chatGptSummary The author reflects on their childhood fear of the "Live Free or Die" license plates in New Hampshire, highlighting how the motto now represents a beautiful vision for humanity, while discussing the current focus of the tech industry on AGI (Artificial General Intelligence) and the potential conflicts between prioritizing AGI development and individual freedom, ultimately expressing a preference for prioritizing freedom over AGI.
@@ -3932,9 +4125,10 @@
  date 5/26/2023
  groups All IntellectualFreedom
  openGraphImage mamoc.png
+ title A Mathematical Model of Copyright
  
  import header.scroll
- title A Mathematical Model of Copyright
+ printTitle
  thinColumns 2
  byLine
  
@@ -4192,9 +4386,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/walking-as-a-tool-of-thought.scroll
  date 5/19/2023
  groups All Writing
+ title Walking and other invisible tools of thought
  
  import header.scroll
- title Walking and other invisible tools of thought
+ printTitle
  thinColumns 2
  
  // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
@@ -4203,8 +4398,6 @@
   dateline
  
  And there are tools of thought you cannot see: walking, rigorous conversation, travel, real world adventures, showering, breathe & body work, ... ^chatgpt. I will write about two you cannot see: *walking* and *mentors inside your head*.
- 
- endSnippet
  
  ***
  
@@ -4256,9 +4449,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/marvin-minsky.scroll
  date 5/09/2023
  groups All BipolarDisorder Life
+ title The Magnificent Multi-Agent Mind of Marvin Minsky
  
  import header.scroll
- title The Magnificent Multi-Agent Mind of Marvin Minsky
+ printTitle
  thinColumns 2
  
  If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
@@ -4340,9 +4534,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/enchained-symbols.scroll
  date 4/28/2023
  groups All IntellectualFreedom
+ title Enchained Symbols
  
  import header.scroll
- title Enchained Symbols
+ printTitle
  thinColumns 2
  
  Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.
@@ -4385,9 +4580,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/a-public-domain-human.scroll
  date 3/6/2023
  groups All IntellectualFreedom
+ title A Public Domain Human
  
  import header.scroll
- title A Public Domain Human
+ printTitle
  thinColumns 2
  
  # Open sourcing more of my life for honesty
@@ -4463,9 +4659,10 @@
  date 1/27/2023
  groups All IntellectualFreedom
  openGraphImage safeFS.png
+ title SafeFS
  
  import header.scroll
- title SafeFS
+ printTitle
  thinColumns 2
  
  ## _Or: If lawyers invented a filesystem_
@@ -4505,9 +4702,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/useTheSpine.scroll
  date 1/3/2023
  groups All TreeNotation Programming
+ title Use the Spine
  
  import header.scroll
- title Use the Spine
+ printTitle
  
  thinColumns 2
  
@@ -4555,9 +4753,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/oneTextarea.scroll
  date 12/30/2022
  groups All TreeNotation Programming
+ title One Textarea
  
  import header.scroll
- title One Textarea
+ printTitle
  
  thinColumns 2
  
@@ -4600,9 +4799,10 @@
  date 11/16/2022
  groups All Programming Thinking TreeNotation
  openGraphImage rootThinking.png
+ title Root Thinking
  
  import header.scroll
- title Root Thinking
+ printTitle
  thinColumns 1
  
  I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
@@ -4637,9 +4837,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/replies-always-welcome.scroll
  date 11/14/2022
  groups All Programming
+ title Replies always welcome
  
  import header.scroll
- title Replies always welcome
+ printTitle
  
  thinColumns 2
  
@@ -4721,10 +4922,11 @@
 /home/runner/work/breckyunits.com/breckyunits.com/misinformationOrFakeNewsNeuralNetwork.scroll
  date 10/15/2022
  groups All
+ title Training a neural network to spot misinformation and fake news from a single image
  
  import header.scroll
  mediumColumns 1
- title Training a neural network to spot misinformation and fake news from a single image
+ printTitle
  
  image misinformationOrFakeNews.jpg
   openGraph
@@ -4741,9 +4943,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/scratch-ticket.scroll
  date 10/07/2022
  groups All Startups
+ title A scratch ticket with a positive expected value
  
  import header.scroll
- title A scratch ticket with a positive expected value
+ printTitle
  
  thinColumns 2
  
@@ -4796,9 +4999,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
  date 9/1/2022
  groups All Startups HasDataset
+ title An Angel Investor's Data
  
  import header.scroll
- title An Angel Investor's Data
+ printTitle
  
  thinColumns 2
  
@@ -4842,9 +5046,10 @@
  date 08-30-2022
  groups All IntellectualFreedom
  replace KEYMESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
+ title How the public domain can win
  
  import header.scroll
- title How the public domain can win
+ printTitle
  
  thinColumns 2
  
@@ -4897,9 +5102,10 @@
  date 6/09/2022
  groups All Programming Data HasDataset
  related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
+ title The Three Byte Fix
  
  import header.scroll
- title The Three Byte Fix
+ printTitle
  mediumColumns 1
  
  # A Small Open Source Success Story
@@ -5033,9 +5239,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/upstream-of-everything.scroll
  date 2/28/2022
  groups All Life Thinking
+ title Upstream of Everything
  
  import header.scroll
- title Upstream of Everything
+ printTitle
  
  thinColumns 2
  
@@ -5109,9 +5316,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/brain-pilots.scroll
  date 2/18/2022
  groups All BipolarDisorder Life
+ title Brain Pilots
  
  import header.scroll
- title Brain Pilots
+ printTitle
  
  // Note: I am publishing this about 2 years after writing it. I found it marked almost ready in a drafts folder on 1/22/2024. Reading it over I liked it, so gonna publish it now, almost entirely unedited, with a few typos fixed. Since it is unchanged I'm using the early written date. I'm guessing I took my time publishing it because I still wanted to work on it more back then, but other things came up and I forgot about it.
  
@@ -5288,9 +5496,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/aftertext.scroll
  date 12/15/2021
  groups All TreeNotation Programming Writing
+ title Aftertext
  
  import header.scroll
- title Aftertext
+ printTitle
  
  thinColumns 2
  
@@ -5479,11 +5688,12 @@
 /home/runner/work/breckyunits.com/breckyunits.com/write-thin-to-write-fast.scroll
  date 2021-10-15
  groups All Writing HasDataset
+ title Write Thin to Write Fast
  
  // the dataset is the NYTimes
  
  import header.scroll
- title Write Thin to Write Fast
+ printTitle
  
  byLine
  
@@ -5514,8 +5724,6 @@
  Beyond that my editor wraps lines.
  
  This simple mechanic has perhaps doubled my writing speed and quality.
- 
- endSnippet
  
  ***
  
@@ -5604,9 +5812,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/user-methods.scroll
  date 8/11/2021
  groups All Programming
+ title User Methods
  
  import header.scroll
- title User Methods
+ printTitle
  
  thinColumns 2
  
@@ -5713,9 +5922,10 @@
  author Others
  date 05/22/2021
  groups All OtherAuthor
+ title Goblin Interviews Alexandra Elbakian
  
  import header.scroll
- title Goblin Interviews Alexandra Elbakian
+ printTitle
  thinColumns 2
  
  In this video Dmitry Puchkov interviews Alexandra Elbakian. I do not speak Russian but had it translated. This is a first draft, the translation needs a lot of work, but perhaps it can be skimmed for interesting quotes. If you have a link to a better transcript, or can improve this one, pull requests are welcome (My whole site is public domain, and the source is on GitHub).
@@ -6051,9 +6261,10 @@
  date 2021-05-14
  groups All TreeNotation
  permalink dialogues.html
+ title Scrolldown now has Dialogues
  
  import header.scroll
- title Scrolldown now has Dialogues
+ printTitle
  thinColumns 2
  
  chat
@@ -6087,9 +6298,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-intellectual-freedom-amendment.scroll
  date 2021-05-12
  groups All IntellectualFreedom
+ title The Intellectual Freedom Amendment
  
  import header.scroll
- title The Intellectual Freedom Amendment
+ printTitle
  
  thinColumns 2
  
@@ -6126,9 +6338,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/some-old-blogs.scroll
  date 2021-05-07
  groups All Writing
+ title Some old blogs
  
  import header.scroll
- title Some old blogs
+ printTitle
  thinColumns 2
  
  I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Machine heart ❤️.
@@ -6173,9 +6386,10 @@
  date 2021-05-06
  groups All Data Writing Life
  permalink wisdom-a-tiny-language-for-great-advice.html
+ title Wisdom: a Tiny Language for Great Advice
  
  import header.scroll
- title Wisdom: a Tiny Language for Great Advice
+ printTitle
  
  thinColumns 2
  
@@ -6261,9 +6475,10 @@
  date 2021-04-26
  groups All Data Thinking Society
  related bigOsKitchen planets-and-pebbles orders-of-magnitude
+ title Logeracy
  
  import header.scroll
- title Logeracy
+ printTitle
  
  thinColumns 2
  
@@ -6386,9 +6601,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-fix-the-cdc.scroll
  date 2021-03-30
  groups All Society
+ title How to fix the CDC
  
  import header.scroll
- title How to fix the CDC
+ printTitle
  
  thinColumns 2
  
@@ -6473,9 +6689,10 @@
  author Others
  date 2021-03-11
  groups All OtherAuthor
+ title How James Park built FitBit
  
  import header.scroll
- title How James Park built FitBit
+ printTitle
  thinColumns 2
  
  comment
@@ -7035,9 +7252,10 @@
  date 2021-02-28 2
  groups All Startups OtherAuthor
  permalink insist-on-focus.html
+ title "Insist on Focus" - Keith Rabois describes working at PayPal
  
  import header.scroll
- title "Insist on Focus" - Keith Rabois describes working at PayPal
+ printTitle
  thinColumns 2
  
  I read an interesting Twitter thread on focus strategy. That led me to the 3-minute YouTube video Insist on Focus by Keith Rabois. I created the transcript below.
@@ -7084,12 +7302,13 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-public-domain-publishing-company.scroll
  date 2021-02-28 1
  groups All IntellectualFreedom Startups TreeNotation
+ title The Public Domain Publishing Company
  
  import header.scroll
  
  thinColumns 1
  
- title The Public Domain Publishing Company
+ printTitle
  
  I thought it unlikely that I'd actually cofound another startup, but here we are. Sometimes you gotta do what you gotta do.
   dateline
@@ -7108,9 +7327,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/scroll-beta.scroll
  date 2021-02-22
  groups All TreeNotation Programming Writing
+ title Scroll Beta
  
  import header.scroll
- title Scroll Beta
+ printTitle
  mediumColumns 1
  
  Today I'm launching the beta of something new called Scroll.
@@ -7140,9 +7360,10 @@
  date 2020-12-09
  groups All TreeNotation Programming
  permalink tree-notation-annual-report-2019.html
+ title 2019 Tree Notation Annual Report
  
  import header.scroll
- title 2019 Tree Notation Annual Report
+ printTitle
  
  thinColumns 2
  
@@ -7372,9 +7593,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/medical-records-to-the-moon.scroll
  date 2020-03-02
  groups All Thinking Society HasDataset Data
+ title Medical Records to the Moon
  
  import header.scroll
- title Medical Records to the Moon
+ printTitle
  thinColumns 2
  
  A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: *in the future will someone's medical record stretch to the moon?*
@@ -7476,9 +7698,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
  date 2020-03-02
  groups All Thinking Society
+ title Musing on the Future of Healthcare
  
  import header.scroll
- title Musing on the Future of Healthcare
+ printTitle
  
  thinColumns 2
  
@@ -7508,9 +7731,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-old-are-these-keys.scroll
  date 2020-02-25
  groups All Thinking Society HasDataset
+ title How Old Are These Keys? Five Eras of Human Progress
  
  import header.scroll
- title How Old Are These Keys? Five Eras of Human Progress
+ printTitle
  thinColumns 2
  image keyboard/screenshot.png
   link keyboard/index.html
@@ -7690,9 +7914,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/an-unpopular-phrase.scroll
  date 2020-02-21
  groups All IntellectualFreedom
+ title An Unpopular Phrase
  
  import header.scroll
- title An Unpopular Phrase
+ printTitle
  
  thinColumns 2
  
@@ -7737,9 +7962,10 @@
  date 2020-02-09
  groups All Startups
  permalink integrity-and-perseverance-in-business-ensure-success.html
+ title Integrity and Perseverance in Business ensure success (1853)
  
  import header.scroll
- title Integrity and Perseverance in Business ensure success (1853)
+ printTitle
  
  mediumColumns 1
  
@@ -7773,9 +7999,10 @@
  date 2020-01-29
  groups All TreeNotation Programming HasDataset
  permalink building-a-treebase-with-6.5-million-files.html
+ title Building a TreeBase with 6.5 million files
  
  import header.scroll
- title Building a TreeBase with 6.5 million files
+ printTitle
  
  thinColumns 2
  
@@ -8473,9 +8700,10 @@
  date 2020-01-23
  groups All Data Thinking Society Writing
  related datasets dreaming-of-a-data-checked-language
+ title Dataset Needed
  
  import header.scroll
- title Dataset Needed
+ printTitle
  
  thinColumns 2
  
@@ -8524,9 +8752,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/type-the-world.scroll
  date 2020-01-20
  groups All Programming Thinking TreeNotation
+ title Type the World
  
  import header.scroll
- title Type the World
+ printTitle
  
  thinColumns 2
  
@@ -8708,9 +8937,10 @@
  date 2020-01-16
  groups All Writing Life Data
  related many-narratives-all-true dreaming-of-a-data-checked-language english-cannot-encode-real-news narratives-misrepresent-complex-systems
+ title If stories are lies why do they work?
  
  import header.scroll
- title If stories are lies why do they work?
+ printTitle
  
  thinColumns 2
  
@@ -8761,9 +8991,10 @@
  date 2020-01-3
  groups All Data Programming Writing Thinking TreeNotation HasDataset
  related dataset-needed
+ title Dreaming of a Data Checked Language
  
  import header.scroll
- title Dreaming of a Data Checked Language
+ printTitle
  
  thinColumns 2
  
@@ -8933,9 +9164,10 @@
  date 2019-08-19
  groups All Writing Society Data
  related many-narratives-all-true if-stories-are-lies-why-do-they-work narratives-misrepresent-complex-systems
+ title English cannot encode Real News
  
  import header.scroll
- title English cannot encode Real News
+ printTitle
  thinColumns 2
  
  # The Attempt to Capture Truth
@@ -9014,9 +9246,10 @@
  date 7/18/2019
  groups All Programming Life HasDataset
  related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+ title 30,000 Hours
  
  import header.scroll
- title 30,000 Hours
+ printTitle
  
  mediumColumns 1
  
@@ -9104,9 +9337,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/going-manic-with-a-fitbit.scroll
  date 1/13/2018
  groups All BipolarDisorder HasDataset
+ title Going Manic with a FitBit
  
  import header.scroll
- title Going Manic with a FitBit
+ printTitle
  
  mediumColumns 1
  
@@ -9229,9 +9463,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/ohayo.scroll
  date 2017-06-23
  groups All Data Programming Startups TreeNotation
+ title Ohayo
  
  import header.scroll
- title Ohayo
+ printTitle
  
  thinColumns 1
  
@@ -9250,9 +9485,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/show-hn-programming-is-now-two-dimensional.scroll
  date 2017-06-21
  groups All TreeNotation Programming
+ title Show HN: Programming is Now Two-Dimensional
  
  import header.scroll
- title Show HN: Programming is Now Two-Dimensional
+ printTitle
  
  thinColumns 2
  
@@ -9303,9 +9539,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/big-data-notation.scroll
  date 2013-09-24
  groups All Data Programming Thinking
+ title Big Data Notation
  
  import header.scroll
- title Big Data Notation
+ printTitle
  thinColumns 1
  
  # A Suggestion for a Simple Notation
@@ -9333,9 +9570,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/nudgepad-an-ide-in-your-browser.scroll
  date 2013-09-23
  groups All Programming Startups TreeNotation
+ title NudgePad: An IDE in Your Browser
  
  import header.scroll
- title NudgePad: An IDE in Your Browser
+ printTitle
  
  thinColumns 2
  
@@ -9392,9 +9630,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/software-should-save-people-time.scroll
  date 2013-04-02
  groups All Programming
+ title Software Should Save People Time
  
  import header.scroll
- title Software Should Save People Time
+ printTitle
  
  thinColumns 1
  
@@ -9406,8 +9645,6 @@
  Less time doing bureaucratic things. Less time dealing with unnecessary complexity. Less time doing chores.
  
  I want to spend more time engaged with life.
- 
- endSnippet
  
  ***
  
@@ -9440,9 +9677,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/time.scroll
  date 2013-04-01
  groups All Life
+ title Time
  
  import header.scroll
- title Time
+ printTitle
  
  byLine
  
@@ -9467,9 +9705,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/money-is-meant-to-circulate.scroll
  date 2013-03-30
  groups All Life Society
+ title Money is Meant to Circulate
  
  import header.scroll
- title Money is Meant to Circulate
+ printTitle
  
  thinColumns 1
  
@@ -9492,9 +9731,10 @@
  date 2013-03-30
  groups All Life Thinking Data
  related 30000hours
+ title Why 10,000 hours?
  
  import header.scroll
- title Why 10,000 hours?
+ printTitle
  
  thinColumns 2
  
@@ -9529,9 +9769,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/minor-epiphanies.scroll
  date 2013-03-16
  groups All Programming
+ title Minor Epiphanies
  
  import header.scroll
- title Minor Epiphanies
+ printTitle
  thinColumns 2
  
  A kid says _Mommy_ or _Daddy_ or _Jack_ or _Jill_ hundreds of times before grasping the concept of a _name_.
@@ -9567,9 +9808,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-booster-design-pattern.scroll
  date 2013-03-08
  groups All Startups
+ title The Booster Design Pattern
  
  import header.scroll
- title The Booster Design Pattern
+ printTitle
  
  thinColumns 1
  
@@ -9585,9 +9827,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/startups-and-planes.scroll
  date 2013-02-24
  groups All Startups
+ title Startups and Planes
  
  import header.scroll
- title Startups and Planes
+ printTitle
  
  thinColumns 1
  
@@ -9603,9 +9846,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/save-your-money-for-great-values.scroll
  date 2013-02-16
  groups All Life Thinking
+ title Save Your Money for Great Values
  
  import header.scroll
- title Save Your Money for Great Values
+ printTitle
  
  mediumColumns 1
  
@@ -9633,9 +9877,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/infinite-futures.scroll
  date 2013-02-12
  groups All Life Thinking
+ title Infinite Futures
  
  import header.scroll
- title Infinite Futures
+ printTitle
  
  thinColumns 1
  
@@ -9657,9 +9902,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/prove-it.scroll
  date 2012-12-29
  groups All Life
+ title Prove It
  
  import header.scroll
- title Prove It
+ printTitle
  
  thinColumns 1
  
@@ -9691,9 +9937,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-great-bank-robbery.scroll
  date 2012-12-23
  groups All Society HasDataset
+ title The Great Bank Robbery
  
  import header.scroll
- title The Great Bank Robbery
+ printTitle
  
  mediumColumns 1
  
@@ -9728,9 +9975,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/responsibility.scroll
  date 2012-12-22
  groups All Life
+ title Responsibility
  
  import header.scroll
- title Responsibility
+ printTitle
  
  thinColumns 2
  
@@ -9762,9 +10010,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/black-swans-and-technology.scroll
  date 2012-12-19
  groups All Thinking Startups
+ title Black Swans and Technology
  
  import header.scroll
- title Black Swans and Technology
+ printTitle
  
  thinColumns 2
  
@@ -9807,9 +10056,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/deliver.scroll
  date 2012-12-19
  groups All Life
+ title Deliver
  
  import header.scroll
- title Deliver
+ printTitle
  
  thinColumns 2
  
@@ -9861,9 +10111,10 @@
  date 2012-12-18
  groups All Life Startups
  permalink cant-lose-could-win-big.html
+ title Can't Lose. Could Win Big.
  
  import header.scroll
- title Can't Lose. Could Win Big.
+ printTitle
  thinColumns 2
  
  One of Nassim Taleb's big recommendations for how to live in an uncertain world is to follow a barbell strategy: be extremely conservative about most decisions, but make some decisions that open you up to uncapped upside.
@@ -9900,9 +10151,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/probability-makes-planes-fly.scroll
  date 2012-12-18
  groups All Thinking Life
+ title Probability Makes Planes Fly
  
  import header.scroll
- title Probability Makes Planes Fly
+ printTitle
  
  thinColumns 2
  
@@ -9956,9 +10208,10 @@
  date 2012-12-16
  groups All Thinking Writing Life
  related many-narratives-all-true english-cannot-encode-real-news
+ title Narratives Misrepresent Complex Systems
  
  import header.scroll
- title Narratives Misrepresent Complex Systems
+ printTitle
  
  thinColumns 2
  
@@ -10052,9 +10305,10 @@
  date 2012-12-16
  groups All Life Thinking
  permalink simple-is.html
+ title Simple is...
  
  import header.scroll
- title Simple is...
+ printTitle
  thinColumns 2
  
  *Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
@@ -10083,9 +10337,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/introducing-note.scroll
  date 2012-12-14
  groups All TreeNotation Programming
+ title Introducing Note
  
  import header.scroll
- title Introducing Note
+ printTitle
  
  thinColumns 2
  
@@ -10148,9 +10403,10 @@
  date 2012-11-26
  groups All Thinking
  related bigOsKitchen logeracy orders-of-magnitude
+ title Planets and Pebbles
  
  import header.scroll
- title Planets and Pebbles
+ printTitle
  thinColumns 1
  
  For todo lists, I created a system I call planets and pebbles.
@@ -10175,9 +10431,10 @@
  date 2012-11-25
  groups All Writing
  related bloggingAsTherapy im-back
+ title Publishing More
  
  import header.scroll
- title Publishing More
+ printTitle
  
  thinColumns 2
  
@@ -10208,9 +10465,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/setplicity.scroll
  date 2012-11-20
  groups All Programming Thinking
+ title Setplicity
  
  import header.scroll
- title Setplicity
+ printTitle
  
  thinColumns 2
  
@@ -10249,9 +10507,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/naming-things.scroll
  date 2012-10-20
  groups All Programming Writing
+ title Naming Things
  
  import header.scroll
- title Naming Things
+ printTitle
  
  thinColumns 2
  
@@ -10288,9 +10547,10 @@
  date 2011-03-30
  groups All Programming Life
  related 30000hours twelve-tips-to-master-programming-faster
+ title What can a Programmer learn from Rock Climbing?
  
  import header.scroll
- title What can a Programmer learn from Rock Climbing?
+ printTitle
  
  thinColumns 2
  
@@ -10335,9 +10595,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/look-for-a-line.scroll
  date 2011-03-05
  groups All Startups Thinking
+ title Look for a Line
  
  import header.scroll
- title Look for a Line
+ printTitle
  
  thinColumns 2
  
@@ -10363,9 +10624,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/backpack-the-world-with-zero-planning.scroll
  date 2011-03-04
  groups All Life
+ title Backpack the World with Zero Planning
  
  import header.scroll
- title Backpack the World with Zero Planning
+ printTitle
  
  thinColumns 2
  
@@ -10425,9 +10687,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-economy-explained.scroll
  date 2010-09-18
  groups All Society
+ title The Economy Explained
  
  import header.scroll
- title The Economy Explained
+ printTitle
  
  thinColumns 2
  
@@ -10486,9 +10749,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/circle-of-competence.scroll
  date 2010-08-25
  groups All Life
+ title Circle of Competence
  
  import header.scroll
- title Circle of Competence
+ printTitle
  
  thinColumns 1
  
@@ -10511,9 +10775,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/critical-thinking.scroll
  date 2010-08-25
  groups All Life
+ title Critical Thinking
  
  import header.scroll
- title Critical Thinking
+ printTitle
  
  thinColumns 1
  
@@ -10531,9 +10796,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-is-intelligence-distributed.scroll
  date 2010-08-25
  groups All Thinking Society
+ title How is Intelligence Distributed?
  
  import header.scroll
- title How is Intelligence Distributed?
+ printTitle
  
  thinColumns 1
  
@@ -10553,9 +10819,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/kids-are-neat.scroll
  date 2010-08-25
  groups All Life Society
+ title Kids are Neat
  
  import header.scroll
- title Kids are Neat
+ printTitle
  
  thinColumns 1
  
@@ -10573,9 +10840,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/nature-verse-nurture.scroll
  date 2010-08-25
  groups All Life Society
+ title Nature Verse Nurture
  
  import header.scroll
- title Nature Verse Nurture
+ printTitle
  
  thinColumns 1
  
@@ -10599,9 +10867,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/recommendations-are-far-from-good.scroll
  date 2010-08-25
  groups All Thinking Society
+ title Recommendations Are Far From Good
  
  import header.scroll
- title Recommendations Are Far From Good
+ printTitle
  
  thinColumns 1
  
@@ -10628,9 +10897,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/ruby.scroll
  date 2010-08-25
  groups All Programming
+ title Ruby
  
  import header.scroll
- title Ruby
+ printTitle
  
  thinColumns 1
  
@@ -10646,9 +10916,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/you-cant-predict-the-future.scroll
  date 2010-08-25
  groups All Thinking Life
+ title You Can't Predict the Future
  
  import header.scroll
- title You Can't Predict the Future
+ printTitle
  
  thinColumns 2
  
@@ -10686,9 +10957,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-recency-effect.scroll
  date 2010-08-23
  groups All Thinking Society
+ title The Recency Effect
  
  import header.scroll
- title The Recency Effect
+ printTitle
  
  mediumColumns 1
  
@@ -10720,9 +10992,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/what-percentage-of-the-brain-does-what.scroll
  date 2010-08-23
  groups All Thinking
+ title What Percentage of the Brain Does What?
  
  import header.scroll
- title What Percentage of the Brain Does What?
+ printTitle
  thinColumns 1
  
  * _Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintest understanding of the brain so this is one of those times. Reading this post could make you dumber. But occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
@@ -10756,9 +11029,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-ovarian-lottery-and-other-side-projects.scroll
  date 2010-08-11
  groups All Thinking Data Society
+ title The Ovarian Lottery and Other Side Projects
  
  import header.scroll
- title The Ovarian Lottery and Other Side Projects
+ printTitle
  
  thinColumns 2
  
@@ -10846,9 +11120,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/happiness-is-in-mediocristan.scroll
  date 2010-08-06
  groups All Thinking Life
+ title Happiness is in Mediocristan
  
  import header.scroll
- title Happiness is in Mediocristan
+ printTitle
  
  thinColumns 2
  
@@ -10892,9 +11167,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/orbits.scroll
  date 2010-08-06
  groups All Thinking Life
+ title Orbits
  
  import header.scroll
- title Orbits
+ printTitle
  
  thinColumns 1
  
@@ -10923,9 +11199,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/what-i-want.scroll
  date 2010-08-06
  groups All Life
+ title What I Want
  
  import header.scroll
- title What I Want
+ printTitle
  
  thinColumns 2
  
@@ -10973,9 +11250,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-do-you-know-game-and-why-we-need-celebrities.scroll
  date 2010-08-03
  groups All Society
+ title The Do You Know Game and Why We Need Celebrities
  
  import header.scroll
- title The Do You Know Game and Why We Need Celebrities
+ printTitle
  
  thinColumns 2
  
@@ -11040,9 +11318,10 @@
  groups All Programming Startups
  permalink design-matters-a-lot.html
  related the-truth-about-web-design
+ title Design Matters. A lot.
  
  import header.scroll
- title Design Matters. A lot.
+ printTitle
  
  thinColumns 2
  
@@ -11104,9 +11383,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/competition-and-specialization.scroll
  date 2010-06-28
  groups All Startups Society
+ title Competition and Specialization
  
  import header.scroll
- title Competition and Specialization
+ printTitle
  
  thinColumns 2
  
@@ -11135,9 +11415,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/simple-but-not-easy.scroll
  date 2010-06-17
  groups All Startups Life
+ title Simple, but not easy
  
  import header.scroll
- title Simple, but not easy
+ printTitle
  
  thinColumns 2
  
@@ -11175,9 +11456,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/flip-flopping.scroll
  date 2010-06-16
  groups All Life
+ title Flip Flopping
  
  import header.scroll
- title Flip Flopping
+ printTitle
  
  thinColumns 2
  
@@ -11219,9 +11501,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-churn-rate-of-data.scroll
  date 2010-06-15
  groups All Data Thinking Programming
+ title The Churn Rate of Data
  
  import header.scroll
- title The Churn Rate of Data
+ printTitle
  
  thinColumns 1
  
@@ -11247,9 +11530,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/culture-and-complexity.scroll
  date 2010-06-14
  groups All Society Life
+ title Culture and Complexity
  
  import header.scroll
- title Culture and Complexity
+ printTitle
  
  thinColumns 2
  
@@ -11289,9 +11573,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-invention-of-free-will.scroll
  date 2010-03-24
  groups All Life
+ title The Invention of Free Will
  
  import header.scroll
- title The Invention of Free Will
+ printTitle
  
  thinColumns 2
  
@@ -11330,9 +11615,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/why-is-it-best-to-do-one-thing-really-really-well.scroll
  date 2010-03-22
  groups All Startups
+ title Why is it best to do one thing really, really well?
  
  import header.scroll
- title Why is it best to do one thing really, really well?
+ printTitle
  
  thinColumns 2
  
@@ -11388,9 +11674,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-hidden-benefits-of-automation.scroll
  date 2010-03-17
  groups All Programming
+ title The Hidden Benefits of Automation
  
  import header.scroll
- title The Hidden Benefits of Automation
+ printTitle
  
  thinColumns 2
  
@@ -11426,9 +11713,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/metrics-for-programmers.scroll
  date 2010-03-16
  groups All Programming HasDataset
+ title Metrics for Programmers
  
  import header.scroll
- title Metrics for Programmers
+ printTitle
  
  thinColumns 2
  
@@ -11462,9 +11750,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/hackernews-data-visits-as-a-function-of-karma.scroll
  date 2010-03-08
  groups All Programming Startups HasDataset
+ title HackerNews Data: Visits as a Function of Karma
  
  import header.scroll
- title HackerNews Data: Visits as a Function of Karma
+ printTitle
  
  mediumColumns 1
  
@@ -11504,9 +11793,10 @@
  date 2010-02-19
  groups All Life
  related prove-it
+ title Don't talk about what you will do, talk about what you have done
  
  import header.scroll
- title Don't talk about what you will do, talk about what you have done
+ printTitle
  
  thinColumns 2
  
@@ -11575,9 +11865,10 @@
  date 2010-02-17
  groups All Life Thinking
  related save-your-money-for-great-values
+ title Why it's worth it to buy the book
  
  import header.scroll
- title Why it's worth it to buy the book
+ printTitle
  
  thinColumns 2
  
@@ -11618,9 +11909,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-least-you-can-do.scroll
  date 2010-02-02
  groups All Life
+ title The Least You Can Do
  
  import header.scroll
- title The Least You Can Do
+ printTitle
  
  thinColumns 2
  
@@ -11671,9 +11963,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/four-tips-to-improve-communication.scroll
  date 2010-01-29
  groups All Life
+ title Four Tips to Improve Communication
  
  import header.scroll
- title Four Tips to Improve Communication
+ printTitle
  
  thinColumns 2
  
@@ -11701,9 +11994,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/network-effects.scroll
  date 2010-01-22
  groups All Startups Society
+ title Network Effects
  
  import header.scroll
- title Network Effects
+ printTitle
  
  thinColumns 2
  
@@ -11735,9 +12029,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/if-you-can-explain-something-logically-you-can-explain-it-simply.scroll
  date 2010-01-18
  groups All Writing
+ title If you can explain something logically, you can explain it simply
  
  import header.scroll
- title If you can explain something logically, you can explain it simply
+ printTitle
  
  thinColumns 2
  
@@ -11782,9 +12077,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.scroll
  date 2010-01-15
  groups All Programming Life
+ title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
  
  import header.scroll
- title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
+ printTitle
  
  thinColumns 2
  
@@ -11856,9 +12152,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/when-forced-to-wait-wait.scroll
  date 2010-01-14
  groups All Life
+ title When forced to wait, wait!
  
  import header.scroll
- title When forced to wait, wait!
+ printTitle
  
  thinColumns 2
  
@@ -11909,9 +12206,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-buy-low-sell-high.scroll
  date 2010-01-12
  groups All Life
+ title How to Buy Low, Sell High
  
  import header.scroll
- title How to Buy Low, Sell High
+ printTitle
  
  thinColumns 2
  
@@ -11957,9 +12255,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/flee-the-bubble.scroll
  date 2010-01-05
  groups All Startups
+ title Flee the Bubble
  
  import header.scroll
- title Flee the Bubble
+ printTitle
  
  thinColumns 2
  
@@ -12016,9 +12315,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/checklist-for-new-products.scroll
  date 2009-12-28
  groups All Startups
+ title Checklist for New Products
  
  import header.scroll
- title Checklist for New Products
+ printTitle
  
  thinColumns 2
  
@@ -12055,9 +12355,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/diversification-in-startups.scroll
  date 2009-12-24
  groups All Startups
+ title Diversification in Startups
  
  import header.scroll
- title Diversification in Startups
+ printTitle
  thinColumns 2
  
  _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
@@ -12142,9 +12443,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/thoughts-on-setting-goals.scroll
  date 2009-12-23
  groups All Life
+ title Thoughts on Setting Goals
  
  import header.scroll
- title Thoughts on Setting Goals
+ printTitle
  
  thinColumns 2
  
@@ -12196,9 +12498,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/problems-worth-solving.scroll
  date 2009-12-20
  groups All Programming Startups
+ title Problems Worth Solving
  
  import header.scroll
- title Problems Worth Solving
+ printTitle
  
  thinColumns 2
  
@@ -12234,9 +12537,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/make-something-40-of-your-customers-must-have.scroll
  date 2009-12-16
  groups All Startups
+ title Make Something 40% of Your Customers Must Have
  
  import header.scroll
- title Make Something 40% of Your Customers Must Have
+ printTitle
  
  thinColumns 2
  
@@ -12337,9 +12641,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/seo-made-easy-lumps.scroll
  date 2009-12-15
  groups All Programming Startups
+ title SEO Made Easy: LUMPS
  
  import header.scroll
- title SEO Made Easy: LUMPS
+ printTitle
  
  thinColumns 2
  
@@ -12410,9 +12715,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/dont-flip-the-bozo-bit.scroll
  date 2009-12-13
  groups All Programming Life
+ title Don't Flip the Bozo Bit
  
  import header.scroll
- title Don't Flip the Bozo Bit
+ printTitle
  
  thinColumns 2
  
@@ -12459,9 +12765,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/unfeatures.scroll
  date 2009-12-11
  groups All Programming Startups
+ title (un)features
  
  import header.scroll
- title (un)features
+ printTitle
  
  thinColumns 2
  
@@ -12509,9 +12816,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/get-stuff-done-by-setting-arbitrary-constraints.scroll
  date 2009-12-10
  groups All Life
+ title Get Stuff Done By Setting Arbitrary Constraints
  
  import header.scroll
- title Get Stuff Done By Setting Arbitrary Constraints
+ printTitle
  
  thinColumns 2
  
@@ -12557,9 +12865,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.scroll
  date 2009-12-09
  groups All Writing
+ title Why You Shouldn't Save Blogging for Old Age
  
  import header.scroll
- title Why You Shouldn't Save Blogging for Old Age
+ printTitle
  
  thinColumns 2
  
@@ -12599,9 +12908,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/6-specific-ways-to-find-programming-mentors.scroll
  date 2009-12-08
  groups All Programming
+ title 6 Specific Ways to Find Programming Mentors
  
  import header.scroll
- title 6 Specific Ways to Find Programming Mentors
+ printTitle
  
  thinColumns 2
  
@@ -12650,9 +12960,10 @@
  date 2009-12-07
  groups All Thinking
  related bigOsKitchen logeracy planets-and-pebbles
+ title Orders of Magnitude
  
  import header.scroll
- title Orders of Magnitude
+ printTitle
  
  thinColumns 2
  
@@ -12720,9 +13031,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/the-many-worlds-law.scroll
  date 2009-12-06
  groups All Life Thinking
+ title The Many Worlds Law
  
  import header.scroll
- title The Many Worlds Law
+ printTitle
  
  thinColumns 2
  
@@ -12763,9 +13075,10 @@
  date 2009-12-04
  groups All Programming
  related 30000hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+ title Twelve Tips to Master Programming Faster
  
  import header.scroll
- title Twelve Tips to Master Programming Faster
+ printTitle
  thinColumns 2
  
  Do you want to become a great coder? Do you have a *passion* for computers but not a thorough understanding of them? If so, this post is for you.
@@ -12854,9 +13167,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/whats-linear-algebra.scroll
  date 2009-12-03
  groups All Thinking
+ title What's Linear Algebra?
  
  import header.scroll
- title What's Linear Algebra?
+ printTitle
  
  thinColumns 2
  
@@ -12898,9 +13212,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/fiction-or-nonfiction.scroll
  date 2009-12-02 3
  groups All Writing
+ title Fiction or Nonfiction?
  
  import header.scroll
- title Fiction or Nonfiction?
+ printTitle
  
  thinColumns 2
  
@@ -12952,9 +13267,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/experience-is-what-you-get.scroll
  date 2009-12-02 2
  groups All Life
+ title Experience is What You Get
  
  import header.scroll
- title Experience is What You Get
+ printTitle
  mediumColumns 1
  
  quote
@@ -12981,9 +13297,10 @@
  date 2009-12-02 1
  groups All Writing
  related publishing-more i-guess-the-time-had-come
+ title I'm Back
  
  import header.scroll
- title I'm Back
+ printTitle
  
  mediumColumns 1
  
@@ -13014,9 +13331,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/what-you-focus-on-increases.scroll
  date 2009-05-06
  groups All Startups Thinking Life
+ title What you focus on, increases
  
  import header.scroll
- title What you focus on, increases
+ printTitle
  mediumColumns 1
  
  There’s a discussion on a mailing list I belong to about piracy and the iPhone. One of the responders I thought was really insightful. The basic premise is “what you focus on, increases”–at least in your mind–so it’s better not to focus on negative things. In this example, by focusing on the small problem of pirated iPhone apps, bigger opportunities are missed. I’ve reprinted the part below:
@@ -13064,9 +13382,10 @@
  date 2009-04-14
  groups All Startups Programming
  related design-matters-a-lot
+ title The Truth about Web Design
  
  import header.scroll
- title The Truth about Web Design
+ printTitle
  thinColumns 1
  
  Here’s what I’m going to assume: craigslist, Google, and eBay do not have very pretty designs. How can a website be so successful if the design isn’t pretty? My position is that because design doesn’t matter a whole lot.
@@ -13098,9 +13417,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/twitter-search-wins-again.scroll
  date 2009-04-06
  groups All Startups
+ title Twitter Search Wins Again
  
  import header.scroll
- title Twitter Search Wins Again
+ printTitle
  thinColumns 1
  
  Twitter Search is starting to replace a ton of websites that I used to visit.
@@ -13130,9 +13450,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/irrational-numbers.scroll
  date 2009-03-31
  groups All Thinking
+ title Irrational Numbers
  
  import header.scroll
- title Irrational Numbers
+ printTitle
  thinColumns 2
  
  There’s a post currently on Hacker News that discusses irrational numbers. A long time ago irrational numbers really bothered me. I remember I had a teacher in high school who gave us extra credit for reading books about math that dealt with specific topics like pi or irrational numbers. These books gave me nightmares :). I still don’t really understand irrational numbers but haven’t thought about them in a long time.  According to Wikipedia:
@@ -13168,9 +13489,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/are-you-making-something-that-will-become-absolutely-irrelevant.scroll
  date 2009-01-05
  groups All Startups
+ title Are you Making Something that will become ‘Absolutely Irrelevant’?
  
  import header.scroll
- title Are you Making Something that will become ‘Absolutely Irrelevant’?
+ printTitle
  thinColumns 2
  
  I’m reading a fascinating biography of Warren Buffett right now(Snowball).
@@ -13217,17 +13539,16 @@
 /home/runner/work/breckyunits.com/breckyunits.com/meteorite-caught-on-film.scroll
  date 2008-11-23
  groups All Society
+ title Meteorite Caught on Film
  
  import header.scroll
- title Meteorite Caught on Film
+ printTitle
  thinColumns 1
  
  A bright meteorite was caught on film in Canada this week.
   dateline
  
  I think with the recent exponential growth in video cameras we’ll all become a lot more familiar with meteorites in the years ahead.
- 
- endSnippet
  
  ****
  
@@ -13241,9 +13562,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/my-best-startup-advice-numbers-numbers-numbers.scroll
  date 2008-10-12
  groups All Startups
+ title When the Market Says No, Listen
  
  import header.scroll
- title When the Market Says No, Listen
+ printTitle
  thinColumns 2
  
  I just want to share the most valuable piece of Internet startup advice I possess.
@@ -13291,15 +13613,14 @@
 /home/runner/work/breckyunits.com/breckyunits.com/san-francisco.scroll
  date 2008-09-19
  groups All Startups
+ title San Francisco
  
  import header.scroll
- title San Francisco
+ printTitle
  thinColumns 1
  
  Got in to San Fran last night. Moved in to the Mission District with college buddies. I expect to be a multibillionaire in a month, tops.
   dateline
- 
- endSnippet
  
  ****
  
@@ -13313,9 +13634,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/justhackit.scroll
  date 2008-08-20
  groups All Startups
+ title JustHackIt
  
  import header.scroll
- title JustHackIt
+ printTitle
  thinColumns 2
  
  This evening JustHackIt.com launched. Before you co-found a company, you need to find good co-founders. The best way to do that is to just work on projects with people. The idea for JustHackIt is to connect hackers in one place and encourage them to just start projects together, without even knowing the person. Hopefully you’ll find some people who are smart, talented, and will make a great co-founder in the future.
@@ -13344,9 +13666,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.scroll
  date 2008-07-28
  groups All Society
+ title Bigger Telescopes are needed to Solve Global Warming
  
  import header.scroll
- title Bigger Telescopes are needed to Solve Global Warming
+ printTitle
  thinColumns 2
  
  On August 31, 1854, a Londoner living on Broad Street fell ill with cholera and died. In three days, 127 other Londoners would also contract and die of cholera. By September 10th, over 500 people had died and panic was setting in on the London streets. Doctors studied the dead but could not solve the epidemic.
@@ -13380,9 +13703,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-cure-the-hiccups.scroll
  date 2008-07-28
  groups All Life
+ title How to Cure the Hiccups
  
  import header.scroll
- title How to Cure the Hiccups
+ printTitle
  thinColumns 2
  
  The hiccups have been cured. Want to know what the secret is?
@@ -13413,9 +13737,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/trying-shelfari-goodreads-and-librarything.scroll
  date 2008-07-27
  groups All Thinking Life
+ title Trying Shelfari, GoodReads, and LibraryThing
  
  import header.scroll
- title Trying Shelfari, GoodReads, and LibraryThing
+ printTitle
  thinColumns 2
  
  Decided to try out one of these book social networks to see if I can find some important books I should be reading. The idea is you enter the books you’ve read and rate them, as well as the books you want to read. Then the site will show you people who like similar books and you can hopefully stumble upon some books that they’ve read that you will like.
@@ -13452,9 +13777,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/over-half-of-the-world-is-older-than-me.scroll
  date 2008-07-09
  groups All Life
+ title Over Half of the World is Older Than Me
  
  import header.scroll
- title Over Half of the World is Older Than Me
+ printTitle
  thinColumns 1
  
  It’s nice to know that more than 50% of the people  alive today have been around for longer than I have(at least for a few more years).
@@ -13485,9 +13811,10 @@
  date 2008-07-07
  groups All Writing HasDataset
  related write-thin-to-write-fast why-you-shouldnt-save-blogging-for-old-age
+ title Bloggers Turning Pro
  
  import header.scroll
- title Bloggers Turning Pro
+ printTitle
  thinColumns 1
  
  After months of deliberation, I’ve decided to quit my day job and work on my blog full time.
@@ -13565,9 +13892,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.scroll
  date 2008-05-14
  groups All Society Data
+ title Daily Gas Use for the United States and the World
  
  import header.scroll
- title Daily Gas Use for the United States and the World
+ printTitle
  thinColumns 2
  
  The other day I wrote a post on How much Gas Americans use per day. The answer is 400 Million Gallons. A reader wanted to know how much gas the whole world consumes in a day. The answer is about 83 millon bbl’s. One bbl = 42 gallons, so the world consumes about 3.5 billion gallons of gas per day. That means the United States consumes 11% of the total gas consumed per day.
@@ -13597,9 +13925,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.scroll
  date 2008-05-08
  groups All Startups HasDataset
+ title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
  
  import header.scroll
- title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
+ printTitle
  thinColumns 2
  
  xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
@@ -13732,9 +14061,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/first-place-in-the-stock-market-game.scroll
  date 2007-09-28
  groups All Startups
+ title First Place in the Stock Market Game
  
  import header.scroll
- title First Place in the Stock Market Game
+ printTitle
  thinColumns 2
  
  So after 1 year, my Fantasy Stock Portfolio returned a little over 150%, which was enough to capture 1st place. We used the MarketWatch game. At first I had no competition among our friends in our private game, although Conor(and his risky day trading in the subprime market) spiked at one point and finished around 80%. I lucked out thanks to a hot tech market and picking some of the best companies in that. Not a single pick lost money(though this is lucky).
@@ -13765,9 +14095,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.scroll
  date 2007-09-13
  groups All Startups
+ title Why a Team is Worth a lot more than an Idea
  
  import header.scroll
- title Why a Team is Worth a lot more than an Idea
+ printTitle
  thinColumns 2
  
  Every successful person in the startup world will tell you that the most important part of any startup is the *team*. From my own experiences, I wholeheartedly agree. But everyday I talk to people who think the most important thing is the *idea*. For instance, I just met a nice young woman at Logan Airport. She was wearing a well-pressed white blouse and grey skirt, dressed to impressed for her job at a prominent Boston-based health care consulting firm. We started talking about Facebook, and she repeated something I’ve heard at least a dozen times “[Zuckerberg] is going to make so much money. Facebook was such a simple idea. I wish I had thought of that.” I smiled and agreed pleasantly while trying hard not to roll my eyes.
@@ -13805,9 +14136,10 @@
 /home/runner/work/breckyunits.com/breckyunits.com/learning-how-to-program-part-i.scroll
  date 2007-08-28
  groups All Programming
+ title Learning How to Program Part I
  
  import header.scroll
- title Learning How to Program Part I
+ printTitle
  thinColumns 2
  
  * `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
@@ -13843,9 +14175,10 @@
  date 2007-08-24
  groups All Writing Life
  related im-back
+ title I guess the time has come
  
  import header.scroll
- title I guess the time has come
+ printTitle
  thinColumns 2
  
  For a few years, GoDaddy kept alerting me that BreckYunits.com was available and I should buy fast before someone else does! Lucky for me, all the other Breck Yunits’ out there weren’t getting the same alerts. Enjoy BreckYunits.info, suckers!!!

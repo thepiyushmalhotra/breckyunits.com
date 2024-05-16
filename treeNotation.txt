@@ -1,6 +1,3 @@
-Breck's Blog - Tree Notation Posts
-==================================
-
 Final Tree Notation Report
 ==========================
 04/02/2024

@@ -1,6 +1,3 @@
-Hypothermia
-===========
-
 Bad models of the world can be dangerous.
 =========================================
 

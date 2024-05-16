@@ -1,6 +1,3 @@
-SafeFS
-======
-
 _Or: If lawyers invented a filesystem_
 ======================================
 

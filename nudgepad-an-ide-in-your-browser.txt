@@ -1,6 +1,3 @@
-NudgePad: An IDE in Your Browser
-================================
-
 September 23, 2013
 
 Making websites is slow and frustrating.
