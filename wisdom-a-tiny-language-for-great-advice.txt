@@ -1,3 +1,6 @@
+Wisdom: a Tiny Language for Great Advice
+========================================
+
 May 6, 2021
 
 I am aware of two dialects for advice. I will call them FortuneCookie and Wisdom. Below are two examples of advice written in FortuneCookie.

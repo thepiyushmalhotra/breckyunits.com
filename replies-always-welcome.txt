@@ -1,3 +1,6 @@
+Replies always welcome
+======================
+
 November 14, 2022
 
 Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones, turns and walks away. That's the experience a `noreply` email address provides. Let's make email human again! If a human can't read and reply to emails it's not too hard to setup scripts that can at least do _something_ for the customer.

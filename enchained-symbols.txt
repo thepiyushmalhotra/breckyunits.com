@@ -1,3 +1,6 @@
+Enchained Symbols
+=================
+
 April 28, 2023
 
 Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.

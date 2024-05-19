@@ -1,3 +1,6 @@
+Metrics for Programmers
+=======================
+
 March 16, 2010
 
 I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.

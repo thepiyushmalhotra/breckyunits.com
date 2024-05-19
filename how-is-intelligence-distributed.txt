@@ -1,3 +1,6 @@
+How is Intelligence Distributed?
+================================
+
 August 25, 2010
 
 I've been working on a fun side project of categorizing things into Mediocristan or Extremistan(inspired by NNT's book The Black Swan).

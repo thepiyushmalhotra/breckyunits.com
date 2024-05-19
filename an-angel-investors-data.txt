@@ -1,3 +1,6 @@
+An Angel Investor's Data
+========================
+
 September 1, 2022
 
 There's a trend where people are publishing _real data first_, and then insights. Here is my data from angel investing:

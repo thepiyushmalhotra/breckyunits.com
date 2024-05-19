@@ -1,3 +1,6 @@
+Simple is...
+============
+
 December 16, 2012
 
 *Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.

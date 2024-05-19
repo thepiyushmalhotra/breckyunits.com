@@ -1,3 +1,6 @@
+Learning How to Program Part I
+==============================
+
 `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
 
 August 28, 2007

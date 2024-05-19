@@ -1,3 +1,6 @@
+HackerNews Data: Visits as a Function of Karma
+==============================================
+
 March 8, 2010
 
 If a post on HackerNews gets more points, it gets more visits.

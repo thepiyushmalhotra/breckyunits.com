@@ -1,3 +1,6 @@
+Software Should Save People Time
+================================
+
 April 2, 2013
 
 For me, the primary motivation for creating software is to save myself and other people time.

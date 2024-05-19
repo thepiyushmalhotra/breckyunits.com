@@ -1,3 +1,6 @@
+Training a neural network to spot misinformation and fake news from a single image
+==================================================================================
+
 [Image Omitted]
 
 October 15, 2022
