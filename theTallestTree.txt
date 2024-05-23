@@ -1,19 +1,9 @@
-date 2024-05-07
-groups All Life Thinking
-title Black Swan Thoughts
+The Tallest Tree
+================
 
-import header.scroll
-printTitle
-// what are the black swans of black swans?
+by Breck Yunits
 
-byLine
-
-thinColumns 1
-
-image blackSwanThoughts.jpg
- openGraph
- // ChatGPT/DallE, with some slight edits by me. Prompt:
-  It is a comic. Single frame. XKCD style. A very tall tree stands in the middle, ten times taller than a tree to the left and a tree to the right. Next to the tree on the left is a stump carved out to form a throne. On the stump sites an old man with a gray beard. On the right is a small child looking up at the tree.
+[Image Omitted]
 
 The boy looked up at the tree that was ten times taller than the others.
 
@@ -124,5 +114,3 @@ Then he heard a child's voice.
 "Excuse me mister, why is that tree so tall?"
 
 ****
-
-import footer.scroll
