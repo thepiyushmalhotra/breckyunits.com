@@ -5,8 +5,28 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Fri, 24 May 2024 19:21:00 +0000</lastBuildDate>
+ <lastBuildDate>Mon, 27 May 2024 17:45:55 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>The Choice</title>
+  <link>https://breckyunits.com/meaning.html</link>
+  <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Patch: a micro language to make pretty deep links easy</title>
+  <link>https://breckyunits.com/patch.html</link>
+  <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Bring back RadioShack?</title>
+  <link>https://breckyunits.com/radioShack.html</link>
+  <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>What can we learn from programming language version numbers?</title>
+  <link>https://breckyunits.com/versionNumbers.html</link>
+  <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>Abort Bars</title>
   <link>https://breckyunits.com/abortBar.html</link>
@@ -200,6 +220,11 @@
  <item>
   <title>Could in vitro brains power AI?</title>
   <link>https://breckyunits.com/couldInVitroBrainsPowerAI.html</link>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Writing in 2024</title>
+  <link>https://breckyunits.com/nyd2024.html</link>
   <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
  </item>
  <item>

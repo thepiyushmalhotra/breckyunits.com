@@ -1,11 +1,7 @@
-const DefaultPatchGrammar = {
-  rowDelimiter: "...",
-  columnDelimiter: "~",
-  encodedRowDelimiter: "%2E%2E%2E",
-  encodedColumnDelimiter: "%7E",
-}
 class Patch {
-  constructor(patchInput = "", grammar = DefaultPatchGrammar) {
+  constructor(patchInput = "", rowDelimiter = "&", columnDelimiter = "=") {
+    this.rowDelimiter = rowDelimiter
+    this.columnDelimiter = columnDelimiter
     // The pipeline of encodings. Operations will be run in order for encoding (and reveresed for decoding).
     this.encoders = [
       {
@@ -14,31 +10,23 @@ class Patch {
       },
       {
         encode: (str) =>
-          replaceAll(
+          this.replaceAll(
             str,
-            this.grammar.columnDelimiter,
-            this.grammar.encodedColumnDelimiter
+            columnDelimiter,
+            encodeURIComponent(columnDelimiter)
           ),
         decode: (str) =>
-          replaceAll(
+          this.replaceAll(
             str,
-            this.grammar.encodedColumnDelimiter,
-            this.grammar.columnDelimiter
+            encodeURIComponent(columnDelimiter),
+            columnDelimiter
           ),
       },
       {
         encode: (str) =>
-          replaceAll(
-            str,
-            this.grammar.rowDelimiter,
-            this.grammar.encodedRowDelimiter
-          ),
+          this.replaceAll(str, rowDelimiter, encodeURIComponent(rowDelimiter)),
         decode: (str) =>
-          replaceAll(
-            str,
-            this.grammar.encodedRowDelimiter,
-            this.grammar.rowDelimiter
-          ),
+          this.replaceAll(str, encodeURIComponent(rowDelimiter), rowDelimiter),
       },
       {
         // Turn "%20" into "+" for prettier urls.
@@ -46,11 +34,14 @@ class Patch {
         decode: (str) => str.replace(/\+/g, "%20"),
       },
     ]
-    this.grammar = grammar
-    if (typeof patchInput === "string") this.uriEncodedString = patchInput
+    if (typeof patchInput === "string")
+      this.uriEncodedString = patchInput.replace(/^\#/, "")
     else if (Array.isArray(patchInput))
       this.uriEncodedString = this.arrayToEncodedString(patchInput)
     else this.uriEncodedString = this.objectToEncodedString(patchInput)
+  }
+  replaceAll(str, search, replace) {
+    return str.split(search).join(replace)
   }
   objectToEncodedString(obj) {
     return Object.keys(obj)
@@ -60,26 +51,22 @@ class Patch {
         const row = [identifierCell, ...valueCells].map((cell) =>
           this.encodeCell(cell)
         )
-        return row.join(this.grammar.columnDelimiter)
+        return row.join(this.columnDelimiter)
       })
-      .join(this.grammar.rowDelimiter)
+      .join(this.rowDelimiter)
   }
   arrayToEncodedString(arr) {
     return arr
       .map((line) =>
-        line
-          .map((cell) => this.encodeCell(cell))
-          .join(this.grammar.columnDelimiter)
+        line.map((cell) => this.encodeCell(cell)).join(this.columnDelimiter)
       )
-      .join(this.grammar.rowDelimiter)
+      .join(this.rowDelimiter)
   }
   get array() {
     return this.uriEncodedString
-      .split(this.grammar.rowDelimiter)
+      .split(this.rowDelimiter)
       .map((line) =>
-        line
-          .split(this.grammar.columnDelimiter)
-          .map((cell) => this.decodeCell(cell))
+        line.split(this.columnDelimiter).map((cell) => this.decodeCell(cell))
       )
   }
   get object() {
@@ -104,6 +91,5 @@ class Patch {
       .reduce((str, encoder) => encoder.decode(str), encodedCell)
   }
 }
-const replaceAll = (str, search, replace) => str.split(search).join(replace)
 
-module.exports = { DefaultPatchGrammar, Patch }
+if (typeof module !== "undefined") module.exports = { Patch }

@@ -1,6 +1,26 @@
 Breck's Blog - All Posts
 ========================
 
+The Choice
+==========
+05/27/2024
+https://breckyunits.com/meaning.html
+
+Patch: a micro language to make pretty deep links easy
+======================================================
+05/27/2024
+https://breckyunits.com/patch.html
+
+Bring back RadioShack?
+======================
+05/26/2024
+https://breckyunits.com/radioShack.html
+
+What can we learn from programming language version numbers?
+============================================================
+05/25/2024
+https://breckyunits.com/versionNumbers.html
+
 Abort Bars
 ==========
 05/24/2024
@@ -195,6 +215,11 @@ Could in vitro brains power AI?
 ===============================
 01/01/2024
 https://breckyunits.com/couldInVitroBrainsPowerAI.html
+
+Writing in 2024
+===============
+01/01/2024
+https://breckyunits.com/nyd2024.html
 
 I thought we could build AI experts by hand
 ===========================================

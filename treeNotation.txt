@@ -1,6 +1,16 @@
 Breck's Blog - Tree Notation Posts
 ==================================
 
+Patch: a micro language to make pretty deep links easy
+======================================================
+05/27/2024
+https://breckyunits.com/patch.html
+
+What can we learn from programming language version numbers?
+============================================================
+05/25/2024
+https://breckyunits.com/versionNumbers.html
+
 A New Way to Store Knowledge
 ============================
 05/21/2024

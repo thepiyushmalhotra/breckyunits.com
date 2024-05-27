@@ -1,6 +1,21 @@
 Breck's Blog - Data Posts
 =========================
 
+The Choice
+==========
+05/27/2024
+https://breckyunits.com/meaning.html
+
+Bring back RadioShack?
+======================
+05/26/2024
+https://breckyunits.com/radioShack.html
+
+What can we learn from programming language version numbers?
+============================================================
+05/25/2024
+https://breckyunits.com/versionNumbers.html
+
 A New Way to Store Knowledge
 ============================
 05/21/2024

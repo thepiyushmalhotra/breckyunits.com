@@ -1,8 +1,551 @@
+/home/runner/work/breckyunits.com/breckyunits.com/meaning.scroll
+ date 5/27/2024
+ groups All Thinking Data
+ openGraphImage meaning.webp
+ related hits
+ title The Choice
+ 
+ import header.scroll
+ printTitle
+ printAuthor
+ 
+ thinColumns 1
+ 
+ // ChatGPT
+  Single pane, XKCD style comic, no color.
+  In a majestic library. Very high ceilings. Multiple floors of books. Statues and artifacts.
+  A 60 year old man, in jeans and a t shirt, healthy, is sweeping his arms in the air, as if showing place to the other healthy younger man, 40 years old. They are both standing.
+  On a table, there is nothing at all except for a normal piece of paper, rolled up into a scroll, tied with a ribbon.
+ 
+ "I'll give you this library," the billionaire said, sweeping his arms up toward the majestic ceiling.
+ 
+ "Or...you can have this scroll," he said, pointing down at a stick of paper on a table, tied with a red ribbon.
+ 
+ ***
+ 
+ Thomas said nothing.
+ 
+ He kept his eyes locked on the billionaire's.
+ 
+ ***
+ 
+ He had prepared for moments like this.
+ 
+ <i>
+ 
+ Don't flinch.
+ 
+ Don't look away.
+ 
+ Be comfortable with silence.
+ 
+ Think.
+ 
+ </i>
+ 
+ ***
+ 
+ He knew he was going to be challenged with something today.
+ 
+ He just didn't know what.
+ 
+ Now he knew.
+ 
+ <i>
+ 
+ I have to get this right.
+ 
+ ***
+ 
+ Obviously choose the library, right?
+ 
+ The real estate and art in this place are worth billions!
+ 
+ It's the biggest personal library in the world!
+ 
+ It has every book ever published.
+ 
+ Every paper ever written.
+ 
+ Every song ever recorded.
+ 
+ Every movie ever filmed.
+ 
+ ***
+ 
+ Shannon would take the library, right?
+ 
+ Think of all that information!
+ 
+ The collective work of a hundred billion humans over ten thousand years.
+ 
+ Ten trillion human-years of effort!
+ 
+ With that much information, I could solve the complexity of the universe!
+ 
+ ***
+ 
+ The complexity of the universe.
+ 
+ Hmmm.
+ 
+ What did Wolfram discover about complexity?
+ 
+ Infinite complexity can arise from simple rules.
+ 
+ Simple rules.
+ 
+ Simple rules.
+ 
+ Simple rules...that could fit on a piece of paper.
+ 
+ ***
+ 
+ Holy sh**.
+ 
+ Did he discover simple rules to our universe?
+ 
+ Did he invent a language that solves both quantum mechanics and gravity?
+ 
+ That has to be it.
+ 
+ ***
+ 
+ But EVERYONE would choose the library.
+ 
+ ***
+ 
+ </i>
+ 
+ Thomas inhaled deeply.
+ 
+ ***
+ 
+ "I'll take the scroll"
+ 
+ ***
+ 
+ Thomas sat in his car in a beach parking lot and stared across the bay to the end of the cape.
+ 
+ First he saw the smoke, then the flames, and then the humongous rocket rise off the ground.
+ 
+ It gained speed as it rose into the sky, carrying his mentor and the rest of its crew on their journey to Mars.
+ 
+ When the rocket was out of sight, Thomas looked down at his lap.
+ 
+ ***
+ 
+ He untied the red ribbon and unrolled the scroll.
+ 
+ ***
+ 
+ It was blank.
+ 
+ ****
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/patch.scroll
+ date 2024-05-27
+ groups All Programming TreeNotation
+ title Patch: a micro language to make pretty deep links easy
+ 
+ import header.scroll
+ 
+ copyButtons
+ 
+ printTitle
+ printDate
+ 
+ mediumColumns 1
+ 
+ Patch is a tiny Javascript class (1k compressed) with zero dependencies that makes pretty deep links easy.
+ 
+ endSnippet
+ 
+ Patch can be used with both:
+ 
+ - ?queryStrings
+ - #hashStrings
+ 
+ Patch handles encoding and decoding for you, and makes your deep links pretty, so you don't have to think about it.
+ 
+ # Example
+ This object:
+ code
+  {
+    "countries": [
+      "Canada",
+      "France"
+    ],
+    "selection": "France"
+  }
+ Becomes `countries=Canada=France&selection=France` (and vice versa).
+ 
+ # How to use
+ <script src="patch/patch.js"></script>
+ 1. Include patch.js or just copy/paste the code:
+  link patch.js copy/paste the code
+ 
+ code
+  <script src="patch.js"></script>
+ 
+ 2. Give your Javascript object to Patch, and it will give you the prettiest query string it can make:
+ 
+ code
+  window.location.hash = new Patch(
+  {
+    "countries": [
+      "Canada",
+      "France"
+    ],
+    "selection": "France"
+  }
+   ).uriEncodedString
+ 
+ 3. Give Patch a query string, and it will give you back your Javascript object:
+ 
+ code
+  console.log(new Patch(window.location.hash).object)
+ 
+ ***
+ 
+ # Specification
+ *They key idea of Patch is to think of your query params as a spreadsheet.*
+ 
+ Then Patch encodes and decodes that spreadsheet.
+ 
+ A Patch object has 4 forms:
+ ## 1. Spreadsheet Form
+ code
+  countries	Canada	France
+  selection	France
+ 
+ ## 2. URI form
+ code
+  countries=Canada=France&selection=France
+ 
+ ## 3. Object Form
+ code
+  {
+   "countries": ["Canada", "France"],
+   "selection": ["France"],
+  }
+ 
+ ## 4. Matrix Form
+ code
+  [
+   ["countries", "Canada", "France"],
+   ["selection", "France"],
+  ]
+ 
+ ## Delimiters
+ Patch requires 2 delimiters, one for separating "rows" and one for separating "columns".
+ 
+ The default is `&` for rows and `=` for columns.
+ 
+ You can change these to suit your own needs.
+ 
+ ## Spaces
+ Patch encodes spaces to `+` instead of `%20` and uses the standard encoding of `+` to `%2B`.
+ 
+ ## URI Encoding
+ String inputs to the Patch constructor are assumed to be encoded and will be decoded before parsing. Similarly the string output is always encoded.
+ 
+ ## Scalar Types
+ Patch treats all scalars as strings. Do a just-in-time parse of numbers, booleans, or JSON values if needed.
+ 
+ ***
+ 
+ # Why Patch?
+ QueryStrings can be thought of as a domain specific language for describing this structure:
+ 
+ code
+  type QueryStrings = Omit<string, [RestrictedCharacters]>
+  Map<QueryStrings, QueryStrings>
+ 
+ - QueryStrings has one very restricted string type and a simple map type.
+ - QueryStrings arguably adds little to no value on top of just a single string.
+ - QueryStrings requires you encode and decode each map pair separately.
+ - JSON is an alternative to Patch, except after uriEncoding JSON you lose almost all human editability in query strings.
+ 
+ # Some benefits of Patch
+ - Encode and decode your params just once.
+ - Cleanly encodes arrays and nested structures.
+ - Very easy to debug—it's just a patch!
+ 
+ # Live examples of Patch
+ - This blog
+  link search.html#q=patch
+ - PLDB
+  https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~blog
+ 
+ # History
+ I made Patch in 2020 for Our World in Data.
+  https://ourworldindata.org Our World in Data
+ 
+ This is an updated fork.
+ 
+ endColumns
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/radioShack.scroll
+ date 2024-05-26
+ groups All Society HasDataset Data Programming
+ title Bring back RadioShack?
+ 
+ import header.scroll
+ printTitle
+ 
+ mediumColumns 1
+ 
+ You once could buy transistors, capacitors, and other components at your local neighborhood store. The decline in US computer and electronics manufacturing correlates with the decline in RadioShacks. To catch up to other nations, maybe it is time for a next-gen RadioShack.
+  dateline
+ 
+ image radioshack.png
+ 
+ endSnippet
+ 
+ # Notes
+ - All of the data is in the source code for this blog post. Click "View Source" at the bottom of this page to see it.
+ - There are still 412 independently owned RadioShacks
+  https://8bitboyz.com/radio-shack-store-numbers/ 412 independently owned RadioShacks
+ - I found data for number of RadioShack stores for 6 years, and used Our World In Data's Grapher to interpolate the missing values.
+ - For ElectronicsManufacturing, I used the data from All Employees, Computer and Electronic Product Manufacturing, averaged by year
+  https://fred.stlouisfed.org/graph/?g=1nSZt All Employees, Computer and Electronic Product Manufacturing
+ 
+ ****
+ 
+ # Highlighted Reader Comments
+ 
+ > I can have a far wider selection of electronic components delivered overnight for cheaper from Amazon, Mouser or Digikey. The need for a brick and mortar electronics store is long over. Time marches on. - rriggsco
+  https://www.reddit.com/r/electronics/comments/1d0zfcf/comment/l5rhzcz/ rriggsco
+ 
+ Year	ElectronicsManufacturing	RadioShacks
+ 1990	1902	4300
+ 1991	1809	4711.111111
+ 1992	1707	5122.222222
+ 1993	1656	5533.333333
+ 1994	1651	5944.444444
+ 1995	1689	6355.555556
+ 1996	1747	6766.666667
+ 1997	1803	7177.777778
+ 1998	1831	7588.888889
+ 1999	1781	8000
+ 2000	1820	7735.5
+ 2001	1749	7471
+ 2002	1507	7206.5
+ 2003	1355	6942
+ 2004	1323	6677.5
+ 2005	1316	6413
+ 2006	1308	6148.5
+ 2007	1272	5884
+ 2008	1244	5619.5
+ 2009	1137	5355
+ 2010	1094	5090.5
+ 2011	1103	4826
+ 2012	1089	4561.5
+ 2013	1066	4297
+ 2014	1049	3547.75
+ 2015	1053	2798.5
+ 2016	1048	2049.25
+ 2017	1039	1300
+ 2018	1054	500
+ 2019	1075	485.3333333
+ 2020	1063	470.6666667
+ 2021	1060	456
+ 2022	1090	441.3333333
+ 2023	1108	426.6666667
+ 2024	1105	412
+ 
+ Name	Year	Stores
+ RadioShacks	1990	4300
+ RadioShacks	1991
+ RadioShacks	1992
+ RadioShacks	1993
+ RadioShacks	1994
+ RadioShacks	1995
+ RadioShacks	1996
+ RadioShacks	1997
+ RadioShacks	1998
+ RadioShacks	1999	8000
+ RadioShacks	2000
+ RadioShacks	2001
+ RadioShacks	2002
+ RadioShacks	2003
+ RadioShacks	2004
+ RadioShacks	2005
+ RadioShacks	2006
+ RadioShacks	2007
+ RadioShacks	2008
+ RadioShacks	2009
+ RadioShacks	2010
+ RadioShacks	2011
+ RadioShacks	2012
+ RadioShacks	2013	4297
+ RadioShacks	2014
+ RadioShacks	2015
+ RadioShacks	2016
+ RadioShacks	2017	1300
+ RadioShacks	2018	500
+ RadioShacks	2019
+ RadioShacks	2020
+ RadioShacks	2021
+ RadioShacks	2022
+ RadioShacks	2023
+ RadioShacks	2024	412
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/versionNumbers.scroll
+ date 2024-05-25
+ groups All Programming Data TreeNotation
+ title What can we learn from programming language version numbers?
+ 
+ import header.scroll
+ printTitle
+ 
+ # Analyzing the version numbers of 621 programming languages
+  // *including some other things that are closely related to PLs.
+ 
+ mediumColumns 1
+ 
+ image plVersions/versionNumbers.png
+  caption Interactive Version
+   https://observablehq.com/@breck/version-numbers
+  https://observablehq.com/@breck/version-numbers
+ 
+ I just pushed version 93.0.0 of my language Scroll. *Version 93*!
+  dateline
+  https://scroll.pub/ Scroll
+ 
+ endSnippet
+ 
+ Why so many versions? I use Tom Preston-Warner's Semantic Versioning (2011).
+  https://semver.org/ Semantic Versioning
+  https://tom.preston-werner.com/ Tom Preston-Warner's
+ 
+ In particular, I followed his advice in Major Version Numbers are Not Sacred.
+  https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred Major Version Numbers are Not Sacred
+ 
+ ***
+ 
+ Pushing so many major versions was no big deal because Scroll was a toy.
+ 
+ But Scroll now has a novel feature that makes it very useful.
+  link scrollsets.html novel feature
+ 
+ I need to decide if I should ship fewer major versions with higher quality.
+ 
+ ***
+ 
+ Let's do some research on what other programming language developers are doing.
+ 
+ I added version number data to over 600 languages in PLDB.
+  https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning~foundationScore&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22boolean%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D version number data to over 600 languages in PLDB
+ 
+ ***
+ 
+ # What major version are programming languages on?
+ dashboard
+  0 Min
+  1 Median
+  2.9 Average
+  73% < v3
+  95% < v10
+  99% < v30
+ 
+ Wow! No languages in the top 400 have surpassed 30 major versions.
+ 
+ Erlang, at version 27, ranks #34 and is the only top 100 language with more than 25 major versions.
+  https://pldb.io/concepts/erlang.html Erlang
+ 
+ My language, at version 93, is a huge outlier. Maybe I've done something wrong 😳.
+ 
+ // Such an outlier that I filtered it from the charts on this page
+ 
+ ***
+ 
+ Let's plot version number by rank.
+ 
+ image plVersions/versionRanks.png
+  openGraph
+  link https://datawrapper.dwcdn.net/XLcIn/1/
+  caption Interactive Version
+   https://datawrapper.dwcdn.net/XLcIn/1/
+ 
+ We can see that there is a positive correlation between how many major versions a language has and how popular it is.
+ 
+ However, we can also see that 5 of the top 10 languages are on version 5 or less.
+ 
+ We can also see that ~15 of the top 25 languages are on version 5 or less.
+ 
+ *If you have a great model of your core ideas, you can ship fewer major versions.*
+ 
+ ***
+ 
+ ? What's the relationship between age of the language and the current major version?
+ 
+ image plVersions/ageVsVersion.png
+  link https://datawrapper.dwcdn.net/kcWGg/1/
+  caption Interactive Version
+   https://datawrapper.dwcdn.net/kcWGg/1/
+ 
+ ? Did Semantic Versioning, published in 2011, change release rates of major versions of programming languages?
+ 
+ No. As you can see:
+ 
+ image plVersions/releaseRates.png
+  link https://datawrapper.dwcdn.net/AiGaB/1/
+  caption Interactive Version
+   https://datawrapper.dwcdn.net/AiGaB/1/
+ 
+ ***
+ 
+ # So, what did I learn?
+ 
+ TIL I did SemVer wrong. In particular, I missed this part:
+ 
+ > If you’re changing the API every day you should...still be in version 0.y.z
+ 
+ Whoops!
+ 
+ It took me about 5 years to figure out what Scroll 1.0.0 should be. I should be on version 0.93.0, not version 93.0.0.
+ 
+ No big deal. I will soon release Scroll 100.0.0, and from then on will have far fewer major releases.
+ 
+ An ounce of deep thought on the core of your language is worth a pound of major releases!
+ 
+ ## Other things I learned
+ 
+ - I learned 97.5% of languages with a version system use Semantic Versioning. The ~2% of languages, such as C and C++, that are still doing versions like C17 (which does not mean major version 17, but refers to the year the revision came out), maybe want to reconsider ;).
+ - I learned most languages use git tags for tagging their releases. Something I should start doing.
+  https://git-scm.com/book/en/v2/Git-Basics-Tagging git tags
+ 
+ I learned a few things today. Hope you did too!
+ 
+ ****
+ 
+ # Notes
+ - Thank you to redditors Greenbeen86, subgeniuskitty, and chibuku_chauya for pointing out the bug with the C and C++ rows.
+ 
+ // Ohayo code:
+  data.localStorage datalocalstoragenode-2.data
+  group.by appeared
+   reduce MajorVersionsPerYear mean rate
+   tables.basic
+   rows.sortBy appeared
+    tables.basic
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/abortBar.scroll
  date 5/24/2024
  groups All Programming Life
- title Abort Bars
  openGraphImage abortBars.gif
+ title Abort Bars
+ 
  import header.scroll
  printTitle
  mediumColumns 1
@@ -36,7 +579,6 @@
  The color of the moving line shows the odds that a task will succeed, given the amount of time passed.
  
  It helps your users decide: should I wait or abort?
- 
  
  // There are some significant opportunities to improve this design further. I would love to see your iterations.
  
@@ -289,7 +831,6 @@
  
  ****
  
- 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scrollsets.scroll
@@ -473,7 +1014,6 @@
  Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Matthieu, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
  // thanks to https://github.com/rakoo for pointing our GNU Recutils
  ****
- 
  
  import footer.scroll
  
@@ -4191,26 +4731,13 @@
  
  import header.scroll
  printTitle
- 
+ # The advance of AGI is _currently_ stoppable
  thinColumns 2
  
- Happy New Year!
+ Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
   dateline
  
- _First, a disclaimer_. I think a lot of my posts are my attempts to reflect on experiences and write tight advice for my future self. This one is less of that and more just unsophisticated musings on an intriguing thought that crossed my mind. I am taking advantage of it being New Year's day to yet again try and force myself to publish more.
-  link experience-is-what-you-get.html experiences
-  link publishing-more.html publish more
- 
- endSnippet
- 
- Most of my published writing these days is in communication with people over email or in online forums.
- 
- But I also do a lot of self musings that I do not publish because they are meanderings like this one. But maybe if I publish a greater fraction of what I write, the time will be better used, because even if there are no readers, the threat of readers forces me to think things over better.
- 
- Why am I still writing? I think symbols are probably doomed. The utility of being able to read and write is perhaps passed its prime. Inscrutable three dimensional matrices of weights are the future, and this practice I am engaging in now of conjuring and manipulating symbols on a two dimensional page is a dying art. But I am maybe too old to unlearn my appreciation for symbols. So I will keep writing. Because I enjoy doing it, like piecing together a puzzle. And because I still hope it can help my future self be a better person. Now, onto today's post.
- 
- # The advance of AGI is currently stoppable
- Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
+ ***
  
  ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
  
@@ -4220,29 +4747,37 @@
  
  So AGI is easily stoppable, if you are a superpower. If you are just Joe Schmoe like me or even top 50 country, but just not quite top 10, you have effectively no say in the matter.
  
+ ***
+ 
+ # Alternative to GPUs?
+ 
  Will there come a point where even superpowers lose the ability to stop AGI?
  
  There are many scenarios you can imagine where through a certain chain of independent events a rogue AI does manage to somehow take over the data centers and fabs and power plants of the world. There are a number of sci-fi stories with variations of this idea.
  
- # Alternative to GPUs?
  But part of me wonders if instead what happens is we develop all the components necessary so that GPUs are no longer the primary ingredient to ANNs but are replaced by organic brains grown in vitro. These in vitro brains would be hooked up to control machines using something like Neuralink's Neuralace. They would be trained by ANNs.
  
  We know it must be possible to run computations like in an ANN very power efficiently, using self reproducing organic materials, because we see nature do it. Just as scientists measured the amount of energy coming from the sun and deduced there must be a much more powerful way to create energy than chemical reactions, so we know there must be a better way to build these chips.
+  link ifNatureIsDoingIt.html we see nature do it
+ 
+ ***
  
  The technologies you would need to build this seem to almost be all available^note.
  
- Companies now sell lab grown "meat" at scale which I assume means we are getting better and better at growing artificial tissue in vitro. So perhaps you could grow a chunk of neural tissue unbounded. Just add water and readily available organic nutrients. Imagine if you could grow enough brain tissue to fill a shipping container---that could contain the compute potential of 20,000 Einsteins!
+ Companies now sell lab grown "meat" at scale which I assume means we are getting better and better at growing artificial tissue in vitro. So perhaps you could grow a chunk of neural tissue unbounded. Just add water and readily available organic nutrients. Imagine if you could grow enough brain tissue to fill a shipping container—that could contain the compute potential of 20,000 Einsteins!
   https://en.wikipedia.org/wiki/Cultured_meat lab grown "meat"
  
  Neural tissue might as well just be meat if you can't interface with it. Enter Neuralink (and competitors). They are developing ways to do IO with neurons at scale.
  
  Without the ability to train this tissue, it again would just be meat. That's where our current ANNs come in. I imagine if you had to "teach" a giant blob of brain tissue using electrodes by hand, you would quickly get bored and go mad. But we now have ANNs that can do the most boring of tasks over and over without ever getting bored or angry. These ANNs could use Reinforcement Learning to train these neural blobs. In addition to controlling the electrodes, the ANN would control the environment of the neural tissue, perhaps altering the neurotransmitter balance or ambient electromagnetic frequencies to help steer learning and optimize learning rates.
  
+ ***
+ 
  I have no expert insight or opinions on these matters. I have just been thinking a lot about what the future looks like given the recent breakthroughs in AI. Thinking about whether AI is inevitable led me to think of how that might require biobots so AI would have a less fragile "food supply" than the fabs. Then it clicked to me that Neuralink's real business might not have much to do with the stated goal of communicating with brains in vivo, but instead with a new kind of lab grown brain in vitro, to maybe serve as a replacement for GPUs. Most of their technology, such as their surgical robot, would be relevant for building an AI backed by organic in vitro brains. Just as SpaceX has the stated mission of sending humans to Mars, but really the big economic model so far has been creating their own global Internet.
  
  In following this thought I wondered for the first time of how you would train a brain that did not have a body. I'm sure many people have thought and written on this. I had not. It's an intriguing challenge. It seems like it might be a good way to learn how human brains work. I am happy I decided to write about the initial Neuralink brain in vitro thought, as it led me to this other thought about training a bodyless brain.
  
- I have no conclusions, as I said in the disclaimer up top this is meant to just be a meandering post. If I tried to reach conclusions on these ideas before publishing it would be years.
+ I have no conclusions yet. If I tried to reach conclusions on these ideas before publishing it would be years.
  
  ****
  
@@ -4250,6 +4785,38 @@
  
  ^after After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
   link https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/nyd2024.scroll
+ date 1/1/2024
+ groups All Writing
+ title Writing in 2024
+ 
+ import header.scroll
+ printTitle
+ 
+ mediumColumns 1
+ 
+ Happy New Year!
+  dateline
+ 
+ A lot of my posts are my attempts to reflect on experiences and write tight advice for my future self. Today I wrote a post that is less that and more unsophisticated musings on an intriguing thought that crossed my mind. I am taking advantage of it being New Year's day to yet again try and force myself to publish more.
+  link experience-is-what-you-get.html experiences
+  link publishing-more.html publish more
+  link couldInVitroBrainsPowerAI.html a post
+ 
+ ***
+ 
+ Most of my published writing these days is in communication with people over email or in online forums.
+ 
+ But I also do a lot of self musings that I do not publish because they are meanderings like that one. But maybe if I publish a greater fraction of what I write, the time will be better used, because even if there are no readers, the threat of readers forces me to think things over better.
+ 
+ ***
+ 
+ Why am I still writing? I think symbols are probably doomed. The utility of being able to read and write is perhaps passed its prime. Inscrutable three dimensional matrices of weights are the future, and this practice I am engaging in now of conjuring and manipulating symbols on a two dimensional page is a dying art. But I am maybe too old to unlearn my appreciation for symbols. So I will keep writing. Because I enjoy doing it, like piecing together a puzzle. And because I still hope it can help my future self be a better person.
+ 
+ ****
  
  import footer.scroll
  
@@ -11064,7 +11631,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  I published 55 essays here the first year. The second and third years combined, that number nosedived to 5.
   dateline
