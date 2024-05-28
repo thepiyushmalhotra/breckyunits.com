@@ -51,6 +51,11 @@ Live Free or AGI
 06/09/2023
 https://breckyunits.com/live-free-or-agi.html
 
+Training a neural network to spot misinformation and fake news from a single image
+==================================================================================
+10/15/2022
+https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
+
 Logeracy
 ========
 04/26/2021

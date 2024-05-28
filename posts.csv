@@ -1,4 +1,5 @@
 date,title,permalink,groups,wordCount,minutes
+05/27/2024,Breck's Lab,lab.html,All Science Startups Programming IntellectualFreedom Writing,371,1.9
 05/27/2024,The Choice,meaning.html,All Thinking Data,346,1.7
 05/27/2024,Patch: a micro language to make pretty deep links easy,patch.html,All Programming TreeNotation,452,2.3
 05/26/2024,Bring back RadioShack?,radioShack.html,All Society HasDataset Data Programming,187,0.9
@@ -58,7 +59,7 @@ date,title,permalink,groups,wordCount,minutes
 12/30/2022,One Textarea,oneTextarea.html,All TreeNotation Programming,452,2.3
 11/16/2022,Root Thinking,root-thinking.html,All Programming Thinking TreeNotation,344,1.7
 11/14/2022,Replies always welcome,replies-always-welcome.html,All Programming,443,2.2
-10/15/2022,Training a neural network to spot misinformation and fake news from a single image,misinformationOrFakeNewsNeuralNetwork.html,All,69,0.3
+10/15/2022,Training a neural network to spot misinformation and fake news from a single image,misinformationOrFakeNewsNeuralNetwork.html,All IntellectualFreedom Society,69,0.3
 10/07/2022,A scratch ticket with a positive expected value,scratch-ticket.html,All Startups,447,2.2
 09/01/2022,An Angel Investor's Data,an-angel-investors-data.html,All Startups HasDataset,504,2.5
 08/30/2022,How the public domain can win,how-the-public-domain-can-win.html,All IntellectualFreedom,795,4.0

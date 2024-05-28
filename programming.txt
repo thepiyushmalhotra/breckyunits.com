@@ -1,6 +1,11 @@
 Breck's Blog - Programming Posts
 ================================
 
+Breck's Lab
+===========
+05/27/2024
+https://breckyunits.com/lab.html
+
 Patch: a micro language to make pretty deep links easy
 ======================================================
 05/27/2024
