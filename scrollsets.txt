@@ -93,7 +93,7 @@ A Visualization
 
 Prior Art
 =========
-Modern databases^sql were designed before git^git, fast filesystems^apple, and the Tree Notation stack^treeNotation, all requirements of this system.
+Modern databases^sql were designed before git^git, fast filesystems^apple, and the Scroll stack^scrollStack, all requirements of this system.
 
 GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
  https://www.gnu.org/software/recutils/
@@ -148,7 +148,7 @@ Citations
  https://en.wikipedia.org/wiki/Apple_M1
 - The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
  https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
-^treeNotation: Tree Notation: Breck Yunits et al
+^scrollStack: Scroll Notation: Breck Yunits et al (formerly called Tree Notation)
  https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf
 ^recutils: GNU Recutils: Jose E. Marchesi
  https://www.gnu.org/software/recutils/

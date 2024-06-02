@@ -24,6 +24,8 @@ The Basic Idea
 
 Minsky's view of the mind is one composed of a "_society_ of tiny components that are themselves mindless". A person is a collection of agents, which are like programs and processes. Outputs from some agents may be inputs for others. Mathematically it could be modeled very roughly like this:
 
+Mind = P_{A_1} \circ P_{A_2} \circ \ldots \circ P_{A_N}
+
 Where _P_ represents a running process of an agent and _N_ is the number of agents that constitute a mind/person.
 
 _N_ might be very large. Minsky says hundreds in his talks, which might actually be a lower bound. If someone formed a new agent everyday, on average, it could be over ten thousand by the age of 30. If it took 1 million neurons to form one "agent" we could have 100,000 agents—the range of possibilities is large. Minsky's ideas are a conceptual framework, and it's up to science to figure out whether the agents model is correct and how many there might be^hawkins.

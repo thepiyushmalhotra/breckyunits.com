@@ -1,5 +1,5 @@
 date 5/27/2024
-groups All Science Startups Programming IntellectualFreedom Writing
+groups All Science Startups Programming Writing
 replace PRICE $49,999
 title Breck's Lab
 
@@ -7,7 +7,7 @@ import header.scroll
 printTitle
 
 # See where technology is going before your competitors
-# Influence the priorities of PLDB, Scroll, and more
+# Influence the priorities of Scroll, PLDB, and more
  https://pldb.io PLDB
  https://scroll.pub Scroll
 
@@ -22,7 +22,7 @@ import stripeButton.scroll
 
 # Introducing Breck's Lab
 
-For PRICE a year, you get access to *brecks.lab*, the private git repository and issue board where we post in progress AI research, and prioritize and shape the future of PLDB, Scroll, and our other open source projects.
+For PRICE a year, you get access to *brecks.lab*, the private git repository and issue board where we post our in-progress language and AI research, and prioritize and shape the future of Scroll, PLDB, and our other open source projects.
  https://pldb.io PLDB
  https://scroll.pub Scroll
 
@@ -32,7 +32,7 @@ For PRICE a year, you get access to *brecks.lab*, the private git repository and
 
 - *Meet*: Interact with other members on the issues board.
 
-If you are a technology investor, we have some _very_ exciting posts coming out this year on AI, science, and the web.
+If you are a technology investor, we have some _very_ exciting posts coming out this year on AI, science, and what comes after the web.
 
 You can wait for the published versions, or you can join *brecks.lab* today.
 
@@ -52,13 +52,13 @@ Independent scientists can do better science if
 
 Why not solve all three problems at once?
 
-Labs is designed to help fix science. The public gets far better information and investors get insight into the future of technology.
+Labs is designed to help fix science. The public gets far better information and investors get information on what new technologies are coming next.
 
 import stripeButton.scroll
 
 # The Fine Print
 - *Access*: A purchase entitles you to one year of access to the *brecks.lab* git repo and issues board, for one email address and one person.
-- *Public Domain*: Everything in *brecks.lab* eventually evolves into a public domain publication on PLDB, Scroll, breckyunits.com or one of our other public domain sites, with the exception of some ideas that are cut.
+- *Public Domain*: Everything in *brecks.lab* eventually evolves into a public domain publication on Scroll, PLDB, breckyunits.com or one of our other public domain sites, with the exception of some ideas that are cut.
  https://pldb.io PLDB
  https://scroll.pub Scroll
  https://breckyunits.com breckyunits.com

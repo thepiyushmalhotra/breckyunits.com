@@ -40,3 +40,10 @@ Two updates on 12/30/2017. After I wrote this I was informed that one other pers
  https://srfi.schemers.org/srfi-49/srfi-49.html
 
 ****
+
+Related Posts
+=============
+- Final Tree Notation Report (2024)
+ https://breckyunits.com/treeNotationFinalReport.html
+- 2019 Tree Notation Annual Report (2020)
+ https://breckyunits.com/tree-notation-annual-report-2019.html
