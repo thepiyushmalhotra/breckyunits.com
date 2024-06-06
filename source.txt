@@ -2046,7 +2046,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/theEnergyClock.scroll
  date 2024-05-02
- groups All BipolarDisorder
+ groups All BipolarEnergy
  related powerSurges
  title Energy Clocks
  
@@ -2778,7 +2778,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  date 4/16/2024
- groups All BipolarDisorder HasDataset
+ groups All BipolarEnergy HasDataset
  title Ketones vs Lithium
  
  import header.scroll
@@ -3271,7 +3271,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarTerm.scroll
  date 4/10/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title The Future of the Term "Bipolar Disorder"
  
  import header.scroll
@@ -3358,7 +3358,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/sleepWriting.scroll
  date 4/5/2024
- groups All BipolarDisorder Writing HasDataset
+ groups All BipolarEnergy Writing HasDataset
  title Blog Posts, Sorted by Sleep
  
  import header.scroll
@@ -3434,7 +3434,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/doHumanBrainsMolt.scroll
  date 4/3/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title Do Human Brains Molt?
  
  import header.scroll
@@ -3708,7 +3708,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/openMindedness.scroll
  date 3/08/2024
- groups All BipolarDisorder Life
+ groups All BipolarEnergy Life
  title Open-Mindedness
  
  import header.scroll
@@ -3821,7 +3821,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/mindmap.scroll
  date 2/24/2024
- groups All BipolarDisorder Programming Life
+ groups All BipolarEnergy Programming Life
  title A Different Kind of Mindmap
  
  import header.scroll
@@ -3901,7 +3901,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/brainPilotModelOfBipolarDisorder.scroll
  date 2/20/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title The Brain Pilot Model of Bipolar Disorder
  
  import header.scroll
@@ -4065,7 +4065,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarsInSociety.scroll
  date 2/9/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title What is the role of the bipolar in society?
  
  import header.scroll
@@ -4208,7 +4208,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/stableMoodDisorder.scroll
  date 2/4/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title Stable Mood Disorder
  
  import header.scroll
@@ -4274,7 +4274,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/powerSurges.scroll
  date 2/3/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  related theEnergyClock
  title Becoming a High Energy Person
  
@@ -4354,7 +4354,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggingAsTherapy.scroll
  date 1/30/2024
- groups All BipolarDisorder Writing
+ groups All BipolarEnergy Writing
  related theTallestTree wordsAreWorseThanWeights publishing-more why-you-shouldnt-save-blogging-for-old-age im-back
  title Blogging as Therapy
  
@@ -4395,7 +4395,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/delusions.scroll
  date 1/29/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title Delusions
  
  import header.scroll
@@ -4537,7 +4537,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarDisorder.scroll
  date 1/24/2024
- groups All BipolarDisorder
+ groups All BipolarEnergy
  title Focusing on Bipolar Disorder
  
  import header.scroll
@@ -4714,7 +4714,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarKeto.scroll
  date 1/23/2024
- groups All BipolarDisorder HasDataset
+ groups All BipolarEnergy HasDataset
  title Keto for bipolar was not talked about until very recently
  
  import header.scroll
@@ -5225,7 +5225,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-manic-startup.scroll
  date 6/27/2023
- groups All BipolarDisorder Startups
+ groups All BipolarEnergy Startups
  title A Manic Startup
  
  import header.scroll
@@ -5809,7 +5809,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/marvin-minsky.scroll
  date 5/09/2023
- groups All BipolarDisorder Life
+ groups All BipolarEnergy Life
  title The Magnificent Multi-Agent Mind of Marvin Minsky
  
  import header.scroll
@@ -5885,6 +5885,8 @@
   https://www.lesswrong.com/ LessWrong
  - Internal Family Systems Model
   https://en.wikipedia.org/wiki/Internal_Family_Systems_Model
+ - Plurality (or multiplicity)
+  https://morethanone.info/
  
  # Footnotes
  ^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
@@ -6676,7 +6678,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/brain-pilots.scroll
  date 2/18/2022
- groups All BipolarDisorder Life
+ groups All BipolarEnergy Life
  title Brain Pilots
  
  import header.scroll
@@ -10702,7 +10704,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/going-manic-with-a-fitbit.scroll
  date 1/13/2018
- groups All BipolarDisorder HasDataset
+ groups All BipolarEnergy HasDataset
  title Going Manic with a FitBit
  
  import header.scroll
