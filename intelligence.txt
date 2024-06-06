@@ -1,0 +1,28 @@
+A Measure of Intelligence
+=========================
+by Breck Yunits
+June 6, 2024
+
+HTML | TXT
+ https://breckyunits.com/intelligence.html
+ https://breckyunits.com/intelligence.txt
+
+Can we quantify intelligence? Yes.
+
+{Intelligence}(P) = \frac{\text{Accuracy}(P)}{\text{Size}(P)}
+
+Intelligence(P) = Accuracy(P) / Size(P)
+
+Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Reality).
+
+Accuracy(P) is the sum of the XNOR of the Predictions vector with the Reality vector.
+
+Intelligence(P) is equal to Accuracy(P) divided by Size(P).
+
+***
+
+If programs A and B are the same size, the more accurate program is more intelligent.
+
+If they have the same accuracy, the smaller program is more intelligent.
+
+****
