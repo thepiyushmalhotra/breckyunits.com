@@ -1,3 +1,44 @@
+/home/runner/work/breckyunits.com/breckyunits.com/download.scroll
+ date 6/11/2024
+ groups All ScrollNotation Writing Programming
+ title Download this Blog
+ 
+ import header.scroll
+ printTitle
+ 
+ # Websites don't need web servers.
+ 
+ thinColumns 1
+ 
+ You can now download this entire blog as a zip file for offline use.
+  dateline
+ 
+ The zip file includes the Scroll source code for every post; the generated HTML; all images; CSS; Javascript; even clientside search.
+  https://scroll.pub/ Scroll
+  link search.html search
+ 
+ # Instructions
+ 
+ 1. Download
+  https://github.com/breck7/breckyunits.com/archive/refs/heads/scroll-output.zip
+ 2. Unzip
+ 3. Open `index.html`
+ 
+ ***
+ 
+ Technical users can still clone and build the repo, but sometimes you just want the compiled HTML for offline reading.
+  https://github.com/breck7/breckyunits.com repo
+ 
+ ***
+ 
+ Wouldn't it be great if more of *The Web* were like this?
+ 
+ > *The Scroll* is coming ;)
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/intelligence.scroll
  date 6/6/2024
  groups All Programming ScrollNotation
@@ -150,7 +191,7 @@
  
  mediumColumns 1
  
- image lab.png
+ image lab.jpg
   caption Above is a (blurred) screenshot of *brecks.lab*. For PRICE a year, you get access to the private Git repo and issue boards.
  
  endSnippet
@@ -3365,7 +3406,7 @@
   https://en.wikipedia.org/wiki/Hierarchical_Taxonomy_of_Psychopathology HiTOP
  ICD-6 (1948) had the term "manic-depressive". DSM-1 (1952) had the term "manic-depressive". DSM-III (1980) introduced the term Bipolar Disorder and the two categories of Bipolar I and Bipolar II. ICD-10 (1992) also switched to the Bipolar Disorder terms.
  Newer classification systems include RDoC (2010) and HiTOP (2015) have interesting new approaches for describing things (which I myself have not fully gotten up to speed on yet).
- image hitop.png
+ image hitop.jpg
   caption An interesting visual of HiTOP, from Wikipedia.
    https://en.wikipedia.org/wiki/Hierarchical_Taxonomy_of_Psychopathology Wikipedia
  
@@ -3915,7 +3956,7 @@
  Everyone wants Optimal Answers to their Questions. What is an _Optimal_ Answer? An Optimal Answer is an Answer that uses all relevant Cells in a Knowledge Base. Once you have the relevant Cells there are reductions, transformations, and visualizations to do, but the difficulty in generating Optimal Answers is dominated by the challenge of assembling data into a Knowledge Base and making relevant Cells easily findable.
   dateline
  
- image activatedCells.png
+ image activatedCells.jpg
   caption Activated Cells in a Knowledge Base.
  
  endSnippet
@@ -4347,7 +4388,7 @@
  Life is much more fun as a high energy person. I have time and energy for family and friends, and make loads of new ones. Moments feel more joyous.
  
  Each transition is different. Sometimes the shift is gradual and mild. Sometimes it is more sudden and severe, like a power surge. The latter are hard to handle. It is like I wakeup to find myself on top of a bucking bull, and struggle to get this powerful force under control.
-  link hrSurge.png power surge
+  link hrSurge.jpg power surge
    // This is my heart rate the last time I transitioned to a high energy person.
  
  image grabBullByTheHorns.jpg
@@ -4720,7 +4761,7 @@
  I recently was able to be a participant in one of the newer bipolar research studies going on. I got lots of cool data like the image below, and it only required time, many blood draws, and my first arterial line!
   https://en.wikipedia.org/wiki/Arterial_line arterial line
  
- image brainScan.png
+ image brainScan.jpg
   caption A still from a scan of my brain. Somewhere in there lies the problem...I think. In late 2023 I participated in a research study and for the first time got scanned with MRI, fMRI, MRS, PET, and EEG machines.
    https://en.wikipedia.org/wiki/Magnetic_resonance_imaging MRI
    https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging fMRI
@@ -5288,7 +5329,7 @@
  
  My FitBit data shows a seismic event:
  
- image hrAndSleep.png
+ image hrAndSleep.jpg
   caption In two weeks my heart rate rose 33% and my sleep fell to 2 hours per night.
   // Tuesday, August 23rd my resting heart rate was 61bpm. A week later it was 68. A week later 74. On September 13th, 81. 33% higher in 21 days.
  
@@ -5403,7 +5444,7 @@
  
  ## An Example
  A simple example is shown below. Despite the simplicity of the example, rest assured this system scales to handle even the most complex government forms and workflows. This system would work regardless of the character set or text direction of the language. The system works with both computers or pen & paper. This system does require a user friendly Specification Language $L$ to define the semantics available to the Specification writer, which could be created and iterated on as an open standard.
- image govFormsExample.png
+ image govFormsExample.jpg
  
  # The Golden Age of Forms
  So far I've described a new infrastructure that could underlie all government forms worldwide. But the revolutionary part would happen next.
@@ -6046,7 +6087,7 @@
  I thought my marriage was an edifice that would last forever. Instead it crumbled as quickly as an unstable building in an earthquake. In the rubble I found a gem: I now give zero fucks.
  
  I am an 89 year old man in a 39 year old's body. I am not afraid of divorce. I am not afraid of public embarrassment. I am not afraid of financial ruin. I am not afraid of dishonest judges. I am not afraid of war. I am not afraid of death. I am now bald Evie from V for Vendetta except with a penis and far, far less attractive.
-  link evie.png bald Evie from V for Vendetta
+  link evie.jpg bald Evie from V for Vendetta
  
  Things that people don't publish are the things they lie about. If I want to force myself into being extraordinarily honest, I need to take extraordinary steps. If I publish everything, then I can lie about nothing.
  
@@ -6152,7 +6193,7 @@
  ## Spreadsheets use the spine
  When one expands one classification of programming languages to include spreadsheet languages, then the evidence is overwhelming: languages that use the spine are dominating. Excel and Google sheets famously have over 1 billion users and makes heavy use of the spine.
  
- image explorer.png
+ image explorer.jpg
   caption Spreadsheets have used the spine and have over 1 billion users—orders of magnitude more than 1D programming languages.
  
  ## At the dawn of a language revolution
@@ -7092,7 +7133,7 @@
   In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
   Does it have to be insert only? I guess you could render those as hidden spans(Anything deleted is done with display:none;)?
  
- image aftertext.png
+ image aftertext.jpg
   caption A screenshot of Aftertext on the left and the rendered HTML on the right.
  
  import footer.scroll
