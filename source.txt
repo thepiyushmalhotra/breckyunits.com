@@ -1,3 +1,131 @@
+/home/runner/work/breckyunits.com/breckyunits.com/checkbox.scroll
+ date 2024-06-25
+ groups All Startups Society ScrollNotation
+ title CheckBox: An Online + Offline Voting System
+ 
+ import header.scroll
+ printTitle
+ 
+ mediumColumns 1
+ 
+ image checkbox.gif
+  caption Our beta from 2013.
+ 
+ In 2013 my friends and I won the Liberty Hackathon in San Francisco.
+  https://www.mercurynews.com/2013/07/05/political-blotter-kochs-liberty-hackathon-has-surprising-winner/ won the Liberty Hackathon in San Francisco
+  dateline
+ 
+ endSnippet
+ 
+ We built CheckBox, an open source system voting system that supported online, offline and hybrid elections. I did the technical design, Cam talked to users and developed the business pitch, and Ben provided the design.
+ 
+ CheckBox built on our new discovery at the time, which now goes by the name Scroll Notation.
+ 
+ We tried (and failed) to raise money to work on CheckBox full-time.
+ 
+ ***
+ 
+ We were quite poor at the time.
+ 
+ I subsisted on an unhealthy diet of ramen and an occasional treat from the McDonalds $1 menu.
+ 
+ I often slept on a couch while hosting an AirBedAndBreakfast guest in my bed.
+ 
+ I also had a roommate and we had one bed and one couch in the room, and when our room wasn't rented we alternated who got the bed.
+ 
+ ***
+ 
+ About six months after this hackathon, Microsoft acqui-hired our team for NudgePad, the other project we were working on.
+  https://breckyunits.com/nudgepad-an-ide-in-your-browser.html NudgePad
+ 
+ This was great because I could now afford anything on the McDonalds menu.
+ 
+ Unfortunately CheckBox fell by the wayside, until someone reminded me of it today.
+ 
+ ***
+ 
+ Below is our executive summary from our failed fundraising attempt in 2013.
+ 
+ (I am still trying to find the code that powered our beta).
+ 
+ Although CheckBox as a business is not for me, I love the underlying CheckBox design, and still think that this system has a better underlying design than any other electronic voting system-by a wide margin.
+ 
+ The key idea is this: *the underlying languages can power 100% digital election, 100% paper election, or a hybrid election*.
+ 
+ If you want to build the best voting system, I am highly confident this is the way.
+ 
+ ****
+ 
+ css
+  html { font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+ 
+ # CheckBox Executive Summary
+ 
+ ## Overview
+ It’s 2013. Everyday we trust the Internet to process billions of dollars, keep our social security numbers secure, as well as our medical information. Yet still, to cast a vote we need to drive to a polling station, wait in line, and fill in bubbles with a pencil.
+ 
+ We’re changing that.
+ 
+ We built CheckBox so that voting districts can easily create a secure ballot for voters to vote from home.
+ 
+ # Problem
+ Online voting is a technical problem, not a political problem. No existing technology is able to provide a secure, user-friendly online voting experience.
+ 
+ # Solution
+ We invented the Space language (_2024 note: this is now called Scroll Notation_), which is the key technical innovation behind CheckBox. Space is the only language that is simple and powerful enough for online voting. 
+ 
+ It offers:
+ - Secure Voting
+ - Private Ballots
+ - Supports Electronic/Paper Hybrid Systems
+ - Easy Customization
+ - Supports Early or Absentee Voting
+ - Election Auditing
+ - Security Middleware
+ - Registration and Ballot Distribution Middleware
+ - Voter Registration
+ - Open Source
+ 
+ Prototype is live at http://getcheckbox.com
+ 
+ # How it Works
+ - Voters are provided a unique, random ID that qualifies them to vote, and a web address to access the ballot.
+ - Voter cast their ballot with their random ID.
+ - Raw results are published online after the election closes to verify legitimacy of election
+ 
+ # Distribution
+ - Reporters love writing about CheckBox. Our technology allows for new stories like analysis of actual raw ballot results.
+ - Open source allows for easy “try before you buy” compared to other competing solutions
+ - Begin with private sector then sell to voting districts
+ 
+ # Traction
+ We started working on CheckBox on June 21st. On June 22nd won the Liberty Hackathon Grand Prize ($3,000). On June 24th featured on NPR. Upcoming articles in Salon, BuzzFeed and Politico.
+ 
+ # Business Model
+ Free to self host and 10 cents per ballot for fully managed and hosted operation.
+ 
+ # Government Market
+ - 10,000+ election districts in U.S. ranging from 200 to millions of voters
+ - $10 average cost per voter served. We’re going to charge $.10 per voter served
+ - $700M TAM in the U.S.
+ - Only 55% of eligible voters vote in the U.S. vote in a good year
+ - 32 U.S. states have applied for federal grant money to create online voting software
+ 
+ # Private Market
+ Shareholder elections, corporate election, group elections, student elections
+ 
+ # Corporation
+ We plan to incorporate as a for-benefit corporation in the State of California with a dual mission to maximize voter turnout and profit. Equity will be split as follows: Founders 60%, investors 20%, employees 20%. The company will be based in San Francisco and work from the Nudge Inc. office.
+ 
+ # Milestones
+ - 10,000 non-governmental elections conducted between now and November
+ - 10 municipalities deploy and use CheckBox in November 2013
+ 
+ # Deal
+ We’re looking to raise up to $200,000 via convertible notes with an $800,000 cap to achieve our 2013 milestones.
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/wws.scroll
  date 6/12/2024
  groups All ScrollNotation Programming Society
@@ -8853,6 +8981,85 @@
  I've had fun building Scroll so far and am excited to start working on it with others.
  
  ****
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/sleepyTimeConference.scroll
+ date 2021-02-11
+ groups All Society Startups
+ title Sleepy Time Conference
+ 
+ import header.scroll
+ printTitle
+ # The conference that comes together while you sleep.
+ 
+ mediumColumns 1
+ 
+ # The Problem
+ Working from home is now a solved problem.
+  dateline
+ 
+ Working from the other side of the world is not. Twelve hour time zones differences suck! Attend a conference at 3am? No thanks!
+ 
+ # The Solution
+ Sleepy Time Conference is open source video conference software with a twist: you can go to sleep while a conference is going on without missing a thing.
+ 
+ # How it works
+ A *1 hour* conference takes place over *24 hours*. But instead of using live syncronous software like Zoom, conference speakers and questioners record their segments asyncronously, in order of their time slot.
+ 
+ So when the conference starts the conference page looks like this:
+ 
+ image start2.jpg
+ 
+ endSnippet
+ 
+ As the world turns, speakers click the record button for their slot and add their respective segments.
+ 
+ 12 hours later the conference page looks like this:
+ 
+ image halfway2.jpg
+ 
+ After 24 hours:
+ 
+ image done2.jpg
+ 
+ That conference is a wrap!
+ 
+ A full 1 hour video of the conference is now available for watching.
+ 
+ ****
+ 
+ Originally posted here https://github.com/breck7/sleepytimeconference
+ 
+ # Possibly Relevant Video Editing Interfaces
+ - https://www.descript.com/
+ ## Open Source
+ - https://shotcut.org/
+ - https://www.openshot.org/
+ ## Closed Source
+ - https://www.youtube.com/
+ - https://vimeo.com/
+ - https://www.apple.com/final-cut-pro/
+ - https://www.apple.com/imovie/
+ - https://www.adobe.com/products/premiere.html
+ - https://www.ableton.com/en/
+ ## Less Relevant But Cool
+ - https://www.autodesk.com/products/maya/overview
+ - https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&support=null
+ - https://www.foundry.com/products/modo
+ 
+ ## Project Status
+ You're looking at it
+ 
+ ## Important
+ quote
+  There is a domain
+  the public domain
+  the only domain there should be.
+  
+  Where ideas can mingle
+  improve and change
+  So that the people can be free.
  
  import footer.scroll
  
