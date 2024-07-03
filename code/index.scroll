@@ -2,8 +2,8 @@ title Breck's Code Blog
 
 import settings.scroll
 metaTags
-gazetteCss
+import ../gazetteTag.scroll
 gazetteHeader
 printTitle
-snippets index
+printSnippets index
 import footer.scroll
