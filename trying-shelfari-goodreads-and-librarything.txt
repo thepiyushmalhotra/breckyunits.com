@@ -1,3 +1,5 @@
+gazetteHeader
+
 Trying Shelfari, GoodReads, and LibraryThing
 ============================================
 
@@ -30,3 +32,5 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/27/trying-shelfari-goodreads-and-librarything/
+
+gazetteFooter

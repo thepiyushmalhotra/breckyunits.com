@@ -1,3 +1,5 @@
+gazetteHeader
+
 Should your source code be in one folder or should it be nested?
 ================================================================
 January 25, 2010
@@ -170,3 +172,5 @@ In other words, the directory "icon" should never have a subdirectory in it.
   📁icons
 
 This means that any project should have at most 9 subdirectories.
+
+gazetteFooter

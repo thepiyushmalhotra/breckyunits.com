@@ -1,3 +1,5 @@
+gazetteHeader
+
 (un)features
 ============
 
@@ -41,3 +43,5 @@ Links
 
 Edit: 01/05/2010. Features are a great way to make money.
  https://evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 Linux Go Back to Previous Directory
 ===================================
 February 1, 2010
@@ -5,3 +7,5 @@ February 1, 2010
 cd -
 
 To go back to the last directory you were in. Basically an "undo" for the cd command.
+
+gazetteFooter

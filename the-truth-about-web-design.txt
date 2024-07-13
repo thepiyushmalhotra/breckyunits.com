@@ -1,3 +1,5 @@
+gazetteHeader
+
 The Truth about Web Design
 ==========================
 
@@ -25,3 +27,5 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-startups/2009/04/14/the-truth-about-web-design/
+
+gazetteFooter

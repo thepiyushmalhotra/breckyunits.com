@@ -1,5 +1,9 @@
+gazetteHeader
+
 Chemical Blood Tests Dataset
 ============================
+
+viewSource
 
 This file generates a TSV dataset of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
  https://breckyunits.com/chemicalBloodTests.tsv
@@ -18,3 +22,5 @@ Schema
 
 Rows
 ====
+
+gazetteFooter

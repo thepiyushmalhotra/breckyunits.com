@@ -1,3 +1,5 @@
+gazetteHeader
+
 Use cat to combine or print the contents of a file
 ==================================================
 December 26, 2009
@@ -25,3 +27,5 @@ cat file1 >> file2
 Combine two files into a third file:
 
 cat file1 file2 > file3
+
+gazetteFooter

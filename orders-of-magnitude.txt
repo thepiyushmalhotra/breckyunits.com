@@ -1,3 +1,5 @@
+gazetteHeader
+
 Orders of Magnitude
 ===================
 
@@ -67,3 +69,5 @@ Notes
  https://www.wolframalpha.com
 - Thanks to Mairi and Andrew Kitchell for providing feedback.
  http://www.30words.com
+
+gazetteFooter

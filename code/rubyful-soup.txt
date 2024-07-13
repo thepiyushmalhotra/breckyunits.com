@@ -1,3 +1,5 @@
+gazetteHeader
+
 Rubyful Soup
 ============
 August 14, 2010
@@ -9,3 +11,5 @@ To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to th
 
 - Line 19 - comment out 'require 'jcode''
 - Line 233 - remove the colon
+
+gazetteFooter

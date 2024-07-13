@@ -1,3 +1,5 @@
+gazetteHeader
+
 What non-web software do you use the most?
 ==========================================
 November 26, 2009
@@ -51,3 +53,5 @@ Monthly
 =======
 
 - Visual Studio. When I get an urge to write a new desktop program.
+
+gazetteFooter

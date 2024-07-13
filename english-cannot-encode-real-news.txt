@@ -1,3 +1,5 @@
+gazetteHeader
+
 English cannot encode Real News
 ===============================
 
@@ -78,3 +80,5 @@ Related Posts
  https://breckyunits.com/if-stories-are-lies-why-do-they-work.html
 - Narratives Misrepresent Complex Systems (2012)
  https://breckyunits.com/narratives-misrepresent-complex-systems.html
+
+gazetteFooter

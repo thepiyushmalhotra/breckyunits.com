@@ -1,3 +1,5 @@
+gazetteHeader
+
 Marks
 =====
 by Breck Yunits
@@ -75,3 +77,5 @@ But for meaning, it takes marks.
 [Image Omitted]
 
 ****
+
+gazetteFooter

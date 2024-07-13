@@ -1,3 +1,5 @@
+gazetteHeader
+
 Git Ignore Global
 =================
 January 4, 2012
@@ -11,3 +13,5 @@ vim ~/.gitignore_global
 git config --global core.excludesfile ~/.gitignore_global
 
 Thanks to github
+
+gazetteFooter

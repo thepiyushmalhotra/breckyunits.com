@@ -1,3 +1,5 @@
+gazetteHeader
+
 The Ovarian Lottery and Other Side Projects
 ===========================================
 
@@ -84,3 +86,5 @@ Helpful Links for Population Statistics(beyond wikipedia):
  https://breckyunits.com/population.html
 - NationMaster.com
  https://nationmaster.com
+
+gazetteFooter

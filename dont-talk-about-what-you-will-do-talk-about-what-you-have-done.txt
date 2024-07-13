@@ -1,3 +1,5 @@
+gazetteHeader
+
 Don't talk about what you will do, talk about what you have done
 ================================================================
 
@@ -63,3 +65,5 @@ Related Posts
 Notes
 =====
 1. In other words, don't over-promise and under-deliver.
+
+gazetteFooter

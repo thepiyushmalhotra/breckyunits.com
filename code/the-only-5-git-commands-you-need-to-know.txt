@@ -1,3 +1,5 @@
+gazetteHeader
+
 The only 5 git commands you need to know
 ========================================
 December 23, 2009
@@ -77,3 +79,5 @@ git status
 git add *filename*
 git commit -m *"your message about what you changed and why"*
 git push
+
+gazetteFooter

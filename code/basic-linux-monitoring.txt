@@ -1,3 +1,5 @@
+gazetteHeader
+
 Basic Linux Monitoring
 ======================
 July 9, 2011
@@ -19,3 +21,5 @@ ps -a
 Disk free space:
 
 df
+
+gazetteFooter

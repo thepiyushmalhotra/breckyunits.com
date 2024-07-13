@@ -1,3 +1,5 @@
+gazetteHeader
+
 Show HN: Programming is Now Two-Dimensional
 ===========================================
 
@@ -47,3 +49,5 @@ Related Posts
  https://breckyunits.com/treeNotationFinalReport.html
 - 2019 Tree Notation Annual Report (2020)
  https://breckyunits.com/tree-notation-annual-report-2019.html
+
+gazetteFooter

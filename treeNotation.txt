@@ -1,3 +1,4 @@
+gazetteHeader
 Breck's Blog - Scroll Notation Posts
 ====================================
 
@@ -140,3 +141,5 @@ Introducing Note
 ================
 12/14/2012
 https://breckyunits.com/introducing-note.html
+
+gazetteFooter

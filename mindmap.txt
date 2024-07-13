@@ -1,3 +1,5 @@
+gazetteHeader
+
 A Different Kind of Mindmap
 ===========================
 by Breck Yunits
@@ -22,3 +24,5 @@ I was in my twenties when I first learned the simple writing technique of "mind 
  https://breckyunits.com/wiwmin.png
 
 ****
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 Get VIM Working in Cygwin
 =========================
 November 20, 2009
@@ -12,3 +14,5 @@ Links
 =====
 
 - Found this solution in the comment from Gregg vimrc
+
+gazetteFooter

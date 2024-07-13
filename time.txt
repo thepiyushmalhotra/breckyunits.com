@@ -1,3 +1,5 @@
+gazetteHeader
+
 Time
 ====
 
@@ -16,3 +18,5 @@ are equal.
 Their journeys can be very different.
 
 ****
+
+gazetteFooter

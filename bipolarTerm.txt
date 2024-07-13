@@ -1,3 +1,5 @@
+gazetteHeader
+
 The Future of the Term "Bipolar Disorder"
 =========================================
 by Breck Yunits
@@ -80,3 +82,5 @@ I expect it will be many years, if not decades, before we have better terms, and
  https://breckyunits.com/bipolar.html
 
 ****
+
+gazetteFooter

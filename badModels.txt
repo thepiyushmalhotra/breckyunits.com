@@ -1,3 +1,5 @@
+gazetteHeader
+
 Hypothermia
 ===========
 
@@ -102,3 +104,5 @@ And I had learned an important lesson.
 [Image Omitted]
  Tom, second from left, slowed down to make sure I didn't go down like Jack Dawson.
   https://jamescameronstitanic.fandom.com/wiki/Jack_Dawson
+
+gazetteFooter

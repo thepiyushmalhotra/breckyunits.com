@@ -1,3 +1,4 @@
+gazetteHeader
 Breck's Blog - Bipolar Energy Posts
 ===================================
 
@@ -95,3 +96,5 @@ Going Manic with a FitBit
 =========================
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 Checklist for New Products
 ==========================
 
@@ -28,3 +30,5 @@ Product Checklist
 10. What's the total addressable market size?  people $
 
 ****
+
+gazetteFooter

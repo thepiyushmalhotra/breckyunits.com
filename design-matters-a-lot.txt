@@ -1,3 +1,5 @@
+gazetteHeader
+
 Design Matters. A lot.
 ======================
 
@@ -58,3 +60,5 @@ Related Posts
 Notes
 =====
 - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
+
+gazetteFooter

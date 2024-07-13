@@ -1,3 +1,5 @@
+gazetteHeader
+
 Are you Making Something that will become ‘Absolutely Irrelevant’?
 ==================================================================
 
@@ -38,3 +40,5 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20090201144117/http://www.breckyunits.com/web-startups/2009/01/05/are-you-making-something-that-will-become-absolutely-irrelevant/
+
+gazetteFooter

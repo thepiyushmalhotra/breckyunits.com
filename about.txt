@@ -1,3 +1,5 @@
+gazetteHeader
+
 About Me
 ========
 
@@ -6,3 +8,5 @@ This is my personal Scroll. I am a software engineer, data science and probabili
 
 You can find me on github or contact me via email. breck7 at google's awesome mail service.
  https://github.com/breck7
+
+gazetteFooter

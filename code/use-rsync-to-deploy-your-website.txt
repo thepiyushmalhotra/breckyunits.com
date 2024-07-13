@@ -1,3 +1,5 @@
+gazetteHeader
+
 Use rsync to deploy your website
 ================================
 November 21, 2009
@@ -33,3 +35,5 @@ Notes
 =====
 
 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
+
+gazetteFooter

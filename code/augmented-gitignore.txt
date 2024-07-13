@@ -1,3 +1,5 @@
+gazetteHeader
+
 Augmented Gitignore
 ===================
 August 4, 2010
@@ -16,3 +18,5 @@ doc/app
 
 - Source
  http://railstutorial.org/chapters/beginning#sec:adding_and_committing
+
+gazetteFooter

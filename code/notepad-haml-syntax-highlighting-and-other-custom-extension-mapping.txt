@@ -1,3 +1,5 @@
+gazetteHeader
+
 Notepad++ HAML Syntax Highlighting and other custom extension mapping
 =====================================================================
 July 3, 2011
@@ -7,3 +9,5 @@ I want my HAML files to have PHP(or Ruby) syntax highlighting.
 Settings > Style Configurator
 
 Then click php and under "user ext" (in the bottom left) add haml
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 Competition and Specialization
 ==============================
 
@@ -19,3 +21,5 @@ If you have tons of competition, you're probably working on a problem that peopl
  http://www.fooledbyrandomness.com/robustness.pdf
 
 ****
+
+gazetteFooter

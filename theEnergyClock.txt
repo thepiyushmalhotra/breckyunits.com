@@ -1,3 +1,5 @@
+gazetteHeader
+
 Energy Clocks
 =============
 
@@ -190,3 +192,5 @@ Related Posts
 =============
 - Becoming a High Energy Person (2024)
  https://breckyunits.com/powerSurges.html
+
+gazetteFooter

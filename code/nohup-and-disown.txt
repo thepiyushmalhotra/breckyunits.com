@@ -1,3 +1,5 @@
+gazetteHeader
+
 nohup and disown
 ================
 August 22, 2011
@@ -17,3 +19,5 @@ What is nohup? It's another obfuscated Nix low level utility that is an abbrevia
 
 Wikipedia article on nohup
  https://en.wikipedia.org/wiki/Nohup
+
+gazetteFooter

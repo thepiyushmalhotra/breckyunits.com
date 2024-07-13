@@ -1,3 +1,5 @@
+gazetteHeader
+
 The BASH Programming Language
 =============================
 February 25, 2010
@@ -96,3 +98,5 @@ conor
 Notice what's going on with parameter passing and scope.
 
 That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
+
+gazetteFooter

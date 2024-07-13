@@ -1,3 +1,5 @@
+gazetteHeader
+
 HackerNews Data: Visits as a Function of Karma
 ==============================================
 
@@ -28,3 +30,5 @@ Karma Visits Page
 1 36 /dont_flip_the_bozo_bit
 
 ****
+
+gazetteFooter

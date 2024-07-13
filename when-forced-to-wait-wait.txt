@@ -1,3 +1,5 @@
+gazetteHeader
+
 When forced to wait, wait!
 ==========================
 
@@ -47,3 +49,5 @@ Notes
 1. Influenced by Paul Graham's Holding a Program in One's Head
  http://paulgraham.com/head.html
 2. Of course, if you're given a very long idle time, then feel free to switch tasks. Don't spend 4 hours staring at your screen waiting for a coworker to get back to you.
+
+gazetteFooter

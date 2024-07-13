@@ -1,3 +1,5 @@
+gazetteHeader
+
 Get Stuff Done By Setting Arbitrary Constraints
 ===============================================
 
@@ -41,3 +43,5 @@ When you don't meet some constraints, set new ones. Because you now have more ex
 But the important thing is just having constraints in the first place.
 
 ****
+
+gazetteFooter

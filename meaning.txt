@@ -1,3 +1,5 @@
+gazetteHeader
+
 The Choice
 ==========
 by Breck Yunits
@@ -119,3 +121,5 @@ He untied the red ribbon and unrolled the scroll.
 It was blank.
 
 ****
+
+gazetteFooter

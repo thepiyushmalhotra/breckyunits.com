@@ -1,3 +1,5 @@
+gazetteHeader
+
 Shortcut for switching to a Windows directory in Cygwin
 =======================================================
 January 1, 2010
@@ -30,3 +32,5 @@ wcd "C:\Users\breck\Documents\My Dropbox"
 Notes
 
 1. wcd gist.
+
+gazetteFooter

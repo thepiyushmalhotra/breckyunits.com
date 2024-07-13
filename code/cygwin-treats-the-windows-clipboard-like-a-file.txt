@@ -1,3 +1,5 @@
+gazetteHeader
+
 Cygwin treats the Windows Clipboard like a file
 ===============================================
 December 30, 2009
@@ -16,3 +18,5 @@ Notes
 =====
 
 1. Fun with Cygwin's /dev/clipboard.
+
+gazetteFooter

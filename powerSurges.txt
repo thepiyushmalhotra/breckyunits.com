@@ -1,3 +1,5 @@
+gazetteHeader
+
 Becoming a High Energy Person
 =============================
 
@@ -73,3 +75,5 @@ Related Posts
 =============
 - Energy Clocks (2024)
  https://breckyunits.com/theEnergyClock.html
+
+gazetteFooter

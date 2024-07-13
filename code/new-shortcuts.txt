@@ -1,3 +1,5 @@
+gazetteHeader
+
 New shortcuts
 =============
 August 14, 2011
@@ -13,3 +15,5 @@ Mac:
 
 ctrl+a - home/start of line
 ctrl+e - end
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 Windows 7 Hosts File
 ====================
 August 14, 2010
@@ -9,3 +11,5 @@ windows/system32/drivers/etc/host
 Mac hosts file:
 
 /private/etc/hosts
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 How Old Are These Keys? Five Eras of Human Progress
 ===================================================
 [Image Omitted]
@@ -169,3 +171,5 @@ anSymbol	-2000	8	https://en.wikipedia.org/wiki/N
 aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
 aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
 asSymbol	-2000	8	https://en.wikipedia.org/wiki/S
+
+gazetteFooter

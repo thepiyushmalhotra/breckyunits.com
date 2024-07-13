@@ -1,3 +1,4 @@
+gazetteHeader
 Breck's Blog - Writing Posts
 ============================
 
@@ -135,3 +136,5 @@ I guess the time has come
 =========================
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
+
+gazetteFooter

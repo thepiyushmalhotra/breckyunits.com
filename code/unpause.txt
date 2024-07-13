@@ -1,3 +1,5 @@
+gazetteHeader
+
 Unpause
 =======
 June 9, 2021
@@ -13,3 +15,5 @@ Why not just start a fresh one? That might be a better idea. For now I plan to r
 
 If I do keep with it, this post is just to acknowledge that that's no bug, there was a 3,444 day gap between posts.
  https://breckyunits.com/code/git-ignore-global.html
+
+gazetteFooter

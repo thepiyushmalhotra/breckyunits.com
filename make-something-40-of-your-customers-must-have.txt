@@ -1,3 +1,5 @@
+gazetteHeader
+
 Make Something 40% of Your Customers Must Have
 ==============================================
 
@@ -95,3 +97,5 @@ Notes
  http://andrewkitchell.blogspot.com/
 - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
  http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 An Angel Investor's Data
 ========================
 
@@ -35,3 +37,5 @@ I included only the investments I made where I wired $10,000 or more. That is 17
 Reading List
 ============
 More posts in the category of Angel Investors publishing data:
+
+gazetteFooter

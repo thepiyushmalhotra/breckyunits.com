@@ -1,3 +1,5 @@
+gazetteHeader
+
 My LongBets.org prediction on cancer
 ====================================
 
@@ -34,3 +36,5 @@ It uses the same underlying source code as PLDB.io, which is having a similar ef
 Hundreds of cures are just a few tweaks away from saving many, many lives. CancerDB will accelerate the work of cancer researchers.
 
 [Image Omitted]
+
+gazetteFooter

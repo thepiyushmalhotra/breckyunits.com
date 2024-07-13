@@ -1,9 +1,11 @@
+gazetteHeader
+
 Breck's Blog
 ============
 
 Vest Early. Vest Often.
 =======================
-07/11/2024
+07/13/2024
 https://breckyunits.com/vestEarlyVestOften.html
 
 IPDD
@@ -1045,3 +1047,5 @@ I guess the time has come
 =========================
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
+
+gazetteFooter

@@ -1,3 +1,5 @@
+gazetteHeader
+
 A Higher Language
 =================
 
@@ -62,3 +64,5 @@ The last thing I remember is falling through the air on my stomach as a steep ro
 I saw the previous end of the tunnel went to nowhere, over a void, and the new end of the tunnel ended at the edge of the cliff, coming out of the forest full of trees rising high into the sky.
 
 ****
+
+gazetteFooter

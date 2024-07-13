@@ -1,3 +1,5 @@
+gazetteHeader
+
 A Measure of Intelligence
 =========================
 by Breck Yunits
@@ -26,3 +28,5 @@ If programs A and B are the same size, the program with more coverage is more in
 If they have the same coverage, the smaller program is more intelligent.
 
 ****
+
+gazetteFooter

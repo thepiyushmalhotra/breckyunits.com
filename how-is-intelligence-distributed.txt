@@ -1,3 +1,5 @@
+gazetteHeader
+
 How is Intelligence Distributed?
 ================================
 
@@ -12,3 +14,5 @@ I'm not sure. The brain is a complex thing and I haven't figure out how to think
 Would love to hear what other people think. Shoot me an email!
 
 ****
+
+gazetteFooter

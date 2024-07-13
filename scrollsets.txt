@@ -1,3 +1,5 @@
+gazetteHeader
+
 A New Way to Store Knowledge
 ============================
 
@@ -170,3 +172,5 @@ Thanks
 ======
 Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Matthieu, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
 ****
+
+gazetteFooter

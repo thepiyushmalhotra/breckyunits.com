@@ -1,3 +1,5 @@
+gazetteHeader
+
 Plugins for Notepad++
 =====================
 February 6, 2010
@@ -14,3 +16,5 @@ To install a plugin:
 The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
 
 That's it!
+
+gazetteFooter

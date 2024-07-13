@@ -1,3 +1,5 @@
+gazetteHeader
+
 Do Human Brains Molt?
 =====================
 
@@ -30,3 +32,5 @@ Notes
 =====
 While researching lobsters (for the first time), I also came upon this interesting post on a different topic releated to lobsters and brains.
  https://theoccasionalinterrobang.wordpress.com/2019/07/03/a-loser-lobsters-brain-differs-from-a-winner-lobsters-and-so-does-yours/
+
+gazetteFooter

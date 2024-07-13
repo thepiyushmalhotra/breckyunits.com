@@ -1,3 +1,5 @@
+gazetteHeader
+
 Corporate Email
 ===============
 
@@ -29,3 +31,5 @@ Let's infuse the Internet with the intelligent design and warm hospitality of Iz
  https://en.wikipedia.org/wiki/Isadore_Sharp
 
 ****
+
+gazetteFooter

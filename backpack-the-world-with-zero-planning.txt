@@ -1,3 +1,5 @@
+gazetteHeader
+
 Backpack the World with Zero Planning
 =====================================
 
@@ -52,3 +54,5 @@ Bullet point format
 - plan your trip one country at a time.
 - check flight prices for the next few legs of your trip.
 - find the local groupon clones and check them often for great excursion and meal deals.
+
+gazetteFooter

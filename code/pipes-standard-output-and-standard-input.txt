@@ -1,3 +1,5 @@
+gazetteHeader
+
 Pipes, standard output and standard input
 =========================================
 December 26, 2009
@@ -31,3 +33,5 @@ Notes
 
 - Linux Phrasebook
 - pipe to vim
+
+gazetteFooter

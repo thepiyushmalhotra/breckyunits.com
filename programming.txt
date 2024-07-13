@@ -1,3 +1,4 @@
+gazetteHeader
 Breck's Blog - Programming Posts
 ================================
 
@@ -295,3 +296,5 @@ Learning How to Program Part I
 ==============================
 08/28/2007
 https://breckyunits.com/learning-how-to-program-part-i.html
+
+gazetteFooter

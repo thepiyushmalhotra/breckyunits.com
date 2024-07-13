@@ -1,3 +1,5 @@
+gazetteHeader
+
 Run multiple commands at once
 =============================
 December 26, 2009
@@ -17,3 +19,5 @@ cd ~/myfiles; cp file.txt ~/backup/ && rm file.txt
 This will only run the last command if the cp command executed successfully.
 
 You can swap the && for || to run a command if the previous one fails.
+
+gazetteFooter

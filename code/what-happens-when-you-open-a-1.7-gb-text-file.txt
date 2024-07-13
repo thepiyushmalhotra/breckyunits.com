@@ -1,3 +1,5 @@
+gazetteHeader
+
 What Happens When you Open a 1.7 GB text file?
 ==============================================
 May 27, 2011
@@ -13,3 +15,5 @@ With Notepad++: "File is too big" error. Graceful FAIL.
 VIM in Cygwin: It appears frozen.
 
 I will continue this post at a later date.
+
+gazetteFooter

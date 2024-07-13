@@ -1,3 +1,5 @@
+gazetteHeader
+
 Aftertext
 =========
 
@@ -149,3 +151,5 @@ Notes
 
 [Image Omitted]
  A screenshot of Aftertext on the left and the rendered HTML on the right.
+
+gazetteFooter
