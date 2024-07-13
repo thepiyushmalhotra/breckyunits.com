@@ -1,5 +1,3 @@
-gazetteHeader
-
 RVM Quick Reference
 ===================
 December 12, 2010
@@ -31,5 +29,3 @@ rvm system
 Install a new version of Ruby:
 
 rvm install 1.9.2
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
 ======================================================================================
 February 21, 2010
@@ -21,5 +19,3 @@ Edit #2:
 ssh: Could not resolve hostname X: Non-recoverable failure in name resolution
 
 That's narrowed it down a bit but still no solution. Sadly because it only happens once or twice out of 10-20 times I run the "ssh" command, it's taking longer to pin down.
-
-gazetteFooter

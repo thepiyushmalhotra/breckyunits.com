@@ -1,5 +1,3 @@
-gazetteHeader
-
 How the public domain can win
 =============================
 
@@ -42,5 +40,3 @@ Build a public domain product
 It took me 18 years to figure out that you can't _tell_ people the public domain is better. You have to _show_ them. Try building your own public domain product. Look through the telescope with your own eyes.
 
 ****
-
-gazetteFooter

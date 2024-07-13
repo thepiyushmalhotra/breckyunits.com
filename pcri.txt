@@ -1,5 +1,3 @@
-gazetteHeader
-
 PCRI
 ====
 
@@ -76,5 +74,3 @@ Related Posts
  https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 - Introducing Note (2012)
  https://breckyunits.com/introducing-note.html
-
-gazetteFooter

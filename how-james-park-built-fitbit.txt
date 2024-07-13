@@ -1,5 +1,3 @@
-gazetteHeader
-
 How James Park built FitBit
 ===========================
 
@@ -585,5 +583,3 @@ Closing thoughts
  https://twitter.com/HowIBuiltThis
  https://twitter.com/guyraz
  https://www.npr.org/podcasts/510313/how-i-built-this
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 Probability Makes Planes Fly
 ============================
 
@@ -46,5 +44,3 @@ Medicine? Compounded probability.
 It's probability all the way down.
 
 ****
-
-gazetteFooter

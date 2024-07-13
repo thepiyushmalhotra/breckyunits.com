@@ -1,5 +1,3 @@
-gazetteHeader
-
 Quickly Set up a Web Proxy Server
 =================================
 March 13, 2011
@@ -9,5 +7,3 @@ Sometimes when abroad it becomes necessary to route your internet traffic throug
 Here's a great article that shows how.
 
 I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 Focusing on Bipolar Disorder
 ============================
 
@@ -181,5 +179,3 @@ Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
 2004 June 3 IF ❌ No No
 2003 August 2 MD ❌ No No
 2002 October 1 AP ❌ No No
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 Features I Miss from Notepad++ in Textmate
 ==========================================
 October 16, 2010
@@ -10,5 +8,3 @@ Here are a few things I really miss from Notepad++:
 - Notepad++ has great autocompletion. Once you type a word in a document, that word is added to the autocompletion list. Autocompletion drops down inline too which is great.
 
 If anyone nows how to replicate these things in Textmate please let me know! Thanks.
-
-gazetteFooter

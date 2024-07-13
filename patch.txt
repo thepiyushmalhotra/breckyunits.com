@@ -1,5 +1,3 @@
-gazetteHeader
-
 Patch: a micro language to make pretty deep links easy
 ======================================================
 May 27, 2024
@@ -131,5 +129,3 @@ I made Patch in 2020 for Our World in Data.
  https://ourworldindata.org
 
 This is an updated fork.
-
-gazetteFooter

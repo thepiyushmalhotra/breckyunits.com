@@ -1,5 +1,3 @@
-gazetteHeader
-
 Use aliases to save time
 ========================
 November 28, 2009
@@ -29,5 +27,3 @@ Notes
 =====
 
 - 1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Brain Pilot Model of Bipolar Disorder
 =========================================
 
@@ -87,5 +85,3 @@ Unanswered Questions
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/
 
 ****
-
-gazetteFooter

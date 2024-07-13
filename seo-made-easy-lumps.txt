@@ -1,5 +1,3 @@
-gazetteHeader
-
 SEO Made Easy: LUMPS
 ====================
 
@@ -70,5 +68,3 @@ Links
  https://www.google.com/webmasters/tools
 - SEOBook - one of the best SEO sites out there.
  https://www.seobook.com
-
-gazetteFooter

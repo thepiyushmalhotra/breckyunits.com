@@ -1,5 +1,3 @@
-gazetteHeader
-
 What you focus on, increases
 ============================
 
@@ -40,5 +38,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/iphone/2009/05/06/what-you-focus-on-increases/
-
-gazetteFooter

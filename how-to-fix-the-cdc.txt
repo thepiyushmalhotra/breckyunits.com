@@ -1,5 +1,3 @@
-gazetteHeader
-
 How to fix the CDC
 ==================
 
@@ -88,5 +86,3 @@ I used to take it for granted that we could trust the CDC. That made life easier
 Notes
 =====
 - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
-
-gazetteFooter

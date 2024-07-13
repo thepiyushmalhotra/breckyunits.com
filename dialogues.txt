@@ -1,5 +1,3 @@
-gazetteHeader
-
 Scrolldown now has Dialogues
 ============================
 
@@ -26,5 +24,3 @@ Links
 =====
 - Try Scroll: https://scroll.pub
 - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
-
-gazetteFooter

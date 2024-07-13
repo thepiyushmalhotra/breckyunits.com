@@ -1,5 +1,3 @@
-gazetteHeader
-
 With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
 ======================================================================
 
@@ -69,5 +67,3 @@ With every new project I repeat a lot of messages and questions to the team. "Ho
 Notes
 =====
 - 1. I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
-
-gazetteFooter

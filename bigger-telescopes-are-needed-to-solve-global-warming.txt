@@ -1,5 +1,3 @@
-gazetteHeader
-
 Bigger Telescopes are needed to Solve Global Warming
 ====================================================
 
@@ -28,5 +26,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/uncategorized/2009/04/25/bigger-telescopes-are-needed-to-solve-global-warming-2/
-
-gazetteFooter

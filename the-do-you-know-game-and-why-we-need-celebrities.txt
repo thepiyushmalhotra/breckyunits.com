@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Do You Know Game and Why We Need Celebrities
 ================================================
 
@@ -58,5 +56,3 @@ Of course, just because two people know who Tom Hanks is doesn't mean they shoul
 But celebrities are better than nothing.
 
 ****
-
-gazetteFooter

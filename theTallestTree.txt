@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Tallest Tree
 ================
 
@@ -116,5 +114,3 @@ Then he heard a child's voice.
 "Excuse me mister, why is that tree so tall?"
 
 ****
-
-gazetteFooter

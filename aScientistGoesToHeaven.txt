@@ -1,5 +1,3 @@
-gazetteHeader
-
 Three Scientists Go To Heaven
 =============================
 
@@ -46,5 +44,3 @@ God asks to see his work.
 "It's paywalled."
 
 ****
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 JustHackIt
 ==========
 
@@ -23,5 +21,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20081017081121/http://www.breckyunits.com/web-20/2008/08/20/justhackit/
-
-gazetteFooter

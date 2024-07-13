@@ -1,5 +1,3 @@
-gazetteHeader
-
 Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
 ==================================================================================
 December 4, 2010
@@ -24,5 +22,3 @@ This will connect to my server (yourdomain.com), and forward traffic from port 3
 Notes:
 
 Make sure to add a rule to your IPTables config to allow inbound traffic to port 3333.
-
-gazetteFooter

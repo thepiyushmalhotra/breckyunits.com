@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Least You Can Do
 ====================
 
@@ -43,5 +41,3 @@ Notes
  http://en.wikipedia.org/wiki/Diff
 - Another relevant computer science topics is the The longest common subsequence problem.
  http://en.wikipedia.org/wiki/Longest_common_subsequence_problem
-
-gazetteFooter

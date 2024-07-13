@@ -1,5 +1,3 @@
-gazetteHeader
-
 Daily Gas Use for the United States and the World
 =================================================
 
@@ -24,5 +22,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20081120162550/http://www.breckyunits.com/economics/2008/05/14/daily-gas-use-for-the-united-states-and-the-world/
-
-gazetteFooter

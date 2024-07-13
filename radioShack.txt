@@ -1,5 +1,3 @@
-gazetteHeader
-
 Bring back RadioShack?
 ======================
 
@@ -25,5 +23,3 @@ Highlighted Reader Comments
 
 > I can have a far wider selection of electronic components delivered overnight for cheaper from Amazon, Mouser or Digikey. The need for a brick and mortar electronics store is long over. Time marches on. - rriggsco
  https://www.reddit.com/r/electronics/comments/1d0zfcf/comment/l5rhzcz/
-
-gazetteFooter

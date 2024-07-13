@@ -1,5 +1,3 @@
-gazetteHeader
-
 Use grep to search multiple files at once
 =========================================
 November 22, 2009
@@ -38,5 +36,3 @@ Links
 =====
 - grep on Wikipedia
 - Stackoverflow grep help
-
-gazetteFooter

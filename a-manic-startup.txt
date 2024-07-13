@@ -1,5 +1,3 @@
-gazetteHeader
-
 A Manic Startup
 ===============
 
@@ -69,5 +67,3 @@ Far worse than failing at the startup I failed as a husband, a father, son, brot
 It is a hard pill to swallow that I was the Bad Guy, after all.
 
 ****
-
-gazetteFooter

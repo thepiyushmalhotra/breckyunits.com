@@ -1,5 +1,3 @@
-gazetteHeader
-
 How to Cure the Hiccups
 =======================
 
@@ -25,5 +23,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/28/how-to-cure-the-hiccups/
-
-gazetteFooter

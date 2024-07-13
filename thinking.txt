@@ -1,4 +1,3 @@
-gazetteHeader
 Breck's Blog - Thinking Posts
 =============================
 
@@ -231,5 +230,3 @@ Trying Shelfari, GoodReads, and LibraryThing
 ============================================
 07/27/2008
 https://breckyunits.com/trying-shelfari-goodreads-and-librarything.html
-
-gazetteFooter

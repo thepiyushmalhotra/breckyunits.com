@@ -1,5 +1,3 @@
-gazetteHeader
-
 ANSI or ASCII and Unicode or UTF-8 and Newlines
 ===============================================
 February 25, 2010
@@ -38,5 +36,3 @@ Notes
 - 1. Okay so this article turned out to be about line breaks and not about character encoding. I blame ADD.
 - 2. Cast of Characters- ASCII, ANSI, UTF-8 and all that
 - 3. ANSI versus Unicode
-
-gazetteFooter

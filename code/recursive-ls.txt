@@ -1,9 +1,5 @@
-gazetteHeader
-
 Recursive ls
 ============
 March 10, 2010
 
 Add the -R option to ls to recursively list the contents of a directroy.
-
-gazetteFooter

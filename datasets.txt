@@ -1,5 +1,3 @@
-gazetteHeader
-
 Hot Coffee
 ==========
 
@@ -158,5 +156,3 @@ Related Posts
 =============
 - Dataset Needed (2020)
  https://breckyunits.com/dataset-needed.html
-
-gazetteFooter

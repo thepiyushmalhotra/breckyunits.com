@@ -1,5 +1,3 @@
-gazetteHeader
-
 Ketones vs Lithium
 ==================
 by Breck Yunits
@@ -402,5 +400,3 @@ Notes
 ---
 
 Thanks to RGM for feedback on this post.
-
-gazetteFooter

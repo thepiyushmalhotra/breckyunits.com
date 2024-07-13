@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Great Bank Robbery
 ======================
 
@@ -30,5 +28,3 @@ Moebs via wayback machine
 FBI from here
  https://breckyunits.com/fbi.jpg
  https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/property-crime/burglary
-
-gazetteFooter

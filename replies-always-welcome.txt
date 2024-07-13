@@ -1,5 +1,3 @@
-gazetteHeader
-
 Replies always welcome
 ======================
 
@@ -77,5 +75,3 @@ e-Books available from a monthly subscription are available on noreply@thewordbo
 Could be a `replyToLeaveAReview`.
 
 ****
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Magnificent Multi-Agent Mind of Marvin Minsky
 =================================================
 
@@ -80,5 +78,3 @@ Footnotes
 =========
 ^hawkins: A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/
-
-gazetteFooter

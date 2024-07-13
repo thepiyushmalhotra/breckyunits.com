@@ -1,5 +1,3 @@
-gazetteHeader
-
 ngrep for packet monitoring
 ===========================
 July 13, 2011
@@ -9,5 +7,3 @@ I just came across a neat command line tool, ngrep, via this site.
 Sample usage:
 
 ngrep -q -W byline "^(GET|POST) .*"
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 SpaceNet: A successor to the Internet
 =====================================
 
@@ -80,5 +78,3 @@ Related Posts
 
 _I originally published this on Medium._
  https://medium.com/space-net/spacenet-51aca95d49a2
-
-gazetteFooter

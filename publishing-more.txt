@@ -1,5 +1,3 @@
-gazetteHeader
-
 Publishing More
 ===============
 
@@ -27,5 +25,3 @@ Related Posts
  https://breckyunits.com/bloggingAsTherapy.html
 - I'm Back (2009)
  https://breckyunits.com/im-back.html
-
-gazetteFooter

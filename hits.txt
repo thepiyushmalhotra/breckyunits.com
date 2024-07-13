@@ -1,5 +1,3 @@
-gazetteHeader
-
 High Impact Thoughts
 ====================
 May 20, 2024
@@ -117,5 +115,3 @@ Related Posts
  https://breckyunits.com/orders-of-magnitude.html
 
 ****
-
-gazetteFooter

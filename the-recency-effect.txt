@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Recency Effect
 ==================
 
@@ -26,5 +24,3 @@ Some More Examples
 - Watching Jersey Shore will temporarily make you feel much better about your life while at the same time altering your vocabulary with phrases like "You do you" and "GTL".
 
 ****
-
-gazetteFooter

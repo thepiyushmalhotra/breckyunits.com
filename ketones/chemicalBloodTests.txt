@@ -1,5 +1,3 @@
-gazetteHeader
-
 Chemical Blood Tests Dataset
 ============================
 
@@ -22,5 +20,3 @@ Schema
 
 Rows
 ====
-
-gazetteFooter

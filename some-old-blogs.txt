@@ -1,5 +1,3 @@
-gazetteHeader
-
 Some old blogs
 ==============
 
@@ -36,5 +34,3 @@ It looks like I also maintained a programming blog from December 2009 to January
  https://breckyunits.com/code/
 
 ****
-
-gazetteFooter

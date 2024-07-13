@@ -1,5 +1,3 @@
-gazetteHeader
-
 Well YCombinator, we're going public anyway.
 ============================================
 
@@ -41,5 +39,3 @@ Now, back to coding.
 
 [Image Omitted]
  I'll be back.
-
-gazetteFooter

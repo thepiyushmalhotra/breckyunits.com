@@ -1,5 +1,3 @@
-gazetteHeader
-
 Twelve Tips to Master Programming Faster
 ========================================
 
@@ -94,5 +92,3 @@ Related Posts
  https://breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html
 - Twelve Tips to Master Programming Faster (2009)
  https://breckyunits.com/twelve-tips-to-master-programming-faster.html
-
-gazetteFooter

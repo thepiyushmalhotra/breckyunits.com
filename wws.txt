@@ -1,5 +1,3 @@
-gazetteHeader
-
 The World Wide Scroll
 =====================
 
@@ -35,5 +33,3 @@ Mahalo!
 -Breck
 
 ****
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 PMF Mirages
 ===========
 
@@ -199,5 +197,3 @@ Just beware of PMF mirages.
 Notes
 =====
 ^insight: In 2016 I once misconfigured Google Analytics and thought users were using our data visualization tool for far longer than they actually were. Luckily in that case, it only took a few weeks to realize my error, not months.
-
-gazetteFooter

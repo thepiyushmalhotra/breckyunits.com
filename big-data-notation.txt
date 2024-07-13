@@ -1,5 +1,3 @@
-gazetteHeader
-
 Big Data Notation
 =================
 
@@ -22,5 +20,3 @@ This occurred to me recently as I just started following Big Data on Quora and w
 I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
 
 ****
-
-gazetteFooter

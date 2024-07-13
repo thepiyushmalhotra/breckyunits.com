@@ -1,5 +1,3 @@
-gazetteHeader
-
 Find big files in Linux
 =======================
 October 6, 2011
@@ -13,5 +11,3 @@ find /etc -size +100k
 Disk free space:
 
 du
-
-gazetteFooter

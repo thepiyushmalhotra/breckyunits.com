@@ -1,5 +1,3 @@
-gazetteHeader
-
 Blogging as Therapy
 ===================
 
@@ -43,5 +41,3 @@ Related Posts
  https://breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.html
 - I'm Back (2009)
  https://breckyunits.com/im-back.html
-
-gazetteFooter

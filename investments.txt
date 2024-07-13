@@ -1,5 +1,3 @@
-gazetteHeader
-
 My Angel Investments
 ====================
 
@@ -56,5 +54,3 @@ Serinus	https://www.serinus.bio/
 Span	https://www.span.io/
 Version Story	https://versionstory.com/
 Wefunder	https://wefunder.com/
-
-gazetteFooter

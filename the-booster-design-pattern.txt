@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Booster Design Pattern
 ==========================
 
@@ -10,5 +8,3 @@ If your software project is going to have a long life, it may benefit from Boost
 [Image Omitted]
 
 ****
-
-gazetteFooter

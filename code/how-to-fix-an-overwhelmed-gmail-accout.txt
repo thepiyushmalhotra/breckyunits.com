@@ -1,5 +1,3 @@
-gazetteHeader
-
 How to fix an overwhelmed Gmail Accout
 ======================================
 December 17, 2009
@@ -37,5 +35,3 @@ As it turns out, the solution was simple.
 Notes
 =====
 1. Thanks to this site for telling me how to archive all my gmail messages.
-
-gazetteFooter

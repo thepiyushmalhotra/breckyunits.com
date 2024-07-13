@@ -1,4 +1,3 @@
-gazetteHeader
 Breck's Code Blog
 =================
 Useful Grep Searches with Scroll
@@ -475,5 +474,3 @@ About this Blog
 ===============
 11/18/2009
 https://breckyunits.com/code/about-this-blog.html
-
-gazetteFooter

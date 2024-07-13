@@ -1,5 +1,3 @@
-gazetteHeader
-
 Turning down the Nobel Prize
 ============================
 
@@ -11,5 +9,3 @@ On November 1st CancerDB.com will launch and immediately start saving lives. The
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan
 
 [Image Omitted]
-
-gazetteFooter

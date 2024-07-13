@@ -1,5 +1,3 @@
-gazetteHeader
-
 Words are Worse than Weights
 ============================
 
@@ -71,5 +69,3 @@ Related Reading
  http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 - What Just Happened? (2018)
  https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/
-
-gazetteFooter

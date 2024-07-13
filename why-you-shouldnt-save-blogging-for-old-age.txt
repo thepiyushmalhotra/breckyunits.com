@@ -1,5 +1,3 @@
-gazetteHeader
-
 Why You Shouldn't Save Blogging for Old Age
 ===========================================
 
@@ -31,5 +29,3 @@ If you need some selfish reasons, here are 5:
 Blogging. Don't save it for your old age.
 
 ****
-
-gazetteFooter

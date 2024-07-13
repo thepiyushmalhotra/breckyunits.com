@@ -1,5 +1,3 @@
-gazetteHeader
-
 Software Should Save People Time
 ================================
 
@@ -38,5 +36,3 @@ The very first program I made was meant to save me and my family time. Back in 1
 Many years later, my ultimate motivation to save people time has remained constant.
 
 ****
-
-gazetteFooter

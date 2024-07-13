@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Invention of Free Will
 ==========================
 
@@ -35,5 +33,3 @@ Notes
 - This all assumes, of course, that there are many worlds and not just one.
  https://./the-many-worlds-law.html
 - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Churn Rate of Data
 ======================
 
@@ -20,5 +18,3 @@ Books, it seems. We don't regularly read old weather forecasts, census rolls, or
 Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.
 
 ****
-
-gazetteFooter

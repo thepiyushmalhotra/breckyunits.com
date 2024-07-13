@@ -1,5 +1,3 @@
-gazetteHeader
-
 If you can explain something logically, you can explain it simply
 =================================================================
 
@@ -28,5 +26,3 @@ Do I need to master the building blocks to be successful in life?
 No. But you need to know them if you want to be able to learn any subject.
 
 ****
-
-gazetteFooter

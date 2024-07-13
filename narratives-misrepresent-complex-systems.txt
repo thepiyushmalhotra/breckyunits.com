@@ -1,5 +1,3 @@
-gazetteHeader
-
 Narratives Misrepresent Complex Systems
 =======================================
 
@@ -85,5 +83,3 @@ Related Posts
  https://breckyunits.com/many-narratives-all-true.html
 - English cannot encode Real News (2019)
  https://breckyunits.com/english-cannot-encode-real-news.html
-
-gazetteFooter

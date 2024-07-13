@@ -1,5 +1,3 @@
-gazetteHeader
-
 Manic Researchers Announce They Are Hours Away From Cure For Depression
 =======================================================================
 
@@ -38,5 +36,3 @@ Gesturing toward a chalkboard full of illegible calculations and sketches, the t
 “Actually, you know what? I’m going to go do that now,” he added before briskly striding off the podium.
 
 As of press time, however, each of the scientists had reportedly slumped to the ground in tears, saying all the research they had ever done was “completely worthless” and admitting that clinical depression is likely impossible to cure.
-
-gazetteFooter

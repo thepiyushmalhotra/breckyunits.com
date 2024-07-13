@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Omni Restaurant
 ===================
 by Breck Yunits
@@ -236,5 +234,3 @@ In front of him, eating a bowl of cereal, is a man in a Vicuna suit.
 "He's my copyright lawyer!"
 
 ****
-
-gazetteFooter

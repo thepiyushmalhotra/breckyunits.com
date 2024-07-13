@@ -1,5 +1,3 @@
-gazetteHeader
-
 Don't Flip the Bozo Bit
 =======================
 
@@ -45,5 +43,3 @@ Links
  https://en.wikipedia.org/wiki/Bozo_bit
 - Origin of the term?
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238
-
-gazetteFooter

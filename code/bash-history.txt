@@ -1,5 +1,3 @@
-gazetteHeader
-
 Bash History
 ============
 July 17, 2011
@@ -10,5 +8,3 @@ Understanding and mastering bash history can:
 - 2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
 
 Here's a terrific guide on using Bash History effectively.
-
-gazetteFooter

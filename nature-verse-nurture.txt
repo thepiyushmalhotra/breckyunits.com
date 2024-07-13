@@ -1,5 +1,3 @@
-gazetteHeader
-
 Nature Verse Nurture
 ====================
 
@@ -16,5 +14,3 @@ Nurture plays a huge role in making you, of course. Being born with great genes 
 I think the bio/genome field will be the most interesting industry come 2025 or so.
 
 ****
-
-gazetteFooter

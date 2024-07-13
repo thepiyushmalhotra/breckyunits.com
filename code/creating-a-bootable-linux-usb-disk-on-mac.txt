@@ -1,5 +1,3 @@
-gazetteHeader
-
 Creating a bootable Linux USB disk on Mac
 =========================================
 July 8, 2011
@@ -21,5 +19,3 @@ Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
 Back in Disk Utility, unmount/eject the disk.
 
 Done!
-
-gazetteFooter

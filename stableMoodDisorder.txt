@@ -1,5 +1,3 @@
-gazetteHeader
-
 Stable Mood Disorder
 ====================
 
@@ -63,5 +61,3 @@ Their inability to match the intensity of normal people at work, and their lack 
 Doctors try a large number of different amphetamines to try and get their Stable Mood Disorder patients to be employable, but have not yet found long term success.
 
 ****
-
-gazetteFooter

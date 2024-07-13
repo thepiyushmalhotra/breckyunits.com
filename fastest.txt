@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Fastest in the World
 ========================
 
@@ -120,5 +118,3 @@ She finally moved her throat.
 "The shoes", she said, with tears in her eyes.
 
 ****
-
-gazetteFooter

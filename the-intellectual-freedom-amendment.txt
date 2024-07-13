@@ -1,5 +1,3 @@
-gazetteHeader
-
 The Intellectual Freedom Amendment
 ==================================
 
@@ -68,5 +66,3 @@ I have only passed a handful of Amendments to the U.S. Constitution in my lifeti
  https://breckyunits.com/freedom.html
 - Stephan Kinsella
  https://www.stephankinsella.com/
-
-gazetteFooter

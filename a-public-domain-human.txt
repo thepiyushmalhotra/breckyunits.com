@@ -1,5 +1,3 @@
-gazetteHeader
-
 A Public Domain Human
 =====================
 
@@ -75,5 +73,3 @@ Notes
 [Image Omitted]
 
 ^marriageAdvice: Divorce: Getting legally married was a big mistake. In my experience, lawyers and judges in California Family Court are not steered by honest agents and I regret blindly signing up for their corrupt system.
-
-gazetteFooter

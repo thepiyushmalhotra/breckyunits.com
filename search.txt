@@ -1,6 +1,2 @@
-gazetteHeader
-
 Search Breck's Blog
 ===================
-
-gazetteFooter

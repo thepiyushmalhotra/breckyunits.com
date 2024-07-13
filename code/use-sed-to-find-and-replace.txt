@@ -1,5 +1,3 @@
-gazetteHeader
-
 Use sed to find and replace
 ===========================
 December 20, 2009
@@ -26,5 +24,3 @@ Notes
 - findAndReplace with sed
 - sed on about.com
 - Very clear examples
-
-gazetteFooter

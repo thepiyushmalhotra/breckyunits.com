@@ -1,5 +1,3 @@
-gazetteHeader
-
 Learn Symbolic Links in 30 seconds
 ==================================
 December 5, 2009
@@ -28,5 +26,3 @@ Notes
 =====
 Aliases are another great time saver.
  https://breckyunits.com/code/use-aliases-to-save-time.html
-
-gazetteFooter

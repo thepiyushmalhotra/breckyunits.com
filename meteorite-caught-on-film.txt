@@ -1,5 +1,3 @@
-gazetteHeader
-
 Meteorite Caught on Film
 ========================
 
@@ -16,5 +14,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20090206005656/http://www.breckyunits.com/science/2008/11/23/meteorite-caught-on-film/
-
-gazetteFooter

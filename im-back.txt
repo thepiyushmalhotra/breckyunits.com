@@ -1,5 +1,3 @@
-gazetteHeader
-
 I'm Back
 ========
 
@@ -27,5 +25,3 @@ Related Posts
  https://breckyunits.com/publishing-more.html
 - I guess the time has come (2007)
  https://breckyunits.com/i-guess-the-time-had-come.html
-
-gazetteFooter

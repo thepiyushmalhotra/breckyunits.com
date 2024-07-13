@@ -1,5 +1,3 @@
-gazetteHeader
-
 Scroll Beta
 ===========
 
@@ -22,5 +20,3 @@ Second, Scroll is a Tree Language. Unlike Markdown, Scroll is easily extensible.
 I've had fun building Scroll so far and am excited to start working on it with others.
 
 ****
-
-gazetteFooter

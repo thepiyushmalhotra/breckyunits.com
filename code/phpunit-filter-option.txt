@@ -1,5 +1,3 @@
-gazetteHeader
-
 PHPUnit Filter Option
 =====================
 August 10, 2010
@@ -11,5 +9,3 @@ For example, say you have a tests.php file that contains a FileWriter_Test_Class
 Do this:
 
 phpunit --filter testFileWriter FileWriter_Test_Class tests.php
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 cron in 2 steps
 ===============
 November 25, 2009
@@ -40,5 +38,3 @@ cygrunsrv -I cron -p /usr/sbin/cron -a D
 net start cron
 
 If there are problems, check the cron.log file in your home directory.
-
-gazetteFooter

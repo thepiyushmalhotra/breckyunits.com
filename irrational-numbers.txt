@@ -1,5 +1,3 @@
-gazetteHeader
-
 Irrational Numbers
 ==================
 
@@ -29,5 +27,3 @@ Note: I imported this post from my original Wordpress blog.
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/statistics/2009/03/31/irrational-numbers/
-
-gazetteFooter

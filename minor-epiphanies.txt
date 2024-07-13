@@ -1,5 +1,3 @@
-gazetteHeader
-
 Minor Epiphanies
 ================
 
@@ -30,5 +28,3 @@ As someone who loves to learn, my favorite thing about them is the rush you get 
 Notes
 =====
 - I stumbled upon the term in John Calcote's book "Autotools".
-
-gazetteFooter

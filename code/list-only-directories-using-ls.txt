@@ -1,5 +1,3 @@
-gazetteHeader
-
 List only directories using ls
 ==============================
 December 13, 2009
@@ -15,5 +13,3 @@ alias lsd="ls -l | egrep '^d'"
 Notes
 
 1. Found this tip here.
-
-gazetteFooter

@@ -1,5 +1,3 @@
-gazetteHeader
-
 What can a Programmer learn from Rock Climbing?
 ===============================================
 
@@ -42,5 +40,3 @@ Related Posts
  https://breckyunits.com/30000hours.html
 - Twelve Tips to Master Programming Faster (2009)
  https://breckyunits.com/twelve-tips-to-master-programming-faster.html
-
-gazetteFooter

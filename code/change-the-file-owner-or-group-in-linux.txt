@@ -1,5 +1,3 @@
-gazetteHeader
-
 Change the file owner or group in Linux
 =======================================
 January 8, 2010
@@ -11,5 +9,3 @@ chown newowner filename
 Change the group of a file or folder:
 
 chgrp newgroup filenameorfoldername
-
-gazetteFooter

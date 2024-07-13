@@ -1,5 +1,3 @@
-gazetteHeader
-
 Sleepy Time Conference
 ======================
 The conference that comes together while you sleep.
@@ -77,5 +75,3 @@ the only domain there should be.
 Where ideas can mingle
 improve and change
 So that the people can be free.
-
-gazetteFooter
