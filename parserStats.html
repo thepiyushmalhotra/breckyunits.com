@@ -95,6 +95,7 @@ li {
 }
 a {
   text-decoration-color: transparent;
+  color: #36c;
 }
 a:hover {
   text-decoration-color: initial;
@@ -245,11 +246,20 @@ h4.scrollQuestion {
 .scrollTable tr:nth-child(even) {
   background: rgba(224,224,224,.6);
 }
+.scrollTable pre {
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0;
+}
 .scrollTable.expandedTable {
   table-layout: unset;
   background: white;
   position: relative;
   z-index: 10;
+  overflow: unset;
+}
+.scrollTable.expandedTable pre {
+  white-space: unset;
   overflow: unset;
 }
 .scrollTable.expandedTable td,.scrollTable.expandedTable th {
@@ -351,7 +361,7 @@ h4.scrollQuestion {
 <td>4010</td>
 </tr>
 <tr><td>blankLineParser</td>
-<td>8649</td>
+<td>8894</td>
 </tr>
 <tr><td>importOnlyParser</td>
 <td>760</td>
@@ -416,10 +426,10 @@ h4.scrollQuestion {
 <tr><td>printSnippetsParser</td>
 <td>11</td>
 </tr>
-<tr><td>buildTxtParser</td>
+<tr><td>buildHtmlParser</td>
 <td>240</td>
 </tr>
-<tr><td>buildHtmlParser</td>
+<tr><td>buildTxtParser</td>
 <td>240</td>
 </tr>
 <tr><td>keyboardNavParser</td>
@@ -429,7 +439,7 @@ h4.scrollQuestion {
 <td>237</td>
 </tr>
 <tr><td>h1Parser</td>
-<td>606</td>
+<td>608</td>
 </tr>
 <tr><td>h4Parser</td>
 <td>12</td>
@@ -543,7 +553,7 @@ h4.scrollQuestion {
 <td>64</td>
 </tr>
 <tr><td>dinkusParser</td>
-<td>251</td>
+<td>252</td>
 </tr>
 <tr><td>questionAftertextParser</td>
 <td>73</td>
@@ -579,10 +589,10 @@ h4.scrollQuestion {
 <td>2</td>
 </tr>
 <tr><td>relatedScrollFilesParser</td>
-<td>35</td>
+<td>38</td>
 </tr>
 <tr><td>printRelatedListParser</td>
-<td>33</td>
+<td>36</td>
 </tr>
 <tr><td>copyButtonsParser</td>
 <td>1</td>
