@@ -2,8 +2,11 @@ buildHtml
 title Page not found
 
 import header.scroll
+homeUrl /index.html
 printTitle
 thinColumns 1
+
+<link rel="stylesheet" type="text/css" href="/gazette.css" />
 
 Sorry, the url you requested was not found.
 
