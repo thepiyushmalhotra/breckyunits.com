@@ -22,6 +22,7 @@ https://breckyunits.com/data.html
 https://breckyunits.com/csv.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
+https://breckyunits.com/litigation.html
 https://breckyunits.com/eta.html
 https://breckyunits.com/earlySource.html
 https://breckyunits.com/vestEarlyVestOften.html
@@ -136,7 +137,10 @@ https://breckyunits.com/dreaming-of-a-data-checked-language.html
 https://breckyunits.com/english-cannot-encode-real-news.html
 https://breckyunits.com/30000hours.html
 https://breckyunits.com/going-manic-with-a-fitbit.html
+https://breckyunits.com/countingComplexity.html
+https://breckyunits.com/aGrammarNotationForTreeLanguages.html
 https://breckyunits.com/ohayo.html
+https://breckyunits.com/treenotationPaper.html
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 https://breckyunits.com/bipolarOnion.html
 https://breckyunits.com/big-data-notation.html

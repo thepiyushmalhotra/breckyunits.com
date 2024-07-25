@@ -1,6 +1,51 @@
+/home/runner/work/breckyunits.com/breckyunits.com/litigation.scroll
+ date 7/23/2024
+ tags All Society
+ title Abraham Lincoln: "Discourage Litigation."
+ 
+ // todo: find a scan of the original letter
+ 
+ import header.scroll
+ printTitle
+ printDate
+ 
+ thinColumns 1
+ 
+ Stephan Kinsella reposted a great 1850's quote from Abraham Lincoln on litigation.
+  dateline
+  https://www.stephankinsella.com/ Stephan Kinsella
+ 
+ quote
+  Discourage litigation.
+  
+  Persuade your neighbors to compromise whenever you can.
+  
+  Point out to them how the nominal winner is often a real loser---in fees, expenses, and waste of time.
+  
+  As a peacemaker the lawyer has a superior opportunity of being a good man.
+  
+  There will still be business enough.
+  
+  Never stir up litigation.
+  
+  A worse man can scarcely be found than one who does this.
+  
+  - Abraham Lincoln (1850)
+ 
+ ***
+ 
+ Matthew Pinsker at Dickinson posted an image of the original:
+  https://housedivided.dickinson.edu/sites/lincoln/notes-for-a-law-lecture-july-1-1850/notes-for-a-law-lecture/ an image of the original
+ 
+ image notesForALawLecture.gif
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/eta.scroll
  date 7/18/2024
- groups All IntellectualFreedom Programming ScrollNotation Society
+ tags All IntellectualFreedom Programming Scroll Society ScrollPapers
  openGraphImage eta.png
  title ETA!: A Measure of Evolution
  
@@ -23,13 +68,13 @@
  
  
  katex
-  \text{E} = \text{T} \text{A}!
+  \text{E} = \text{T} / \text{A}!
  
- plainTextOnly EvolutionTime(I) = Time(I') * AssemblyPool!
+ plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
  
  
  
- ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+ ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
   // fitness of alterations
   // average time
   // more evolution time === slower, longer duration of ideas staying in worse states
@@ -39,13 +84,16 @@
  ***
  
  katex
-  \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
+  \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) / \text{AssemblyPool}!
  
  ***
  
  You can lengthen the lifespan of bad ideas by increasing the time to test alterations or reducing the size of the Assembly Pool.
  
  You can evolve good ideas faster by decreasing the time to test alterations and increasing the size of the Assembly Pool.
+ 
+ The number of test threads is proportional to the size of the Assembly Pool.
+  // open question: is it A!? or something like logA?
  
  ***
  
@@ -76,13 +124,16 @@
  - Thank you to Connor McCormick for superb feedback.
   https://warpcast.com/nor Connor McCormick
   https://warpcast.com/nor/0xf847d93e superb feedback
+ - Thank you to Cobe Liu for pointing out it should be T/A!.
+  https://warpcast.com/liucobe Cobe Liu
+  https://warpcast.com/liucobe/0x5e0c3936 pointing out
  - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/earlySource.scroll
  date 7/13/2024
- groups All Startups
+ tags All Startups
  openGraphImage lab.jpg
  title Early Source
  
@@ -127,7 +178,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/vestEarlyVestOften.scroll
  date 7/4/2024
- groups All Startups
+ tags All Startups
  title Vest Early. Vest Often.
  
  import header.scroll
@@ -145,9 +196,9 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/intelligence.scroll
  date 6/6/2024
- groups All Programming ScrollNotation
+ tags All Programming Scroll ScrollPapers
  openGraphImage intelligence.png
- title A Measure of Intelligence
+ title ICS: A Measure of Intelligence
  
  import header.scroll
  printTitle
@@ -190,15 +241,16 @@
  
  ****
  
+ # Related Posts
+ printRelated ScrollPapers
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/pcri.scroll
  date 5/31/2024
- groups All Programming ScrollNotation
+ tags All Programming Scroll ScrollPapers
  openGraphImage pcri.png
- related hits
- related treeNotationFinalReport tree-notation-annual-report-2019 show-hn-programming-is-now-two-dimensional introducing-note
- title PCRI
+ title PCRI: An Equation about Syntax Potential
  
  import header.scroll
  printTitle
@@ -223,7 +275,7 @@
  
  endSnippet
  
- PCRI describes a symbolic notation.
+ PCRI describes the potential of a programming syntax.
  
  PCRI says the number of possible programs *P* is equal to the number of columns *C* (aka characters, words, or bits), raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
  
@@ -232,7 +284,7 @@
  
  ***
  
- PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another notation(s) might be found with superior metrics, but I have yet to see it.
+ PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
   https://scroll.pub Scroll Notation
  
  PCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
@@ -244,6 +296,8 @@
   link treeNotationFinalReport.html announced
  
  It looks like I was wrong again. There was something special about Scroll Notation, and PCRI explains what that is.
+ 
+ ***
  
  _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Scroll Notation doesn't even have parentheses!_
  
@@ -269,19 +323,19 @@
  
  ***
  
- - Does PCRI also describe S-Expressions? S-Expression Notation works. Scroll Notation _barely_ works.
- - As always, all mistakes are on me, and credit goes to the people who have supported this effort with me.
+ - Does PCRI also describe S-Expressions? S-Expression work. Scroll Notation _barely_ works.
+ - All mistakes are on me, and credit goes to the people who have supported this effort with me.
  - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
  - Now, back to my vacation.
  
  # Related Posts
- printRelatedList
+ printRelated Scroll
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/lab.scroll
  date 5/27/2024
- groups All Science Startups Programming Writing
+ tags All Science Startups Programming Writing
  replace COMMITMENT 31
  replace PRICE $499,999
  title Breck's Lab
@@ -355,9 +409,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/meaning.scroll
  date 5/27/2024
- groups All Thinking Data
+ tags All Thinking Data Hits
  openGraphImage meaning.webp
- related hits
  title The Choice
  
  import header.scroll
@@ -502,7 +555,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/patch.scroll
  date 2024-05-27
- groups All Programming ScrollNotation
+ tags All Programming Scroll
  title Patch: a micro language to make pretty deep links easy
  
  import header.scroll
@@ -647,7 +700,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/radioShack.scroll
  date 2024-05-26
- groups All Society HasDataset Data Programming
+ tags All Society HasDataset Data Programming
  title Bring back RadioShack?
  
  import header.scroll
@@ -755,7 +808,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/versionNumbers.scroll
  date 2024-05-25
- groups All Programming Data ScrollNotation
+ tags All Programming Data Scroll
  title What can we learn from programming language version numbers?
  
  import header.scroll
@@ -842,7 +895,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/abortBar.scroll
  date 5/24/2024
- groups All Programming Life
+ tags All Programming Life
  openGraphImage abortBars.gif
  title Abort Bars
  
@@ -888,7 +941,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/omniRestaurant.scroll
  date 2024-05-23
- groups All IntellectualFreedom Society
+ tags All IntellectualFreedom Society
  title The Omni Restaurant
  
  import header.scroll
@@ -1135,8 +1188,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/scrollsets.scroll
  date 2024-05-21
- groups All ScrollNotation Programming Data Life
- title A New Way to Store Knowledge
+ tags All Scroll Programming Data Life ScrollSets
+ title ScrollSets: A New Way to Store Knowledge
  
  import header.scroll
  printTitle
@@ -1315,12 +1368,14 @@
  // thanks to https://github.com/rakoo for pointing our GNU Recutils
  ****
  
+ # Related Posts
+ printRelated ScrollSets
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/hits.scroll
  date 2024-05-20
- groups All Thinking Life Startups
- related theTallestTree walking-as-a-tool-of-thought logeracy planets-and-pebbles orders-of-magnitude
+ tags All Thinking Life Startups Hits
  title High Impact Thoughts
  
  import header.scroll
@@ -1428,8 +1483,7 @@
  Happy HIT Seeking!
  
  # Related Posts
- printRelatedList
-  // todo: rename to printRelated?
+ printRelated Hits
  
  ****
  
@@ -1437,7 +1491,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/pmfMirage.scroll
  date 2024-05-15
- groups All Startups
+ tags All Startups
  openGraphImage pmfMirage.jpg
   // ChatGPT
  title PMF Mirages
@@ -1638,7 +1692,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/digitalCopyright.scroll
  date 5/14/2024
- groups All IntellectualFreedom Society
+ tags All IntellectualFreedom Society
  title Digital Copyright and AIs
  
  import header.scroll
@@ -1724,7 +1778,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/corporateEmail.scroll
  date 5/12/2024
- groups All Startups Society Programming
+ tags All Startups Society Programming
  title Corporate Email
  
  import header.scroll
@@ -1772,7 +1826,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/marks.scroll
  date 2024-05-11
- groups All Data Thinking Life HasDataset
+ tags All Data Thinking Life HasDataset
  title Marks
  
  import header.scroll
@@ -1876,7 +1930,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/theTallestTree.scroll
  date 2024-05-07
- groups All Life Thinking
+ tags All Life Thinking Hits
  title The Tallest Tree
   // thanks to Lees Yunits for the better title
  
@@ -2007,7 +2061,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/aScientistGoesToHeaven.scroll
  date 2024-05-05
- groups All IntellectualFreedom Data
+ tags All IntellectualFreedom Data
  title Three Scientists Go To Heaven
  
  import header.scroll
@@ -2067,7 +2121,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/badModels.scroll
  date 2024-05-04
- groups All Life Society Data
+ tags All Life Society Data
  title Hypothermia
  
  import header.scroll
@@ -2186,8 +2240,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/theEnergyClock.scroll
  date 2024-05-02
- groups All BipolarEnergy
- related powerSurges
+ tags All BipolarEnergy
  title Energy Clocks
  
  import header.scroll
@@ -2383,13 +2436,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated BipolarEnergy
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aHigherLanguage.scroll
  date 2024-04-27
- groups All Life Thinking Writing
+ tags All Life Thinking Writing
  openGraphImage tunnelByDallE.png
   // Generated by DallE
    the tunnel coming out of the forest is made completely out of books and papers and screens--the floor, the ceiling, the walls, it is 100% books and papers and screens. It previously extended out of the forest past the cliff above the void to nowhere. It was a tunnel of books and papers and screens to nowhere. The man walking in it, putting his weight in it, caused it to collapse. so he is falling first and above him is all the books and papers and screens also falling from the disintegrating tunnel
@@ -2467,8 +2520,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/datasets.scroll
  date 4/23/2024 5:00
- groups All Data Thinking Programming HasDataset
- related dataset-needed
+ tags All Data Thinking Programming HasDataset ScrollSets
  title Hot Coffee
  
  import header.scroll
@@ -2685,14 +2737,13 @@
  // Reading Speed vs Modeling Speed
  
  # Related Posts
- printRelatedList
+ printRelated ScrollSets
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bigOsKitchen.scroll
  date 4/23/2024
- groups All Programming Data HasDataset
- related ckmeans logeracy planets-and-pebbles orders-of-magnitude
+ tags All Programming Data HasDataset Logeracy
  title Big O's Kitchen
  
  import header.scroll
@@ -2779,13 +2830,13 @@
  7	1	3	7	20	49	128	5040
  
  # Related Posts
- printRelatedList
+ printRelated Logeracy
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fastest.scroll
  date 2024-04-22
- groups All Life Thinking Data
+ tags All Life Thinking Data
  openGraphImage theFastestByDallE.png
   // Generated by DallE
    Make a highly minimalistic black and white illustration, featuring two hands—one of a child and one of an adult. The design focuses solely on their outlines. The child's hand is on the left and the adults is on the right. The adults hand is coming down at a slight angle. The childs hand is coming up at a slight angle. We see the back of the childs hand. We see the palm side of the adults hand. It looks like they were holding hands but something (that we dont see at all) pulled them apart. You can see that they are reaching as hard as they can to touch but the new distance between them is too hard to overcome
@@ -2918,7 +2969,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  date 4/16/2024
- groups All BipolarEnergy HasDataset
+ tags All BipolarEnergy HasDataset
  title Ketones vs Lithium
  
  import header.scroll
@@ -3120,7 +3171,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/doHumanBrainsMolt.scroll
  date 4/3/2024
- groups All BipolarEnergy
+ tags All BipolarEnergy
  title Do Human Brains Molt?
  
  import header.scroll
@@ -3158,8 +3209,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/treeNotationFinalReport.scroll
  date 2024-4-2
- groups All ScrollNotation Programming
- related tree-notation-annual-report-2019 show-hn-programming-is-now-two-dimensional
+ tags All Scroll Programming
  title Final Tree Notation Report
  
  import header.scroll
@@ -3224,7 +3274,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Scroll
  
  ***
  
@@ -3237,7 +3287,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/boxMethod.scroll
  date 2024-3-30
- groups All Data Thinking
+ tags All Data Thinking
  title The Box Method of Science
  
  import header.scroll
@@ -3394,7 +3444,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/openMindedness.scroll
  date 3/08/2024
- groups All BipolarEnergy Life
+ tags All BipolarEnergy Life
  title Open-Mindedness
  
  import header.scroll
@@ -3507,8 +3557,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/mindmap.scroll
  date 2/24/2024
- groups All BipolarEnergy Programming Life
- related brain-pilots marvin-minsky
+ tags All BipolarEnergy Programming Life Minsky
  title A Different Kind of Mindmap
  
  import header.scroll
@@ -3539,13 +3588,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Minsky
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/synthesizingKnowledge.scroll
  date 2/21/2024
- groups All Data Thinking Programming
+ tags All Data Thinking Programming
  title Synthesizing Knowledge
  
  import header.scroll
@@ -3591,7 +3640,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/brainPilotModelOfBipolarDisorder.scroll
  date 2/20/2024
- groups All BipolarEnergy
+ tags All BipolarEnergy
  title The Brain Pilot Model of Bipolar Disorder
  
  import header.scroll
@@ -3681,12 +3730,13 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/whyDoWeSubsidizeLies.scroll
  date 2/14/2024
- groups All IntellectualFreedom Society
+ tags All IntellectualFreedom Society
  title Why do we subsidize lies?
  
  import header.scroll
  printTitle
  mediumColumns 1
+ 
  image blackCup.jpg
  
  The color of the cup on my desk is black.
@@ -3700,6 +3750,8 @@
  
  But what if our government subsidized lies? To subsidize something is to give it an artificial economic incentive.
  
+ ***
+ 
  If lies were subsidized, because there can be so much more of it than fact, we would see far more lies published than facts.
  
  You would not only see things like "the color of the cup is red", you would see variations on variations like "the color of the cup is light red", "the color of the cup is dark red", and so on.
@@ -3710,10 +3762,22 @@
  
  The information circulatory system, which naturally would circulate useful facts, would be hijacked to circulate mostly lies.
  
- As far as I can tell, this is exactly what copyright does. The further from fact a work goes, the more its artificial subsidy. The ratio of lies to facts in our world might be unhealthy.
+ ***
+ 
+ As far as I can tell, this is exactly what copyright does.
   link a-mathematical-model-of-copyright.html what copyright does
  
- I've given up trying to change things. I have a different battle to fight. But here I shout into the void one more time, why do we think subsidizing lies is a good idea?
+ The further from fact a work goes, the more its artificial subsidy.
+ 
+ The ratio of lies to facts in our world might be unhealthy.
+ 
+ ***
+ 
+ I've given up trying to change things.
+ 
+ I have a different battle to fight.
+ 
+ But here I shout into the void one more time, why do we think subsidizing lies is a good idea?
  
  // Outlawing lies is stupid, but isn't subsidizing it equally stupid? Why do we have a system that subsidizes mind-misleading superhero movies over math?
  
@@ -3725,7 +3789,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/beliefs.scroll
  date 2/11/2024
- groups All Life
+ tags All Life
  title Beliefs
  
  import header.scroll
@@ -3755,7 +3819,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarsInSociety.scroll
  date 2/9/2024
- groups All BipolarEnergy
+ tags All BipolarEnergy
  title What is the role of the bipolar in society?
  
  import header.scroll
@@ -3898,7 +3962,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/stableMoodDisorder.scroll
  date 2/4/2024
- groups All BipolarEnergy
+ tags All BipolarEnergy
  title Stable Mood Disorder
  
  import header.scroll
@@ -3964,8 +4028,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/powerSurges.scroll
  date 2/3/2024
- groups All BipolarEnergy
- related theEnergyClock
+ tags All BipolarEnergy
  title Becoming a High Energy Person
  
  import header.scroll
@@ -4038,14 +4101,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated BipolarEnergy
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggingAsTherapy.scroll
  date 1/30/2024
- groups All BipolarEnergy Writing
- related theTallestTree wordsAreWorseThanWeights publishing-more why-you-shouldnt-save-blogging-for-old-age im-back
+ tags All BipolarEnergy Writing
  title Blogging as Therapy
  
  import header.scroll
@@ -4079,13 +4141,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Writing
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/delusions.scroll
  date 1/29/2024
- groups All BipolarEnergy
+ tags All BipolarEnergy
  title Delusions
  
  import header.scroll
@@ -4294,7 +4356,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/walking-as-a-tool-of-thought.scroll
  date 5/19/2023
- groups All Writing
+ tags All Writing Hits
  title Walking and other invisible tools of thought
  
  import header.scroll
@@ -4357,8 +4419,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/marvin-minsky.scroll
  date 5/09/2023
- groups All BipolarEnergy Life
- related brain-pilots mindmap
+ tags All BipolarEnergy Life Minsky
  title The Magnificent Multi-Agent Mind of Marvin Minsky
  
  import header.scroll
@@ -4429,7 +4490,7 @@
  ****
  
  # Related reading
- printRelatedList
+ printRelated Minsky
  
  - The second best place I've seen these ideas written about so far is LessWrong, which calls this the Subagent Model of the Mind.
   https://www.lesswrong.com/tag/subagents Subagent Model of the Mind
@@ -4447,7 +4508,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/enchained-symbols.scroll
  date 4/28/2023
- groups All IntellectualFreedom
+ tags All IntellectualFreedom
  title Enchained Symbols
  
  import header.scroll
@@ -4493,7 +4554,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-public-domain-human.scroll
  date 3/6/2023
- groups All IntellectualFreedom
+ tags All IntellectualFreedom
  title A Public Domain Human
  
  import header.scroll
@@ -4571,7 +4632,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/safeFs.scroll
  date 1/27/2023
- groups All IntellectualFreedom
+ tags All IntellectualFreedom
  openGraphImage safeFS.png
  title SafeFS
  
@@ -4615,7 +4676,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/useTheSpine.scroll
  date 1/3/2023
- groups All ScrollNotation Programming
+ tags All Scroll Programming
  title Use the Spine
  
  import header.scroll
@@ -4666,7 +4727,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/oneTextarea.scroll
  date 12/30/2022
- groups All ScrollNotation Programming
+ tags All Scroll Programming
  title One Textarea
  
  import header.scroll
@@ -4711,7 +4772,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/root-thinking.scroll
  date 11/16/2022
- groups All Programming Thinking ScrollNotation
+ tags All Programming Thinking Scroll
  openGraphImage rootThinking.png
  title Root Thinking
  
@@ -4750,49 +4811,94 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/replies-always-welcome.scroll
  date 11/14/2022
- groups All Programming
+ tags All Programming
  title Replies always welcome
  
  import header.scroll
  printTitle
+ printDate
  
  mediumColumns 1
  
- Imagine a waitress who delivers your food then immediately puts on noise cancelling headphones, turns and walks away. That would be a bad customer experience, right?
-  dateline
+ The waitress puts her earmuffs on.
  
- Well that's _exactly_ the experience a `noreply` email address provides!
- 
- Let's make email human again!
- 
- If your business doesn't have the staff to read and reply to emails, you can at least write programs that can do _something_ for the customer.
+ She walks to the table, slams the food down, spins and runs away.
  
  ***
  
- # No Exceptions
- My claim is that no reply email address are always sub-optimal. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
+ Sounds like an annoying customer experience, right?
+ 
+ No business would actually do this...right?
+ 
+ ***
+ 
+ Well, in the digital world companies do this all the time.
+ 
+ They do it by blasting emails to their customers from `noreply@` email addresses.
+ 
+ ***
+ 
+ # The Golden Rule of Email
+ 
+ A PSA for all businesses and startups. You could call it the _Golden Rule of Email_.
+ 
+ > Email others only if they can email you.
+ 
+ Never send emails from a `noreply@` or `donotreply@` email address.
+  bold
+ 
+ If you can't handle the replies, don't send the email!
+  italics
+ 
+ Let's make email human again!
+ 
+ ***
+ 
+ # At the very least, have an AI inbox
+ 
+ If your business doesn't have the staff to read and reply to emails, you can at least write automatic programs that can do _something_ for the customer.
+ 
+ ***
+ 
+ # _*No*_ Exceptions
+ 
+ My claim is that `noreply@` email addresses are _always_ sub-optimal.
+ 
+ It is _never_ the right design decision. There is _always_ a better way.
+ 
+ Do you think you have an exception? You are wrong! (But let me hear it in the comments)
+ 
+ ***
+ 
+ What do you think of this post? Email me at breck7@gmail.com.
+ 
+ ****
+ 
+ # Appendix 1: Reader Responses
+ 
+ Here are some reader examples with my responses:
  
  ? My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
- Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
+ Bank of Ireland could end each email with a question such as "Anything we can do better? Let us know!". The responses could be aggregated and inform product development.
  
  ? I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
- Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
+ LinkedIn could send these from a `replyToUnsubscribe@linkedin.com`. Replies will stop that kind of notifications.
  
  ? GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
- Could be a `replyToDeauthorize@github.com` instead.
+ Github could send from `replyToDeauthorize@github.com`.
  
  ? Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
  Could be a `replyToStopTracking@google.com`
  
  ? Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
- Could be a `replyToUnsubscribe`
+ Replies could get feedback to the newsletter author.
  
  ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
- Could be a `replyToLeaveAReview`.
+ Replies could be `replyWithYourReview@thewordbooks.com`.
  
  ****
  
- # Appendix: My one-man protest against no-reply email addresses
+ # Appendix 2: My one-man protest against no-reply email addresses
  
  image noNoReplies.png
   openGraph
@@ -4841,13 +4947,11 @@
       
   
  
- 
- 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/misinformationOrFakeNewsNeuralNetwork.scroll
  date 10/15/2022
- groups All IntellectualFreedom Society
+ tags All IntellectualFreedom Society
  title Training a neural network to spot misinformation and fake news from a single image
  
  import header.scroll
@@ -4868,7 +4972,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/scratch-ticket.scroll
  date 10/07/2022
- groups All Startups
+ tags All Startups
  title A scratch ticket with a positive expected value
  
  import header.scroll
@@ -4924,7 +5028,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
  date 9/1/2022
- groups All Startups HasDataset
+ tags All Startups HasDataset
  title An Angel Investor's Data
  
  import header.scroll
@@ -4970,7 +5074,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-the-public-domain-can-win.scroll
  date 08-30-2022
- groups All IntellectualFreedom
+ tags All IntellectualFreedom
  replace KEYMESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
  title How the public domain can win
  
@@ -5026,8 +5130,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/ckmeans.scroll
  date 6/09/2022
- groups All Programming Data HasDataset
- related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
+ tags All Programming Data HasDataset Logeracy
  title The Three Byte Fix
  
  import header.scroll
@@ -5143,7 +5246,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Logeracy
  
  # Notes
  - The industry term for this type of map is Choropleth map.
@@ -5156,7 +5259,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/upstream-of-everything.scroll
  date 2/28/2022
- groups All Life Thinking
+ tags All Life Thinking
  title Upstream of Everything
  
  import header.scroll
@@ -5233,8 +5336,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/brain-pilots.scroll
  date 2/18/2022
- groups All BipolarEnergy Life
- related marvin-minsky mindmap
+ tags All BipolarEnergy Life Minsky
  title Brain Pilots
  
  import header.scroll
@@ -5404,7 +5506,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Minsky
  
  ***
  
@@ -5419,7 +5521,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/aftertext.scroll
  date 12/15/2021
- groups All ScrollNotation Programming Writing
+ tags All Scroll Programming Writing
  title Aftertext
  
  import header.scroll
@@ -5604,7 +5706,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/write-thin-to-write-fast.scroll
  date 2021-10-15
- groups All Writing HasDataset
+ tags All Writing HasDataset
  title Write Thin to Write Fast
  
  // the dataset is the NYTimes
@@ -5728,7 +5830,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/user-methods.scroll
  date 8/11/2021
- groups All Programming
+ tags All Programming
  title User Methods
  
  import header.scroll
@@ -5838,7 +5940,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/elbakian-interview.scroll
  author  Others
  date 05/22/2021
- groups All OtherAuthor
+ tags All OtherAuthor
  title Goblin Interviews Alexandra Elbakian
  
  import header.scroll
@@ -6176,7 +6278,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/dialogues.scroll
  date 2021-05-14
- groups All ScrollNotation
+ tags All Scroll
  permalink dialogues.html
  title Scrolldown now has Dialogues
  
@@ -6214,7 +6316,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-intellectual-freedom-amendment.scroll
  date 2021-05-12
- groups All IntellectualFreedom
+ tags All IntellectualFreedom
  title The Intellectual Freedom Amendment
  
  import header.scroll
@@ -6293,7 +6395,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/some-old-blogs.scroll
  date 2021-05-07
- groups All Writing
+ tags All Writing
  title Some old blogs
  
  import header.scroll
@@ -6340,7 +6442,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/wisdom.scroll
  date 2021-05-06
- groups All Data Writing Life
+ tags All Data Writing Life
  permalink wisdom-a-tiny-language-for-great-advice.html
  title Wisdom: a Tiny Language for Great Advice
  
@@ -6429,8 +6531,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/logeracy.scroll
  date 2021-04-26
- groups All Data Thinking Society
- related bigOsKitchen planets-and-pebbles orders-of-magnitude
+ tags All Data Thinking Society Hits Logeracy
  title Logeracy
  
  import header.scroll
@@ -6534,7 +6635,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Logeracy
  
  # Notes
  ^coinage I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
@@ -6556,7 +6657,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-fix-the-cdc.scroll
  date 2021-03-30
- groups All Society
+ tags All Society
  title How to fix the CDC
  
  import header.scroll
@@ -6644,7 +6745,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/how-james-park-built-fitbit.scroll
  author  Others
  date 2021-03-11
- groups All OtherAuthor
+ tags All OtherAuthor
  title How James Park built FitBit
  
  import header.scroll
@@ -7206,7 +7307,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/insist-on-focus.scroll
  author  Others
  date 2021-02-28 2
- groups All Startups OtherAuthor
+ tags All Startups OtherAuthor
  permalink insist-on-focus.html
  title "Insist on Focus" - Keith Rabois describes working at PayPal
  
@@ -7257,7 +7358,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-public-domain-publishing-company.scroll
  date 2021-02-28 1
- groups All IntellectualFreedom Startups ScrollNotation
+ tags All IntellectualFreedom Startups Scroll
  title The Public Domain Publishing Company
  
  import header.scroll
@@ -7282,7 +7383,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/scroll-beta.scroll
  date 2021-02-22
- groups All ScrollNotation Programming Writing
+ tags All Scroll Programming Writing
  title Scroll Beta
  
  import header.scroll
@@ -7314,7 +7415,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/sleepyTimeConference.scroll
  date 2021-02-11
- groups All Society Startups
+ tags All Society Startups
  title Sleepy Time Conference
  
  import header.scroll
@@ -7393,9 +7494,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/tree-notation-annual-report-2019.scroll
  date 2020-12-09
- groups All ScrollNotation Programming
- permalink tree-notation-annual-report-2019.html
- related treeNotationFinalReport show-hn-programming-is-now-two-dimensional
+ tags All Scroll Programming
  title 2019 Tree Notation Annual Report
  
  import header.scroll
@@ -7406,9 +7505,9 @@
  * _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
   dateline
  
- In 2017 I wrote a post about a half-baked idea I named ScrollNotation.
+ In 2017 I wrote a post about a half-baked idea I named Scroll Notation.
   link show-hn-programming-is-now-two-dimensional.html post
-  https://treenotation.org ScrollNotation
+  https://treenotation.org Scroll Notation
  
  Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is sub-optimal and why we need more complex syntax."
  
@@ -7619,7 +7718,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Scroll
  
  ***
  
@@ -7632,7 +7731,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/medical-records-to-the-moon.scroll
  date 2020-03-02
- groups All Thinking Society HasDataset Data
+ tags All Thinking Society HasDataset Data
  title Medical Records to the Moon
  
  import header.scroll
@@ -7737,7 +7836,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
  date 2020-03-02
- groups All Thinking Society
+ tags All Thinking Society
  title Musing on the Future of Healthcare
  
  import header.scroll
@@ -7770,7 +7869,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-old-are-these-keys.scroll
  date 2020-02-25
- groups All Thinking Society HasDataset
+ tags All Thinking Society HasDataset
  title How Old Are These Keys? Five Eras of Human Progress
  
  import header.scroll
@@ -7952,7 +8051,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-unpopular-phrase.scroll
  date 2020-02-21
- groups All IntellectualFreedom
+ tags All IntellectualFreedom
  title An Unpopular Phrase
  
  import header.scroll
@@ -7999,7 +8098,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/integrity-and-perseverance-in-business-ensure-success.scroll
  date 2020-02-09
- groups All Startups
+ tags All Startups
  permalink integrity-and-perseverance-in-business-ensure-success.html
  title Integrity and Perseverance in Business ensure success (1853)
  
@@ -8036,7 +8135,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/building-a-treebase-with-6-point-5-million-files.scroll
  date 2020-01-29
- groups All ScrollNotation Programming HasDataset
+ tags All Scroll Programming HasDataset
  permalink building-a-treebase-with-6.5-million-files.html
  title Building a TreeBase with 6.5 million files
  
@@ -8737,8 +8836,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/dataset-needed.scroll
  date 2020-01-23
- groups All Data Thinking Society Writing IntellectualFreedom
- related scrollsets datasets dreaming-of-a-data-checked-language
+ tags All Data Thinking Society Writing IntellectualFreedom ScrollSets
  title Dataset Needed
  
  import header.scroll
@@ -8789,13 +8887,13 @@
   link dreaming-of-a-data-checked-language.html earlier post
  
  # Related Posts
- printRelatedList
+ printRelated ScrollSets
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/type-the-world.scroll
  date 2020-01-20
- groups All Programming Thinking ScrollNotation
+ tags All Programming Thinking Scroll
  title Type the World
  
  import header.scroll
@@ -8979,8 +9077,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/if-stories-are-lies-why-do-they-work.scroll
  date 2020-01-16
- groups All Writing Life Data
- related many-narratives-all-true dreaming-of-a-data-checked-language english-cannot-encode-real-news narratives-misrepresent-complex-systems
+ tags All Writing Life Data Narratives
  title If stories are lies why do they work?
  
  import header.scroll
@@ -9027,14 +9124,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Narratives
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dreaming-of-a-data-checked-language.scroll
  date 2020-01-3
- groups All Data Programming Writing Thinking ScrollNotation HasDataset IntellectualFreedom
- related dataset-needed
+ tags All Data Programming Writing Thinking Scroll HasDataset IntellectualFreedom ScrollSets
  title Dreaming of a Data Checked Language
  
  import header.scroll
@@ -9200,14 +9296,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated ScrollSets
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/english-cannot-encode-real-news.scroll
  date 2019-08-19
- groups All Writing Society Data
- related many-narratives-all-true if-stories-are-lies-why-do-they-work narratives-misrepresent-complex-systems
+ tags All Writing Society Data Narratives
  title English cannot encode Real News
  
  import header.scroll
@@ -9282,14 +9377,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Narratives
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/30000hours.scroll
  date 7/18/2019
- groups All Programming Life HasDataset
- related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+ tags All Programming Life HasDataset MasterProgramming
  title 30,000 Hours
  
  import header.scroll
@@ -9372,7 +9466,7 @@
  Sorry for the delay!
  
  # Related Posts
- printRelatedList
+ printRelated MasterProgramming
  
  // Originally posted here: https://github.com/breck7/30000hours
  
@@ -9380,7 +9474,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/going-manic-with-a-fitbit.scroll
  date 1/13/2018
- groups All BipolarEnergy HasDataset
+ tags All BipolarEnergy HasDataset
  title Going Manic with a FitBit
  
  import header.scroll
@@ -9504,9 +9598,329 @@
  
  import footer.scroll
  
+/home/runner/work/breckyunits.com/breckyunits.com/countingComplexity.scroll
+ date 12/20/2017
+ tags All Scroll ScrollPapers
+ 
+ import header.scroll
+ printTitle
+ 
+ # Yet another method for counting complexity.
+ 
+ printAuthors
+ printDate
+ 
+ mediumColumns 1
+ 
+ ***
+ 
+ # Introduction
+ 
+ quote
+  ...make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.
+  - On the Method of Theoretical Physics, Albert Einstein
+ 
+ The above quote is commonly paraphrased as "Make things as simple as possible, but not simpler."
+ 
+ This statement presents a hard problem. How do we know when we've made things as simple as possible?
+ 
+ How do you count complexity?
+ 
+ ***
+ 
+ One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
+ 
+ In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.
+  link treenotationPaper.html Scroll Notation
+ 
+ ***
+ 
+ # Overview
+ The method introduced here, named Scroll Notation Complexity (SNC), can be used to measure the complexity of an entity X. It operates as follows.
+ 
+ 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
+ 2. Given the assumption that all structures can be represented as trees, we can then use Scroll Notation, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Scroll Notation language defined by a grammar, `G0`.
+  link aGrammarNotationForTreeLanguages.html grammar
+ 3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
+ 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
+ 5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
+ 
+ ***
+ 
+ # Simple Example #1
+ 
+ Which concept is more complex, a boolean digit (0 or 1) or a base-10 digit (between 0 and 9)?
+ 
+ Let's imagine a machine that takes as input one character and returns true if that input is defined in a program written for that machine.
+ 
+ Let's encode both concepts using one Scroll Notation language (not defined here).
+ 
+ code
+  boolean
+   0
+   1
+  digit
+   0
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+ 
+ Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes for the "digit".
+ 
+ Hence, by this simple SNC measure we can say that a digit is more complex than a boolean.
+ 
+ ***
+ 
+ # Simple Example #2
+ 
+ Next, let's imagine a similar string matching program that returns true on "pat,pit,pin,bat,bit,bin,fat,fit,fin".
+ 
+ In this example, we use two different machines that implement two different languages.
+ 
+ The programming language for MachineA can accept only one letter per node.
+ 
+ The language for MachineB can accept multiple characters per node and will test its input against each character.
+ 
+ code
+  programA
+   p
+    a
+     t
+    i
+     n
+   b
+    a
+     t
+    i
+     n
+   f
+    a
+     t
+    i
+     n
+  programB
+   pbf
+    ai
+     tn
+ 
+ image programs.png
+  caption A visualization of the nodes of the two programs above.
+ 
+ Both programs are equivalent in that they both will return the same thing for the same input.
+ 
+ ProgramA requires fifteen nodes while programB requires three nodes.
+ 
+ Hence, the programB is less complex by this measure, _given machineA and machineB_ (I will explain later what I mean by "given machineA and machineB").
+ 
+ 
+ ***
+ 
+ # Atomic Components of Complexity
+ 
+ image atomicUnits.png
+  caption A visualization of the countable atomic units in SNC.
+  float right
+ 
+ SNC has more atomic units to count beyond nodes.
+ 
+ In SNC countable atomic units of complexity include:
+ 
+ - trees (files/2D planes/documents)
+ - nodes (messages/lines in a file)
+ - words (cells/delimited by spaces)
+ - edges (line indentation)
+ - and word edges (words that are pointers to other nodes/words)
+ 
+ Other derived measures could be devised as well, but in this paper we look at only the atomic units fully necessary to describe an entity.
+ 
+ 
+ 
+ ***
+ 
+ # Relative vs Total Complexity
+ 
+ In the example above, programB was less complex than programA "given machineA and machineB".
+ 
+ However, if we were measuring Total Complexity of programA and programB, we might find that programA is less complex, as the complexity of the tree representation of machineA might be less complex than the complexity of the tree representation of machineB.
+ 
+ Total Complexity of an entity aggregates the complexity of the tree representation of the entity along with the tree representations of all its dependencies.
+ 
+ Another trivial example might be, given a computer that can execute both C code and Python code, and a task to sum some numbers from a CSV file, a program in Python would be less complex.
+ 
+ But the Total Complexity of the Python program might be greater than that of the C program, when dependencies are measured.
+ 
+ ***
+ 
+ # Why Scroll Notation?
+ 
+ SNC is one of many systems that measure the "difficulty of description"^Lloyd. This means SNC doesn't measure complexity directly, rather the description of the entity is measured.
+ 
+ Scroll Notation is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
+ 
+ Basic primitives like the bit, the concept of a word, or an AND gate have a Scroll Notation representation.
+ 
+ Macro objects, like the Linux Kernel, could also be described using just Scroll Notation.
+ 
+ Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
+ 
+ ***
+ 
+ Scroll Notation is minimal and unambiguous.
+ 
+ Descriptions written in Scroll Notation can expand gracefully to handle new ideas.
+ 
+ Other descriptions become noisier or repetitive over time, whereas Scroll Notation is a noiseless encoding and the signal in the information remains strong over time.
+ 
+ ***
+ 
+ Scroll Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
+ 
+ SNC thus could enable cross-domain complexity comparisons.
+ 
+ In a sense, Scroll Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
+ 
+ ***
+ 
+ Furthermore, items encoded in Scroll Notation can be thought of and visualized as existing in 3-Dimensions.
+ 
+ This is far-off speculation, but perhaps there exists a correlation between the SNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
+ 
+ ***
+ 
+ # Big Complexity
+ 
+ How complex is the U.S. tax code?
+ 
+ How complex is the Linux Kernel?
+ 
+ How complex is a comprehensive description of the human brain?
+ 
+ How complex is a comprehensive blueprint of the new iPhone?
+ 
+ At the moment no total complexity descriptive project so ambitious has been attempted in Scroll Notation.
+ 
+ It is an open question as to whether or not such an accomplishment is even possible.
+ 
+ For example, a back of the envelope estimate of how many nodes might be in the total Scroll Notation description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
+ 
+ One thing is certain: assuming Scroll Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
+ 
+ ***
+ 
+ # Growth of Complexity
+ 
+ The Total Complexity of the world increases monotonically over time in terms of raw atomic units like tree, node and edge counts.
+ 
+ However, new higher level trees are also constantly introduced, reducing Relative complexity in many areas at the same time that absolute complexity generally increases.
+ 
+ Relative Complexity measurements of concepts ebbs and flows in sinusoidal waves, while the underlying absolute complexity steadily increases.
+ 
+ ***
+ 
+ # Conclusion and Future Work
+ 
+ To an evergrowing number of systems for measuring I add one more: Scroll Notation Complexity.
+ 
+ The benefit of this system is that it is simple, practical, universal, and scale free.
+ 
+ Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
+ 
+ ****
+ 
+ 
+ # Bibliography
+ ^Edmonds Edmonds, B. (1999). Syntactic Measures of Complexity. Doctoral Thesis, University of Manchester, Manchester, UK.
+ ^Mitchell Mitchell, M., 2009. Complexity: A guided tour. Oxford University Press.
+ ^Lloyd Lloyd, Seth. "Measures of complexity: a nonexhaustive list." IEEE Control Systems Magazine 21.4 (2001): 7-8.
+ 
+ // I originally published this to Arxiv, but they removed it.
+ 
+ ***
+ 
+ # Related Posts
+ printRelated ScrollPapers
+ 
+ katex
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/aGrammarNotationForTreeLanguages.scroll
+ date 9/10/2017
+ tags All Scroll ScrollPapers
+ 
+ import header.scroll
+ printTitle
+ 
+ printAuthors
+ printDate
+ 
+ mediumColumns 1
+ 
+ I introduce the core idea of a new grammar notation for formally describing Tree Languages.
+  italics
+ 
+ ***
+ 
+ # Introduction
+ 
+ Creating a great programming language is a multi-step process. One step in that process is to decide on syntax and formally define a language in a grammar notation such as BNF. Unfortunately, like the programming languages they describe, these grammar notations are complex and error-prone.
+ 
+ Below I introduce the core idea of a much simpler grammar notation for defining Tree Languages.
+ 
+ ***
+ 
+ # A Grammar Notation for Tree Languages
+ 
+ A Tree Language Grammar is a `double` consisting of a set of Keyword Definitions and a catchall Keyword.
+ 
+ A Keyword Definition is a `double` consisting of a unique keyword identifier and a Grammar.
+ 
+ Everything is encoded in Tree Notation, hence the grammar notation itself is a Tree Language.
+ 
+ # Example
+ 
+ A Tree Language Grammar file for an imagined Tree Language called Tally, with 2 possible recursive keywords `{+, -}` might look like this:
+ 
+ code
+  Tally
+   catchAll error
+   keywords
+    error
+    expression Tally
+     words int+
+    + expression
+    - expression
+ 
+ A valid program in the Tally language defined by the file above:
+ 
+ code
+  + 4 5
+   - 1 1
+ 
+ ***
+ 
+ # Conclusion and Future Work
+ 
+ The introduction above is minimal but shows the core idea: Tree Languages can be formally defined in a simple grammar notation that itself is a Tree Language.
+ 
+ Ohayo Computer has developed a compiler-compiler for these grammar files. Future publications and/or open source releases will delve into the additional features found in the compiler-compiler and its associated grammar.
+ 
+ ****
+ 
+ # Related Posts
+ printRelated ScrollPapers
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/ohayo.scroll
  date 2017-06-23
- groups All Data Programming Startups ScrollNotation
+ tags All Data Programming Startups Scroll
  title Ohayo
  
  import header.scroll
@@ -9528,8 +9942,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/show-hn-programming-is-now-two-dimensional.scroll
  date 2017-06-21
- groups All ScrollNotation Programming
- related treeNotationFinalReport tree-notation-annual-report-2019
+ tags All Scroll Programming
  title Show HN: Programming is Now Two-Dimensional
  
  import header.scroll
@@ -9580,13 +9993,178 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated ScrollPapers
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/treenotationPaper.scroll
+ date 6/21/2017
+ tags All Scroll ScrollPapers
+ 
+ import header.scroll
+ title Tree Notation: an antifragile program notation
+ printTitle
+ 
+ printAuthors
+ printDate
+ 
+ mediumColumns 1
+ 
+ ***
+ 
+ This paper presents Tree Notation, a new simple, universal syntax. Language designers can invent new programming languages, called Tree Languages, on top of Tree Notation. Tree Languages have a number of advantages over traditional programming languages.
+ 
+ We include a Visual Abstract to succinctly display the problem and discovery. Then we describe the problem--the BNF to abstract syntax tree (AST) parse step--and introduce the novel solution we discovered: a new family of 2D programming languages that are written directly as geometric trees.
+ 
+ ***
+ 
+ image treenotation.png
+  caption Figure 1. This Visual Abstract explains the core idea of the paper. This diagram is also the output of a program written in a new Tree Language called Flow.
+   link diagram.flow program
+ 
+ # The Problem
+ 
+ Programming is complicated. Our current 1-dimensional languages (1DLs) add to this complexity. To run 1DL code we first strip whitespace, then transform it to an AST and then transform that to executable machine code. These intermediate steps have enabled local minimum gains in developer productivity. But programmers lose time and insight due to discrepancies between 1DL code and ASTs.
+ 
+ # The Solution: Tree Notation
+ 
+ In this paper and accompanying GitHub ES6 Repo (GER), we introduce Tree Notation (TN), a new 2D notation. A node in TN maps to an XY point on a 2D plane. You can extend TN to create domain specific languages (DSLs) that don't require a transformation to a discordant AST. These DSLs, called Tree Languages (TLs), are easy to create and can be simple or Turing Complete.
+  https://github.com/breck7/treenotation GER
+ 
+ TN encodes one data structure, a `TreeNode`, with two members: a string called `line` and an optional array of child TreeNodes called `children`.
+ 
+ TN defines two special characters, Y Increment (YI) and X Increment (XI). YI is ` \n` and XI is ` `.  XI is a space, not a tab. Many TLs also add a Word Increment (WI) to provide a more succint way of encoding common node types.
+ 
+ A comparison quickly illustrates nearly the entirety of the notation:
+ 
+ codeWithHeader JSON
+  {
+   "title" : "Web Stats",
+   "visitors": {
+    "mozilla": 802
+   }
+  }
+ 
+ codeWithHeader Tree Notation
+  title Web Stats
+  visitors
+   mozilla 802
+ 
+ # Useful Properties
+ 
+ ## Simplicity
+ As shown in Figure 1, TN simply maps source code to an XY plane which makes reading code locally and globally easy, and TL programs use far fewer source nodes than equivalent 1DL programs. TLs let programmers write much shorter, perfect programs.
+ 
+ ## Zero parse errors
+ Parse errors do not exist in TN. Every text string is a valid TN program. TLs implement microparsers that parallelize easily and can creatively handle errors.
+ 
+ With most 1DLs, to get from a blank program to a certain valid program in keystroke increments requires stops at invalid programs. With TN all intermediate steps are valid TN programs.
+ 
+ A user can edit the nodes of a program at runtime with no risk of breaking the TN parsing of the entire program. "Errors", still can exist at the TL level, but TL microparsers can handle errors independently and even correct errors automatically. TLs cut development and debug time.
+ 
+ ## Semantic diffs
+ 
+ 1DLs ignore whitespace and so permit programmers and programs to encode the same object to different programs. This often causes merge conflicts for non-semantic changes.
+ 
+ TN does not ignore whitespace and diffs contain only semantic meaning. Just one right way to encode a program.
+ 
+ ## Easy composition
+ 
+ Base notations such as XML^Bray, JSON^Crockford, and Racket^Racket can encode multi-lingual programs by complecting language blocks. For example, the JSON program below requires extra nodes to encode Python:
+ 
+ code
+  {
+   "source": [
+    "import hn.np as lz\n",
+    "print(\"aaronsw pdm ah as mo gb 28-3\")"
+    ]
+  }
+ 
+ With TN, the Python code requires no complecting:
+ 
+ code
+  source
+   import hn.np as lz
+   print("aaronsw pdm ah as mo gb 28-3")
+ 
+ # Drawbacks
+ 
+ TN is new and tooling support rounds to zero.
+ 
+ TN lacks primitive types. Many 1DLs have notations for common types like floats, and parse directly to efficient in-memory structures. TLs make TN useful. The GER demonstrates how useful TLs can be built with just a few lines of code, which is far less code than one needs to implement even a simple 1DL such as JSON^Ooms.
+ 
+ TN is verbose without a TL. A complex node in TN takes multiple lines. Base 1DLs allow multiple nodes per line.
+ 
+ Some developers dislike space-indented notations, some wrongly prefer tabs, and some just have no taste.
+ 
+ # Predictions
+ 
+ *Prediction 1: no structure will be found that cannot serialize to TN.* Some LISP programmers believe all structures are recursive lists (or perhaps "recursive cons"). We believe in The Tree Conjecture (TTC): *All structures are trees*.
+ 
+ For example, a map could serialize to MapTL:
+ 
+ code
+  dsl Domain Specific Language
+  sf San Francisco
+ 
+ Therefore, maps are a type of tree. TTC stands.
+ 
+ *Prediction 2: TLs will be found for every popular 1DL.* Below is some code in a simple TL, JsonTL:
+ 
+ code
+  o
+   s dsl yrt
+   n ma 902
+ 
+ 
+ TLs will be found for great 1DLs including C, RISC-V, ES6, and Arc. Some TLs have already been found^Roughan, but their common TN DNA has gone unseen. The immediate benefit of creating a TL for an 1DL is that programs can then be written in a TL editor and compiled to that 1DL.
+ 
+ *Prediction 3: Tree Oriented Programming (TOP) will supersede Object Oriented Programming.* A new style of programming, TOP, will arise. TOP programmers will frequently reference 2D views of their program.
+ 
+ *Prediction 4: The simplest 2D text encodings for neural networks will be TLs.* High level TLs will be found to translate machine written programs into understandable trees.
+ 
+ # Literature Review
+ 
+ Turing Machines with 2D Tapes have been studied and are known to be Turing Complete^Toida. A few esoteric 2D programming languages are available online^Ender. At time of publication, 387 programming languages and notations were searched and many thousands of pages of research and code was read but TN was not found.
+ 
+ The closest someone came to discovering TN, and TLs, was perhaps Mark B. Wells, who wrote a brillant paper at Los Alamos, back in 1972 which predicted the discovery and utility of something like TLs^Wells.
+ 
+ # Further Research
+ 
+ The GER contains a TN parser, grammar notation, Tree Language compiler-compiler (TLCC), VM, and some TLs.
+ 
+ Future publications might explore the Tree Notation Grammar, TLCC, or machine-written TL programs.
+ 
+ image tree.jpg
+  Rearranging these fridge magnets is equivalent to editing a TN program. The fridge magnet set that includes parentheses is a poor seller.
+ 
+ ****
+ 
+ # References
+ 
+ ^Wells Wells, Mark B. "A REVIEW OF TWO-DIMENSIONAL PROGRAMMING LANGUAGES*". 1972. http://sci-hub.cc/10.1145/942576.807009 (visited in 2017).
+ 
+ ^Bray Bray, Tim, et al. "Extensible markup language (XML)." World Wide Web Consortium Recommendation REC-xml-19980210. http://www. w3. org/TR/1998/REC-xml-19980210 16 (1998): 16.
+ 
+ ^Crockford Crockford, Douglas. "The application/json media type for javascript object notation (json)." (2006).
+ 
+ ^Racket Tobin-Hochstadt, Sam, et al. "Languages as libraries." ACM SIGPLAN Notices. Vol. 46. No. 6. ACM, 2011.
+ 
+ ^Ooms Ooms, Jeroen. "The jsonlite package: A practical and consistent mapping between json data and r objects." arXiv preprint arXiv:1403.2805 (2014).
+ 
+ ^Roughan Roughan, Matthew, and Jonathan Tuke. "Unravelling graph-exchange file formats." arXiv preprint arXiv:1503.02781 (2015).
+ 
+ ^Toida Toida, Shunichi. "Types of Turing Machines." http://www.cs.odu.edu/~toida/nerzic/390teched/tm/othertms.html (visited in 2017).
+ 
+ ^Ender Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
+ 
+ katex
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/big-data-notation.scroll
  date 2013-09-24
- groups All Data Programming Thinking
+ tags All Data Programming Thinking
  title Big Data Notation
  
  import header.scroll
@@ -9617,7 +10195,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/nudgepad-an-ide-in-your-browser.scroll
  date 2013-09-23
- groups All Programming Startups ScrollNotation
+ tags All Programming Startups Scroll
  title NudgePad: An IDE in Your Browser
  
  import header.scroll
@@ -9677,8 +10255,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/spacenet.scroll
  date 6/2/2013
- groups All Programming ScrollNotation
- related wws
+ tags All Programming Scroll WWS
  title SpaceNet: A successor to the Internet
  
  import header.scroll
@@ -9755,7 +10332,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated WWS
  
  ***
  
@@ -9766,7 +10343,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/software-should-save-people-time.scroll
  date 2013-04-02
- groups All Programming
+ tags All Programming
  title Software Should Save People Time
  
  import header.scroll
@@ -9813,7 +10390,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/time.scroll
  date 2013-04-01
- groups All Life
+ tags All Life
  title Time
  
  import header.scroll
@@ -9841,7 +10418,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/money-is-meant-to-circulate.scroll
  date 2013-03-30
- groups All Life Society
+ tags All Life Society
  title Money is Meant to Circulate
  
  import header.scroll
@@ -9866,8 +10443,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-10000-hours.scroll
  date 2013-03-30
- groups All Life Thinking Data
- related 30000hours
+ tags All Life Thinking Data MasterProgramming
  title Why 10,000 hours?
  
  import header.scroll
@@ -9899,13 +10475,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated MasterProgramming
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/minor-epiphanies.scroll
  date 2013-03-16
- groups All Programming
+ tags All Programming
  title Minor Epiphanies
  
  import header.scroll
@@ -9944,7 +10520,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-booster-design-pattern.scroll
  date 2013-03-08
- groups All Startups
+ tags All Startups
  title The Booster Design Pattern
  
  import header.scroll
@@ -9963,7 +10539,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/startups-and-planes.scroll
  date 2013-02-24
- groups All Startups
+ tags All Startups
  title Startups and Planes
  
  import header.scroll
@@ -9982,7 +10558,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/save-your-money-for-great-values.scroll
  date 2013-02-16
- groups All Life Thinking
+ tags All Life Thinking Hits
  title Save Your Money for Great Values
  
  import header.scroll
@@ -10013,7 +10589,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/infinite-futures.scroll
  date 2013-02-12
- groups All Life Thinking
+ tags All Life Thinking
  title Infinite Futures
  
  import header.scroll
@@ -10038,7 +10614,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/prove-it.scroll
  date 2012-12-29
- groups All Life
+ tags All Life Motivation
  title Prove It
  
  import header.scroll
@@ -10073,7 +10649,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-great-bank-robbery.scroll
  date 2012-12-23
- groups All Society HasDataset
+ tags All Society HasDataset
  title The Great Bank Robbery
  
  import header.scroll
@@ -10111,7 +10687,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/responsibility.scroll
  date 2012-12-22
- groups All Life
+ tags All Life
  title Responsibility
  
  import header.scroll
@@ -10146,7 +10722,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/black-swans-and-technology.scroll
  date 2012-12-19
- groups All Thinking Startups
+ tags All Thinking Startups
  title Black Swans and Technology
  
  import header.scroll
@@ -10192,7 +10768,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/deliver.scroll
  date 2012-12-19
- groups All Life
+ tags All Life
  title Deliver
  
  import header.scroll
@@ -10246,7 +10822,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/cant-lose-could-win-big.scroll
  date 2012-12-18
- groups All Life Startups
+ tags All Life Startups
  permalink cant-lose-could-win-big.html
  title Can't Lose. Could Win Big.
  
@@ -10287,7 +10863,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/probability-makes-planes-fly.scroll
  date 2012-12-18
- groups All Thinking Life
+ tags All Thinking Life
  title Probability Makes Planes Fly
  
  import header.scroll
@@ -10343,8 +10919,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/narratives-misrepresent-complex-systems.scroll
  date 2012-12-16
- groups All Thinking Writing Life
- related many-narratives-all-true english-cannot-encode-real-news
+ tags All Thinking Writing Life Narratives
  title Narratives Misrepresent Complex Systems
  
  import header.scroll
@@ -10432,7 +11007,7 @@
  (Influenced a lot by Taleb's new book, Antifragile.)
  
  # Related Posts
- printRelatedList
+ printRelated Narratives
  
  
  
@@ -10440,7 +11015,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-is.scroll
  date 2012-12-16
- groups All Life Thinking
+ tags All Life Thinking
  permalink simple-is.html
  title Simple is...
  
@@ -10473,7 +11048,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/introducing-note.scroll
  date 2012-12-14
- groups All ScrollNotation Programming
+ tags All Scroll Programming
  title Introducing Note
  
  import header.scroll
@@ -10538,8 +11113,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/planets-and-pebbles.scroll
  date 2012-11-26
- groups All Thinking
- related bigOsKitchen logeracy orders-of-magnitude
+ tags All Thinking Logeracy Hits
  title Planets and Pebbles
  
  import header.scroll
@@ -10560,14 +11134,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Logeracy
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/publishing-more.scroll
  date 2012-11-25
- groups All Writing
- related bloggingAsTherapy im-back
+ tags All Writing Blogging
  title Publishing More
  
  import header.scroll
@@ -10595,13 +11168,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Blogging
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/setplicity.scroll
  date 2012-11-20
- groups All Programming Thinking
+ tags All Programming Thinking
  title Setplicity
  
  import header.scroll
@@ -10643,7 +11216,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/naming-things.scroll
  date 2012-10-20
- groups All Programming Writing
+ tags All Programming Writing
  title Naming Things
  
  import header.scroll
@@ -10682,8 +11255,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.scroll
  date 2011-03-30
- groups All Programming Life
- related 30000hours twelve-tips-to-master-programming-faster
+ tags All Programming Life MasterProgramming
  title What can a Programmer learn from Rock Climbing?
  
  import header.scroll
@@ -10725,13 +11297,13 @@
  - I'm a terrible rock climber and only a decent programmer. Take all my advice with a grain of salt.
  
  # Related Posts
- printRelatedList
+ printRelated MasterProgramming
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/look-for-a-line.scroll
  date 2011-03-05
- groups All Startups Thinking
+ tags All Startups Thinking
  title Look for a Line
  
  import header.scroll
@@ -10760,7 +11332,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/backpack-the-world-with-zero-planning.scroll
  date 2011-03-04
- groups All Life
+ tags All Life
  title Backpack the World with Zero Planning
  
  import header.scroll
@@ -10823,7 +11395,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-economy-explained.scroll
  date 2010-09-18
- groups All Society
+ tags All Society
  title The Economy Explained
  
  import header.scroll
@@ -10885,7 +11457,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/circle-of-competence.scroll
  date 2010-08-25
- groups All Life
+ tags All Life
  title Circle of Competence
  
  import header.scroll
@@ -10911,7 +11483,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/critical-thinking.scroll
  date 2010-08-25
- groups All Life
+ tags All Life
  title Critical Thinking
  
  import header.scroll
@@ -10932,7 +11504,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-is-intelligence-distributed.scroll
  date 2010-08-25
- groups All Thinking Society
+ tags All Thinking Society
  title How is Intelligence Distributed?
  
  import header.scroll
@@ -10955,7 +11527,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/kids-are-neat.scroll
  date 2010-08-25
- groups All Life Society
+ tags All Life Society
  title Kids are Neat
  
  import header.scroll
@@ -10976,7 +11548,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/nature-verse-nurture.scroll
  date 2010-08-25
- groups All Life Society
+ tags All Life Society
  title Nature Verse Nurture
  
  import header.scroll
@@ -11003,7 +11575,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/recommendations-are-far-from-good.scroll
  date 2010-08-25
- groups All Thinking Society
+ tags All Thinking Society
  title Recommendations Are Far From Good
  
  import header.scroll
@@ -11033,7 +11605,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/ruby.scroll
  date 2010-08-25
- groups All Programming
+ tags All Programming
  title Ruby
  
  import header.scroll
@@ -11052,7 +11624,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/you-cant-predict-the-future.scroll
  date 2010-08-25
- groups All Thinking Life
+ tags All Thinking Life
  title You Can't Predict the Future
  
  import header.scroll
@@ -11093,7 +11665,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-recency-effect.scroll
  date 2010-08-23
- groups All Thinking Society
+ tags All Thinking Society
  title The Recency Effect
  
  import header.scroll
@@ -11128,7 +11700,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-percentage-of-the-brain-does-what.scroll
  date 2010-08-23
- groups All Thinking
+ tags All Thinking
  title What Percentage of the Brain Does What?
  
  import header.scroll
@@ -11165,7 +11737,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-ovarian-lottery-and-other-side-projects.scroll
  date 2010-08-11
- groups All Thinking Data Society
+ tags All Thinking Data Society
  title The Ovarian Lottery and Other Side Projects
  
  import header.scroll
@@ -11256,7 +11828,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/happiness-is-in-mediocristan.scroll
  date 2010-08-06
- groups All Thinking Life
+ tags All Thinking Life
  title Happiness is in Mediocristan
  
  import header.scroll
@@ -11303,7 +11875,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/orbits.scroll
  date 2010-08-06
- groups All Thinking Life
+ tags All Thinking Life
  title Orbits
  
  import header.scroll
@@ -11335,7 +11907,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-i-want.scroll
  date 2010-08-06
- groups All Life
+ tags All Life
  title What I Want
  
  import header.scroll
@@ -11386,7 +11958,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-do-you-know-game-and-why-we-need-celebrities.scroll
  date 2010-08-03
- groups All Society
+ tags All Society
  title The Do You Know Game and Why We Need Celebrities
  
  import header.scroll
@@ -11452,9 +12024,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/design-matters-a-lot.scroll
  date 2010-07-02
- groups All Programming Startups
+ tags All Programming Startups Design
  permalink design-matters-a-lot.html
- related the-truth-about-web-design
  title Design Matters. A lot.
  
  import header.scroll
@@ -11510,7 +12081,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Design
  
  # Notes
  - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
@@ -11519,7 +12090,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/competition-and-specialization.scroll
  date 2010-06-28
- groups All Startups Society
+ tags All Startups Society
  title Competition and Specialization
  
  import header.scroll
@@ -11551,7 +12122,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-but-not-easy.scroll
  date 2010-06-17
- groups All Startups Life
+ tags All Startups Life
  title Simple, but not easy
  
  import header.scroll
@@ -11592,7 +12163,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/flip-flopping.scroll
  date 2010-06-16
- groups All Life
+ tags All Life
  title Flip Flopping
  
  import header.scroll
@@ -11637,7 +12208,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-churn-rate-of-data.scroll
  date 2010-06-15
- groups All Data Thinking Programming
+ tags All Data Thinking Programming
  title The Churn Rate of Data
  
  import header.scroll
@@ -11666,7 +12237,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/culture-and-complexity.scroll
  date 2010-06-14
- groups All Society Life
+ tags All Society Life
  title Culture and Complexity
  
  import header.scroll
@@ -11709,7 +12280,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-invention-of-free-will.scroll
  date 2010-03-24
- groups All Life
+ tags All Life
  title The Invention of Free Will
  
  import header.scroll
@@ -11751,7 +12322,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-is-it-best-to-do-one-thing-really-really-well.scroll
  date 2010-03-22
- groups All Startups
+ tags All Startups
  title Why is it best to do one thing really, really well?
  
  import header.scroll
@@ -11810,7 +12381,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-hidden-benefits-of-automation.scroll
  date 2010-03-17
- groups All Programming
+ tags All Programming
  title The Hidden Benefits of Automation
  
  import header.scroll
@@ -11849,7 +12420,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/metrics-for-programmers.scroll
  date 2010-03-16
- groups All Programming HasDataset
+ tags All Programming HasDataset
  title Metrics for Programmers
  
  import header.scroll
@@ -11886,7 +12457,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/hackernews-data-visits-as-a-function-of-karma.scroll
  date 2010-03-08
- groups All Programming Startups HasDataset
+ tags All Programming Startups HasDataset
  title HackerNews Data: Visits as a Function of Karma
  
  import header.scroll
@@ -11928,8 +12499,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/dont-talk-about-what-you-will-do-talk-about-what-you-have-done.scroll
  date 2010-02-19
- groups All Life
- related prove-it
+ tags All Life Motivation
  title Don't talk about what you will do, talk about what you have done
  
  import header.scroll
@@ -11991,7 +12561,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Motivation
  
  # Notes
  1. In other words, don't over-promise and under-deliver.
@@ -12000,8 +12570,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-its-worth-it-to-buy-the-book.scroll
  date 2010-02-17
- groups All Life Thinking
- related save-your-money-for-great-values
+ tags All Life Thinking Hits
  title Why it's worth it to buy the book
  
  import header.scroll
@@ -12035,7 +12604,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Hits
  
  # Notes
  1. Even if a book is more expensive, say $50, the numbers don't change too much.
@@ -12045,7 +12614,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-least-you-can-do.scroll
  date 2010-02-02
- groups All Life
+ tags All Life
  title The Least You Can Do
  
  import header.scroll
@@ -12099,7 +12668,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/four-tips-to-improve-communication.scroll
  date 2010-01-29
- groups All Life
+ tags All Life
  title Four Tips to Improve Communication
  
  import header.scroll
@@ -12130,7 +12699,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/network-effects.scroll
  date 2010-01-22
- groups All Startups Society
+ tags All Startups Society
  title Network Effects
  
  import header.scroll
@@ -12165,7 +12734,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/if-you-can-explain-something-logically-you-can-explain-it-simply.scroll
  date 2010-01-18
- groups All Writing
+ tags All Writing
  title If you can explain something logically, you can explain it simply
  
  import header.scroll
@@ -12213,7 +12782,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.scroll
  date 2010-01-15
- groups All Programming Life
+ tags All Programming Life
  title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
  
  import header.scroll
@@ -12288,7 +12857,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/when-forced-to-wait-wait.scroll
  date 2010-01-14
- groups All Life
+ tags All Life
  title When forced to wait, wait!
  
  import header.scroll
@@ -12342,7 +12911,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-buy-low-sell-high.scroll
  date 2010-01-12
- groups All Life
+ tags All Life
  title How to Buy Low, Sell High
  
  import header.scroll
@@ -12391,7 +12960,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/flee-the-bubble.scroll
  date 2010-01-05
- groups All Startups
+ tags All Startups
  title Flee the Bubble
  
  import header.scroll
@@ -12450,7 +13019,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/checklist-for-new-products.scroll
  date 2009-12-28
- groups All Startups
+ tags All Startups
  title Checklist for New Products
  
  import header.scroll
@@ -12490,7 +13059,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/diversification-in-startups.scroll
  date 2009-12-24
- groups All Startups
+ tags All Startups
  title Diversification in Startups
  
  import header.scroll
@@ -12578,7 +13147,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/thoughts-on-setting-goals.scroll
  date 2009-12-23
- groups All Life
+ tags All Life
  title Thoughts on Setting Goals
  
  import header.scroll
@@ -12633,7 +13202,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/problems-worth-solving.scroll
  date 2009-12-20
- groups All Programming Startups
+ tags All Programming Startups
  title Problems Worth Solving
  
  import header.scroll
@@ -12672,7 +13241,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/make-something-40-of-your-customers-must-have.scroll
  date 2009-12-16
- groups All Startups
+ tags All Startups
  title Make Something 40% of Your Customers Must Have
  
  import header.scroll
@@ -12776,7 +13345,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/seo-made-easy-lumps.scroll
  date 2009-12-15
- groups All Programming Startups
+ tags All Programming Startups
  title SEO Made Easy: LUMPS
  
  import header.scroll
@@ -12850,7 +13419,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/dont-flip-the-bozo-bit.scroll
  date 2009-12-13
- groups All Programming Life
+ tags All Programming Life
  title Don't Flip the Bozo Bit
  
  import header.scroll
@@ -12900,7 +13469,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/unfeatures.scroll
  date 2009-12-11
- groups All Programming Startups
+ tags All Programming Startups
  title (un)features
  
  import header.scroll
@@ -12951,7 +13520,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/get-stuff-done-by-setting-arbitrary-constraints.scroll
  date 2009-12-10
- groups All Life
+ tags All Life
  title Get Stuff Done By Setting Arbitrary Constraints
  
  import header.scroll
@@ -13000,7 +13569,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.scroll
  date 2009-12-09
- groups All Writing
+ tags All Writing
  title Why You Shouldn't Save Blogging for Old Age
  
  import header.scroll
@@ -13043,7 +13612,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/6-specific-ways-to-find-programming-mentors.scroll
  date 2009-12-08
- groups All Programming
+ tags All Programming MasterProgramming
  title 6 Specific Ways to Find Programming Mentors
  
  import header.scroll
@@ -13090,12 +13659,17 @@
  # Notes
  1. That exercise percentage is a guess, but sounds right to me.
  
+ ***
+ 
+ # Related Posts
+ printRelated MasterProgramming
+ 
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orders-of-magnitude.scroll
  date 2009-12-07
- groups All Thinking
- related bigOsKitchen logeracy planets-and-pebbles
+ tags All Thinking Logeracy Hits
  title Orders of Magnitude
  
  import header.scroll
@@ -13154,7 +13728,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Logeracy
  
  # Notes
  - WolframAlpha
@@ -13166,7 +13740,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-many-worlds-law.scroll
  date 2009-12-06
- groups All Life Thinking
+ tags All Life Thinking
  title The Many Worlds Law
  
  import header.scroll
@@ -13209,8 +13783,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/twelve-tips-to-master-programming-faster.scroll
  date 2009-12-04
- groups All Programming
- related 30000hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+ tags All Programming MasterProgramming
  title Twelve Tips to Master Programming Faster
  
  import header.scroll
@@ -13296,13 +13869,13 @@
  3. I still have a long way to go to become a "great programmer", 2-4 more years I'd say.
  
  # Related Posts
- printRelatedList
+ printRelated MasterProgramming
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/whats-linear-algebra.scroll
  date 2009-12-03
- groups All Thinking
+ tags All Thinking
  title What's Linear Algebra?
  
  import header.scroll
@@ -13347,7 +13920,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/fiction-or-nonfiction.scroll
  date 2009-12-02 3
- groups All Writing
+ tags All Writing
  title Fiction or Nonfiction?
  
  import header.scroll
@@ -13402,7 +13975,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/experience-is-what-you-get.scroll
  date 2009-12-02 2
- groups All Life
+ tags All Life
  title Experience is What You Get
  
  import header.scroll
@@ -13431,8 +14004,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/im-back.scroll
  date 2009-12-02 1
- groups All Writing
- related publishing-more i-guess-the-time-had-come
+ tags All Writing Blogging
  title I'm Back
  
  import header.scroll
@@ -13460,13 +14032,13 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Blogging
  
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-you-focus-on-increases.scroll
  date 2009-05-06
- groups All Startups Thinking Life
+ tags All Startups Thinking Life
  title What you focus on, increases
  
  import header.scroll
@@ -13516,8 +14088,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-truth-about-web-design.scroll
  date 2009-04-14
- groups All Startups Programming
- related design-matters-a-lot
+ tags All Startups Programming Design
  title The Truth about Web Design
  
  import header.scroll
@@ -13541,7 +14112,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Design
  
  import importedNote.scroll
  
@@ -13552,7 +14123,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/twitter-search-wins-again.scroll
  date 2009-04-06
- groups All Startups
+ tags All Startups
  title Twitter Search Wins Again
  
  import header.scroll
@@ -13585,7 +14156,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/irrational-numbers.scroll
  date 2009-03-31
- groups All Thinking
+ tags All Thinking
  title Irrational Numbers
  
  import header.scroll
@@ -13624,7 +14195,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/are-you-making-something-that-will-become-absolutely-irrelevant.scroll
  date 2009-01-05
- groups All Startups
+ tags All Startups
  title Are you Making Something that will become ‘Absolutely Irrelevant’?
  
  import header.scroll
@@ -13674,7 +14245,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/meteorite-caught-on-film.scroll
  date 2008-11-23
- groups All Society
+ tags All Society
  title Meteorite Caught on Film
  
  import header.scroll
@@ -13697,7 +14268,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/my-best-startup-advice-numbers-numbers-numbers.scroll
  date 2008-10-12
- groups All Startups
+ tags All Startups
  title When the Market Says No, Listen
  
  import header.scroll
@@ -13748,7 +14319,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/san-francisco.scroll
  date 2008-09-19
- groups All Startups
+ tags All Startups
  title San Francisco
  
  import header.scroll
@@ -13769,7 +14340,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/justhackit.scroll
  date 2008-08-20
- groups All Startups
+ tags All Startups
  title JustHackIt
  
  import header.scroll
@@ -13801,7 +14372,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.scroll
  date 2008-07-28
- groups All Society
+ tags All Society
  title Bigger Telescopes are needed to Solve Global Warming
  
  import header.scroll
@@ -13838,7 +14409,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-cure-the-hiccups.scroll
  date 2008-07-28
- groups All Life
+ tags All Life
  title How to Cure the Hiccups
  
  import header.scroll
@@ -13872,7 +14443,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/trying-shelfari-goodreads-and-librarything.scroll
  date 2008-07-27
- groups All Thinking Life
+ tags All Thinking Life
  title Trying Shelfari, GoodReads, and LibraryThing
  
  import header.scroll
@@ -13912,7 +14483,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/over-half-of-the-world-is-older-than-me.scroll
  date 2008-07-09
- groups All Life
+ tags All Life
  title Over Half of the World is Older Than Me
  
  import header.scroll
@@ -13945,8 +14516,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggers-who-turned-pro-and-their-famous-last-words.scroll
  date 2008-07-07
- groups All Writing HasDataset
- related write-thin-to-write-fast why-you-shouldnt-save-blogging-for-old-age
+ tags All Writing HasDataset
  title Bloggers Turning Pro
  
  import header.scroll
@@ -14016,7 +14586,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Writing
  
  import importedNote.scroll
  
@@ -14027,7 +14597,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.scroll
  date 2008-05-14
- groups All Society Data
+ tags All Society Data
  title Daily Gas Use for the United States and the World
  
  import header.scroll
@@ -14060,7 +14630,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.scroll
  date 2008-05-08
- groups All Startups HasDataset
+ tags All Startups HasDataset
  title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
  
  import header.scroll
@@ -14192,7 +14762,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/first-place-in-the-stock-market-game.scroll
  date 2007-09-28
- groups All Startups
+ tags All Startups
  title First Place in the Stock Market Game
  
  import header.scroll
@@ -14226,7 +14796,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.scroll
  date 2007-09-13
- groups All Startups
+ tags All Startups
  title Why a Team is Worth a lot more than an Idea
  
  import header.scroll
@@ -14267,7 +14837,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/learning-how-to-program-part-i.scroll
  date 2007-08-28
- groups All Programming
+ tags All Programming
  title Learning How to Program Part I
  
  import header.scroll
@@ -14305,8 +14875,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/i-guess-the-time-had-come.scroll
  date 2007-08-24
- groups All Writing Life
- related im-back
+ tags All Writing Life Blogging
  title I guess the time has come
  
  import header.scroll
@@ -14329,7 +14898,7 @@
  ****
  
  # Related Posts
- printRelatedList
+ printRelated Blogging
  
  import importedNote.scroll
  

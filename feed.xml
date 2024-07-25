@@ -4,8 +4,13 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Mon, 22 Jul 2024 21:00:01 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 25 Jul 2024 02:29:56 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>Abraham Lincoln: "Discourage Litigation."</title>
+  <link>https://breckyunits.com/litigation.html</link>
+  <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>ETA!: A Measure of Evolution</title>
   <link>https://breckyunits.com/eta.html</link>
@@ -42,12 +47,12 @@
   <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>A Measure of Intelligence</title>
+  <title>ICS: A Measure of Intelligence</title>
   <link>https://breckyunits.com/intelligence.html</link>
   <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>PCRI</title>
+  <title>PCRI: An Equation about Syntax Potential</title>
   <link>https://breckyunits.com/pcri.html</link>
   <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
  </item>
@@ -87,7 +92,7 @@
   <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>A New Way to Store Knowledge</title>
+  <title>ScrollSets: A New Way to Store Knowledge</title>
   <link>https://breckyunits.com/scrollsets.html</link>
   <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
  </item>
@@ -532,6 +537,16 @@
   <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
  </item>
  <item>
+  <title>Counting Complexity</title>
+  <link>https://breckyunits.com/countingComplexity.html</link>
+  <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>A Grammar Notation For Tree Languages</title>
+  <link>https://breckyunits.com/aGrammarNotationForTreeLanguages.html</link>
+  <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+ </item>
+ <item>
   <title>Ohayo</title>
   <link>https://breckyunits.com/ohayo.html</link>
   <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
@@ -539,6 +554,11 @@
  <item>
   <title>Show HN: Programming is Now Two-Dimensional</title>
   <link>https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html</link>
+  <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Tree Notation: an antifragile program notation</title>
+  <link>https://breckyunits.com/treenotationPaper.html</link>
   <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
  </item>
  <item>

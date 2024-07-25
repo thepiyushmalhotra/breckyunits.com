@@ -1,5 +1,5 @@
 date 7/18/2024
-groups All IntellectualFreedom Programming ScrollNotation Society
+tags All IntellectualFreedom Programming Scroll Society ScrollPapers
 openGraphImage eta.png
 title ETA!: A Measure of Evolution
 
@@ -22,13 +22,13 @@ Are some intellectual environments better than others? Yes.
 <center>
 
 katex
- \text{E} = \text{T} \text{A}!
+ \text{E} = \text{T} / \text{A}!
 
-plainTextOnly EvolutionTime(I) = Time(I') * AssemblyPool!
+plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
 </center>
 <br><br>
 
-ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
  // fitness of alterations
  // average time
  // more evolution time === slower, longer duration of ideas staying in worse states
@@ -38,13 +38,16 @@ Longer evolution times means worse ideas last longer before evolving into better
 ***
 
 katex
- \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
+ \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) / \text{AssemblyPool}!
 
 ***
 
 You can lengthen the lifespan of bad ideas by increasing the time to test alterations or reducing the size of the Assembly Pool.
 
 You can evolve good ideas faster by decreasing the time to test alterations and increasing the size of the Assembly Pool.
+
+The number of test threads is proportional to the size of the Assembly Pool.
+ // open question: is it A!? or something like logA?
 
 ***
 
@@ -75,6 +78,9 @@ Luckily $A^A$ is still in the factorial class so the memorable acronym still app
 - Thank you to Connor McCormick for superb feedback.
  https://warpcast.com/nor Connor McCormick
  https://warpcast.com/nor/0xf847d93e superb feedback
+- Thank you to Cobe Liu for pointing out it should be T/A!.
+ https://warpcast.com/liucobe Cobe Liu
+ https://warpcast.com/liucobe/0x5e0c3936 pointing out
 - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
 
 import footer.scroll

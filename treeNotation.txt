@@ -21,13 +21,13 @@ Download this Blog
 06/11/2024
 https://breckyunits.com/download.html
 
-A Measure of Intelligence
-=========================
+ICS: A Measure of Intelligence
+==============================
 06/06/2024
 https://breckyunits.com/intelligence.html
 
-PCRI
-====
+PCRI: An Equation about Syntax Potential
+========================================
 05/31/2024
 https://breckyunits.com/pcri.html
 
@@ -41,10 +41,15 @@ What can we learn from programming language version numbers?
 05/25/2024
 https://breckyunits.com/versionNumbers.html
 
-A New Way to Store Knowledge
-============================
+ScrollSets: A New Way to Store Knowledge
+========================================
 05/21/2024
 https://breckyunits.com/scrollsets.html
+
+Hot Coffee
+==========
+04/23/2024
+https://breckyunits.com/datasets.html
 
 Final Tree Notation Report
 ==========================
@@ -111,6 +116,11 @@ Building a TreeBase with 6.5 million files
 01/29/2020
 https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
 
+Dataset Needed
+==============
+01/23/2020
+https://breckyunits.com/dataset-needed.html
+
 Type the World
 ==============
 01/20/2020
@@ -121,6 +131,16 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
+Counting Complexity
+===================
+12/20/2017
+https://breckyunits.com/countingComplexity.html
+
+A Grammar Notation For Tree Languages
+=====================================
+09/10/2017
+https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+
 Ohayo
 =====
 06/23/2017
@@ -130,6 +150,11 @@ Show HN: Programming is Now Two-Dimensional
 ===========================================
 06/21/2017
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html
 
 NudgePad: An IDE in Your Browser
 ================================

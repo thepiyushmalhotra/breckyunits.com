@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+Abraham Lincoln: "Discourage Litigation."
+=========================================
+07/23/2024
+https://breckyunits.com/litigation.html
+
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
@@ -36,13 +41,13 @@ Download this Blog
 06/11/2024
 https://breckyunits.com/download.html
 
-A Measure of Intelligence
-=========================
+ICS: A Measure of Intelligence
+==============================
 06/06/2024
 https://breckyunits.com/intelligence.html
 
-PCRI
-====
+PCRI: An Equation about Syntax Potential
+========================================
 05/31/2024
 https://breckyunits.com/pcri.html
 
@@ -81,8 +86,8 @@ The Omni Restaurant
 05/23/2024
 https://breckyunits.com/omniRestaurant.html
 
-A New Way to Store Knowledge
-============================
+ScrollSets: A New Way to Store Knowledge
+========================================
 05/21/2024
 https://breckyunits.com/scrollsets.html
 
@@ -526,6 +531,16 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
+Counting Complexity
+===================
+12/20/2017
+https://breckyunits.com/countingComplexity.html
+
+A Grammar Notation For Tree Languages
+=====================================
+09/10/2017
+https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+
 Ohayo
 =====
 06/23/2017
@@ -535,6 +550,11 @@ Show HN: Programming is Now Two-Dimensional
 ===========================================
 06/21/2017
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html
 
 Big Data Notation
 =================

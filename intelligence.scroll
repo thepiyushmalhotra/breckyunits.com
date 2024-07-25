@@ -1,7 +1,7 @@
 date 6/6/2024
-groups All Programming ScrollNotation
+tags All Programming Scroll ScrollPapers
 openGraphImage intelligence.png
-title A Measure of Intelligence
+title ICS: A Measure of Intelligence
 
 import header.scroll
 printTitle
@@ -43,5 +43,8 @@ If they have the same coverage, the smaller program is more intelligent.
 // A measure that includes energy may be even more intelligent.
 
 ****
+
+# Related Posts
+printRelated ScrollPapers
 
 import footer.scroll

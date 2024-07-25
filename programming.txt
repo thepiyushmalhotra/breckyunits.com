@@ -16,13 +16,13 @@ Download this Blog
 06/11/2024
 https://breckyunits.com/download.html
 
-A Measure of Intelligence
-=========================
+ICS: A Measure of Intelligence
+==============================
 06/06/2024
 https://breckyunits.com/intelligence.html
 
-PCRI
-====
+PCRI: An Equation about Syntax Potential
+========================================
 05/31/2024
 https://breckyunits.com/pcri.html
 
@@ -51,8 +51,8 @@ Abort Bars
 05/24/2024
 https://breckyunits.com/abortBar.html
 
-A New Way to Store Knowledge
-============================
+ScrollSets: A New Way to Store Knowledge
+========================================
 05/21/2024
 https://breckyunits.com/scrollsets.html
 
@@ -200,6 +200,11 @@ Software Should Save People Time
 ================================
 04/02/2013
 https://breckyunits.com/software-should-save-people-time.html
+
+Why 10,000 hours?
+=================
+03/30/2013
+https://breckyunits.com/why-10000-hours.html
 
 Minor Epiphanies
 ================
