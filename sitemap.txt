@@ -1,6 +1,7 @@
 https://breckyunits.com/wws.html
 https://breckyunits.com/writing.html
 https://breckyunits.com/when-woman-is-boss.html
+https://breckyunits.com/webRing.html
 https://breckyunits.com/treeNotation.html
 https://breckyunits.com/thinking.html
 https://breckyunits.com/teslaAutobiography.html
@@ -9,10 +10,12 @@ https://breckyunits.com/source.html
 https://breckyunits.com/society.html
 https://breckyunits.com/search.html
 https://breckyunits.com/programming.html
+https://breckyunits.com/pcri.html
 https://breckyunits.com/parserStats.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
 https://breckyunits.com/life.html
 https://breckyunits.com/index.html
+https://breckyunits.com/heatmap.html
 https://breckyunits.com/gazetteTag.html
 https://breckyunits.com/gazette.html
 https://breckyunits.com/full.html
@@ -22,6 +25,7 @@ https://breckyunits.com/data.html
 https://breckyunits.com/csv.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
+https://breckyunits.com/davidsLastLetter.html
 https://breckyunits.com/litigation.html
 https://breckyunits.com/eta.html
 https://breckyunits.com/earlySource.html
@@ -33,7 +37,7 @@ https://breckyunits.com/wws.html
 https://breckyunits.com/download.html
 https://breckyunits.com/intelligence.html
 https://breckyunits.com/tooFast.html
-https://breckyunits.com/pcri.html
+https://breckyunits.com/ptcri.html
 https://breckyunits.com/patch.html
 https://breckyunits.com/meaning.html
 https://breckyunits.com/lab.html
