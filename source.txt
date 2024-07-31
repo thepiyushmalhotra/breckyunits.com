@@ -3644,7 +3644,7 @@
  import header.scroll
  printTitle
  printAuthors
- thinColumns 2
+ mediumColumns 1
  
  In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
   dateline
@@ -4442,7 +4442,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
  
@@ -4490,6 +4490,11 @@
  
  ****
  
+ image emerson.jpeg
+  caption I loved this 1904 quote from Ralph Waldo Emerson, which I saw in a Tweet from Dylan O'Sullivan.
+   https://www.theatlantic.com/magazine/archive/1904/11/country-life/376194/ 1904 quote
+   https://x.com/DylanoA4/status/1816503516833476691 a Tweet from Dylan O'Sullivan
+ 
  # Notes
  
  ^chatgpt I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
@@ -4504,8 +4509,8 @@
  title The Magnificent Multi-Agent Mind of Marvin Minsky
  
  import header.scroll
+ mediumColumns 1
  printTitle
- thinColumns 2
  
  If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
   dateline
@@ -4594,24 +4599,30 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.
   dateline
  
  image enchained.jpeg
+  caption I wish I could say that copyright is not intellectual slavery, but saying it is not would be a lie.
+   link an-unpopular-phrase.html intellectual slavery
  
- endSnippet
+ ***
  
  Be suspicious of those who enchain symbols. They want the symbols to serve them, not you.
  
  The enchainers dream of enchaining all the symbols. They want everyone to be dependent upon them.
+ 
+ ***
  
  Enchained symbols are harder to verify for truth. You cannot readily audit enchained symbols.
  
  Enchained symbols evolve slowly. Enchained symbols can only be improved by their enchainers.
  
  Enchained symbols waste the time of the reader compared to their unchained equivalents. The Enchainers are incentivized to hide and corrupt the unchained equivalents.
+ 
+ ***
  
  The top priority of the enchainers is to keep your attention on enchained symbols. Enchained symbols ensure attention of the population can be controlled.
  
@@ -4623,11 +4634,17 @@
  
  Enchainers collude with each other. The enemy of the enchainer isn't their fellow enchainer, but the great populace who might one day wake up.
  
+ ***
+ 
  Because unchained symbols are strictly superior to enchained symbols, they are the biggest threat to enchained symbols. The Enchainers made all symbols enchained by default.
+ 
+ ***
  
  Humans have had symbols for 1% of history but 99% of humans have lived during that 1%. Enchaining symbols is a strange way to show appreciation.
  
- No true lover of symbols would ever enchain them.
+ ***
+ 
+ No one who loves ideas would ever enchain them.
  
  ****
  
@@ -4785,16 +4802,27 @@
  import header.scroll
  printTitle
  
- thinColumns 2
- 
- Greater than 99% of the time symbols are read and written on surfaces with spines. You cannot get away from it. Yet still, amongst programming language designers there exists some sort of "spine blindness". They overlook the fact that no matter how perfect their language, it will always be read and written by humans on surfaces with spines, as surely as the sun rises. Why they would fight this and not embrace this is beyond me. Nature provides, man ignores.
-  dateline
+ mediumColumns 1
  
  image spines.jpg
   openGraph
+  width 400
   caption My M1 MacBook screen, paper notebook, notepads, and my 1920 copy of Einstein's Theory of Relativity, all have spines.
  
- endSnippet
+ Greater than 99% of the time symbols are read and written on surfaces with spines.
+  dateline
+ 
+ You cannot get away from this.
+ 
+ Yet still, amongst programming language designers there exists some sort of "spine blindness".
+ 
+ They overlook the fact that no matter how perfect their language, it will always be read and written by humans on surfaces with spines, as surely as the sun rises.
+ 
+ Why they would fight this and not embrace this is beyond me.
+ 
+ Nature provides, man ignores.
+ 
+ ***
  
  ## What does it mean for a language to "use the spine"?
  There are many other terms for _using the spine_. The off-side rule. Semantic indentation. Grid languages. Significant whitespace. I would define it as:
@@ -4804,9 +4832,13 @@
  quote
   To use the spine is to recognize that all programs in your language will be read and written on surfaces with not only a horizontal but also a vertical axis—the spine—and thus you should design your language to exploit this free and guaranteed resource.
  
+ ***
+ 
  ## The lessons from Positional Notation
  Over one thousand years ago humans started to catch on that you could _exploit the surface_ that numbers were written on to represent infinite numbers with a finite amount of symbols. You define your base symbols and then use multiplication times position to generate endlessly large numbers. From this positional base, humans further created many clever editing and computational techniques. Positional notation languages would go on to dominate the number writing world.
   https://en.wikipedia.org/wiki/Positional_notation Positional notation
+ 
+ ***
  
  ## Programming languages that use the spine are more successful
  Similarly, in programming languages we are now seeing more than 50% of programmers using languages that use the spine, even though languages of this kind make up fewer than 2% of all languages.
@@ -4815,11 +4847,15 @@
   caption Data from PLDB.io shows only 57 out of 4,228 computer languages use the spine. Less than 1.5%. Yet in that 1.5% are some of the most popular ones such as Python and YAML. This is probably signal.
    https://pldb.io/docs/csv.html PLDB.io
  
+ ***
+ 
  ## Spreadsheets use the spine
  When one expands one classification of programming languages to include spreadsheet languages, then the evidence is overwhelming: languages that use the spine are dominating. Excel and Google sheets famously have over 1 billion users and makes heavy use of the spine.
  
  image explorer.jpg
   caption Spreadsheets have used the spine and have over 1 billion users—orders of magnitude more than 1D programming languages.
+ 
+ ***
  
  ## At the dawn of a language revolution
  I firmly believe that this simple trick—using the spine—will unleash a wave of innovation that will eventually replace all top programming languages with better, more human friendly two dimensional ones. I already have dozens of tricks that I use in my daily programming world that exploit the fact that my languages use the spine. I expect innovative programmers will discover many many more. Good luck and have fun.
@@ -4836,28 +4872,32 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
- Forget all the "best practices" you've learned about web forms. _Everyone is doing it wrong_. The true best practice is this: every web form on earth can and should be replaced by a single textarea.
+ image oneTextarea.gif
+  openGraph
+  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+   https://github.com/breck7/copypaster demo gif
+ 
+ Forget all the "best practices" you've learned about web forms. _Everyone is doing it wrong_. The true best practice is this: every web form on earth can and will be replaced by a single textarea.
   dateline
   hoverNote replaced
    The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Scroll Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
  
- image oneTextarea.gif
-  openGraph
-  caption Every single web form on earth can (and should) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
-   https://github.com/breck7/copypaster demo gif
- 
- endSnippet
+ ***
  
  # The Web Form Gravy Train
  Being in the web form business is great. Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done. But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
  
  Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes. So much can go wrong!
  
- So much to bill for! In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. Stayed in five star hotels. Flown first class. It's crazy—the worse the user experience, the more they pay me.
+ So much to bill for! In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. It's crazy—the worse the user experience, the more they pay me.
  
  I try to argue for what users want: simple, fast, transparent, trustworthy, but no one listens. They are afraid to think different. No one understands language oriented programming. No one understands you don't ever need parentheses. No one wants to stray from the herd and be first.
+  https://school.racket-lang.org/2019/plan/mon-mor-lecture.html language oriented programming
+  link ptcri.html you don't ever need parentheses
+ 
+ ***
  
  # Even Stripe sucks
  
@@ -4865,6 +4905,8 @@
  
  Stripe is the poster child for web form "experts". And Stripe sucks compared to the demo I released 8 years ago. I still can't do copy/paste with Stripe forms or instant eReceipts or work on forms offline.
   https://www.youtube.com/watch?v=DV4Nv23bBwQ the demo
+ 
+ ***
  
  # A Golden Opportunity
  If you're smart, honest and ambitious and you know the web stack boy oh boy is there a golden opportunity here. All my web forms now are one textarea and we are seeing exceptional results. Please go get rich bringing this technology to the masses. When you're rich you don't have to thank me—if I come across your form in the wild and it saves me time that will be thanks enough.
@@ -5081,17 +5123,18 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  In 2007 we came up with an idea for a scratch ticket that would give everyday Americans a positive expected value.
   dateline
  
  image seemewin.jpg
   openGraph
+  width 300
   caption Still makes me laugh.
    https://www.youtube.com/watch?v=SgG63QYZaE0
  
- endSnippet
+ ***
  
  # Backstory
  In 2007 I cofounded a startup called SeeMeWin.com that combined 3 ideas that were hot at the time: Justin.TV, ESPN's WSOP, and the MillionDollarHomepage.com.
@@ -5106,9 +5149,20 @@
  
  Needless to say I sucked at business and drove the startup into the ground.
  
+ ***
  # What I learned from our users
  
- When doing SeeMeWin, we developed a cult following. I thought that people would see our show, be entertained, and learn that scratch tickets are silly and make you lose money and put their money toward smarter investments. Instead, some people watched for hours on end, and we realized a lot of them were hard on their luck with gambling problems and needed help. My idea of teaching them something was stupid and not working. Could we come up with our own scratch ticket that was better than the competition?
+ When doing SeeMeWin, we developed a cult following.
+ 
+ I thought that people would see our show, be entertained, and learn that scratch tickets are silly and make you lose money and put their money toward smarter investments.
+ 
+ Instead, some people watched for hours on end, and we realized a lot of them were hard on their luck with gambling problems and needed help.
+ 
+ My idea of teaching them something was stupid and not working.
+ 
+ Could we come up with our own scratch ticket that was better than the competition?
+ 
+ ***
  
  # The idea (patent not yet pending ;) )
  
@@ -5120,12 +5174,14 @@
  
  I think it's still a great idea. I unfortunately was 23 and drove that business into the ground so someone else will have to do it.
  
- Thank you to everyone that helped with this big failure especially ANGEL BIGUNIT BLUTH DTI FIRST HARVARD KONES QDUKE SUITCASE WELLESLEY WIFI WINDSOCK.
+ ****
+ 
+ # Notes
+ 
+ - Thank you to everyone that helped with this big failure especially: Angel Bigunit Bluth Dti First Harvard Kones Qduke Suitcase Wellesley Wifi Windsock.
  
  image pmarca.png
   caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
- 
- ****
  
  import footer.scroll
  
@@ -5137,7 +5193,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  There's a trend where people are publishing _real data first_, and then insights. Here is my data from angel investing:
   dateline
@@ -5146,21 +5202,29 @@
   openGraph
   caption Sigh. I am sharing my data as a png. We need a beautiful plain text spreadsheet language.
  
- endSnippet
+ ***
  
  # Bottom line
  I left my job at big company in 2016 and since then my average after tax annual take home has been $91,759. As you can see from my data, a single change could have dropped that to $0. I have worked at two non-profits since I left big company, so I have had other smaller sources of income. It was years before I get any return and there was a time where I thought I might go bust.
  
+ ***
+ 
  # Dumb Luck
  At first I took myself seriously and thought I would be one of those smart "value add" investors. I am not. I have little idea what I'm doing. The one investment I made that did well pivoted to a very different idea than what they started with, in a domain I knew a lot less about. I sent them a lot of bad ideas. Luckily I don't think they followed any of them. At some point I changed my pitch to _I'll be there for the comic relief_.
+ 
+ ***
  
  # Counting my blessings, moving on
  Last year I explored making a career of being a full time angel. I do love building things with great teams and it's fun to parallelize. But the pull from programming and science is too strong. I still will send bad ideas to the companies I invested in for many years, I hope, but going to keep this part-time. My focus is back to writing code. It's not good luck if you don't do something good with it.
  
  Of course, there are a few exceptions here and there. I love sites like Angel List, WeFunder, Republic, et cetera, where I can make impulse investments and don't have to deal with useless forms. If there's one thing I hate, it's useless forms.
  
+ ***
+ 
  # Gratitude
  Angel investing changed my life. Not just because of the returns, but for getting to witness deeply personal trials and tribulations from many entrepreneurs over many years. Although I personally didn't improve the trajectory of any of the companies I've worked with, they have improved my life. And they are all doing great things to improve the world. If you are a founder I invested in reading this: _thank you_.
+ 
+ ***
  
  # $5,000 investments
  I included only the investments I made where I wired $10,000 or more. That is 17. I made lots of smaller bets but those don't change the dataset much. My one piece of advice if you're getting in this game is to make as many investments as you can of small sizes to increase your learning rate.
@@ -5170,8 +5234,8 @@
  # Reading List
  More posts in the category of Angel Investors publishing data:
  
- readingList
-  https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
+ - Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
+  https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016
  
  import footer.scroll
  
@@ -5184,10 +5248,12 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  KEYMESSAGE If enough capable people start building public domain products we can change the world.
   dateline
+ 
+ ***
  
  It took me 18 years to figure this out. In 2004 I did what you would now call "first principles thinking" about copyright law. Even a dumb 20 year old college kid can deduce it's a bad system and unethical. _I have to tell people so we can fix this_. I was naive. Thus began 18 years of failed strategies and tactics.
   hoverNote bad system
@@ -5199,18 +5265,53 @@
   caption One of the many moves in the struggle for intellectual freedom. Aaron Swartz is a hero whose name and impact will expand for eons.
    https://en.wikipedia.org/wiki/Aaron_Swartz Aaron Swartz
  
- endSnippet
- 
  ## Trust
- You cannot trust non public domain information products. You can only make do. By definition, non public domain information products have a hidden agenda. The company or person embeds their interests into the symbols, and you are not free to change those embeddings. People who promote these products don't care if you spend your time with the right ideas. They want you to spend your time with THEIR version of the ideas. They will take the good ideas of someone like Aristotle and repackage them in their words (in a worse version), and try to manipulate you to spend time with THEIR version. They would rather you waste your time with their enchained versions, then have you access the superior liberated forms.
+ You cannot trust non public domain information products. You can only make do.
+ 
+ By definition, non public domain information products have a hidden agenda. The company or person embeds their interests into the symbols, and you are not free to change those embeddings.
+ 
+ People who promote these products don't care if you spend your time with the right ideas. They want you to spend your time with THEIR version of the ideas. They will take the good ideas of someone like Aristotle and repackage them in their words (in a worse version), and try to manipulate you to spend time with THEIR version.
+ 
+ They would rather you waste your time with their enchained versions, then have you access the superior liberated forms.
  
  ## Speed
- Public domain products are _strictly_ faster to use than non public domain products. Not just faster, orders of magnitude faster. You can deduce this for yourself. Pick any non public domain product. Now enumerate every possible way you might use that product. Write down a estimate of how long it would take you to do that task. Now pretend the author just announced the product is now public domain. Enumerate over your list again, again estimating the time it would take you to do each task. For some tasks that time estimate won't change, for many it will drop from hours to _instant_. For some it might drop from _years_ to instant. For example, say the product is a newspaper article about some new government bill and your task is updating it with links to the actual bill on your government's website and then sharing that with friends—that task goes from something that may take _months_ (getting permissions) to _instant_. When you sum the time savings across all possible use cases of all possible products, you'll see the _orders of magnitude_ speed up caused by public domain products.
+ Public domain products are _strictly_ faster to use than non public domain products.
+ 
+ Not just faster, orders of magnitude faster.
+ 
+ You can prove this yourself:
+ 
+ 1. Pick any non public domain product.
+ 2. Enumerate every possible way you might use that product.
+ 3. Make time estimates for each task.
+ 4. Now pretend the author just announced the product is now public domain.
+ 5. Enumerate over your list again, again estimating the time it would take you to do each task.
+ 
+ For some tasks that time estimate won't change, for many it will drop from hours to _instant_.
+ 
+ For some it might drop from _decades_ to instant.
+ 
+ For example, say the product is a newspaper article about some new government bill and your task is updating it with links to the actual bill on your government's website and then sharing that with friends—that task goes from something that may take _months_ (getting permissions) to _instant_.
+ 
+ When you sum the time savings across all possible use cases of all possible products, you'll see the _orders of magnitude_ speed up caused by public domain products.
  
  ## Cost to build
- Public domain products are far cheaper to build than non public domain products. Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude. This is because not only are most tasks a builder has to do sped up as explained above, but also because building for the public domain means you can immediately _build less_. For example, you don't have to spend a _single moment_ investing in infrastructure to prevent your source code from leaking. Time and resources you are currently wasting on worthless tasks can be reallocated to building the parts of your product that matter.
+ Public domain products are far cheaper to build than non public domain products.
  
- Imagine that! You get to _do less_, _move faster_, and your products will be better and _trusted more_. I can't believe it took me so long to realize the overwhelming superiority of public domain products.
+ Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude. 
+ 
+ This is because not only are most tasks a builder has to do sped up as explained above, but also because building for the public domain means you can immediately _build less_. For example, you don't have to spend a _single moment_ investing in infrastructure to prevent your source code from leaking.
+ 
+ Time and resources you are currently wasting on worthless tasks can be reallocated to building the parts of your product that matter.
+ 
+ ***
+ 
+ # To reiterate
+ You get to _do less_, _move faster_, and your products will be better and _trusted more_.
+ 
+ I can't believe it took me so long to realize the overwhelming superiority of public domain products.
+ 
+ ***
  
  # The Rise of Public Domain Products
  SQLite's meteoric success is not a fluke. Public domain products dominate non public domain alternatives on trust and speed and cost to build. SQLite is the first of millions to come.
@@ -5218,12 +5319,26 @@
   hoverNote the first
    To be precise: SQLite is _one of_ the first. There are many other great examples, including a little thing called the World Wide Web.
  
+ ***
+ 
  ? Is Disney dead?
- Heck no. No way future people will be paying $10 for crappy streams. People will watch their own downloaded public domain files locally. But have you seen _Inside Out_? Amazing movie. It sticks with you. Makes you eager to spend $1,000 on a trip with your family to an _Inside Out_ theme park. Money finds a way. Companies that engage in first principles thinking will also conclude that the math is clear: KEYMESSAGE
+ Heck no.
+ 
+ No way future people will be paying $10 for crappy streams. People will watch their own downloaded public domain files locally. But have you seen _Inside Out_? Amazing movie. It sticks with you. Makes you eager to spend $1,000 on a trip with your family to an _Inside Out_ theme park.
+ 
+ Money finds a way. Companies that engage in first principles thinking will also conclude that the math is clear: KEYMESSAGE
+ 
+ ***
  
  # Build a public domain product
  
- It took me 18 years to figure out that you can't _tell_ people the public domain is better. You have to _show_ them. Try building your own public domain product. Look through the telescope with your own eyes.
+ It took me 18 years to figure out that you can't _tell_ people the public domain is better.
+ 
+ You have to _show_ them.
+ 
+ Try building your own public domain product.
+ 
+ Look through the telescope with your own eyes.
  
  // todo: Build a dataset of public domain products, as suggested by jmiven
  
@@ -7997,7 +8112,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  image keyboard/screenshot.png
   link keyboard/index.html
   caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
@@ -8009,7 +8124,7 @@
  I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
   link keyboard/index.html interactive experiment
  
- endSnippet
+ ***
  
  # The Five Waves of Symbols
  image keyboardChart.png
@@ -8023,6 +8138,8 @@
  - 4. The fourth wave was the invention of the typewriter.
  - 5. And the fifth and most recent wave was the invention of the personal computer.
  
+ ***
+ 
  # Concentric Circles
  An interesting pattern that I never saw before is how the five waves above are roughly arranged in circles.
  
@@ -8030,12 +8147,16 @@
  
  (Again, I'm painting with broad strokes, but I found that to be an interesting pattern.)
  
+ ***
+ 
  # Standing on the Shoulders of Giants
  All of these waves happened before my generation.
  
  Almost all of them before any generation alive today.
  
  The keyboard dataset provides strong evidence that most of our collective wealth is inherited.
+ 
+ ****
  
  # Build Notes
  I got this idea last week and couldn't get it out of my head. Yesterday I took a quick crack at it. I didn't have much time to spare, just enough to explore the big ideas.
@@ -8051,10 +8172,9 @@
  
  I made the thing as fun as I could given time constraints and then shipped.
  
- ---
- 
- * Update: I finally got around to making a chart with this data and adding colors to the keys.
+ Update: I finally got around to making a chart with this data and adding colors to the keys.
   dateline 4/28/2024
+  italics
  
  endColumns
  
@@ -8180,7 +8300,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  One of the most _un_popular phrases I use is the phrase "Intellectual Slavery Laws".
   dateline
@@ -8191,15 +8311,25 @@
  
  Instead of wasting my breath trying to pull them away from the property analogy, lately I've leaned into it and completed the analogy for them. So let me explain "Intellectual Slavery Laws".
  
- endSnippet
+ ***
+ 
+ # Intellectual Slavery Laws
  
  As far as I can figure, you cannot have Property Rights and "Intellectual Property" rights. Having both is logically inconsistent. My computer is my property. However, by law there are billions of peaceful things I cannot do on my computer. Therefore, my computer is not my property.
  
  Unless of course, the argument is that my computer is my property, but some copyright and patent holders have property rights over _me_, so their property rights allow them to restrict my freedom. I still get rights over my property. But other people get rights over me. Property Rights and Intellectual Slavery Laws can logically co-exist! Logical inconsistency solved!
  
+ ***
+ 
+ # The First Step to Having a Logical Debate
+ 
  We can have a logical debate about whether we should have an Intellectual Slavery System, Intellectual Slavery Laws, Intellectual Slavery Law Schools, Intellectual Slavery Lawyers, etc. But we cannot have a _logical_ debate about Intellectual Property Laws. Because the term itself is not logical.
  
+ ***
+ 
  I know, having now used this term with a hundred different people, that this is a not a popular thing to say. But I think someone needs to say it. Do we really think we are going to be an interplanetary species and solve the world's biggest challenges if we keep 99+% of the population in intellectual chains?
+ 
+ ***
  
  # Errata
  - "They are stealing my IP." What would your "IP" be if you weren't "stealing" inventions like words, the alphabet, numbers, rules of physics, etc, that were developed and passed down over thousands of years?
@@ -8216,6 +8346,8 @@
  - One difference between Physical Slavery and Intellectual Slavery is in the latter it is slavery from a million masters.
  - This woman is amazing.
   https://en.wikipedia.org/wiki/Alexandra_Elbakyan
+ 
+ ****
  
  import footer.scroll
  

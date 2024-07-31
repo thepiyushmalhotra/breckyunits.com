@@ -4,7 +4,7 @@ title Walking and other invisible tools of thought
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 
 // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
 
@@ -51,6 +51,11 @@ Listening to certain podcasts—Lex Fridman's comes to mind—can have a similar
  https://lexfridman.com/ Lex Fridman's
 
 ****
+
+image emerson.jpeg
+ caption I loved this 1904 quote from Ralph Waldo Emerson, which I saw in a Tweet from Dylan O'Sullivan.
+  https://www.theatlantic.com/magazine/archive/1904/11/country-life/376194/ 1904 quote
+  https://x.com/DylanoA4/status/1816503516833476691 a Tweet from Dylan O'Sullivan
 
 # Notes
 
