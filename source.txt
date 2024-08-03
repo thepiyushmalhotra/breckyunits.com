@@ -32,6 +32,8 @@
  
  "Learn to research properly" an Internet stranger told me thereby encouraging me not only to learn the ways of academia, but then go far beyond that and truly learn the way research should be done.
  
+ I don't mind honest feedback delivered harshly. Obviously I prefer honest feedback delivered gently, but harsh feedback and dialogue is better than silence. There's a saying about feedback: “Those who mind don’t matter, and those who matter don’t mind!” I want to matter, so please keep the feedback coming!
+ 
  ***
  
  # People not part asshole in public are even worse: huge assholes in private
@@ -40,11 +42,36 @@
  
  ***
  
- The worst thing about Steve Jobs is that he wasn't _asshole enough in public_^sj. Maybe if he showed the same range in public as he did in private, people would have understood more the value of being part asshole.
+ # What specifically is the "asshole" behavior I'm advocating?
+ 
+ Direct, blunt feedback to someone about specific bad *_behavior_*, that may come across as hyperbolic, is awesome. Again, if you can pivot their behavior in a gentle way, prefer that always. But the most unkind thing you can do to them and to our world is to let bad behavior go unchecked in order to "not be an asshole".
+ 
+ No one likes to be the asshole. I _hate_ it. It sucks. But an ounce of prevention is worth a pound of cure, and if you don't nip bad behavior in the bud, it grows.
+ 
+ I do not advocate flipping the bit on people. I believe all people are mostly good, and all can learn to improve their behavior, but they require honest feedback to do that. It's also important to remember due to natural information assymetry, we are naturally biased to judge ourselves by our intentions but others by their actions. Often I give someone blunt feedback and they respond bluntly back correcting me because I was wrong! This is a great outcome that we would not have reached had I flipped the bit on them and not risked being an asshole.
+  link dont-flip-the-bozo-bit.html flipping the bit
+ 
+ ***
+ 
+ # What am I trying to optimize for?
+ 
+ 
+ katex
+  \min_{B, C}
+ 
+ 
+ We want to minimize bad behavior B while also minimizing time spent correcting bad behavior C. If that requires delivering a blunt hyperbolic zinger that risks getting you tagged with the label "asshole", I say go for it.
+ 
+ ***
+ 
+ ? How short should your "fuse" be?
+ My strategy is to be polite 2 or 3 times, and then let the person have it. I'm sure there's improvements to this strategy, would love to hear what other people do.
  
  ***
  
  # Summary
+ 
+ Perhaps the worst thing about Steve Jobs is that he wasn't _asshole enough in public_^sj. Maybe if he showed the same range in public as he did in private, people would have understood more the value of being part asshole.
  
  - 100% Assholes: Avoid! They are so negative and bothered by everything because everything sticks up their ass.
  - 0% Assholes: Avoid! They are full of shit! Or more likely, huge assholes behind closed doors.
@@ -53,6 +80,8 @@
  ****
  
  # Notes
+ - Worth watching.
+  https://www.youtube.com/watch?v=JZ017D_JOPY
  ^stayingWrong The original quote by Ed Catmull. I added the "staying", because I think there is huge upside in being wrong a lot, as long as you pivot quick. There is no upside in _staying_ wrong.
   https://www.youtube.com/watch?v=jyw28WrGt-c The original quote
  ^profanity I removed all angry profanity from their quotes above. I forgive the delivery and am grateful for their feedback.
@@ -4939,22 +4968,36 @@
  
  image oneTextarea.gif
   openGraph
-  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
    https://github.com/breck7/copypaster demo gif
  
- Forget all the "best practices" you've learned about web forms. _Everyone is doing it wrong_. The true best practice is this: every web form on earth can and will be replaced by a single textarea.
+ Forget all the "best practices" you've learned about web forms.
   dateline
-  hoverNote replaced
-   The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Scroll Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
+ 
+ _Everyone is doing it wrong_.
+ 
+ The true best practice is this: every web form on earth can and will be replaced by a single textarea.
+ 
+ Current form technology will become "classic forms" and can still be used as a fallback.
+ 
+ //
+  The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Scroll Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
  
  ***
  
  # The Web Form Gravy Train
- Being in the web form business is great. Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done. But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
+ Being in the web form business is great.
  
- Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes. So much can go wrong!
+ Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done.
  
- So much to bill for! In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. It's crazy—the worse the user experience, the more they pay me.
+ But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
+ 
+ Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes.
+ 
+ So much can go wrong! So much to bill for!
+  bold
+ 
+ In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. It's crazy—the worse the user experience, the more they pay me.
  
  I try to argue for what users want: simple, fast, transparent, trustworthy, but no one listens. They are afraid to think different. No one understands language oriented programming. No one understands you don't ever need parentheses. No one wants to stray from the herd and be first.
   https://school.racket-lang.org/2019/plan/mon-mor-lecture.html language oriented programming
@@ -4968,6 +5011,21 @@
  
  Stripe is the poster child for web form "experts". And Stripe sucks compared to the demo I released 8 years ago. I still can't do copy/paste with Stripe forms or instant eReceipts or work on forms offline.
   https://www.youtube.com/watch?v=DV4Nv23bBwQ the demo
+ 
+ ***
+ 
+ # How it works
+ 
+ This is the early days, think web forms in 1990's. So it's a little bit of work to implement, until tooling and libraries improve.
+ 
+ But it basically boils down to 3 steps:
+ 
+ 1. *Arrange*. Define your form as a "microlang" in Parsers.
+  https://scroll.pub/parserLeetsheet.html Parsers
+ 2. *Accept*. Put a textarea on your web page and use the ScrollSDK and your Parsers microlang to turn it into a rich-text editor.
+  https://github.com/breck7/scrollsdk ScrollSDK
+ 3. *Analyze*. Save form submissions as files on your server and use Scroll to compile them to TSV or whatever you need.
+  https://scroll.pub/ Scroll
  
  ***
  
@@ -6595,7 +6653,7 @@
  
  import footer.scroll
  
-/home/runner/work/breckyunits.com/breckyunits.com/the-intellectual-freedom-amendment.scroll
+/home/runner/work/breckyunits.com/breckyunits.com/ifa.scroll
  date 2021-05-12
  tags All IntellectualFreedom
  title The Intellectual Freedom Amendment
@@ -6603,74 +6661,67 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
- This post is written for people who are anti-copyright and anti-patent.
+ Are you anti-copyright and anti-patent? Then this post is for you.
   dateline
  
- In this post I am not trying to educate newcomers on the pros of Intellectual Freedom.
- 
- I am writing to those who are already strong supporters of open source, Sci-Hub, the Internet Archive, and others.
-  https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
-  https://archive.org/ the Internet Archive
- 
- To that crowd I am trying to plant the seed for a new political strategy. If you think that copyright and patent laws _could be_ a root contributor to some of the big problems of our day, like misinformation (or _fake news_), deteriorating health, and inequality, this post is for you.
+ (If you are new to this issues, you might be more interested in my other posts on Intellectual Freedom)
+  link freedom.html Intellectual Freedom
  
  ***
+ 
+ # To Whom it May Concern
+ 
+ To the lovers of open source, Linux, Sci-Hub, the Internet Archive, OG Napster; to the followers of Aaron Swartz, Alexandra Elbakian and Stephan Kinsella; to all of you that truly love ideas and believe every human should get their own copy of humanity's most intelligent information; I present the idea for a new political strategy.
+  https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
+  https://archive.org/ the Internet Archive
+  http://aaronsw.com/ Aaron Swartz
+  https://en.wikipedia.org/wiki/Napster Napster
+  https://www.kernel.org/ Linux
+  https://x.com/ringo_ring Alexandra Elbakian
+  https://www.stephankinsella.com/ Stephan Kinsella
+ 
+ ***
+ 
+ # A Proposal
  
  I suggest we rally around a simple long-term vision of passing a new Intellectual Freedom Amendment to the U.S. Constitution.
   https://github.com/JesseKPhillips/USA-Constitution/blob/master/Constitution.md U.S. Constitution
  
- I am not positive that if we abolished copyright and patent systems the world would be a better place. Just as I'm not positive that if we switch to clean energy the world would be a better place. Society is a big complex system, and it would be intellectually dishonest to make such a guarantee.
- 
- But there are reasons to believe abolishing copyright and patent systems would be a good bet based on low level first principles.
- 
- ***
- 
- In my study of the spread of truth and knowledge it seems like more publishers and remixers leads to improved truthflow, education, stability and prosperity^if.
- 
- Other people might come with other arguments and perspectives.
- 
- But big debate is not being had.
- 
- ***
- 
- The problem is the debate is always held on the Intellectual Monopoly Industry's home turf.
- 
- So when the debate is on details like what is the ideal length of monopolies, or when illogical terms like "Intellectual Property" are used, you've already conceded too much, and are fighting for local maxima.
- 
- ***
- 
- A stronger and more logical place to  have the debate is upstream of that: debate whether we should have these systems at all.
- 
- I think the Amendment Strategy is clear enough, concrete enough, simple enough that you could get critical mass and start moving the debate upstream.
- 
- ***
- 
- Let's say my hunch is wrong, and that momentum for an Amendment grows, and then in some trial regional experiment it turns out to be a bad idea, society would likely still benefit because the Intellectual Monopoly Industry would have to play defense for once, as opposed to constantly pushing for (and winning) extensions of monopolies.
- 
- _The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
- 
- // Of course, my personal hunch is that Intellectual Freedom is a good idea and the movement would gain steam.
- 
- # An Initial Proposal
- The below proposal is 184 characters.
+ The below proposal is 187 characters.
  
  quote
   Section 1. Article I, Section 8, Clause 8 of this Constitution is hereby repealed.
-  Section 2. Congress shall make no law abridging the right of the people to publish or peaceably implement ideas.
+  Section 2. Congress shall make no law granting monopolies on the publication or implementation of ideas.
  
  I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
  
  ****
  
- ^if Links
- - A Mathematical Model of Copyright
-  link a-mathematical-model-of-copyright.html
- - Intellectual Freedom posts
-  link freedom.html
- - Stephan Kinsella
-  https://www.stephankinsella.com/
+ # Notes
+ 
+ I am not 100% certain that if we abolished copyright and patent systems the world would be a better place.
+ 
+ It would be intellectually dishonest of me to say that.
+ 
+ But I am highly confident it would be a huge improvement based on empirical evidence and theoretical math.
+  link eta.html theoretical math
+  https://cds.cern.ch/record/1164399/ empirical evidence
+ 
+ It would take a lot of thought to do it right, but I know we could pull the transition off without as much disruption as people fear.
+ 
+ The bigger problem is this debate is not being had.
+ 
+ The problem is our side needs a better starting position.
+ 
+ When the debate is on details like what is the ideal length of monopolies, or when illogical terms like "Intellectual Property" are used, you've already conceded too much, and are fighting for local maxima.
+ 
+ A stronger and more logical place to have the debate is upstream of that: debate whether we should have these systems at all.
+ 
+ I think the Amendment Strategy is clear enough, concrete enough, simple enough that you could get critical mass and start moving the debate upstream.
+ 
+ _The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
  
  import footer.scroll
  
@@ -10172,6 +10223,8 @@
  date 9/10/2017
  tags All Scroll ScrollPapers
  
+ title A New Language for Making Languages
+ 
  import header.scroll
  printTitle
  
@@ -10180,42 +10233,42 @@
  
  mediumColumns 1
  
- I introduce the core idea of a new grammar notation for formally describing Tree Languages.
+ I introduce the core idea of a new language for making languages.
   italics
  
  ***
  
  # Introduction
  
- Creating a great programming language is a multi-step process. One step in that process is to decide on syntax and formally define a language in a grammar notation such as BNF. Unfortunately, like the programming languages they describe, these grammar notations are complex and error-prone.
+ Creating a great programming language is a multi-step process. One step in that process is to decide on syntax and formally define a language in a parser notation such as BNF. Unfortunately, like the programming languages they describe, these parser notations are complex, brittle and error-prone.
  
- Below I introduce the core idea of a much simpler grammar notation for defining Tree Languages.
+ Below I introduce the core idea of a much simpler parser notation for defining 2D Languages.
  
  ***
  
- # A Grammar Notation for Tree Languages
+ # Parsers: A language for building languages
  
- A Tree Language Grammar is a `double` consisting of a set of Keyword Definitions and a catchall Keyword.
+ A microlang in Parsers consists of a set of Parser Definitions including a catchall Parser Definition.
  
- A Keyword Definition is a `double` consisting of a unique keyword identifier and a Grammar.
+ A Parser Definition consists of a match rule and optionally another Parsers microlang.
  
- Everything is encoded in Tree Notation, hence the grammar notation itself is a Tree Language.
+ Everything is encoded in the same notation (Scroll Notation), hence Parsers is written in Parsers.
  
  # Example
  
- A Tree Language Grammar file for an imagined Tree Language called Tally, with 2 possible recursive keywords `{+, -}` might look like this:
+ A Parsers file for an imagined microlang called Tally, with 2 Parsers `{+, -}` might look like this:
  
  code
-  Tally
-   catchAll error
-   keywords
-    error
-    expression Tally
+  TallyParser
+   catchAllParser errorParser
+   parsers
+    errorParser
+    expressionParser extends TallyParser
      words int+
-    + expression
-    - expression
+    +Parser extends expressionParser
+    -Parser extends expressionParser
  
- A valid program in the Tally language defined by the file above:
+ A valid program in the Tally microlang defined by the file above:
  
  code
   + 4 5
@@ -10225,9 +10278,12 @@
  
  # Conclusion and Future Work
  
- The introduction above is minimal but shows the core idea: Tree Languages can be formally defined in a simple grammar notation that itself is a Tree Language.
+ The introduction above is minimal but shows the core idea: a new notation (Scroll Notation) can be used to define new languages in a language (Parsers) that itself is defined in Parsers on top of Scroll Notation.
  
- Ohayo Computer has developed a compiler-compiler for these grammar files. Future publications and/or open source releases will delve into the additional features found in the compiler-compiler and its associated grammar.
+ We have developed and open-sourced Parsers a compiler-compiler implementing these ideas.
+  https://github.com/breck7/scrollsdk/tree/main/langs/parsers Parsers
+ 
+ Future publications and/or open source releases will delve into the additional features found in the compiler-compiler.
  
  ****
  
@@ -12061,7 +12117,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  I've had some free time the past two weeks to work on a few random ideas I've had.
   dateline
@@ -13738,14 +13794,14 @@
 /home/runner/work/breckyunits.com/breckyunits.com/dont-flip-the-bozo-bit.scroll
  date 2009-12-13
  tags All Programming Life
- title Don't Flip the Bozo Bit
+ title Don't Flip the Bit
  
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
- Do you "flip the bozo bit" on people?
+ Do you "flip the bit" on people?
   dateline
  
  If you don't know what that means, you probably do it unknowingly!
@@ -13753,22 +13809,22 @@
  endSnippet
  
  # What it means
- When you "flip the bozo bit" on someone you ignore everything they say or do. You flip the bozo bit on a person when they are wrong or make a mistake over and over again. Usually you flip the bozo bit unconsciously.
+ When you "flip the bit" on someone you ignore everything they say or do. You flip the bit on a person when they are wrong or make a mistake over and over again. Usually you flip the bit unconsciously.
  
  # An example
- You are writing a program with Bob. Bob constantly writes buggy code. You get frustrated by Bob's bugs and slowly start ignoring all the code he submits and start writing everything yourself. You've flipped the bozo bit!
+ You are writing a program with Bob. Bob constantly writes buggy code. You get frustrated by Bob's bugs and slowly start ignoring all the code he submits and start writing everything yourself. You've flipped the bit!
  
  This is bad for everyone. Now you are doing more work, and Bob is becoming resentful because you are ignoring his ideas and work.
  
- # Alternatives to Flipping the Bozo Bit
- Instead of flipping the bozo bit, perhaps you could work with another person. If that's not possible, take a more constructive approach:
+ # Alternatives to Flipping the Bit
+ Instead of flipping the bit, perhaps you could work with another person. If that's not possible, take a more constructive approach:
  
  1. *Teach*. Talk to Bob and figure out why he is making repeated mistakes. We all have large gaps in our education. If you've never been exposed to a concept, there's no reason why you should understand it. Try and find what it is Bob hasn't been exposed to yet, and help him learn it.
  
- 2. *Change Roles*. Maybe Bob should be working in another area. Find an area where you're the bozo and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
+ 2. *Change Roles*. Maybe Bob should be working in another area. Find an area where you're the and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
  
- # Why We Flip the Bozo Bit
- It seems like a simple evolutionary trick to save time. If someone is right only 10% of the time, would it be faster to ignore every statement they made, or faster to analyze each statement carefully in case it's the 1 out of 10 statements that might be true? Seems like it would be faster to just ignore everything by flipping the bozo bit.
+ # Why We Flip the Bit
+ It seems like a simple evolutionary trick to save time. If someone is right only 10% of the time, would it be faster to ignore every statement they made, or faster to analyze each statement carefully in case it's the 1 out of 10 statements that might be true? Seems like it would be faster to just ignore everything by flipping the bit.
  
  But this is a bad solution. The two presented above are better.
  
