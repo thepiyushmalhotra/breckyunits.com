@@ -229,7 +229,7 @@ Conclusion
 
 That's it for the recap of 2019! Tune in next year for a recap of 2020.
 
-****
+⁂
 
 Related Posts
 =============
@@ -358,6 +358,11 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
+Removing the 2’s from Trinary Notation is a Terrible Idea.
+==========================================================
+07/14/2019
+https://breckyunits.com/trinary.html
+
 Counting Complexity
 ===================
 12/20/2017
@@ -398,7 +403,7 @@ Introducing Note
 12/14/2012
 https://breckyunits.com/introducing-note.html
 
-***
+*
 
 Notes
 =====
