@@ -98,3 +98,12 @@ If you printed this record in a single doc, on 8.5 x 11 sheets of paper, in a hu
 *So for a 120 year old in 2140, their printed MRD would not reach the moon.* Though it may make it halfway there.
 
 ⁂
+
+Related posts
+=============
+Musing on the Future of Healthcare
+==================================
+03/02/2020
+https://breckyunits.com/musing-on-the-future-of-healthcare.html
+
+Built with Scroll v121.0.1

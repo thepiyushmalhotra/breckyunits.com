@@ -3,7 +3,7 @@ Breck's Blog - Startups Posts
 
 Part Assholes are Awesome
 =========================
-08/11/2024
+08/05/2024
 https://breckyunits.com/assholes.html
 
 Early Source
@@ -240,3 +240,5 @@ Why a Team is Worth a lot more than an Idea
 ===========================================
 09/13/2007
 https://breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.html
+
+Built with Scroll v121.0.1
