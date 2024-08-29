@@ -211,8 +211,8 @@ Ohayo
 06/23/2017
 https://breckyunits.com/ohayo.html
 
-Show HN: Programming is Now Two-Dimensional
-===========================================
+A New Discovery in Computer Science: 2-Dimensional Programming Languages
+========================================================================
 06/21/2017
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
@@ -226,10 +226,10 @@ NudgePad: An IDE in Your Browser
 09/23/2013
 https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
 
-SpaceNet: A successor to the Internet
-=====================================
+ScrollNet: A successor to the Internet
+======================================
 06/02/2013
-https://breckyunits.com/spacenet.html
+https://breckyunits.com/scrollnet.html
 
 Introducing Note
 ================
@@ -243,4 +243,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v121.0.1
+Built with Scroll v125.0.1

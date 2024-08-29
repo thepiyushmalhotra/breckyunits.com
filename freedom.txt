@@ -56,6 +56,11 @@ Training a neural network to spot misinformation and fake news from a single ima
 10/15/2022
 https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
 
+Cancer and Copyright
+====================
+10/04/2022
+https://breckyunits.com/cancer-and-copyright.html
+
 How the public domain can win
 =============================
 08/30/2022
@@ -86,4 +91,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v121.0.1
+Built with Scroll v125.0.1

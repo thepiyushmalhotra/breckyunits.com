@@ -40,6 +40,11 @@ PTCRI: An Equation about Syntax Potential
 05/31/2024
 https://breckyunits.com/ptcri.html
 
+ScrollSets: A New Way to Store Knowledge
+========================================
+05/21/2024
+https://breckyunits.com/scrollsets.html
+
 Counting Complexity
 ===================
 12/20/2017
@@ -50,9 +55,14 @@ Parsers: a language for making languages
 09/10/2017
 https://breckyunits.com/aGrammarNotationForTreeLanguages.html
 
+A New Discovery in Computer Science: 2-Dimensional Programming Languages
+========================================================================
+06/21/2017
+https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+
 Tree Notation: an antifragile program notation
 ==============================================
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v121.0.1
+Built with Scroll v125.0.1

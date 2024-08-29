@@ -1,11 +1,166 @@
-/home/runner/work/breckyunits.com/breckyunits.com/pau.scroll
- tags All MedicalRecords
- 
- date 8/21/2024
+/home/runner/work/breckyunits.com/breckyunits.com/neo.scroll
+ date 8/29/2024
+ tags All Society
+ title Nature's Eternal Omen: Do not ignore me.
  
  import standardHeader.scroll
  
+ image neo.jpg
+  caption A human builds an elaborate sandcastle, with their back to the ocean...
+ 
+ ****
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/blocking.scroll
+ date 8/28/2024
+ tags All Society
+ title Why Warpcast should not add blocking
+ 
+ import standardHeader.scroll
+ 
+ # Blocking misleads
+ 
+ ## Blocking encourages the worst impulses of humans
+ 
+ I have a backlog of interesting scientific work to do, but an important free speech matter has come to my attention. Warpcast is suddenly considering adding blocking.
+  https://warpcast.com Warpcast
+  https://warpcast.com/v/0x48416b4b considering adding blocking
+  dateline
+ 
+ ***
+ 
+ I don't know whether some powerful people have joined and are pushing for this in secret, but I do know, as Farcaster user #158, that what has attracted a lot of active users to Farcaster has been our desire for a censorship resistant town square.
+  https://farcasterstudio.com/users/158 Farcaster user #158
+ 
+ I hope in this short essay, we can show why Warpcast should veto adding blocking, now and forever in the future.
+ 
+ ***
+ 
+ # Blocking visualized.
+ 
+ We will use the illustration below to define our terms.
+ 
+ image blockingExplained.png
+  caption Black triangle represents a powerful user with a lot of followers (grey triangles). Black circle is a post by black user. Blue circle is a comment by blue follower. Black triangle blocks blue follower, preventing gray triangles from seeing response. By blocking blue, black user harms grey users by preventing them from seeing truthful enhancements to their posts.
+ 
+ ***
+ 
+ # Humans are born rate limited
+ 
+ A common argument made in favor of blocking is that black users must be protected from some firehose of responses coming from blue users.
+ 
+ But this is physically impossible. Blue users are just humans, who have to eat, sleep, take a piss, cook for their kids, and do a million other things.
+ 
+ They do not have time to dedicate their lives to "piling on" to black users.
+ 
+ It must be considered that the black user subconsciously knows they are doing something wrong, and so is experiencing extreme cognitive dissonance causing them to exaggerate the volume of messages from the blue user.
+ 
+ (Note that bots posing as humans should be blocked, but at the global protocol level and with efficient means to appeal to avoid the dangers of false positives.)
+ 
+ ***
+ 
+ # Naming Names
+ 
+ I am currently blocked by the below 3 popular users on Twitter:
+ 
+ table
+  printTable
+  data
+   name,user,followersInMillions, earliestBooster,blockedAfter
+   Massimo,Rainmaker1973,2.2,true, Asking for citations after reporting inaccurate information.
+   Nassim Taleb,nntaleb,1,true,Posting data that refuted a tweet.
+   Garry Tan,garrytan,.465,true,Trying to share helpful feedback about the SVBank situation.
+ 
+ In all three cases I was blocked after trying to help improve their ideas and better inform their users, who are all communities of people (science, statistics, startups) that I have a 20 year public track record of caring deeply about.
+ 
+ I also was an early public booster of all 3 of these people, with years of public proof behind that, so one can not only show evidence that my actions were good, but that there is strong evidence of long term good intentions and good will from me to these people.
+ 
+ I couldn't care less about my own ego, and I find it humorous and harmless when people _mute me_-I can be annoying with all my intense data and mathematical thinking. Muting is fine!
+ 
+ But to block me is to commit active harm to your users. It is censorship. It is anti-free speech.
+ 
+ It should not only not be done, but it should not be a feature of these digital town square platforms.
+ 
+ It makes me sad that these people, who I respect and enjoy their work, would have their worst impulses encouraged by Twitter allowing the blocking of users.
+ 
+ I blame Twitter for encouraging their worst impulses. I hope dearly Warpcast does not make the same mistake.
+ 
+ Thank you for listening. If you disagree, I am happy to look at your data and math in favor of adding blocking. And if I disagree, at the very worst, I will mute you.
+ 
+ ****
+ 
+ # Note
+ This took me one hour to create, and I livestreamed for full transparency because I believe free speech is such an important issue.
+  https://www.youtube.com/live/oMb5HQ-RqxE livestreamed
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/southPark.scroll
+ date 8/25/2024
+ tags All Startups
+ title A Review of the South Park Commons Rejection Letter
+ 
+ import standardHeader.scroll
+ 
+ image rejected.jpg
+  caption If someone tossed me a nickel for every rejection I've gotten I'd be dead, buried under nickels.
+ 
+ Two weeks ago I applied for the South Park Commons Founder Fellowship.
+  dateline
+  https://www.youtube.com/watch?v=NMY-O8BUz5c applied
+  https://www.southparkcommons.com/founder-fellowship South Park Commons Founder Fellowship
+ 
+ I applied because I love being part of cohorts of builders building and because I repeatedly invest all my money into Scroll, my angel investments, and other people, and would love to have more money so I can build the World Wide Scroll faster.
+  https://scroll.pub/ Scroll
+  https://breckyunits.com/investments.html my angel investments
+  https://wws.scroll.pub/ World Wide Scroll
+ 
+ I was sad by South Park's rejection yesterday but I'm excited to use this as a teachable moment for South Park Commons, because building new things is hard and making things better for the people who do is something I care deeply about.
+  https://flash.breckyunits.com/ making things better for the people who do
+ 
+ ***
+ 
+ css .feedback {color: green;}
+ feedbackParser
+  extends paragraphParser
+  crux $
+  javascript
+   className = "feedback"
+ 
+ > Hi there,
+ > Thank you for applying to the SPC Founder Fellowship.
+ > Our team appreciates the time and thought that you put into completing the application.
+ 
+ $ What are some ways you might *show* you appreciate my time rather than tell me you do?
+ 
+ > We carefully reviewed all of the materials that you submitted and are sorry to say that we will not be able to offer you a place in the upcoming cohort. Due to the large number of applicants, we unfortunately won’t be able to offer more individual feedback.
+ 
+ $ If you carefully reviewed my materials, that implies you made some notes, and wouldn't it take just as much time to send me those notes as to send this email?
+ 
+ > While we know this is disappointing news, we hope that it is not discouraging to your founding endeavors. We have been wrong in the past about ideas and founders this early in the journey and have (unfortunately) passed on companies that have gone on to achieve great things.
+ 
+ $ Why not share your numbers of applicants, acceptance rates, and outliers you missed?
+ 
+ > We hope you’ll stay in touch through our community newsletter and Twitter. We’ll share any updates regarding future cohort applications through those channels and would be happy to see you apply again in the future.
+ 
+ $ Will you consider going back through these rejections and doing some actions that _show your apprecation_?
+ 
+ > Best,
+ > South Park Commons
+ 
+ $ Have you considered signing with your human names?
+ 
+ ****
+ 
+ import footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/pau.scroll
+ date 8/21/2024
+ tags All MedicalRecords
  title PAU: Patient Accessible and Understandable health records
+ 
+ import standardHeader.scroll
  
  In 2019 I led some research into building next-gen medical records based on some breakthroughs in computer language design.
   dateline
@@ -42,13 +197,11 @@
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ketoneMap.scroll
- tags All Ketones
- 
  date 8/14/2024
+ tags All Ketones
+ title The Journey of the Ketones
  
  import standardHeader.scroll
- 
- title The Journey of the Ketones
  
  ## Naked bodies in Las Vegas
  
@@ -129,13 +282,13 @@
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/assholes.scroll
- tags All Life Startups
- 
  date 8/5/2024
+ inlineMarkups
+  ~~ s
+ tags All Life Startups
+ title Part Assholes are Awesome
  
  import standardHeader.scroll
- 
- title Part Assholes are Awesome
  
  # Anyone not part asshole is full of shit
  
@@ -227,9 +380,6 @@
  
  ~~Dataset needed~~. What dataset would confirm this?
  
- inlineMarkups
-  ~~ s
- 
  ***
  
  # Notes
@@ -244,17 +394,16 @@
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/davidsLastLetter.scroll
+ authors David C Bangert
  date 7/25/2024
- import header.scroll
- 
  tags All Life Society
  title David's Last Letter
+ 
+ import header.scroll
  
  printTitle
  
  mediumColumns 1
- 
- authors David C Bangert
  
  image davidAndSandy.jpg
   caption David and Sandy
@@ -277,7 +426,7 @@
  
  As you read this letter, Sandy and I are traveling to Zurich, Switzerland. Once in Switzerland, we are going to access the services of Dignitas (www.dignitas.ch) where I will be permitted to die with dignity.  My health and mobility continue to decline. I do not want to end up lying in bed all day, and I am not enjoying living the life of a non-ambulatory person.
  
- First and foremost, I am balanced challenged. I am now confined 99% of the time to sitting in a wheelchair or in bed because I cannot navigate my way across a room without falling.  I constantly fear a fall and potentially breaking my 80-year-old bones. I used to resort to grasping for the surrounding furniture and walls as I inched along at a slower than snail pace, but now, my body will not allow me to do that. Also, a walker is no longer an option due to the loss of feeling in my feet, my degenerative bone condition, my flat feet, and my contorted foot configuration. This is a genetically predisposed condition inherited from my mother, which is progressively worsening, and I believe, the major contributing factor to my balance issue. 
+ First and foremost, I am balanced challenged. I am now confined 99% of the time to sitting in a wheelchair or in bed because I cannot navigate my way across a room without falling.  I constantly fear a fall and potentially breaking my 80-year-old bones. I used to resort to grasping for the surrounding furniture and walls as I inched along at a slower than snail pace, but now, my body will not allow me to do that. Also, a walker is no longer an option due to the loss of feeling in my feet, my degenerative bone condition, my flat feet, and my contorted foot configuration. This is a genetically predisposed condition inherited from my mother, which is progressively worsening, and I believe, the major contributing factor to my balance issue.
  
  Historically, my orthopedic surgeries have been unsuccessful. My surgeries started in my military training when I had my left shoulder injured. The surgery left me unable to raise my left arm higher than my shoulder. Later at West Point, my ankle was operated on because of my Achilles tendon popping out of its groove. This resulted in a frozen ankle that will not bend properly. Some years later, a right knee replacement was needed. The specialists stated it was necessitated by my poorly functioning ankle. Since this surgery, I have been unable to bend my knee properly when I walk. Finally, I had back surgery. This last surgery resulted in not being able to walk or stand. I cannot make my feet and legs move on command.
  
@@ -291,9 +440,9 @@
  
  Besides reading the newspaper and watching television, my day is very quiet. This is not the life that I am used to. I am used to having more stimulation and being involved in challenging situations. I have the good fortune of being a graduate from two world renowned institutions of higher learning: the Military Academy at West Point and Harvard Business School, (PhD in decision sciences). I am not used to not being able to physically do things. After military academy, I successfully completed Ranger and airborne school. In my forties, I walked around the Annapurna Massive in Nepal, 22 days of walking and staying in tents. In the past, my life has always been an active one.
  
- Also, I am not as mentally sharp as I used to be. I often cannot remember the names of people and street names, places I have been, what I just ate, who I was with, investments I made yesterday... I have always been organized up till late, and now, I find myself (with Sandy helping me) looking for my lost wallet or keys for hours. For example, I suddenly forgot how to use the remote for the TV after using it for months successfully. I am transferring the responsibility for managing our wealth to Sandy. We spend time every day discussing our investments and decisions she will have to make. Tasks such as writing this letter are challenging. My typing is reduced to dictation plus two-finger typing. Sandy is helping me with this task. 
+ Also, I am not as mentally sharp as I used to be. I often cannot remember the names of people and street names, places I have been, what I just ate, who I was with, investments I made yesterday... I have always been organized up till late, and now, I find myself (with Sandy helping me) looking for my lost wallet or keys for hours. For example, I suddenly forgot how to use the remote for the TV after using it for months successfully. I am transferring the responsibility for managing our wealth to Sandy. We spend time every day discussing our investments and decisions she will have to make. Tasks such as writing this letter are challenging. My typing is reduced to dictation plus two-finger typing. Sandy is helping me with this task.
  
- In my late 30s and early 40s, I managed the first phase of the construction of a city in Saudi Arabia. I had a direct staff of 150 professionals who, through contracts, managed a workforce of 20,000 workers. Following the seven years in Saudi Arabia, I went to Hawaii in search of what I wanted to do for the rest of my life. I enrolled in the MBA program and about halfway through decided that being a professor would suit me. I came to understand that the culture of universities requires getting a quality doctorate. I was fortunate to be accepted at the four programs for which I applied: Harvard Business School, Stanford, Pittsburgh, and New York University. I went to Harvard and completed the doctoral program in 2 1/2 years, which is considered fast. The typical time to get a doctorate from Harvard is 4 1/2 years. 
+ In my late 30s and early 40s, I managed the first phase of the construction of a city in Saudi Arabia. I had a direct staff of 150 professionals who, through contracts, managed a workforce of 20,000 workers. Following the seven years in Saudi Arabia, I went to Hawaii in search of what I wanted to do for the rest of my life. I enrolled in the MBA program and about halfway through decided that being a professor would suit me. I came to understand that the culture of universities requires getting a quality doctorate. I was fortunate to be accepted at the four programs for which I applied: Harvard Business School, Stanford, Pittsburgh, and New York University. I went to Harvard and completed the doctoral program in 2 1/2 years, which is considered fast. The typical time to get a doctorate from Harvard is 4 1/2 years.
  
  In the past, I have written hundreds of letters with ease. Now writing a letter, even one as important as this letter, is a struggle. It should not be a struggle. I am tired of struggling.
  
@@ -301,7 +450,7 @@
  
  I will be cremated in Zurich and the ashes will be mailed to Honolulu. From Switzerland, Sandy plans to go to her hometown of Kelowna, British Columbia for a short time. There, she will be with her family.
  
- Afterwards, she will return to Honolulu. She plans to bring the ashes to West Point in 2025 at my Class’s reunion for placement in the West Point cemetery. 
+ Afterwards, she will return to Honolulu. She plans to bring the ashes to West Point in 2025 at my Class’s reunion for placement in the West Point cemetery.
  
  Thank you for being good friends. I enjoyed our time. Please continue to interact regularly with Sandy. I know she greatly values your time together.
  
@@ -312,7 +461,6 @@
  RIP David.
  
  import footer.scroll
- 
  
 /home/runner/work/breckyunits.com/breckyunits.com/litigation.scroll
  date 7/23/2024
@@ -361,8 +509,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/eta.scroll
  date 7/18/2024
- tags All IntellectualFreedom Programming Scroll Society ScrollPapers
  openGraphImage eta.png
+ tags All IntellectualFreedom Programming Scroll Society ScrollPapers
  title ETA!: A Measure of Evolution
  
  import header.scroll
@@ -449,8 +597,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/earlySource.scroll
  date 7/13/2024
- tags All Startups
  openGraphImage lab.jpg
+ tags All Startups
  title Early Source
  
  import header.scroll
@@ -509,8 +657,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/intelligence.scroll
  date 6/6/2024
- tags All Programming Scroll ScrollPapers
  openGraphImage intelligence.png
+ tags All Programming Scroll ScrollPapers
  title ICS: A Measure of Intelligence
  
  import header.scroll
@@ -561,8 +709,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/ptcri.scroll
  date 5/31/2024
- tags All Programming Scroll ScrollPapers
  openGraphImage ptcri.png
+ tags All Programming Scroll ScrollPapers
  title PTCRI: An Equation about Syntax Potential
  
  import header.scroll
@@ -657,9 +805,9 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/lab.scroll
  date 5/27/2024
- tags All Science Startups Programming Writing
  replace COMMITMENT 31
  replace PRICE $499,999
+ tags All Science Startups Programming Writing
  title Breck's Lab
  
  import header.scroll
@@ -731,8 +879,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/meaning.scroll
  date 5/27/2024
- tags All Thinking Data Hits
  openGraphImage meaning.webp
+ tags All Thinking Data Hits
  title The Choice
  
  import header.scroll
@@ -1217,8 +1365,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/abortBar.scroll
  date 5/24/2024
- tags All Programming Life
  openGraphImage abortBars.gif
+ tags All Programming Life
  title Abort Bars
  
  import header.scroll
@@ -1510,7 +1658,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/scrollsets.scroll
  date 2024-05-21
- tags All Scroll Programming Data Life ScrollSets
+ tags All Scroll Programming Data Life ScrollSets ScrollPapers
  title ScrollSets: A New Way to Store Knowledge
  
  import header.scroll
@@ -1813,9 +1961,9 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/pmfMirage.scroll
  date 2024-05-15
- tags All Startups
  openGraphImage pmfMirage.jpg
   // ChatGPT
+ tags All Startups
  title PMF Mirages
  
  import header.scroll
@@ -2767,10 +2915,10 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/aHigherLanguage.scroll
  date 2024-04-27
- tags All Life Thinking Writing
  openGraphImage tunnelByDallE.png
   // Generated by DallE
    the tunnel coming out of the forest is made completely out of books and papers and screens--the floor, the ceiling, the walls, it is 100% books and papers and screens. It previously extended out of the forest past the cliff above the void to nowhere. It was a tunnel of books and papers and screens to nowhere. The man walking in it, putting his weight in it, caused it to collapse. so he is falling first and above him is all the books and papers and screens also falling from the disintegrating tunnel
+ tags All Life Thinking Writing
  title A Higher Language
  
  import header.scroll
@@ -3167,10 +3315,10 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/fastest.scroll
  date 2024-04-22
- tags All Life Thinking Data
  openGraphImage theFastestByDallE.png
   // Generated by DallE
    Make a highly minimalistic black and white illustration, featuring two hands—one of a child and one of an adult. The design focuses solely on their outlines. The child's hand is on the left and the adults is on the right. The adults hand is coming down at a slight angle. The childs hand is coming up at a slight angle. We see the back of the childs hand. We see the palm side of the adults hand. It looks like they were holding hands but something (that we dont see at all) pulled them apart. You can see that they are reaching as hard as they can to touch but the new distance between them is too hard to overcome
+ tags All Life Thinking Data
  title The Fastest in the World
  
  import header.scroll
@@ -5004,8 +5152,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/safeFs.scroll
  date 1/27/2023
- tags All IntellectualFreedom
  openGraphImage safeFS.png
+ tags All IntellectualFreedom
  title SafeFS
  
  import header.scroll
@@ -5198,8 +5346,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/root-thinking.scroll
  date 11/16/2022
- tags All Programming Thinking Scroll
  openGraphImage rootThinking.png
+ tags All Programming Thinking Scroll
  title Root Thinking
  
  import header.scroll
@@ -5469,6 +5617,63 @@
  
  import footer.scroll
  
+/home/runner/work/breckyunits.com/breckyunits.com/cancer-and-copyright.scroll
+ date 10/04/2022
+ tags All Society IntellectualFreedom
+ title Cancer and Copyright
+ 
+ import header.scroll
+ printTitle
+ mediumColumns 1
+ 
+ image endCancerMiracle1.png
+  openGraph
+  caption Logo stolen from the ugliest (best) logo of all cancer centers in the world: MDAnderson.
+ 
+ Every second your body makes 2.83 million new cells. If you studied _just one_ of those cells from a single human—sequencing all the DNA, RNA, and proteins, you would generate more data than can fit in Google, Microsoft, and Amazon's datacenters combined. *Cancer is an information problem*.
+  dateline
+  hoverNote 2.83
+   At least 19.1% of statistics are made up on the spot.
+ 
+ ***
+ 
+ Mitosis refers to the process where a cell splits and takes about 2 hours. If you were building a startup and it was the fastest startup ever and your team doubled in size every month, you would be going at 0.0028 the speed of mitosis. *Mitosis is very very fast*.
+ 
+ // At least 28.3% of statistics are made up on the spot.
+ 
+ ***
+ 
+ We think our information tools have gotten fast because we compare them to our old tools, but when we compare them to the challenge of mitosis and cancer they are *slower than molasses*.
+ 
+ ***
+ 
+ Copyright laws are intellectual slavery, and slow down our cancer researchers and healthcare workers to crawling speed. *Because of our expanding copyright laws, our information tools are far too slow and as a result our cancer survival rates haven't budged in a century*.
+  link an-unpopular-phrase.html intellectual slavery
+ 
+ Bad ideas survive *far* too long before evolving into good ideas in an information environment with copyright.
+  link eta.html evolving into good ideas
+ 
+ ***
+ 
+ We can either cure cancer or have copyright laws. We cannot do both. Mitosis is too fast and *we need our information tools to be much, much faster*. We need them to be orders of magnitude faster.
+  link how-the-public-domain-can-win.html faster
+  link orders-of-magnitude.html orders of magnitude
+ 
+ ***
+ 
+ I can confidently make a prediction: *if we pass an amendment ending copyright laws, we will see cancer fatality rates in the United States plummet by 50% within 2 years*. I am willing to bet my entire net worth on this.
+  link ifa.html amendment
+  hoverNote entire net worth
+   I am a bad bettor because I'm often wrong on timing—so let me be clear by "my entire net worth" I only refer to 50% of our family's assets—if I were to lose the bet I hope my wife will be my sugarmama.
+ 
+ ***
+ 
+ Finally, a grim reality: though we will save hundreds of lives a day if we abolish copyright and build faster information tools, it will still take a far larger more Herculean effort to solve the toughest types of cancer. That will come down to the men and women in the white and blue uniforms in the hospitals and wet labs (I only know how to solve the bottlenecks in the dry labs).
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
  date 9/1/2022
  tags All Startups HasDataset AngelInvesting
@@ -5524,8 +5729,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-the-public-domain-can-win.scroll
  date 08-30-2022
- tags All IntellectualFreedom
  replace KEYMESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
+ tags All IntellectualFreedom
  title How the public domain can win
  
  import header.scroll
@@ -5581,7 +5786,7 @@
  ## Cost to build
  Public domain products are far cheaper to build than non public domain products.
  
- Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude. 
+ Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude.
  
  This is because not only are most tasks a builder has to do sped up as explained above, but also because building for the public domain means you can immediately _build less_. For example, you don't have to spend a _single moment_ investing in infrastructure to prevent your source code from leaking.
  
@@ -5774,7 +5979,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  image sortingIdeas.svg
   caption A rough sketch of a semi-random selection of ideas stacked in order of importance. The biggest ideas, "upstream of everything", are at the bottom. The furthest upstream ideas we can never see. A better artist would have drawn this as an actual stream.
@@ -5782,11 +5987,13 @@
  There will always be truths upstream that we will never be able to see, that are far more important than anything we learn downstream. So devoting too much of your brain to rationality has diminishing returns, as at best your most scientific map of the universe will be perpetually vulnerable to irrelevance by a single missive from upstream.
   dateline
  
- endSnippet
+ ***
  
  Growing up I practiced Catholicism and think the practice was probably good for my mind. But as I practiced science and math and logic those growing networks in my brain would conflict with the established religious networks. After a while, in my brain, science vanquished religion.
  
- But I've seen now the folly of having a brain without a strong spiritual section.
+ But now I've seen the folly of having a brain without a strong spiritual section.
+ 
+ ***
  
  In science we observe things, write down many observations, work out simpler models, and use those to predict and invent. But everything we observe comes downstream to us from some source that we cannot observe, model, or predict.
  
@@ -5800,14 +6007,17 @@
   https://en.wikipedia.org/wiki/Technological_singularity the Singularity
   https://en.wikipedia.org/wiki/Brave_New_World drugged
  
- comment
-  A great 37 seconds: https://www.youtube.com/watch?v=OKnpPCQyUec
+ // A great 37 seconds: https://www.youtube.com/watch?v=OKnpPCQyUec
  
  And you can easily string these together to see how there will always be an "upstream of everything". Imagine our lifetime is an eventful one. First, AGI appears. As we're grappling with that, we make contact with aliens, then while we're having tea with aliens (who luckily are peaceful in this scenario) some anomaly pops up and we all deduce this is just a computer simulated multiverse. The biggest revelation ever will always be vulnerable to an ever bigger revelation. There will always be ideas "upstream of everything".
+ 
+ ***
  
  When you accept an upstream idea, you have to update a lot of downstream synapses. When you grok DNA, you have to add a lot of new mental modules or update existing networks to ensure they are compatible with how we know it works. You might have a lot of "well the thing I thought about B doesn't matter much anymore now given C". It takes a lot of mental work to rewire the brain, and requires some level of neuroplasticity.
  
  So now, if you commit your full brain to science, you've got to keep yourself fully open to rewiring your brain as new evidence floats downstream. This might even be a problem if only high quality evidence and high quality theories floated by. But evidence is rarely so clear cut. And so you are constantly having to exert mental energy scanning for new true upstream ideas. And often ideas are promoted more for incentive rather than accuracy. And you will make mistakes and rewire your brain to a theory only to realize it was wrong. Or you might be in the middle of one rewiring and then have to start another. It seems a recipe for mental tumult.
+ 
+ ***
  
  Maybe, if there were any chance at all of ultimate success, it would make sense to dedicate every last 1% of the brain to the search for truth. But there's zero chance of success. The next bend also has a next bend. Therefore science will never be able to see beyond the next bend.
  
@@ -6803,8 +7013,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/dialogues.scroll
  date 2021-05-14
- tags All Scroll
  permalink dialogues.html
+ tags All Scroll
  title Scrolldown now has Dialogues
  
  import header.scroll
@@ -6964,8 +7174,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/wisdom.scroll
  date 2021-05-06
- tags All Data Writing Life
  permalink wisdom-a-tiny-language-for-great-advice.html
+ tags All Data Writing Life
  title Wisdom: a Tiny Language for Great Advice
  
  import header.scroll
@@ -7829,8 +8039,8 @@
 /home/runner/work/breckyunits.com/breckyunits.com/insist-on-focus.scroll
  authors Others
  date 2021-02-28 2
- tags All Startups OtherAuthor
  permalink insist-on-focus.html
+ tags All Startups OtherAuthor
  title Insist on Focus - Keith Rabois describes working at PayPal
  
  import header.scroll
@@ -8497,6 +8707,7 @@
   printTable
  
  import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/an-unpopular-phrase.scroll
  date 2020-02-21
  tags All IntellectualFreedom
@@ -8558,8 +8769,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/integrity-and-perseverance-in-business-ensure-success.scroll
  date 2020-02-09
- tags All Startups
  permalink integrity-and-perseverance-in-business-ensure-success.html
+ tags All Startups
  title Integrity and Perseverance in Business ensure success (1853)
  
  import header.scroll
@@ -8595,8 +8806,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/building-a-treebase-with-6-point-5-million-files.scroll
  date 2020-01-29
- tags All Scroll Programming HasDataset
  permalink building-a-treebase-with-6.5-million-files.html
+ tags All Scroll Programming HasDataset
  title Building a TreeBase with 6.5 million files
  
  import header.scroll
@@ -9945,13 +10156,12 @@
 /home/runner/work/breckyunits.com/breckyunits.com/trinary.scroll
  date 7/14/2019
  tags All Scroll Programming
+ title Removing the 2’s from Trinary Notation is a Terrible Idea.
  
  import header.scroll
- title Removing the 2’s from Trinary Notation is a Terrible Idea.
  printTitle
  
  mediumColumns 1
- 
  
  image binary.webp
   width 300
@@ -10238,7 +10448,6 @@
  
  Hence, the programB is less complex by this measure, _given machineA and machineB_ (I will explain later what I mean by "given machineA and machineB").
  
- 
  ***
  
  # Atomic Components of Complexity
@@ -10353,7 +10562,6 @@
  
  ****
  
- 
  # Bibliography
  ^Edmonds Edmonds, B. (1999). Syntactic Measures of Complexity. Doctoral Thesis, University of Manchester, Manchester, UK.
  ^Mitchell Mitchell, M., 2009. Complexity: A guided tour. Oxford University Press.
@@ -10373,7 +10581,6 @@
 /home/runner/work/breckyunits.com/breckyunits.com/aGrammarNotationForTreeLanguages.scroll
  date 9/10/2017
  tags All Scroll ScrollPapers
- 
  title Parsers: a language for making languages
  
  import header.scroll
@@ -10467,23 +10674,24 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/show-hn-programming-is-now-two-dimensional.scroll
  date 2017-06-21
- tags All Scroll Programming
- title Show HN: Programming is Now Two-Dimensional
+ tags All Scroll Programming ScrollPapers
+ title A New Discovery in Computer Science: 2-Dimensional Programming Languages
  
  import header.scroll
- printTitle
  
- thinColumns 2
+ mediumColumns 1
+ 
+ printTitle
  
  *Eureka!* I wanted to announce something small, but slightly novel, and potentially useful.
   dateline
  
  What did I discover? That there might be useful general purpose programming languages that don't use any visible syntax characters at all.
  
+ ***
+ 
  I call the whitespace-based notation Tree Notation and languages built on top of it Tree Languages.
   https://treenotation.org Tree Notation
- 
- endSnippet
  
  Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
  
@@ -10494,6 +10702,9 @@
  This language has no parentheses, quotation marks, colons, and so forth. Types, primitives, control flow--all of that stuff can be determined by words and contexts instead of introducing additional syntax rules. If you are a Lisper, think of this "novel" idea as just "lisp without parentheses."
  
  image 3dprogram.png
+  caption Programs in this system look sort of like DNA strands. The balls in this program represent words, and the colors represent the types of those words.
+ 
+ ***
  
  There are hundreds of very active programming languages, and they all have different syntax as well as different semantics.
  
@@ -10501,21 +10712,40 @@
  
  But I wonder if we always need a new syntax for each new general purpose programming language. I wonder if we could unlock potentially very different editing environments and experiences with a simple geometric syntax, and if by making the syntax simpler folks could build better semantic tooling.
  
+ ***
+ 
  Maybe there's nothing useful here. Perhaps it is best to have syntax characters and a unique syntax for each general purpose programming language. Tree Notation might be a bad idea or only useful for very small domains. But I think it's a long-shot idea worth exploring.
+ 
+ ***
  
  Thousands of language designers focus on the semantics and choose the syntax to best fit those semantics (or a syntax that doesn't deviate too much from a mainstream language). I've taken the opposite approach--on purpose--with the hopes of finding something overlooked but important. I've stuck to a simple syntax and tried to implement all semantic ideas without adding syntax.
  
+ ***
+ 
  Initially I just looked at Tree Notation as an alternative to declarative format languages like JSON and XML, but then in a minor "Eureka!" moment, realized it might work well as a syntax for general purpose Turing complete languages across all paradigms like functional, object-oriented, logic, dataflow, et cetera.
+ 
+ ***
  
  Someday I hope to have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax.
  
- I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled Tree Notation: an antifragile program notation. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
-  https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf Tree Notation: an antifragile program notation
+ ***
  
- Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
-  https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
+ I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled Tree Notation: an antifragile program notation. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
+  link treenotationPaper.html Tree Notation: an antifragile program notation
  
  ****
+ 
+ #### Updated 12/30/2017
+ 1. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on.
+  https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
+ 2. The second note is I updated the wording of this post as the original was a bit rushed.
+ 
+ #### Updated 2024
+ 
+ We renamed Tree Notation Scroll Notation. We now call the Grammar language Parsers. See the latest at Scroll.pub
+  https://scroll.pub/ Scroll.pub
+ 
+ ***
  
  # Related Posts
  printRelated ScrollPapers
@@ -10525,9 +10755,9 @@
 /home/runner/work/breckyunits.com/breckyunits.com/treenotationPaper.scroll
  date 6/21/2017
  tags All Scroll ScrollPapers
+ title Tree Notation: an antifragile program notation
  
  import header.scroll
- title Tree Notation: an antifragile program notation
  printTitle
  
  printAuthors
@@ -10640,7 +10870,6 @@
   o
    s dsl yrt
    n ma 902
- 
  
  TLs will be found for great 1DLs including C, RISC-V, ES6, and Arc. Some TLs have already been found^Roughan, but their common TN DNA has gone unseen. The immediate benefit of creating a TL for an 1DL is that programs can then be written in a TL editor and compiled to that 1DL.
  
@@ -10778,10 +11007,10 @@
  
  import footer.scroll
  
-/home/runner/work/breckyunits.com/breckyunits.com/spacenet.scroll
+/home/runner/work/breckyunits.com/breckyunits.com/scrollnet.scroll
  date 6/2/2013
  tags All Programming Scroll WWS
- title SpaceNet: A successor to the Internet
+ title ScrollNet: A successor to the Internet
  
  import header.scroll
  printTitle
@@ -10790,42 +11019,42 @@
  I have an idea for a simpler Internet, where a human could hold in their head, how it all works, all at once.
   dateline
  
- It would work much the same way as the Internet does now except for one major change. Almost all protocols and encodings such as TCP/IP, HTTP, SMTP, MIME, XML, Zone files, et cetera are replaced by a lightweight encoding called Space.
-  https://github.com/breck7/space Space
+ It would work much the same way as the Internet does now except for one major change. Almost all protocols and encodings such as TCP/IP, HTTP, SMTP, MIME, XML, Zone files, et cetera are replaced by a lightweight language called Scroll.
+  https://scroll.pub Scroll
  
  ***
  
- Computers would still communicate by sending and receiving packets, but those packets would be human readable Space objects.
+ Computers would still communicate by sending and receiving packets, but those packets would be human readable Scroll messages.
  
- Programs would not have to speak dozens of different grammars for different services but could be equipped to work with Space and easily send and receive messages to other programs on SpaceNet.
- 
- ***
- 
- A user could learn Space in under an hour and then have the ability to create and broadcast raw Space messages that could send emails, request web pages, trigger remote APIs, and much more.
- 
- A user could inspect all SpaceNet traffic and not have the slightest bit of difficulty understanding what was happening on their wires.
- 
- A user could experiment with creating languages on top of Space that could make SpaceNet do all sorts of neat things with minimal effort and without breaking existing programs.
+ Programs would not have to speak dozens of different grammars for different services but could be equipped to work with Scroll and easily send and receive messages to other programs on ScrollNet.
  
  ***
  
- An example electronic message on SpaceNet might look like this:
+ A user could learn Scroll in under an hour and then have the ability to create and broadcast raw Scroll messages that could send emails, request web pages, trigger remote APIs, and much more.
+ 
+ A user could inspect all ScrollNet traffic and not have the slightest bit of difficulty understanding what was happening on their wires.
+ 
+ A user could experiment with creating languages on top of Scroll that could make ScrollNet do all sorts of neat things with minimal effort and without breaking existing programs.
+ 
+ ***
+ 
+ An example electronic message on ScrollNet might look like this:
  
  code
-  to Vint Cerf  Bob Kahn 
+  to vint@cerf.com bob@bob.com
   from breck7@gmail.com
-  subject SpaceNet: Good idea or bad idea?
+  subject ScrollNet: Good idea or bad idea?
   message Would love to hear your thoughts.
   
  ***
  
  This is simpler than how that message currently looks on the current Internet:
  
- `MIME-Version: 1.0 Received: by 10.76.12.234 with HTTP; Sun, 2 Jun 2013 16:36:57 -0700 (PDT) Date: Sun, 2 Jun 2013 16:36:57 -0700 Delivered-To: Vint Cerf , Bob Kahn  Subject: SpaceNet: Good idea or bad idea? From: Breck Yunits  To: Me  Content-Type: multipart/alternative; boundary=bcaec554097aeca02704de34521c —bcaec554097aeca02704de34521c Content-Type: text/plain; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c Content-Type: text/html; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c—`
+ `MIME-Version: 1.0 Received: by 10.76.12.234 with HTTP; Sun, 2 Jun 2013 16:36:57 -0700 (PDT) Date: Sun, 2 Jun 2013 16:36:57 -0700 Delivered-To: Vint Cerf , Bob Kahn  Subject: ScrollNet: Good idea or bad idea? From: Breck Yunits  To: Me  Content-Type: multipart/alternative; boundary=bcaec554097aeca02704de34521c —bcaec554097aeca02704de34521c Content-Type: text/plain; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c Content-Type: text/html; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c—`
  
  ***
  
- To transmit that message, the computer would add a transport encoding to the message, which on the Internet contains a fixed size header containing unprintable characters but on SpaceNet might look something like this:
+ To transmit that message, the computer would add a transport encoding to the message, which on the Internet contains a fixed size header containing unprintable characters but on ScrollNet might look something like this:
  
  code
   header
@@ -10837,16 +11066,16 @@
   sequenceNumber 1
   acknowledgementNumber 1
   checksum 234fsdafsda534453
-  to Vint Cerf , Bob Kahn 
+  to vint@cerf.com bob@bob.com
   from breck7@gmail.com
-  subject SpaceNet: Good idea or bad idea?
+  subject ScrollNet: Good idea or bad idea?
   message Would love to hear your thoughts.
  
- Space can serve both as the high level encoding at the application layer and the low level encoding at the transport layer.
+ Scroll can serve both as the high level encoding at the application layer and the low level encoding at the transport layer.
  
  ***
  
- Of course, there are obvious issues that come up. How does hardware do packet switching with variable width headers? Is the increased packet header size a concern? Then of course, there’s the big issue of whether Space is even a good language. Why not XMLNet, or JSONNet? There are answers to those questions, but for now I just wanted to share this idea and see what people thought.
+ Of course, there are obvious issues that come up. How does hardware do packet switching with variable width headers? Is the increased packet header size a concern? Then of course, there’s the big issue of whether Scroll is even a good language. Why not XMLNet, or JSONNet? There are answers to those questions, but for now I just wanted to share this idea and see what people thought.
  
  ***
  
@@ -11386,8 +11615,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/cant-lose-could-win-big.scroll
  date 2012-12-18
- tags All Life Startups
  permalink cant-lose-could-win-big.html
+ tags All Life Startups
  title Can't Lose. Could Win Big.
  
  import header.scroll
@@ -11579,8 +11808,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-is.scroll
  date 2012-12-16
- tags All Life Thinking
  permalink simple-is.html
+ tags All Life Thinking
  title Simple is...
  
  import header.scroll
@@ -12601,8 +12830,8 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/design-matters-a-lot.scroll
  date 2010-07-02
- tags All Programming Startups Design
  permalink design-matters-a-lot.html
+ tags All Programming Startups Design
  title Design Matters. A lot.
  
  import header.scroll
@@ -13568,7 +13797,7 @@
   dateline
  
  table
-  delimiter 
+  delimiter
   printTable
   data
    Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
@@ -14266,7 +14495,6 @@
  # Related Posts
  printRelated MasterProgramming
  
- 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orders-of-magnitude.scroll
@@ -14277,7 +14505,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Do you think in Orders of Magnitude? You should.
   dateline

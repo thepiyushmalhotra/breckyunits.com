@@ -4,8 +4,23 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Sat, 24 Aug 2024 23:25:10 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 29 Aug 2024 21:24:10 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>Nature's Eternal Omen: Do not ignore me.</title>
+  <link>https://breckyunits.com/neo.html</link>
+  <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Why Warpcast should not add blocking</title>
+  <link>https://breckyunits.com/blocking.html</link>
+  <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>A Review of the South Park Commons Rejection Letter</title>
+  <link>https://breckyunits.com/southPark.html</link>
+  <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>PAU: Patient Accessible and Understandable health records</title>
   <link>https://breckyunits.com/pau.html</link>
@@ -387,6 +402,11 @@
   <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
  </item>
  <item>
+  <title>Cancer and Copyright</title>
+  <link>https://breckyunits.com/cancer-and-copyright.html</link>
+  <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+ </item>
+ <item>
   <title>An Angel Investor's Data</title>
   <link>https://breckyunits.com/an-angel-investors-data.html</link>
   <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -577,7 +597,7 @@
   <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>Show HN: Programming is Now Two-Dimensional</title>
+  <title>A New Discovery in Computer Science: 2-Dimensional Programming Languages</title>
   <link>https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html</link>
   <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
  </item>
@@ -597,8 +617,8 @@
   <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>SpaceNet: A successor to the Internet</title>
-  <link>https://breckyunits.com/spacenet.html</link>
+  <title>ScrollNet: A successor to the Internet</title>
+  <link>https://breckyunits.com/scrollnet.html</link>
   <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
  </item>
  <item>

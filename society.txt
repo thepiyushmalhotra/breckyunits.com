@@ -1,6 +1,16 @@
 Breck's Blog - Society Posts
 ============================
 
+Nature's Eternal Omen: Do not ignore me.
+========================================
+08/29/2024
+https://breckyunits.com/neo.html
+
+Why Warpcast should not add blocking
+====================================
+08/28/2024
+https://breckyunits.com/blocking.html
+
 David's Last Letter
 ===================
 07/25/2024
@@ -85,6 +95,11 @@ Training a neural network to spot misinformation and fake news from a single ima
 ==================================================================================
 10/15/2022
 https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
+
+Cancer and Copyright
+====================
+10/04/2022
+https://breckyunits.com/cancer-and-copyright.html
 
 Logeracy
 ========
@@ -206,4 +221,4 @@ Daily Gas Use for the United States and the World
 05/14/2008
 https://breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.html
 
-Built with Scroll v121.0.1
+Built with Scroll v125.0.1

@@ -13,6 +13,7 @@ https://breckyunits.com/society.html
 https://breckyunits.com/search.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/pcri.html
+https://breckyunits.com/parserUsage.html
 https://breckyunits.com/parserStats.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
@@ -28,6 +29,9 @@ https://breckyunits.com/data.html
 https://breckyunits.com/csv.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
+https://breckyunits.com/neo.html
+https://breckyunits.com/blocking.html
+https://breckyunits.com/southPark.html
 https://breckyunits.com/pau.html
 https://breckyunits.com/ketoneMap.html
 https://breckyunits.com/assholes.html
@@ -156,7 +160,7 @@ https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 https://breckyunits.com/bipolarOnion.html
 https://breckyunits.com/big-data-notation.html
 https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
-https://breckyunits.com/spacenet.html
+https://breckyunits.com/scrollnet.html
 https://breckyunits.com/software-should-save-people-time.html
 https://breckyunits.com/time.html
 https://breckyunits.com/why-10000-hours.html
