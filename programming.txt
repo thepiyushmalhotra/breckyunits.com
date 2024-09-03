@@ -1,6 +1,11 @@
 Breck's Blog - Programming Posts
 ================================
 
+Particle Chain: A New Kind of Blockchain
+========================================
+09/01/2024
+https://breckyunits.com/particleChain.html
+
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
@@ -311,4 +316,4 @@ Learning How to Program Part I
 08/28/2007
 https://breckyunits.com/learning-how-to-program-part-i.html
 
-Built with Scroll v125.3.0
+Built with Scroll v125.8.0

@@ -69,6 +69,11 @@ We renamed Tree Notation Particles. We now call the Grammar language Parsers. Se
 
 Related Posts
 =============
+Particle Chain: A New Kind of Blockchain
+========================================
+09/01/2024
+https://breckyunits.com/particleChain.html
+
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
@@ -104,4 +109,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v125.3.0
+Built with Scroll v125.8.0
