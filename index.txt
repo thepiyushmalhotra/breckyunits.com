@@ -1,6 +1,16 @@
 Breck's Blog - All Posts
 ========================
 
+The Galton Board
+================
+09/07/2024
+https://breckyunits.com/hebner.html
+
+Advice to the current batch of YCombinator companies: demand carry
+==================================================================
+09/06/2024
+https://breckyunits.com/letter.html
+
 Particle Chain: A New Kind of Blockchain
 ========================================
 09/01/2024
@@ -471,10 +481,10 @@ Some old blogs
 05/07/2021
 https://breckyunits.com/some-old-blogs.html
 
-Wisdom: a Tiny Language for Great Advice
-========================================
+Strong Advice
+=============
 05/06/2021
-https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html
+https://breckyunits.com/advice.html
 
 Logeracy
 ========
@@ -1131,4 +1141,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v130.0.0
+Built with Scroll v130.1.1

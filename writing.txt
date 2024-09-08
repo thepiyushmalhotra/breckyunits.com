@@ -61,10 +61,10 @@ Some old blogs
 05/07/2021
 https://breckyunits.com/some-old-blogs.html
 
-Wisdom: a Tiny Language for Great Advice
-========================================
+Strong Advice
+=============
 05/06/2021
-https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html
+https://breckyunits.com/advice.html
 
 Scroll Beta
 ===========
@@ -136,4 +136,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v130.0.0
+Built with Scroll v130.1.1

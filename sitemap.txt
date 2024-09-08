@@ -1,5 +1,6 @@
 https://breckyunits.com/wws.html
 https://breckyunits.com/writing.html
+https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html
 https://breckyunits.com/when-woman-is-boss.html
 https://breckyunits.com/webRing.html
 https://breckyunits.com/updated.html
@@ -29,6 +30,8 @@ https://breckyunits.com/feed.html
 https://breckyunits.com/data.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
+https://breckyunits.com/hebner.html
+https://breckyunits.com/letter.html
 https://breckyunits.com/particleChain.html
 https://breckyunits.com/races.html
 https://breckyunits.com/neo.html
@@ -131,7 +134,7 @@ https://breckyunits.com/elbakian-interview.html
 https://breckyunits.com/dialogues.html
 https://breckyunits.com/ifa.html
 https://breckyunits.com/some-old-blogs.html
-https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html
+https://breckyunits.com/advice.html
 https://breckyunits.com/logeracy.html
 https://breckyunits.com/how-to-fix-the-cdc.html
 https://breckyunits.com/how-james-park-built-fitbit.html

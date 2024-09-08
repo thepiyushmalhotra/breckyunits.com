@@ -4,8 +4,18 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Thu, 05 Sep 2024 07:19:14 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 08 Sep 2024 09:14:03 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>The Galton Board</title>
+  <link>https://breckyunits.com/hebner.html</link>
+  <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Advice to the current batch of YCombinator companies: demand carry</title>
+  <link>https://breckyunits.com/letter.html</link>
+  <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>Particle Chain: A New Kind of Blockchain</title>
   <link>https://breckyunits.com/particleChain.html</link>
@@ -477,8 +487,8 @@
   <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>Wisdom: a Tiny Language for Great Advice</title>
-  <link>https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html</link>
+  <title>Strong Advice</title>
+  <link>https://breckyunits.com/advice.html</link>
   <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
  </item>
  <item>

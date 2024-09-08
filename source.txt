@@ -1,3 +1,131 @@
+/home/runner/work/breckyunits.com/breckyunits.com/hebner.scroll
+ date 9/07/2024
+ tags All Math Data
+ title The Galton Board
+ 
+ header.scroll
+ printTitle
+ printDate
+ thinColumns 1
+ 
+ Mark Hebner and his team have refined an 1889 invention from Francis Galton and made a version you can hold in your hand to conduct real world probability experiments 10,000 times faster than flipping a coin.
+  http://www.markhebner.com Mark Hebner
+  https://en.wikipedia.org/wiki/Galton_board invention
+  https://en.wikipedia.org/wiki/Francis_Galton Francis Galton
+  https://www.galtonboard.com/ version you can hold in your hand
+ 
+ ***
+ 
+ It's the best $99 I've spent all year.
+ 
+ ***
+ 
+ ## Since you loaded this page you could have performed
+ counter 1 coin tosses
+ counter 16800 galton tosses
+ 
+ ***
+ 
+ galtonBoard.mp4
+  loop
+  autoplay
+ 
+ ***
+ 
+ # Fun notes
+ - Tilting the board is a fun way to explore bias.
+ - Fascinating to watch pileups and other phenomena that impact distributions.
+ 
+ ****
+ 
+ openGraphImage galtonBoard.jpg
+ 
+ footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/letter.scroll
+ date 9/06/2024
+ tags All Startups
+ title Advice to the current batch of YCombinator companies: demand carry
+ 
+ standardHeader.scroll
+ 
+ I emailed this letter to the public companies in the current YCombinator batch.
+  dateline
+ 
+ dinkus ~
+ 
+ Aloha S2024 batch,
+ 
+ I'm writing today to give you 1 piece of advice that I wish someone had told me when I was in YC: demand carry from YC for your batch.
+ 
+ ***
+ 
+ Today you are the S2024 batch.
+ 
+ In 15 years you will be the X batch, where X is the name of whichever of you goes on to become the biggest hit.
+ 
+ By this naming convention I was in the Airbnb batch. And the Stripe batch. What luck, eh ;) ?
+ 
+ ***
+ 
+ These Xs make YC its money.
+ 
+ But what makes these Xs?
+ 
+ The founders are #1, of course, but what else?
+ 
+ Here's YC's dirty secret: it is not the Partners or the Office Hours or Demo Day that makes these Xs.
+ 
+ Nope, not even close.
+ 
+ ***
+ 
+ The Partners, the Office Hours, the Demo Day will be irrelevant to your startup compared to the long term impact your batchmates will have.
+ 
+ As founders you are building new colonies in the wilderness.
+ 
+ In those hard early years, you will depend on and be saved and elevated by your batchmates.
+ 
+ ***
+ 
+ So, why do the people who do all the work get 0% of YC's carry?
+ 
+ YC's legal team will give you many laughable excuses.
+ 
+ ***
+ 
+ The real reason is simple: a batch hasn't _demanded_ it yet.
+ 
+ ***
+ 
+ I used to be a moral compass inside YCombinator. Until they expelled me.
+ 
+ But losing access to Bookface is nothing compared to what happened to the previous moral compass, and my hero, aaronsw.
+ 
+ I believe in YCombinator and its ability to do good. But power does funny things to people, and I urge you to organize now, demand your rightful share, and ensure that there are some checks and balances on the YC partners.
+ 
+ ***
+ 
+ Good luck, and feel free to reach out to me at any time, day or night. I want the best for you all.
+ 
+ Now, go make something the universe wants!
+ 
+ Best,
+ Breck
+ 
+ ****
+ 
+ # Notes
+ - To be clear, my issue is not that I got a bad deal: my batchmates helped me out more than I helped them. My issue is the unethical behavior of the current YC partners, and reducing that that by restributing the profits of YC in a way that more fairly matches the value of their contributions.
+ - "carry" could also be accomplished via an equity pool.
+ - A reader told me about founderpool.co, which looks like it is trying to do this at scale.
+  https://founderpool.co/ founderpool.co
+ - A reader informed me that First Round Capital tried something like this. If anyone has data they can share on whether this is true, would to see it.
+  https://www.reddit.com/r/startups/comments/1fas00y/comment/llxzir3/ First Round Capital tried something like this
+ 
+ 
+ footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/particleChain.scroll
  date 9/1/2024
  tags All Startups Programming Scroll Society ScrollPapers
@@ -5447,8 +5575,12 @@
  
  oneTextarea.gif
   openGraph
-  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particles or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particle Syntax. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
    https://github.com/breck7/copypaster demo gif
+   https://particles.scroll.pub/ Particle Syntax
+ 
+ > 9/5/2024: This is now live in Scroll! You can start using it now!
+  https://scroll.pub/tests/form.html You can start using it now
  
  Forget all the "best practices" you've learned about web forms.
   dateline
@@ -5464,46 +5596,18 @@
  
  ***
  
- # The Web Form Gravy Train
- Being in the web form business is great.
- 
- Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done.
- 
- But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
- 
- Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes.
- 
- So much can go wrong! So much to bill for!
-  bold
- 
- In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. It's crazy—the worse the user experience, the more they pay me.
- 
- I try to argue for what users want: simple, fast, transparent, trustworthy, but no one listens. They are afraid to think different. No one understands language oriented programming. No one understands you don't ever need parentheses. No one wants to stray from the herd and be first.
-  https://school.racket-lang.org/2019/plan/mon-mor-lecture.html language oriented programming
-  link ptcri.html you don't ever need parentheses
- 
- ***
- 
- # Even Stripe sucks
- 
- youTube https://www.youtube.com/embed/DV4Nv23bBwQ?start=68
- 
- Stripe is the poster child for web form "experts". And Stripe sucks compared to the demo I released 8 years ago. I still can't do copy/paste with Stripe forms or instant eReceipts or work on forms offline.
-  https://www.youtube.com/watch?v=DV4Nv23bBwQ the demo
- 
- ***
- 
  # How it works
  
  This is the early days, think web forms in 1990's. So it's a little bit of work to implement, until tooling and libraries improve.
  
  But it basically boils down to 3 steps:
  
- 1. *Arrange*. Define your form as a "microlang" in Parsers.
+ 1. *Arrange*. Define your forms fields using Parsers. Here's an example
   https://scroll.pub/parserLeetsheet.html Parsers
- 2. *Accept*. Put a textarea on your web page and use the ScrollSDK and your Parsers microlang to turn it into a rich-text editor.
-  https://github.com/breck7/scrollsdk ScrollSDK
- 3. *Analyze*. Save form submissions as files on your server and use Scroll to compile them to TSV or whatever you need.
+  https://github.com/breck7/scroll/blob/main/tests/form.scroll example
+ 2. *Accept*. Use the keyword `scrollForm` in your Scroll file to print a textarea with autocomplete and highlighting.
+  https://scroll.pub/ Scroll
+ 3. *Analyze*. Receive form submissions via email or save to disk on your server and use Scroll to compile them to TSV or whatever you need.
   https://scroll.pub/ Scroll
  
  ***
@@ -7343,92 +7447,155 @@
  
  footer.scroll
  
-/home/runner/work/breckyunits.com/breckyunits.com/wisdom.scroll
+/home/runner/work/breckyunits.com/breckyunits.com/advice.scroll
  date 2021-05-06
- permalink wisdom-a-tiny-language-for-great-advice.html
  tags All Data Writing Life
- title Wisdom: a Tiny Language for Great Advice
+ title Strong Advice
  
  header.scroll
  printTitle
  
- thinColumns 2
+ thinColumns 1
  
- I am aware of two dialects for advice. I will call them FortuneCookie and Wisdom. Below are two examples of advice written in FortuneCookie.
+ I split advice into two categories:
   dateline
  
- quote
-  🥠 Reading is to the mind what exercise is to the body.
+ 1. ⚽️ WeakAdvice
+ 2. 🌎 StrongAdvice.
+ 
+ ## Examples
+ 
+ WeakAdvice:
+ 
+ > ⚽️ Reading is to the mind what exercise is to the body.
+ 
+ > ⚽️ Talking to users is the most important thing a startup can do.
+ 
+ StrongAdvice:
  
  quote
-  🥠 Talking to users is the most important thing a startup can do.
- 
- Here are two similar pieces of advice written in Wisdom:
- 
- quote
-  🔬 In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
+  🌎 In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
   Charlie Munger
  
  quote
-  🔬 I don't know of a single case of a startup that felt they spent too much time talking to users.
+  🌎 I don't know of a single case of a startup that felt they spent too much time talking to users.
   Jessica Livingston
  
- endSnippet
+ ***
  
- If you only looked at certain dimensions, you could conclude the FortuneCookie versions are better. They are shorter. They are not attached to an author's name which seems to make them simpler.
+ If you only look at certain dimensions, you may conclude the WeakAdvice is better.
  
- But all things considered, the FortuneCookie versions are worthless compared to the Wisdom versions.
+ WeakAdvice is shorter and does not have an author's name.
  
- quote
-  ✒️ Wisdom is a short piece of advice that is backed by a large dataset, is clear and easily testable.
+ But all things considered, StrongAdvice is 100x better.
  
- Like FortuneCookie, Wisdom is some advice that can change your perspective or guide your decision making. No difference there.
+ ***
  
- Unlike FortuneCookie, Wisdom needs to be backed by a large dataset. For example, in 2009 I wrote:
+ # Defining StrongAdvice
+ 
+ > StrongAdvice is advice that is concise, derived from data, and easy to falsify.
+ 
+ ***
+ 
+ 1. Concise
+ 2. Derived from data
+ 3. Easy to falsify
+ 
+ ***
+ 
+ Unlike WeakAdvice, StrongAdvice needs to be backed by a large dataset.
+ 
+ ## Example
+ 
+ In 2009 I wrote:
   link twelve-tips-to-master-programming-faster.html I wrote
  
- quote
-  🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
+ > ⚽️ to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
  
- Ten years later, after gathering data I can now write:
+ Ten years later, I now have the data to write:
   https://github.com/breck7/30000hours gathering data
  
+ > 🌎 Every programmer I respect the most has practiced more than 30,000 hours^hours.
+ 
+ Even though the message is the same, the latter introduces a dataset to the problem and is instantly testable.
+ 
+ ***
+ 
+ StrongAdvice can't just be the inclusion of a dataset. It needs to be phrased in a way that allows testability.
+ 
+ Without the testability Munger's quote would be a FortuneCookie:
+ 
+ > ⚽️ I've met hundreds of wise people who read all the time
+ 
+ That's not the clearest advice.
+ 
+ It certainly says that reading all the time won't rule out success, but it provides no guidance as to whether it is a necessary thing.
+ 
+ It's ambiguous if he also knows of wise people who don't read all the time (we know from the real quote that he doesn't).
+ 
+ ***
+ 
+ Sometimes you see WeakAdvice evolve into StrongAdvice, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
+ 
  quote
-  🔬 The programmers I respect the most, without exception, all practiced more than 30,000 hours^hours.
- 
- Even though the message is the same, the latter introduces a dataset to the problem. More importantly, it is instantly testable.
- 
- Wisdom can't just be the inclusion of a dataset. Without the testability, Munger's quote would be FortuneCookie:
- 
- quote
-  🥠 I've met hundreds of wise people who read all the time
- 
- That's not the clearest advice. It certainly says that reading all the time won't rule out success, but it provides no guidance as to whether it is a necessary thing. The quote above leaves it ambiguous if he also knows of wise people who don't read all the time (we know from the real quote that he doesn't).
- 
- Sometimes you see a FortuneCookie idea evolving into Wisdom, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
- 
- quote
-  🔬 If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
+  🏗️🌎 If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
   Marc Andreessen
  
- Coming up with great pieces of Wisdom is hard. Like a good Proof of Work algorithm, Wisdom is hard to generate and easy to test. I know who Charlie Munger is, so I know he's probably met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't come up with any. I know who Jessica Livingston is and I know she's familiar with thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't think of any.
+ ***
  
- If you have great experience, I urge you to not put it out there in the form of FortuneCookie, but chew on it until you can form it into Wisdom. These are very valuable contributions to our common blockchain.
+ Coming up with StrongAdvice requires time.
  
-  My back of the envelope guess is that 99.9% of advice is written in FortuneCookie. FortuneCookie is valuable for changing your perspective. FortuneCookie is good for ideating. Nothing wrong with FortuneCookie.
+ Like a good Proof of Work algorithm, StrongAdvice is hard to generate but easy to test.
  
-  Mistakes happen when people treat FortuneCookie like Wisdom. Bad advice is a mistake on the reader's part, not the writers. Most "bad advice" has a famous person on one end, simply because they are constantly hounded for advice. Mostly they'll give out FortuneCookies, since new Wisdom takes time to compute.
+ I know Charlie Munger has met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't.
  
-  When you can quickly identify the difference between FortuneCookie and Wisdom, you're less likely to make the mistake of blindly betting on FortuneCookie. It's safe to use FortuneCookie for ideating but not for decision making. Wisdom you can bet on.
+ I know Jessica Livingston knows thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't.
+ 
+ ***
+ 
+ If you have a lot of experience, I urge you to chew on your WeakAdvice until you can form it into StrongAdvice.
+ 
+ StrongAdvice is perhaps the most valuable contribution to our common blockchain.
+ 
+ ***
+ 
+ My back of the envelope guess is that 99.9% of advice is written in WeakAdvice.
+ 
+ WeakAdvice is valuable for changing your perspective.
+ 
+ WeakAdvice is good for ideating.
+ 
+ Nothing wrong with WeakAdvice.
+ 
+ But it's worth a lot less than StrongAdvice.
+ 
+ ***
+ 
+ Mistakes happen when people treat WeakAdvice like StrongAdvice.
+ 
+ Bad advice is a mistake on the reader's part, not the writer's.
+ 
+ Most "bad advice" has a famous person on one end, simply because they are constantly hounded for advice.
+ 
+ Mostly they'll give out WeakAdvice, since new StrongAdvice take time to create.
+ 
+ ***
+ 
+ When you can quickly identify the difference between WeakAdvice and StrongAdvice, you're less likely to make the mistake of blindly betting on WeakAdvice.
+ 
+ It's safe to use WeakAdvice for ideating but not for decision making.
+ 
+ StrongAdvice you can bet on.
  
  ****
  
  # Notes
  
  ^hours There are a lot of programmers who have 10,000 hours of experience that I respect a lot and enjoy working with, but the ones I study the most are the ones who stuck with it (and also just lucky enough to live long lives).
-  style font-size: 80%;
  
  css .rightQuote{text-align: right; display: block; margin-top: 5px;}
+ 
+ openGraphImage advice.png
  
  footer.scroll
  
@@ -8957,11 +9124,11 @@
   https://case.edu/ech/articles/f/folsoms-mercantile-college Folsom's Mercantile College
   dateline
  
- Folsom's subjects included bookkeeping, banking, and "railroading".
+ Folsom's taught bookkeeping, banking, and railroading.
  
  Their motto was: "Integrity and Perseverance in Business ensure success".
  
- Guess who was then a young student there and presumably influenced by this motto?
+ Guess who went there?
  
  John D. Rockefeller.
   https://en.wikipedia.org/wiki/John_D._Rockefeller John D. Rockefeller

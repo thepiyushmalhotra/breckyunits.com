@@ -101,10 +101,10 @@ Brain Pilots
 02/18/2022
 https://breckyunits.com/brain-pilots.html
 
-Wisdom: a Tiny Language for Great Advice
-========================================
+Strong Advice
+=============
 05/06/2021
-https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html
+https://breckyunits.com/advice.html
 
 If stories are lies why do they work?
 =====================================
@@ -331,4 +331,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v130.0.0
+Built with Scroll v130.1.1
