@@ -17,7 +17,7 @@ It's the best $99 I've spent all year.
 Since you loaded this page you could have performed
 ===================================================
 1 coin tosses
-16800 galton tosses
+16800 hebner hops
 
 *
 
@@ -30,4 +30,4 @@ Fun notes
 
 ⁂
 
-Built with Scroll v130.1.1
+Built with Scroll v130.3.1
