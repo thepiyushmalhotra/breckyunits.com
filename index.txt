@@ -1,6 +1,16 @@
 Breck's Blog - All Posts
 ========================
 
+Make Something You Love
+=======================
+09/11/2024
+https://breckyunits.com/makeSomethingYouLove.html
+
+Flaws in Heaven
+===============
+09/11/2024
+https://breckyunits.com/flawsInHeaven.html
+
 The Galton Board
 ================
 09/07/2024
@@ -1141,4 +1151,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v130.3.1
+Built with Scroll v130.3.6
