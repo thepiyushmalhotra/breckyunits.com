@@ -1522,7 +1522,7 @@
  Becomes `countries=Canada=France&selection=France` (and vice versa).
  
  # How to use
- 
+ patch/patch.js
  1. Include patch.js or just copy/paste the code:
   link patch.js copy/paste the code
  
@@ -1852,7 +1852,8 @@
  
  
  
- 
+ d3.v6.min.js
+ abortBar.js
  
  Every time someone starts a long task, measure the duration and end result. Then you have the data to render a progress bar like the one above.
  
@@ -13815,20 +13816,31 @@
  title Don't talk about what you will do, talk about what you have done
  
  header.scroll
+ 
+ mediumColumns 1
  printTitle
  
- thinColumns 2
  
  All the time I overhear people saying things like "I will start exercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
   dateline
  
  The problem is that often, you say you will do something and you don't end up doing it. Saying "I will do", might even be a synonym for "I won't do".
  
- endSnippet
+ ***
  
  Why does this happen? I don't think it's because people are lazy. I think it's because we overestimate our ability to predict the future. We like to make specific predictions as opposed to predicting ranges.
  
- I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you _will do_ entirely, and only talk about things you _have done_. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
+ I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that.
+ 
+ ***
+ 
+ You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10".
+ 
+ Or, even easier: stop talking about things you _will do_ entirely, and only talk about things you _have done_.
+ 
+ So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
+ 
+ ***
  
  # Why we are bad at making predictions.
  
@@ -13888,24 +13900,54 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  If a book is worth reading, it's worth buying too.
   dateline
  
  If you're reading a book primarily to gain value from it(as opposed to reading it for pleasure) you should always buy it unless it's a bad book.
  
- endSnippet
+ ***
  
- The amount of value you can get from a book varies wildly. Most books are worthless. Some can change your life. For simplicity, let's say the value you can derive from any one book varies from 1 cent to $100,000(there are many, many more worthless books than there are of the really valuable kind).
+ The amount of value you can get from a book varies wildly.
+ 
+ Most books are worthless.
+ 
+ Some can change your life.
+ 
+ ***
+ 
+ For simplicity, let's say the value you can derive from any one book varies from 1 cent to $100,000(there are many, many more worthless books than there are of the really valuable kind).
  
  The _cost_ however, does not vary as much. Books rarely cost more than $100, and generally average to about $15.
  
+ ***
+ 
  You shouldn't read a book that you think will offer you less than $100 in value. Time could be better spent reading more important books.
  
- So let's assume you never read a book that gives you less than $100 in value. Thus, the cost of a physical copy of the book is at most 15% (using the $15 average price) of the value gained.
+ So let's assume you never read a book that gives you less than $100 in value. Thus, the cost of a physical copy of the book ***is at most 15% (using the $15 average price) of the value gained***.
  
- Would owning that book help you extract 15% more from it? It nearly always will. When you own a book, you can take it anywhere. You can mark it up. You can flip quickly through the pages. You can bookmark it. You can easily share it with a friend and then dicuss it. If these things don't help you get 15% more out of that book, I'd be very surprised.
+ ***
+ 
+ Would owning the book help you extract 15% more from it?
+ 
+ It nearly always will.
+ 
+ ***
+ 
+ When you own a book, you can take it anywhere.
+ 
+ You can mark it up.
+ 
+ You can flip quickly through the pages.
+ 
+ You can bookmark it.
+ 
+ You can easily share it with a friend and then dicuss it.
+ 
+ If these things don't help you get 15% more out of that book, I'd be very surprised.
+ 
+ ***
  
  Where it gets even more certain, is when you read a really valuable book--say a book offering $1,000 of value. Now you'd only need to get 1.5% more out of that book.
  
@@ -13932,29 +13974,36 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about.
   dateline
  
- endSnippet
+ ***
  
  I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
  
- Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
+ ***
+ 
+ A friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
  
  So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
  
  Ever since, my room has been at least 5x cleaner on average.
  
- quote
-  Almost always, there is one simple change you can make that will have drastic effects. This change is called the least you can do.
+ > Almost always, there is one simple change you can make that will have _drastic_ effects. This change is called *the least you can do*.
+ 
+ ***
  
  I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
  
- These are trivial examples, but the technique works on real problems as well.
+ ***
+ 
+ That's a trivial example, but the technique works on real problems as well.
  
  The key is to figure out what the "least you can do" is.
+ 
+ ***
  
  You can discover it by working harder or smarter:
  
@@ -13986,14 +14035,20 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Good communication is overcommunication. Very few people overcommmunicate. Undercommunication is much more common. Undercommunication is also the cause of countless problems in business.
   dateline
  
- Instead of striving for some subjective "good communication", simply strive to overcommunicate. It's very unlikely you'll hit a point where people say "he communicates too much". It's much more likely you'll come up a bit short, in which case you'll be left with good communication.
+ ***
  
- endSnippet
+ Instead of striving for some subjective "good communication", simply strive to overcommunicate.
+ 
+ It's very unlikely you'll hit a point where people say "he communicates too much".
+ 
+ It's much more likely you'll come up a bit short, in which case you'll be left with good communication.
+ 
+ ***
  
  Here are 4 tips that will bring you closer to overcommunicating:
  
@@ -14017,19 +14072,21 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Network effects are to entrepreneurs what compounding effects are to investors: a key to getting rich.
   dateline
  
  Sometimes a product becomes more valuable simply as more people use it. This means the product has a "network effect".
  
- endSnippet
+ ***
  
  You're probably familiar with two famous examples of network effects:
  
  - Windows. People started using Microsoft Windows. Therefore, developers started building more software for Windows. This made Windows more valuable, and more people started to use it.
  - Facebook. People joined Facebook and invited their friends. Their friends joined which made the site more valuable to everyone. People invited more friends.
+ 
+ ***
  
  All businesses have network effects to some degree. Every time you buy a slice of pizza, you are giving that business some feedback and some revenue which they can use to improve their business.
  
@@ -14052,7 +14109,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ thinColumns 1
  
  chat
   Is there any subject which cannot be explained simply?
@@ -14188,39 +14245,42 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  When a problem you are working on forces you to wait, do you wait or switch tasks?
   dateline
  
  For example, if you are uploading a bunch of new web pages and it's taking a minute, do you almost instinctively open a new website or instant message?
  
- endSnippet
- 
  I used to, and it made me less productive. I would try to squeeze more tasks into these short little idle periods, and as a result I would get less done.
  
- # Multitasking during idle times _seems_ smart
+ ***
  
+ # Multitasking during idle times _seems_ smart
  Doing other things during idle times _seems_ like it would increase productivity. After all, while you're waiting for something to load you're not getting anything done. So doing something else in the interim couldn't hurt, right? Wrong.
  
- # Switching tasks during idle times is bad, very bad
+ ***
  
+ # Switching tasks during idle times is bad, very bad
  While you're solving one problem, you likely are "holding that problem in your head". It takes a while to load that problem in your head. You can only hold one important problem in your head at a time. If you switch tasks, even for a brief moment, you're going to need to spend X minutes "reloading" that problem for what is often only a 30 second vacation to Gmail, Facebook, Gchat, Hackernews, Digg, etc. It's clearly a bad deal.
  
- # Don't multitask
+ ***
  
+ # Don't multitask
  If you're doing something worth doing, give it all of your attention until it's done. Don't work on anything else, even if you're given idle time.
  
- # Why you can't multitask well
+ ***
  
+ # Why you can't multitask well
  Human intelligence is overrated. Even the smartest people I know still occasionally misplace their keys or burn toast. We are good at following simple tasks when we focus, most of the time. But we are not built for multitasking.
  
  Can you rub your head clockwise? Can you rub your belly counterclockwise? Can you say your ABC's backwards?
  
  Dead simple, right? But can you do all three at once? If you can, by all means ignore my advice and go multitask.
  
- # Wait out those idle times
+ ***
  
+ # Wait out those idle times
  If what you are doing is easy or mundane, multitasking is permissible because loading a simple problem like "laundry" into your head does not take much time. But if what you are doing is _important and worth doing_, you are obligated to give it your full attention and to wait out those "idle times".
  
  If you switch tasks during your idle times, you're implying that the time to reload the problem is less than the time gained doing something else. In other words, you are implying what you are doing is not worth doing. If that's the case, why work on it at all?
@@ -14242,14 +14302,18 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
- Whether you're an entrepreneur, a venture capitalist, a casual investor or just a shopper looking for a deal, you should know how to buy low and sell high. Buying low and selling high is not easy. It's not easy because it requires too things humans are notoriously bad at: long term planning and emotional control. But if done over a long period of time, buying low and selling high is a surefire way to get rich.
+ Whether you're an entrepreneur, a venture capitalist, a casual investor or just a shopper looking for a deal, you should know how to buy low and sell high.
   dateline
+ 
+ Buying low and selling high is not easy.
+ 
+ It's not easy because it requires too things humans are notoriously bad at: long term planning and emotional control. But if done over a long period of time, buying low and selling high is a surefire way to get rich.
  
  Warren Buffett is perhaps the king of buying low and selling high. These tips are largely regurgitated from his speeches and biographies which I've been reading over the past two years.
  
- endSnippet
+ ***
  
  # Let the market serve you, not instruct you.
  Everything has both a price and a value. Price is what you pay for something, value is what you get. The two rarely match. Both can fluctuate wildly depending on a lot of things. For instance, the price of gas can double or triple in a year based on events in the Middle East, but the value of a gallon of gas to you largely remains constant.
@@ -14258,23 +14322,37 @@
  
  Google's price today is $187 Billion. But what's its value? _The average investor assumes the two are highly correlated_. Assume the correlation is closer to 0. Make a guess about the true value of something. You may be way off the mark in you value estimating abilities, but honing that skill is imperative.
  
+ ***
+ 
  # Be frugal.
  You've got to be in a position to take advantage of the market, and if you spend your cash on unnecessary things, you won't be. Buy food in bulk at Costco. Cut your cell phone bill or cancel it altogether. Trim the fat wherever you can. You'd be surprised how little you can live off of and be happy. Read P.T. Barnum's "The Art of Moneygetting" for some good perspective on how being frugal has been a key to success for a long time.
+ 
+ ***
  
  # Always be able to say "no".
  The crazy market will constantly offer you "buy high, sell low" deals. You've got to be able to turn these down. If you don't have good cash flow or a cash cushion, it's very hard. That's why being frugal is so important.
  
+ ***
+ 
  # Be Happy
  If you're happy with what you have now it's easy to make good deals over the long run. Buying low and selling high requires long term emotional control. If you're unhappy or stressed, it's very hard to make clear headed decisions. Do what you have to do to get happy.
+ 
+ ***
  
  # Make the Easy Deals
  Out of the tens of thousands of potential deals you can make every month, which ones should you act on? The easy ones. Don't do deals in areas that you don't understand. Do deals where you know the area well. I wouldn't do a deal in commodities, but I'd certainly be willing to invest in early stage tech startups.
  
+ ***
+ 
  # Margin of Safety
  The easy deals have a wide margin of safety. An easy deal has a lot of upside. An easy deal with a wide margin of safety has little to no downside. Say a company has assets you determine are worth $1 Million and for some reason the company is selling for $950,000. Even if the company didn't grow, it has a good margin of safety because the price of its assets alone are worth more than the price you paid.
  
+ ***
+ 
  # Read a lot
  How do you find these easy deals? You've got to read a lot. You've got to keep your eyes open. Absorb and think mathematically about a lot of information you encounter in everyday life.
+ 
+ ***
  
  # Buy a business
  Businesses can be the ultimate thing to buy low and sell high because they have nearly unlimited upside. Real estate, gold, commodities, etc., can be good investments perhaps. But when's the last time you heard of someone's house going up 10,000%? Starting a business can be your best investment ever, as you are guaranteed to buy _extremely low_, and have the potential to sell _extremely high_.
@@ -14352,7 +14430,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  At our startup, we've practiced a diversification strategy.
   dateline
@@ -14376,6 +14454,7 @@
  5. What is the predicted customer acquisition cost? $
  6. What is the predicted average lifetime value per customer? $
  7. Which of the 7 deadly sins does the product appeal to?  Lust  Greed  Sloth  Gluttony  Pride  Envy  Wrath
+  // yikes? why do we have this in here? there's gotta be a different way to phrase this. this seems misguided.
  8. What's the go to market strategy in one sentence? 
  9. What resources do you need to do this? 
  10. What's the total addressable market size?  people $
@@ -14391,7 +14470,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
   // 2024 Update Update. I wish I explained why I thought it was weak in the above 2021 update. I agree it could have been better written, but I think a lot of this is directionally correct.
@@ -14401,8 +14480,7 @@
  
  In brief, my advice is:
  
- quote
-  Diversify heavily early. Then focus.
+ > Diversify heavily early. Then focus.
  
  endSnippet
  
@@ -14426,8 +14504,7 @@
  
  If diversifying has so many benefits, should you ever stop? Yes, you should.
  
- quote
-  Focus when you are ready to make money.
+ > Focus when you are ready to make money.
  
  Coming up with new ideas and building new, simple products is the easy part of startups. Unfortunately, developing new solutions is _not_ what creates a lot of value for other people. Bringing your solution to other people is when most value is created--and exchanged.
  
@@ -14538,7 +14615,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Programming, ultimately, is about solving problems. Often I make the mistake of judging a programmer's work by the elegance of the code. Although the solution is important, what's even more important is the problem being solved.
   dateline
@@ -14577,14 +14654,13 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
   dateline
   http://venturehacks.com/articles/sean-ellis-interview product-market fit advice
  
- quote
-  Make something 40% of your users must have
+ > Make something 40% of your users must have
  
  endSnippet
  
@@ -14681,7 +14757,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
   dateline
@@ -14805,7 +14881,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
   dateline
@@ -14856,7 +14932,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Employees and students receive deadlines, due dates, goals, guidelines, instructions and milestones from their bosses and teachers. I call these "arbitrary constraints".
   dateline
@@ -14905,7 +14981,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  A lot of people have the idea that maybe one day they'll become rich and famous and then write a book about it. That's probably because it seems like the first thing people do after becoming rich and famous is write a book about it.
   dateline
@@ -15075,7 +15151,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Imagine you are eating dinner with 9 friends and you all agree to play Credit Card Roulette. Credit Card Roulette is a game where everyone puts their credit card in a pile and the server randomly chooses one and charges the whole meal to it.
   dateline
@@ -15212,7 +15288,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
   dateline
@@ -15257,7 +15333,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  What books have changed your life? Seriously, pause for a few minutes and think about the question. I'll share my list in a moment, but first come up with yours.
   dateline
@@ -15531,7 +15607,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  I’m reading a fascinating biography of Warren Buffett right now(Snowball).
   dateline
@@ -15604,14 +15680,14 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  I just want to share the most valuable piece of Internet startup advice I possess.
   dateline
  
  The startup advice out there is filled with pyschology mumbo jumbo, but ALL THAT REALLY MATTERS IS THE NUMBERS.
  
- endSnippet
+ ***
  
  - How many pageviews/users/sales/conversions do you have?
  - Are you growing, shrinking, or stagnate?
@@ -15619,9 +15695,13 @@
  
  From day one, you should be following the numbers. This means you have to put up a website in week one. Without a product out in the marketplace, you can’t get numbers. All that matters is the numbers. Without them, you’ve got nothing.
  
+ ***
+ 
  You _absolutely cannot force_ an Internet startup to success. The market dictates your success plain and simple. You have a great idea and great team but the numbers haven’t picked up yet? Sorry, the market said no. Time to move on.
  
  You have to listen to the market, and the market speaks with numbers, not words(ignore praise from family and friends and early users, numbers are the only praise that matter in the startup world). That’s really the only thing you should pay attention to.
+ 
+ ***
  
  A month into my startup last year, SeeMeWin, one of the co-founders said to me and the other partner:
  
@@ -15634,6 +15714,8 @@
  Me: (Proceed to ignore the importance of this simple statement and pursue the idea for 5 more months, believing that because we had a good team and we thought the idea was good we could succeed, which was too bad because from month 1 the market was giving us PRICELESS advice–we should have been working on a different idea)
  
  Every other mistake was irrelevant because the only thing that matters is the numbers.
+ 
+ ***
  
  From month one, you have to be tracking the numbers.  Do not pour effort into anything unless the numbers have shown it to be worthwhile. If you’re not tracking the numbers yet, then you’re not really trying. If you are tracking the numbers and they don’t look good, don’t put a whole lot of effort into it until you get permission from the market–improved numbers.
  
@@ -15676,7 +15758,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  This evening JustHackIt.com launched. Before you co-found a company, you need to find good co-founders. The best way to do that is to just work on projects with people. The idea for JustHackIt is to connect hackers in one place and encourage them to just start projects together, without even knowing the person. Hopefully you’ll find some people who are smart, talented, and will make a great co-founder in the future.
   dateline
@@ -15708,7 +15790,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  On August 31, 1854, a Londoner living on Broad Street fell ill with cholera and died. In three days, 127 other Londoners would also contract and die of cholera. By September 10th, over 500 people had died and panic was setting in on the London streets. Doctors studied the dead but could not solve the epidemic.
   dateline
@@ -15745,7 +15827,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  The hiccups have been cured. Want to know what the secret is?
   dateline
@@ -15779,7 +15861,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  Decided to try out one of these book social networks to see if I can find some important books I should be reading. The idea is you enter the books you’ve read and rate them, as well as the books you want to read. Then the site will show you people who like similar books and you can hopefully stumble upon some books that they’ve read that you will like.
   dateline
@@ -15936,7 +16018,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  The other day I wrote a post on How much Gas Americans use per day. The answer is 400 Million Gallons. A reader wanted to know how much gas the whole world consumes in a day. The answer is about 83 millon bbl’s. One bbl = 42 gallons, so the world consumes about 3.5 billion gallons of gas per day. That means the United States consumes 11% of the total gas consumed per day.
   dateline
@@ -15968,8 +16050,9 @@
  title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
  
  header.scroll
+ mediumColumns 1
  printTitle
- thinColumns 2
+ 
  
  xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
   dateline
