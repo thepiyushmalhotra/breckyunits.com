@@ -16,8 +16,8 @@ The Omni Restaurant
 05/23/2024
 https://breckyunits.com/omniRestaurant.html
 
-Digital Copyright and AIs
-=========================
+The law favors ChatGPT over humans
+==================================
 05/14/2024
 https://breckyunits.com/digitalCopyright.html
 
@@ -91,4 +91,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0

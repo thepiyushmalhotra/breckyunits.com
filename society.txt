@@ -66,8 +66,8 @@ The Omni Restaurant
 05/23/2024
 https://breckyunits.com/omniRestaurant.html
 
-Digital Copyright and AIs
-=========================
+The law favors ChatGPT over humans
+==================================
 05/14/2024
 https://breckyunits.com/digitalCopyright.html
 
@@ -236,4 +236,4 @@ Daily Gas Use for the United States and the World
 05/14/2008
 https://breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.html
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0
