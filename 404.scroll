@@ -3,9 +3,9 @@ title Page not found
 
 settings.scroll
 metaTags
-gazetteTag.scroll
+theme gazette
 homeButton
- link /index.html
+ /index.html
 viewSourceButton
 
 printTitle

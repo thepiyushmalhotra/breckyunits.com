@@ -11,7 +11,6 @@ HTML | TXT
 Are some intellectual environments better than others? Yes.
 
 \text{E} = \text{T} / \text{A}!
-
 EvolutionTime(I) = Time(I') / AssemblyPool!
 
 ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
@@ -38,6 +37,7 @@ This equation explains the triumph of open source and public domain software.
 
 Notes
 =====
+- An implication of this equation: copyrights, patents, licenses and NDAs *retard evolution*. Thus, people that use these things are accurately called *retarded*. They evolve slower and will go extinct.
 - After feedback from Szymon Łukaszyk it became clear to me the more precise formula is:
  https://x.com/breckyunits/status/1814323549416652860 After feedback from Szymon Łukaszyk
 
@@ -60,4 +60,4 @@ Luckily $A^A$ is still in the factorial class so the memorable acronym still app
  https://warpcast.com/liucobe/0x5e0c3936 pointing out
 - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
 
-Built with Scroll v134.1.0
+Built with Scroll v136.8.0
