@@ -4,7 +4,7 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Fri, 04 Oct 2024 21:26:02 +0000</lastBuildDate>
+ <lastBuildDate>Tue, 08 Oct 2024 11:33:57 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>Microprogramming: A New Way to Program</title>
@@ -622,7 +622,7 @@
   <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>Counting Complexity</title>
+  <title>PAC: Particles Are Complexity</title>
   <link>https://breckyunits.com/countingComplexity.html</link>
   <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
  </item>
