@@ -1,4 +1,6 @@
 title Search Breck's Blog
+linkTitle Search
+tags categoryPages
 
 header.scroll
 
@@ -6,7 +8,8 @@ printTitle
 categoryLinks.scroll
 
 wideColumns 2
-printSearchTable All
+posts All
+ printTable
 tableSearch
 
 footer.scroll

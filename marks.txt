@@ -1,7 +1,7 @@
 Marks
 =====
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 [Image Omitted]
 
@@ -65,9 +65,13 @@ Even binary depends on marks.
 
 Binary delivers precision:
 
+```
 00000100
+```
 
+```
 00001011
+```
 
 *
 
@@ -77,4 +81,4 @@ But for meaning, it takes marks.
 
 ⁂
 
-Built with Scroll v143.0.0
+Built with Scroll v153.1.0

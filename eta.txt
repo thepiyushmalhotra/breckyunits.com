@@ -1,7 +1,7 @@
 ETA!: A Measure of Evolution
 ============================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 July 18, 2024
 
 HTML | TXT
@@ -60,4 +60,4 @@ Luckily $A^A$ is still in the factorial class so the memorable acronym still app
  https://warpcast.com/liucobe/0x5e0c3936 pointing out
 - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
 
-Built with Scroll v143.0.0
+Built with Scroll v153.1.0

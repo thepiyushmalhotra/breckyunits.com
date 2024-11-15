@@ -1,7 +1,7 @@
 Ketones vs Lithium
 ==================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 [Image Omitted]
  Pricking my finger then measuring the level of ketones in my blood.
@@ -403,4 +403,4 @@ Notes
 
 Thanks to RGM for feedback on this post.
 
-Built with Scroll v143.0.0
+Built with Scroll v153.1.0

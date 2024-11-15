@@ -7,7 +7,7 @@ Kathmandu and ATP
 ==============================================================================================================================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 Just as I sat down for my first meal in Nepal, the power went out.
 
@@ -189,6 +189,21 @@ Maybe workers can fix the bipolar energy clock too.
 
 Related Posts
 =============
+A New Scientific Model of Mania and Depression, with Testable Predictions
+=========================================================================
+11/07/2024
+https://breckyunits.com/bipolarModel.html
+
+The Liver Turns On and Off
+==========================
+09/19/2024
+https://breckyunits.com/liver.html
+
+The Journey of the Ketones
+==========================
+08/14/2024
+https://breckyunits.com/ketoneMap.html
+
 Ketones vs Lithium
 ==================
 04/16/2024
@@ -279,4 +294,4 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
-Built with Scroll v143.0.0
+Built with Scroll v153.1.0

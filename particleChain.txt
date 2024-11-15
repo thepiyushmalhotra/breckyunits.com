@@ -5,7 +5,7 @@ Trust, _and understand_.
 ========================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 September 1, 2024
 
 HTML | TXT
@@ -62,4 +62,4 @@ Notes
 Livestream creation of this post
  https://www.youtube.com/watch?v=s8vQuCGCYPM Livestream creation of this post
 
-Built with Scroll v143.0.0
+Built with Scroll v153.1.0
