@@ -4,8 +4,18 @@
  <title>Source</title>
  <link>https://breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Tue, 04 Mar 2025 01:02:28 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 06 Mar 2025 01:02:27 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Topological Sorting</title>
+<link>https://breckyunits.com/tsort.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Scales</title>
+<link>https://breckyunits.com/scales.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
  <item>
 <title>Thinking in Parsers</title>
 <link>https://breckyunits.com/thinkingInParsers.html</link>
