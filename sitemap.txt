@@ -15,9 +15,9 @@ https://breckyunits.com/society.html
 https://breckyunits.com/short.html
 https://breckyunits.com/search.html
 https://breckyunits.com/scrollPapers.html
-https://breckyunits.com/programming.html
 https://breckyunits.com/portfolio.html
 https://breckyunits.com/posts.html
+https://breckyunits.com/programming.html
 https://breckyunits.com/pcri.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/parserStats.html
@@ -312,3 +312,4 @@ https://breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.html
 https://breckyunits.com/learning-how-to-program-part-i.html
 https://breckyunits.com/i-guess-the-time-had-come.html
 https://breckyunits.com/why-the-future-doesnt-need-us.html
+https://breckyunits.com/asWeMayThink.html
