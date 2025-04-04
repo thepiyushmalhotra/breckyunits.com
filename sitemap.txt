@@ -16,9 +16,9 @@ https://breckyunits.com/short.html
 https://breckyunits.com/settings.html
 https://breckyunits.com/search.html
 https://breckyunits.com/scrollPapers.html
-https://breckyunits.com/posts.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/portfolio.html
+https://breckyunits.com/posts.html
 https://breckyunits.com/pcri.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/parserStats.html
@@ -38,6 +38,7 @@ https://breckyunits.com/emailBanner.html
 https://breckyunits.com/data.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
+https://breckyunits.com/science.html
 https://breckyunits.com/nanoideas.html
 https://breckyunits.com/copyrightIsDishonest.html
 https://breckyunits.com/dirtySecret.html
