@@ -4,8 +4,13 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Wed, 23 Apr 2025 01:02:24 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 24 Apr 2025 01:02:25 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>How to get rid of advertising</title>
+<link>https://breckyunits.com/ads.html</link>
+<pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>The Internal Comparison Trap</title>
 <link>https://breckyunits.com/improvement.html</link>
@@ -42,7 +47,7 @@
 <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
 </item>
  <item>
-<title>A funny thing about the original Microsoft Source Code</title>
+<title>You Steal Your Software</title>
 <link>https://breckyunits.com/basic.html</link>
 <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
 </item>

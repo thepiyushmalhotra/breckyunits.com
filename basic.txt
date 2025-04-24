@@ -1,10 +1,10 @@
-A funny thing about the original Microsoft Source Code
-======================================================
+You Steal Your Software
+=======================
 
 April 10, 2025
 
-In 1976, Bill Gates accused computer users of "stealing" software.
- https://en.wikipedia.org/wiki/An_Open_Letter_to_Hobbyists accused
+In 1976, Bill Gates wrote an angry letter to computer users saying "most of you steal your software".
+ https://en.wikipedia.org/wiki/An_Open_Letter_to_Hobbyists an angry letter
 
 *
 
@@ -27,4 +27,6 @@ The 157 pages of source code contain zero mentions of Kemeny, Kurtz or Dartmouth
 Related posts
  https://breckyunits.com/freedom.html Related posts
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0
