@@ -1,8 +1,8 @@
 https://breckyunits.com/wws.html
 https://breckyunits.com/writing.html
 https://breckyunits.com/wisdom-a-tiny-language-for-great-advice.html
-https://breckyunits.com/when-woman-is-boss.html
 https://breckyunits.com/webRing.html
+https://breckyunits.com/when-woman-is-boss.html
 https://breckyunits.com/updated.html
 https://breckyunits.com/treeNotation.html
 https://breckyunits.com/thinking.html
@@ -17,9 +17,9 @@ https://breckyunits.com/settings.html
 https://breckyunits.com/search.html
 https://breckyunits.com/scrollPapers.html
 https://breckyunits.com/sciencePage.html
+https://breckyunits.com/posts.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/portfolio.html
-https://breckyunits.com/posts.html
 https://breckyunits.com/pcri.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/parserStats.html
@@ -27,8 +27,8 @@ https://breckyunits.com/parserUsage.html
 https://breckyunits.com/mitochondria.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
 https://breckyunits.com/life.html
-https://breckyunits.com/ifa.html
 https://breckyunits.com/index.html
+https://breckyunits.com/ifa.html
 https://breckyunits.com/heatmap.html
 https://breckyunits.com/gazetteTag.html
 https://breckyunits.com/freedom.html
@@ -40,6 +40,7 @@ https://breckyunits.com/emailBanner.html
 https://breckyunits.com/data.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
+https://breckyunits.com/digi.html
 https://breckyunits.com/knowledge.html
 https://breckyunits.com/ads.html
 https://breckyunits.com/improvement.html

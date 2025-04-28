@@ -192,11 +192,11 @@ Dataset Needed
 01/23/2020
 https://breckyunits.com/dataset-needed.html
 
-Dreaming of a Data Checked Language
-===================================
+Dreaming of a Logic Checked Language
+====================================
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.2.0
+Built with Scroll v178.2.1

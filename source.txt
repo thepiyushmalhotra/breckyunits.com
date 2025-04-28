@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Sat, 26 Apr 2025 01:02:26 +0000</lastBuildDate>
+ <lastBuildDate>Mon, 28 Apr 2025 19:02:26 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Deceptive Intelligence verse Genuine Intelligence</title>
+<link>https://breckyunits.com/digi.html</link>
+<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>Knowledge</title>
 <link>https://breckyunits.com/knowledge.html</link>
@@ -752,7 +757,7 @@
 <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
 </item>
  <item>
-<title>Dreaming of a Data Checked Language</title>
+<title>Dreaming of a Logic Checked Language</title>
 <link>https://breckyunits.com/dreaming-of-a-data-checked-language.html</link>
 <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
 </item>
